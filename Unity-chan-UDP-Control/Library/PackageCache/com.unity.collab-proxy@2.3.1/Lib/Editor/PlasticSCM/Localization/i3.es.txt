@@ -1,0 +1,80 @@
+== FontPreviewSampleTest ==
+El veloz murcielago hindu comia feliz cardillo y kiwi
+
+== FontPreviewLabelFont ==
+Fuente: {0}
+
+== StrikeoutFontNotSupportedMessage ==
+La fuente {0} no soporta el estilo tachado, utilizado por la aplicacion. Por favor, seleccione otra fuente.
+
+== StrikeoutFontNotSupportedCaption ==
+Fuente no valida
+
+== CloseTab ==
+Cerrar pestana
+
+== CloseAllTabs ==
+Cerrar todas las pestanas
+
+== CloseAllTabsButThis ==
+Cerrar las demas pestanas
+
+== CloseTabsToTheRight ==
+Cerrar todas las pestanas a la derecha
+
+== CopyTitle ==
+Copiar titulo
+
+== ListOpenedTabs ==
+Listar pestanas abiertas
+
+== Abort ==
+Abortar
+
+== Retry ==
+Reintentar
+
+== Ignore ==
+Ignorar
+
+== Ok ==
+Aceptar
+
+== Cancel ==
+Cancelar
+
+== Yes ==
+Si
+
+== No ==
+No
+
+== Change ==
+Cambiar...
+
+== AbortAmp ==
+&Abortar
+
+== RetryAmp ==
+&Reintentar
+
+== IgnoreAmp ==
+&Ignorar
+
+== OkAmp ==
+&Aceptar
+
+== CancelAmp ==
+&Cancelar
+
+== YesAmp ==
+&Si
+
+== NoAmp ==
+&No
+
+== On ==
+Activo
+
+== Off ==
+No activo

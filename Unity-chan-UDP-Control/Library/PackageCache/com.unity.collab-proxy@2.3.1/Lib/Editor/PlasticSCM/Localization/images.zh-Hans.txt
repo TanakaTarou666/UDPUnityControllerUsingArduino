@@ -1,0 +1,77 @@
+== FsPropertiesName ==
+–¼Ì
+
+== FsPropertiesFullPath ==
+˜HŒa
+
+== FsPropertiesAttributes ==
+‘®«
+
+== FsPropertiesSize ==
+‘å¬
+
+== FsPropertiesDirectory ==
+–Ú?
+
+== FsPropertiesCreated ==
+?Œš??
+
+== FsPropertiesModified ==
+C‰ü??
+
+== FsPropertiesLastAccess ==
+ãŸ????
+
+== FsPropertiesFileAttributes ==
+•¶Œ‘®«
+
+== PreviewRequestError ==
+‰Á????o?F
+
+== ZoomInTooltip ==
+•ú‘å
+
+== ZoomOutTooltip ==
+?¬
+
+== ZoomOriginalSizeTooltip ==
+1:1
+
+== ZoomToFitTooltip ==
+?•ú“‡?‘å¬
+
+== ImageDiffOnionSkinMode ==
+—m”K”ç
+
+== ImageDiffSideBySideMode ==
+›ó”r
+
+== ImageDiffDifferencesMode ==
+·?
+
+== ImageDiffSwipeMode ==
+??
+
+== ImageDiffShowProperties ==
+?¦‘®«
+
+== ImageDiffHideProperties ==
+?åU‘®«
+
+== ImageDiffModeTooltip ==
+İ·?”ä?–Í®”V?Ø?
+
+== ImageDiffPropertiesTooltip ==
+·?”ä?‘®«
+
+== LoadingImages ==
+³İ‰Á??‘œ...
+
+== CalculatingImageDifferences ==
+³İ?Z?‘œ·?...
+
+== ImageDiffWindowTitle ==
+{0} - ?‘œH‹ï
+
+== CannotLoadImage ==
+Ù–@‰Á??‘œF'{0}'B•¶ŒŠi®–¢’mCÙ??æ•¶ŒCˆ½Ò•¶Œ?š­B

@@ -1,0 +1,1807 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-06-19 12:56+0900\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: po-conv\n"
+
+#: Editor/Animation/BindingTreeViewDataSource.cs:1
+msgid " (Default Value)"
+msgstr " (チE��ォルト値)"
+
+#: Editor/Manipulators/Sequence/EaseClip.cs:1
+msgid " Duration {0:0.00;-0.00} frames "
+msgstr "　期間 {0:0.00;-0.00} フレーム "
+
+#: Editor/Manipulators/Sequence/EaseClip.cs:1
+msgid " Duration {0:0.00;-0.00} s "
+msgstr " 期間 {0:0.00;-0.00} s "
+
+#: Editor/Manipulators/Sequence/EaseClip.cs:1
+msgid "({0:+0.00;-0.00} frames)"
+msgstr "({0:+0.00;-0.00} フレーム)"
+
+#: Editor/Manipulators/Sequence/EaseClip.cs:1
+msgid "({0:+0.00;-0.00} s)"
+msgstr "({0:+0.00;-0.00} s)"
+
+#: Editor/Utilities/DisplayNameHelper.cs:1
+msgid "<No Asset>"
+msgstr "<アセチE��なぁE"
+
+#: Editor/Playables/ControlPlayableInspector.cs:1
+msgid "A prefab to instantiate as a child object of the source game object"
+msgstr "ソースゲームオブジェクト�E子オブジェクトとして生�Eされる�Eレハブ"
+
+#: Editor/Playables/ControlPlayableInspector.cs:1
+msgid "A random seed to provide the particle systems for consistent previews. This will only be used on particle systems where AutoRandomSeed is on."
+msgstr "再現性のあるプレビューのためのパ�EチE��クルシスチE��用のランダムシード、EutoRandomSeedがオンになってぁE��パ�EチE��クルシスチE��にのみ使用されます、E
+
+#: [DisplayName]./Runtime/Activation/ActivationPlayableAsset.cs:1
+msgid "Activation Clip"
+msgstr "アクチE��ベ�EションクリチE�E"
+
+#: Editor/Activation/ActivationTrackEditor.cs:1
+msgid "Active"
+msgstr "アクチE��チE
+
+#: Editor/treeview/TimelineDragging.cs:1
+msgid "Add Clip With {0}"
+msgstr "{0}でクリチE�Eを追加"
+
+#: Editor/Actions/Menus/TimelineContextMenu.cs:1
+msgid "Add From {1}"
+msgstr "{1}から追加"
+
+#: Editor/Recording/AnimationTrackRecorder.cs:1
+msgid "Add Key"
+msgstr "キー追加"
+
+#: Editor/Actions/Menus/TimelineContextMenu.cs:1
+msgid "Add Layer"
+msgstr "レイヤーを追加"
+
+#: [MenuEntry]./Editor/Animation/AnimationTrackActions.cs:1
+msgid "Add Override Track"
+msgstr "オーバ�EライドトラチE��を追加"
+
+#: Editor/Signals/Styles.cs:1
+msgid "Add Reaction"
+msgstr "リアクションを追加"
+
+#: Editor/Signals/Styles.cs:1
+msgid "Add Signal Receiver"
+msgstr "シグナルレシーバ�Eを追加"
+
+#: Editor/Signals/Styles.cs:1
+msgid "Add Signal Receiver Reaction"
+msgstr "シグナルレシーバ�E反応を追加"
+
+#: Editor/DirectorStyles.cs:1
+msgid "Add new tracks."
+msgstr "新しいトラチE��の作�E"
+
+#: Editor/treeview/TimelineDragging.cs:1
+msgid "Add {0}"
+msgstr "{0}を追加"
+
+#: Editor/Actions/Menus/TimelineContextMenu.cs:1
+msgid "Add {0} From {1}"
+msgstr "{1}から{0}を追加"
+
+#: Editor/Playables/ControlPlayableInspector.cs:1
+msgid "Advanced"
+msgstr "上級老E��ぁE
+
+#: Editor/inspectors/TimelinePreferences.cs:1
+msgid "Allow Audio Scrubbing"
+msgstr "オーチE��オスクラブ許可"
+
+#: Editor/inspectors/TimelinePreferences.cs:1
+msgid "Allow the users to hear audio while scrubbing on audio clip."
+msgstr "スクラブ中もオーチE��オクリチE�Eの音が聞こえるよぁE��する、E
+
+#: Editor/inspectors/AnimationPlayableAssetInspector.cs:1
+msgid "Anim Clip Property"
+msgstr "アニメーションクリチE�Eプロパティ"
+
+#: Editor/Animation/CurveDataSource.cs:1
+msgid "Animated Values"
+msgstr "アニメーションで更新された値"
+
+#: Editor/inspectors/AnimationPlayableAssetInspector.cs:1
+msgid "Animation Clip"
+msgstr "アニメーションクリチE�E"
+
+#: Editor/inspectors/AnimationPlayableAssetInspector.cs:1
+msgid "Animation Clip Name"
+msgstr "アニメーションクリチE�E吁E
+
+#: Editor/inspectors/ClipInspector/ClipInspector.cs:1
+msgid "Animation Extrapolation"
+msgstr "アニメーション外挿"
+
+#: Editor/inspectors/AnimationTrackInspector.cs:1
+msgid "Apply Avatar Mask Property"
+msgstr "アバターマスクプロパティに適用"
+
+#: Editor/inspectors/AnimationPlayableAssetInspector.cs:1
+msgid "Apply Foot IK"
+msgstr "脚部IKに適用"
+
+#: Editor/inspectors/AnimationTrackInspector.cs:1
+msgid "Applying an Avatar Mask to the base track may not properly mask Root Motion or Humanoid bones from an Animator Controller or other Timeline track."
+msgstr "アバターマスクを�EーストラチE��に適用すると、アニメーターコントローラめE���EタイムライントラチE��からルートモーションめE��ューマノイド�Eーンを適刁E��マスクできなぁE��合があります、E
+
+#: [MenuItem]./Editor/Signals/SignalAssetInspector.cs:1
+msgid "Assets"
+msgstr "アセチE��"
+
+#: [DisplayName]./Runtime/Audio/AudioPlayableAsset.cs:1
+msgid "Audio Clip"
+msgstr "オーチE��オクリチE�E"
+
+#: Editor/Audio/AudioClipPropertiesDrawer.cs:1
+msgid "AudioSource: {0}"
+msgstr "オーチE��オソース: {0}"
+
+#: Editor/Audio/AudioTrackInspector.cs:1
+msgid "AudioSource: {2}"
+msgstr "オーチE��オソース: {2}"
+
+#: Editor/inspectors/AnimationTrackInspector.cs:1
+msgid "Auto will apply scene offsets if there is a controller attached to the animator and transform offsets otherwise."
+msgstr "自動�EアニメーターにアタチE��されたコントローラがある場合にはシーンオフセチE��を適用し、そぁE��なければトランスフォームのオフセチE��になります、E
+
+#: Editor/inspectors/AnimationTrackInspector.cs:1
+msgid "Avatar Mask Property"
+msgstr "アバターマスクプロパティ"
+
+#: Editor/TimelineHelpers.cs:1
+msgid "Bind Track"
+msgstr "バインドトラチE��"
+
+#: Editor/inspectors/ClipInspector/ClipInspector.cs:1
+msgid "Blend Curves"
+msgstr "ブレンド曲緁E
+
+#: Editor/inspectors/ClipInspector/ClipInspector.cs:1
+msgid "Blend In Curve"
+msgstr "イン曲線でブレンチE
+
+#: Editor/inspectors/ClipInspector/ClipInspector.cs:1
+msgid "Blend In Duration"
+msgstr "ブレンドイン期間"
+
+#: Editor/inspectors/ClipInspector/ClipInspector.cs:1
+msgid "Blend Out Curve"
+msgstr "アウト曲線でブレンチE
+
+#: Editor/inspectors/ClipInspector/ClipInspector.cs:1
+msgid "Blend Out Duration"
+msgstr "ブレンドアウト期閁E
+
+#: Editor/Audio/AudioClipPropertiesDrawer.cs:1
+msgid "Calculated from:\n"
+msgstr "計算�E:\n"
+
+#: Editor/treeview/TimelineDragging.cs:1
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: Editor/Utilities/StyleManager.cs:1
+msgid "Cannot find style {0} for {1}"
+msgstr "{1}用のスタイル{0}が見つかりません"
+
+#: Editor/Window/TimelineWindow_Duration.cs:1
+msgid "Change Duration"
+msgstr "期間変更"
+
+#: Editor/inspectors/ClipInspector/ClipInspector.cs:1
+msgid "Clip In"
+msgstr "クリチE�Eイン"
+
+#: Editor/Animation/CurveDataSource.cs:1
+msgid "Clip Properties"
+msgstr "クリチE�Eのプロパティ"
+
+#: Editor/inspectors/ClipInspector/ClipInspector.cs:1
+msgid "Clip Timing"
+msgstr "クリチE�Eタイミング"
+
+#: Editor/inspectors/AnimationPlayableAssetInspector.cs:1
+msgid "Clip Transform Offsets"
+msgstr "クリチE�EトランスフォームオフセチE��"
+
+#: Editor/Audio/AudioClipPropertiesDrawer.cs:1
+msgid "Clip: {1}\n"
+msgstr "クリチE�E: {1}\n"
+
+#: Editor/treeview/TrackGui/TimelineTrackGUI.cs:1
+#, fuzzy
+msgid "Collapse Track Markers"
+msgstr "トラチE��マ�Eカーの展開/折りたたみ"
+
+#: Editor/Playables/ControlPlayableInspector.cs:1
+msgid "Control Activation"
+msgstr "コントロールアクチE��ベ�Eション"
+
+#: Editor/Playables/ControlPlayableInspector.cs:1
+msgid "Control Children"
+msgstr "子�E制御"
+
+#: Editor/Playables/ControlPlayableInspector.cs:1
+msgid "Control ITimeControl"
+msgstr "ITimeControlの制御"
+
+#: Editor/Playables/ControlPlayableInspector.cs:1
+msgid "Control Particle Systems"
+msgstr "パ�EチE��クルシスチE��制御"
+
+#: Editor/Playables/ControlPlayableInspector.cs:1
+msgid "Control Playable Directors"
+msgstr "プレイアブルチE��レクターの制御"
+
+#: Editor/Extensions/AnimationTrackExtensions.cs:1
+msgid "Convert From Clip"
+msgstr "クリチE�Eから変換"
+
+#: Editor/Extensions/AnimationTrackExtensions.cs:1
+msgid "Convert To Clip"
+msgstr "クリチE�Eに変換"
+
+#: [MenuEntry]./Editor/Animation/AnimationTrackActions.cs:1
+msgid "Convert To Clip Track"
+msgstr "クリチE�EトラチE��へ変換"
+
+#: [MenuEntry]./Editor/Animation/AnimationTrackActions.cs:1
+msgid "Convert To Infinite Clip"
+msgstr "無限クリチE�Eへ変換"
+
+#: [MenuEntry]./Editor/Actions/TimelineActions.cs:1
+msgid "Copy"
+msgstr "コピ�E"
+
+#: Editor/CustomEditors/TrackEditor.cs:1
+msgid "Could not find appropriate component on this gameObject"
+msgstr "こ�Eゲームオブジェクトに適刁E��コンポ�Eネントがありません"
+
+#: [MenuItem]./Editor/Signals/SignalAssetInspector.cs:1
+msgid "Create"
+msgstr "作�E"
+
+#: Editor/TimelineHelpers.cs:1
+msgid "Create Clip"
+msgstr "クリチE�E作�E"
+
+#: Editor/Signals/Styles.cs:1
+msgid "Create New Signal Asset"
+msgstr "新しいシグナルアセチE��を作�Eする"
+
+#: Editor/Signals/Styles.cs:1
+msgid "Create Signal Key"
+msgstr "シグナルキーを追加"
+
+#: Editor/Signals/Styles.cs:1
+msgid "Create Signal..."
+msgstr "シグナルを作�E..."
+
+#: Editor/DirectorStyles.cs:1
+msgid "Create a new Timeline and Director Component for Game Object"
+msgstr "タイムラインとゲームオブジェクト用のチE��レクターコンポ�Eネントを作�EしまぁE
+
+#: Editor/TimelineHelpers.cs:1
+msgid "Create clip"
+msgstr "クリチE�E作�E"
+
+#: Editor/treeview/TimelineDragging.cs:1
+msgid "Create {0} on {1}"
+msgstr "{0}を{1}上に作�E"
+
+#: Editor/Signals/Styles.cs:1
+msgid "Creates a Signal Receiver component on the track binding and the reaction for the current signal."
+msgstr "現在のシグナルのためのリアクションとトラチE��バインドにシグナルレシーバ�Eコンポ�Eネントを作�Eする"
+
+#: Editor/inspectors/ClipInspector/ClipInspector.cs:1
+msgid "Curve Editor"
+msgstr "カーブエチE��タ"
+
+#: Editor/inspectors/TimelineProjectSettings.cs:1
+msgid "Custom"
+msgstr "カスタム"
+
+#: [MenuEntry]./Editor/Actions/ClipAction.cs:1
+msgid "Custom Actions/Sample Clip Action"
+msgstr "カスタムアクション/サンプルクリチE�Eアクション"
+
+#: [MenuEntry]./Editor/Actions/TrackAction.cs:1
+msgid "Custom Actions/Sample track Action"
+msgstr "カスタムアクション/サンプルトラチE��アクション"
+
+#: Editor/inspectors/TimelineProjectSettings.cs:1
+msgid "Custom Framerate"
+msgstr "カスタムフレームレーチE
+
+#: Editor/inspectors/TimelineProjectSettings.cs:1
+msgid "Custom framerate value used for new Timeline Assets."
+msgstr "新しいタイムラインアセチE��にカスタムフレームレートが使用されます、E
+
+#: Editor/Window/TimelineWindow_Gui.cs:1
+msgid "Debug TimeArea"
+msgstr "チE��チE��タイムエリア"
+
+#: Editor/inspectors/TimelineProjectSettings.cs:1
+msgid "Default Framerate"
+msgstr "チE��ォルトフレームレーチE
+
+#: Editor/inspectors/AnimationTrackInspector.cs:1
+msgid "Default Offset Match Fields"
+msgstr "チE��ォルトオフセチE��マッチフィールチE
+
+#: Editor/inspectors/TimelinePreferences.cs:1
+msgid "Define scrolling behavior during playback."
+msgstr "プレイバック中のスクロール挙動を定義"
+
+#: Editor/inspectors/TimelinePreferences.cs:1
+msgid "Define the time unit for the timeline window (Frames or Seconds)."
+msgstr "タイムラインウインドウの時間単位を定義�E�フレームまた�E秒！E
+
+#: Editor/treeview/TrackGui/TimelineTrackErrorGUI.cs:1
+msgid "Delete"
+msgstr "削除"
+
+#: Editor/Actions/TimelineActions.cs:1
+msgid "Delete Items"
+msgstr "アイチE��の削除"
+
+#: Editor/Signals/Styles.cs:1
+msgid "Delete Row"
+msgstr "行�E削除"
+
+#: Editor/Utilities/TrackModifier.cs:1
+msgid "Delete Track"
+msgstr "トラチE��削除"
+
+#: Editor/Window/TimelineWindow_HeaderGui.cs:1
+msgid "Display time based on the current timeline."
+msgstr "現在のタイムラインの時刻を表示"
+
+#: Editor/Window/TimelineWindow_HeaderGui.cs:1
+msgid "Display time based on the master timeline."
+msgstr "マスタータイムラインの時刻を表示"
+
+#: Editor/Utilities/ClipModifier.cs:1
+msgid "Double Clip Speed"
+msgstr "クリチE�E倍送E
+
+#: Editor/inspectors/TimelinePreferences.cs:1
+msgid "Draw the waveforms for all audio clips."
+msgstr "全てのオーチE��オクリチE�Eの波形を表示"
+
+#: Editor/Signals/Styles.cs:1
+msgid "Duplicate"
+msgstr "褁E��"
+
+#: Editor/Utilities/MarkerModifier.cs:1
+msgid "Duplicate Marker"
+msgstr "マ�Eカー褁E��"
+
+#: Editor/Signals/Styles.cs:1
+msgid "Duplicate Row"
+msgstr "行�E褁E��"
+
+#: Editor/inspectors/GroupTrackInspector.cs:1
+msgid "Duration"
+msgstr "期間"
+
+#: Editor/inspectors/TimelineAssetInspector.cs:1
+msgid "Duration Mode"
+msgstr "期間モーチE
+
+#: Editor/inspectors/TimelineAssetInspector.cs:1
+msgid "Duration Mode Property"
+msgstr "期間モード�Eロパティ"
+
+#: Editor/Window/TimelineWindow_TimeArea.cs:1
+msgid "Duration Mode/{0}"
+msgstr "期間モーチE{0}"
+
+#: Editor/Manipulators/Sequence/EaseClip.cs:1
+msgid "Ease In"
+msgstr "イースイン"
+
+#: Editor/Manipulators/Sequence/EaseClip.cs:1
+msgid "Ease In Clip"
+msgstr "イースインクリチE�E"
+
+#: Editor/inspectors/ClipInspector/ClipInspector.cs:1
+msgid "Ease In Duration"
+msgstr "イーズイン期間"
+
+#: Editor/Manipulators/Sequence/EaseClip.cs:1
+msgid "Ease Out"
+msgstr "イースアウチE
+
+#: Editor/Manipulators/Sequence/EaseClip.cs:1
+msgid "Ease Out Clip"
+msgstr "イースアウトクリチE�E"
+
+#: Editor/inspectors/ClipInspector/ClipInspector.cs:1
+msgid "Ease Out Duration"
+msgstr "イーズアウト期閁E
+
+#: Editor/inspectors/TimelinePreferences.cs:1
+msgid "Edge Snap"
+msgstr "エチE��にスナッチE
+
+#: Editor/Animation/CurvesProxy.cs:1
+msgid "Edit Clip Curve"
+msgstr "クリチE�Eカーブ編雁E
+
+#: Editor/Recording/TimelineRecording_Monobehaviour.cs:1
+msgid "Edit Curve"
+msgstr "カーブ編雁E
+
+#: Editor/Window/TimelineWindow_Gui.cs:1
+msgid "Edit Skin"
+msgstr "スキン編雁E
+
+#: Editor/State/SequenceHierarchy.cs:1
+msgid "Edit Sub-Timeline"
+msgstr "サブタイムラインを編雁E
+
+#: [MenuEntry]./Editor/Actions/TrackActions.cs:1
+msgid "Edit in Animation Window"
+msgstr "アニメーションウインドウで編雁E
+
+#: [MenuEntry]./Editor/Actions/ClipsActions.cs:1
+msgid "Editing/Complete Last Loop"
+msgstr "編雁E最後�Eループを完亁E
+
+#: [MenuEntry]./Editor/Actions/ClipsActions.cs:1
+msgid "Editing/Double Speed"
+msgstr "編雁E�E�倍送E
+
+#: [MenuEntry]./Editor/Actions/ClipsActions.cs:1
+msgid "Editing/Half Speed"
+msgstr "編雁Eスロー"
+
+#: [MenuEntry]./Editor/Actions/ClipsActions.cs:1
+msgid "Editing/Match Duration"
+msgstr "編雁E期間を合わせめE
+
+#: [MenuEntry]./Editor/Actions/ClipsActions.cs:1
+msgid "Editing/Reset All"
+msgstr "編雁EすべてをリセチE��"
+
+#: [MenuEntry]./Editor/Actions/ClipsActions.cs:1
+msgid "Editing/Reset Duration"
+msgstr "編雁EリセチE��期間"
+
+#: [MenuEntry]./Editor/Actions/ClipsActions.cs:1
+msgid "Editing/Reset Speed"
+msgstr "編雁EリセチE��速度"
+
+#: [MenuEntry]./Editor/Actions/ClipsActions.cs:1
+msgid "Editing/Split"
+msgstr "編雁E刁E��"
+
+#: [MenuEntry]./Editor/Actions/ClipsActions.cs:1
+msgid "Editing/Trim End"
+msgstr "編雁Eトリム終亁E
+
+#: [MenuEntry]./Editor/Actions/ClipsActions.cs:1
+msgid "Editing/Trim Last Loop"
+msgstr "編雁E最後�Eループをトリム"
+
+#: [MenuEntry]./Editor/Actions/ClipsActions.cs:1
+msgid "Editing/Trim Start"
+msgstr "編雁Eトリム開姁E
+
+#: Editor/Signals/Styles.cs:1
+msgid "Emit Once"
+msgstr "一度だけ発甁E
+
+#: Editor/Signals/SignalEmitterInspector.cs:1
+msgid "Emit Once Property"
+msgstr "一度だけ発生�Eロパティ"
+
+#: Editor/Signals/Styles.cs:1
+msgid "Emit Signal"
+msgstr "シグナルを発甁E
+
+#: Editor/Signals/Styles.cs:1
+msgid "Emit the signal once during loops."
+msgstr "ループ中に一度だけ発甁E
+
+#: Editor/inspectors/TimelinePreferences.cs:1
+msgid "Enable Snap to Frame to manipulate clips and align them on frames."
+msgstr "フレームにスナップを有効にし、クリチE�E操作においてフレームに整列させます、E
+
+#: Editor/inspectors/TimelinePreferences.cs:1
+msgid "Enable the ability to snap clips on the edge of another clip."
+msgstr "別のクリチE�EのエチE��にスナップする機�Eを有効にします、E
+
+#: Editor/inspectors/AnimationPlayableAssetInspector.cs:1
+msgid "Enable to apply foot IK to the AnimationClip when the target is humanoid."
+msgstr "ターゲチE��がヒューマノイド�E場合にAnimationClipへの脚部IKを有効にしまぁE
+
+#: Editor/DirectorStyles.cs:1
+msgid "Enable/disable scene preview mode"
+msgstr "シーンプレビューモード�E有効/無効"
+
+#: Editor/inspectors/ClipInspector/ClipInspector.cs:1
+msgid "End"
+msgstr "終亁E
+
+#: Editor/Window/TimelineWindow_Duration.cs:1
+msgid "End of sequence marker"
+msgstr "シーケンスメーカーの終亁E
+
+#: Editor/treeview/TrackGui/TimelineTrackGUI.cs:1
+#, fuzzy
+msgid "End recording"
+msgstr "記録中..."
+
+#: Editor/treeview/TrackGui/TimelineTrackGUI.cs:1
+#, fuzzy
+msgid "Expand Track Markers"
+msgstr "トラチE��マ�Eカーの展開/折りたたみ"
+
+#: Editor/inspectors/ClipInspector/ClipInspector.cs:1
+msgid "Extrapolation used after a clip ends"
+msgstr "最後�EクリチE�E後�E外挿"
+
+#: Editor/inspectors/ClipInspector/ClipInspector.cs:1
+msgid "Extrapolation used prior to the first clip"
+msgstr "最初�EクリチE�Eへの外挿"
+
+#: Editor/inspectors/AnimationPlayableAssetInspector.cs:1
+msgid "Fields to apply when matching offsets on clips. The defaults can be set on the track."
+msgstr "クリチE�EのオフセチE��にマッチするときに適用するフィールド。デフォルト�EトラチE��に設定できます、E
+
+#: Editor/inspectors/AnimationTrackInspector.cs:1
+msgid "Fields to apply when matching offsets on clips. These are the defaults, and can be overridden for each clip."
+msgstr "クリチE�EのオフセチE��にマッチする場合に適用するフィールド。これらはチE��ォルトで、それぞれ�EクリチE�Eで上書き可能です、E
+
+#: Editor/inspectors/TimelineProjectSettings.cs:1
+msgid "Film (24)"
+msgstr "フィルム(24)"
+
+#: Editor/inspectors/TimelineProjectSettings.cs:1
+msgid "Film (30)"
+msgstr "フィルム(30)"
+
+#: Editor/inspectors/TimelineProjectSettings.cs:1
+msgid "Film (50)"
+msgstr "フィルム(50)"
+
+#: Editor/inspectors/TimelineProjectSettings.cs:1
+msgid "Film (60)"
+msgstr "フィルム(60)"
+
+#: [MenuEntry]./Editor/Actions/ClipsActions.cs:1
+msgid "Find Source Asset"
+msgstr "ソースアセチE��を見つける"
+
+#: Editor/inspectors/AnimationPlayableAssetInspector.cs:1
+msgid "Foot IK"
+msgstr "脚部IK"
+
+#: Editor/inspectors/TimelineAssetInspector.cs:1
+msgid "Frame Rate"
+msgstr "フレームレーチE
+
+#: Editor/inspectors/TimelineAssetInspector.cs:1
+msgid "Frame Rate Property"
+msgstr "フレームレート�Eロパティ"
+
+#: Editor/Window/TimelineWindow_Gui.cs:1
+msgid "Frame Rate/Custom"
+msgstr "フレームレーチEカスタム"
+
+#: Editor/inspectors/TimelineProjectSettings.cs:1
+msgid "Framerate value used for new Timeline Assets."
+msgstr "タイムラインアセチE��に使用されるフレームレート値"
+
+#: Editor/Window/TimelineWindow_Gui.cs:1
+msgid "Frames"
+msgstr "フレーム"
+
+#: Editor/Window/TimelineWindow_HeaderGui.cs:1
+msgid "Global"
+msgstr "グローバル"
+
+#: Editor/State/SequenceHierarchy.cs:1
+msgid "Go to Sub-Timeline"
+msgstr "サブタイムラインへ移勁E
+
+#: Editor/DirectorStyles.cs:1
+msgid "Go to the beginning of the timeline (Shift+<)"
+msgstr "タイムラインの先頭に移勁EShift+<)"
+
+#: Editor/DirectorStyles.cs:1
+msgid "Go to the end of the timeline (Shift+>)"
+msgstr "タイムラインの終端に移勁EShift+>)"
+
+#: Editor/DirectorStyles.cs:1
+msgid "Go to the next frame"
+msgstr "次のフレームに移勁E
+
+#: Editor/DirectorStyles.cs:1
+msgid "Go to the previous frame"
+msgstr "前�Eフレームに移勁E
+
+#: Editor/treeview/Drawers/ClipDrawer.cs:1
+msgid "HOLD"
+msgstr "ホ�EルチE
+
+#: Editor/Utilities/ClipModifier.cs:1
+msgid "Half Clip Speed"
+msgstr "クリチE�Eスピ�Eド半渁E
+
+#: Editor/treeview/TrackGui/TimelineTrackGUI.cs:1
+msgid "Hide curves view"
+msgstr "カーブビューを隠ぁE
+
+#: Editor/inspectors/ClipInspector/ClipInspector.cs:1
+msgid "In"
+msgstr "イン"
+
+#: Editor/inspectors/AnimationTrackInspector.cs:1
+msgid "Inherited"
+msgstr "継承されてぁE��"
+
+#: Editor/Trackhead.cs:1
+msgid "Insert Time"
+msgstr "タイムの挿入"
+
+#: Editor/Trackhead.cs:1
+#, fuzzy
+msgid "Insert/Frame/10 Frames"
+msgstr "挿入/フレーム/"
+
+#: Editor/Trackhead.cs:1
+#, fuzzy
+msgid "Insert/Frame/100 Frames"
+msgstr "挿入/フレーム/"
+
+#: Editor/Trackhead.cs:1
+#, fuzzy
+msgid "Insert/Frame/25 Frames"
+msgstr "挿入/フレーム/"
+
+#: Editor/Trackhead.cs:1
+#, fuzzy
+msgid "Insert/Frame/5 Frames"
+msgstr "挿入/フレーム/"
+
+#: Editor/Trackhead.cs:1
+msgid "Insert/Frame/Single"
+msgstr "挿入/フレーム/シングル"
+
+#: Editor/Trackhead.cs:1
+msgid "Insert/Selected Time"
+msgstr "挿入/選択された時間"
+
+#: Editor/inspectors/AnimationTrackInspector.cs:1
+msgid "Inspector"
+msgstr "インスペクター"
+
+#: Editor/inspectors/GroupTrackInspector.cs:1
+msgid "Invalid Track"
+msgstr "無効トラチE��"
+
+#: [MenuEntry]./Editor/Actions/TimelineActions.cs:1
+msgid "Key All Animated"
+msgstr "すべてのアニメーションするキー"
+
+#: Editor/Actions/Menus/TimelineContextMenu.cs:1
+msgid "Layer {0}"
+msgstr "レイヤー{0}"
+
+#: Editor/Animation/AnimationPlayableAssetEditor.cs:1
+msgid "Legacy animation clips are not supported"
+msgstr "レガシーアニメーションクリチE�Eはサポ�EトされてぁE��せん"
+
+#: Editor/Window/TimelineWindow_HeaderGui.cs:1
+msgid "Local"
+msgstr "ローカル"
+
+#: Editor/Actions/TrackActions.cs:1
+msgid "Lock"
+msgstr "ロチE��"
+
+#: Editor/Actions/TrackActions.cs:1
+msgid "Lock Tracks"
+msgstr "トラチE��のロチE��"
+
+#: Editor/Actions/TrackActions.cs:1
+msgid "Lock selected track only"
+msgstr "選択されたトラチE��のみロチE��"
+
+#: Editor/treeview/TrackGui/TimelineTrackBaseGUI.cs:1
+msgid "Locked"
+msgstr "ロチE��"
+
+#: Editor/treeview/TrackGui/TimelineTrackBaseGUI.cs:1
+msgid "Locked / Muted"
+msgstr "ロチE�� / ミューチE
+
+#: Editor/treeview/TrackGui/TimelineTrackBaseGUI.cs:1
+msgid "Locked / Partially Muted"
+msgstr "ロチE�� / 部刁E��にミューチE
+
+#: Editor/inspectors/AnimationPlayableAssetInspector.cs:1
+msgid "Loop"
+msgstr "ルーチE
+
+#: Editor/inspectors/AnimationPlayableAssetInspector.cs:1
+msgid "Makes playback of the clip play relative to first key of the root transform"
+msgstr "ルートトランスフォームの最初�Eキーを基準にしてクリチE�Eを�E生しまぁE
+
+#: Editor/Utilities/ClipModifier.cs:1
+msgid "Match Clip Content"
+msgstr "クリチE�E冁E��のマッチE
+
+#: Editor/Utilities/ClipModifier.cs:1
+msgid "Match Clip Duration"
+msgstr "クリチE�E褁E��マッチE
+
+#: [MenuEntry]./Editor/Actions/TimelineActions.cs:1
+msgid "Match Content"
+msgstr "コンチE��トを合わせる"
+
+#: Editor/Animation/AnimationOffsetMenu.cs:1
+msgid "Match Offsets Fields/"
+msgstr "オフセチE��フィールドにマッチE"
+
+#: [MenuEntry]./Editor/Animation/AnimationClipActions.cs:1
+msgid "Match Offsets To Next Clip"
+msgstr "次のクリチE�EへのオフセチE��に合わせる"
+
+#: [MenuEntry]./Editor/Animation/AnimationClipActions.cs:1
+msgid "Match Offsets To Previous Clip"
+msgstr "前�EクリチE�EへのオフセチE��に合わせる"
+
+#: [MenuEntry]./Editor/Attributes/MenuEntryAttribute.cs:1
+msgid "Menu Action with priority"
+msgstr "優先度付きメニューアクション"
+
+#: Editor/DirectorStyles.cs:1
+msgid "Mix Mode (1)"
+msgstr "混合モーチE(1)"
+
+#: Editor/inspectors/ClipInspector/ClipInspector.cs:1
+msgid "Mode Property"
+msgstr "モード�Eロパティ"
+
+#: Editor/Manipulators/Move/MoveItemModeMix.cs:1
+msgid "Move Items"
+msgstr "アイチE��の移勁E
+
+#: Editor/Signals/Styles.cs:1
+msgid "Multi-edit not supported for SignalReceivers on tracks bound to different GameObjects."
+msgstr "異なるゲームオブジェクトにバインドされたトラチE��上�Eシグナルレシーバ�Eに褁E��編雁E�Eサポ�EトしてぁE��せん"
+
+#: Editor/Signals/Styles.cs:1
+msgid "Multi-edit not supported for SignalReceivers when SignalEmitters use different Signals."
+msgstr "シグナルエミッターが異なるシグナルを扱ぁE��合�Eシグナルレシーバ�Eでは褁E��編雁E��サポ�EトしてぁE��せん"
+
+#: Editor/inspectors/ClipInspector/ClipInspector.cs:1
+msgid "Multiple Clip Timing"
+msgstr "褁E��のクリチE�Eタイミング"
+
+#: Editor/inspectors/ClipInspector/ClipInspector.cs:1
+msgid "Multiple clips selected. Only common properties are shown."
+msgstr "褁E��のクリチE�Eが選択されてぁE��す。�E通�Eロパティのみ表示されます、E
+
+#: Editor/Actions/TrackActions.cs:1
+msgid "Mute"
+msgstr "ミューチE
+
+#: [MenuEntry]./Editor/Actions/TimelineActions.cs:1
+msgid "Mute Timeline Markers"
+msgstr "タイムラインマ�EカーをミューチE
+
+#: Editor/Actions/TrackActions.cs:1
+msgid "Mute Tracks"
+msgstr "トラチE��のミューチE
+
+#: Editor/Actions/TrackActions.cs:1
+msgid "Mute selected track only"
+msgstr "選択されたトラチE��のみミューチE
+
+#: Editor/treeview/TrackGui/TimelineTrackBaseGUI.cs:1
+msgid "Muted"
+msgstr "ミューチE
+
+#: [MenuEntry]./Editor/Attributes/MenuEntryAttribute.cs:1
+msgid "My Menu/Menu Action inside submenu"
+msgstr "マイメニュー/サブメニュー冁E��ニューアクション"
+
+#: Editor/inspectors/TimelineProjectSettings.cs:1
+msgid "NTSC (29.97)"
+msgstr "NTSC (29.97)"
+
+#: Editor/inspectors/GroupTrackInspector.cs:1
+msgid "Name"
+msgstr "名前"
+
+#: Editor/Signals/Styles.cs:1
+msgid "New Signal"
+msgstr "新しいシグナル"
+
+#: Editor/Animation/AnimationPlayableAssetEditor.cs:1
+msgid "No animation clip assigned"
+msgstr "アニメーションクリチE�Eが割り当てられてぁE��せん"
+
+#: Editor/Audio/AudioPlayableAssetEditor.cs:1
+msgid "No audio clip assigned"
+msgstr "オーチE��オクリチE�Eが割り当てられてぁE��せん"
+
+#: Editor/Signals/Styles.cs:1
+msgid "No reaction for {0} has been defined in this receiver"
+msgstr "こ�Eレシーバ�Eには{0}のリアクションが定義されてぁE��せん"
+
+#: Editor/Signals/SignalEmitterEditor.cs:1
+msgid "No signal assigned"
+msgstr "シグナルが割り当てられてぁE��せん"
+
+#: Editor/DirectorStyles.cs:1
+msgid "No timeline found in the scene"
+msgstr "こ�Eシーンにはタイムラインがありません"
+
+#: Editor/Signals/Styles.cs:1
+msgid "None"
+msgstr "なぁE
+
+#: Editor/inspectors/AnimationPlayableAssetInspector.cs:1
+msgid "Offsets Match Fields"
+msgstr "マッチするフィールド�EオフセチE��"
+
+#: Editor/inspectors/AnimationTrackInspector.cs:1
+msgid "Offsets applied to recorded position and rotation keys"
+msgstr "記録された位置および回転のキーに適用されるオフセチE��"
+
+#: Editor/DirectorStyles.cs:1
+msgid "Options"
+msgstr "オプション"
+
+#: Editor/inspectors/ClipInspector/ClipInspector.cs:1
+msgid "Out"
+msgstr "アウチE
+
+#: Editor/inspectors/TimelineProjectSettings.cs:1
+msgid "PAL (25)"
+msgstr "PAL (25)"
+
+#: Editor/Playables/ControlPlayableInspector.cs:1
+msgid "Parent Object"
+msgstr "親オブジェクチE
+
+#: Editor/treeview/TrackGui/TimelineTrackBaseGUI.cs:1
+msgid "Partially Muted"
+msgstr "部刁E��にミューチE
+
+#: [MenuEntry]./Editor/Actions/TimelineActions.cs:1
+msgid "Paste"
+msgstr "ペ�EスチE
+
+#: Editor/Window/TimelineWindow_Gui.cs:1
+msgid "Play Range Mode"
+msgstr "篁E��再生モーチE
+
+#: Editor/Window/TimelineWindow_Gui.cs:1
+msgid "Play Range Mode/Loop"
+msgstr "篁E��再生/ルーチE
+
+#: Editor/Window/TimelineWindow_Gui.cs:1
+msgid "Play Range Mode/Once"
+msgstr "篁E��再生/一度"
+
+#: Editor/DirectorStyles.cs:1
+msgid "Play the timeline (Space)"
+msgstr "タイムライン(スペ�Eス)の再生"
+
+#: Editor/Utilities/BindingUtility.cs:1
+msgid "PlayableDirector Binding"
+msgstr "PlayableDirectorバインチE
+
+#: Editor/inspectors/TimelinePreferences.cs:1
+msgid "Playback Scrolling Mode"
+msgstr "プレイバックスクロールモーチE
+
+#: Editor/treeview/TrackGui/TimelineTrackErrorGUI.cs:1
+msgid "Please fix any compile errors in the script for this track"
+msgstr "こ�EトラチE��に関連するスクリプトのコンパイルエラーをすべて修正してください"
+
+#: Editor/inspectors/AnimationTrackInspector.cs:1
+msgid "Position"
+msgstr "位置"
+
+#: Editor/inspectors/AnimationPlayableAssetInspector.cs:1
+msgid "Position Property"
+msgstr "位置プロパティ"
+
+#: Editor/inspectors/ClipInspector/ClipInspector.cs:1
+msgid "Post Extrapolation Mode Property"
+msgstr "ポスト外挿モード�Eロパティ"
+
+#: Editor/Playables/ControlPlayableInspector.cs:1
+msgid "Post Playback"
+msgstr "ポスト�Eレイバック"
+
+#: Editor/Activation/ActivationTrackInspector.cs:1
+msgid "Post Playback Property"
+msgstr "ポスト�Eレイバックプロパティ"
+
+#: Editor/inspectors/ClipInspector/ClipInspector.cs:1
+msgid "Post-Extrapolate"
+msgstr "後�E外挿"
+
+#: Editor/Activation/ActivationTrackInspector.cs:1
+msgid "Post-playback state"
+msgstr "ポスト�EレイバックスチE�EチE
+
+#: Editor/inspectors/ClipInspector/ClipInspector.cs:1
+msgid "Pre Extrapolation Mode Property"
+msgstr "プレ外挿モード�Eロパティ"
+
+#: Editor/inspectors/ClipInspector/ClipInspector.cs:1
+msgid "Pre-Extrapolate"
+msgstr "前�E外挿"
+
+#: Editor/Playables/ControlPlayableInspector.cs:1
+msgid "Prefab"
+msgstr "プレハブ"
+
+#: Editor/Utilities/BreadcrumbDrawer.cs:1
+msgid "Prefab Isolation not enabled. Click to Enable."
+msgstr "プレハブアイソレーションが有効ではありません。有効をクリチE��してください、E
+
+#: Editor/Playables/ControlPlayableInspector.cs:1
+msgid "Prefab Object"
+msgstr "プレハブオブジェクチE
+
+#: Editor/Window/TimelineWindow_Gui.cs:1
+msgid "Preferences Page..."
+msgstr "環墁E��定�Eージ..."
+
+#: Editor/Recording/AnimationTrackRecorder.cs:1
+msgid "Prepend Key"
+msgstr "キー追加"
+
+#: Editor/DirectorStyles.cs:1
+msgid "Preview"
+msgstr "プレビュー"
+
+#: Editor/Signals/SignalEmitterInspector.cs:1
+msgid "Property"
+msgstr "プロパティ"
+
+#: Editor/DirectorStyles.cs:1
+msgid "R"
+msgstr "R"
+
+#: Editor/Playables/ControlPlayableInspector.cs:1
+msgid "Random Seed"
+msgstr "ランダムシーチE
+
+#: Editor/Signals/TreeView/SignalReceiverTreeView.cs:1
+msgid "Reaction"
+msgstr "リアクション"
+
+#: Editor/Signals/Styles.cs:1
+msgid "Receiver Component on"
+msgstr "レシーバ�Eコンポ�Eネントをオン"
+
+#: Editor/Recording/AnimationTrackRecorder.cs:1
+msgid "Record Key"
+msgstr "レコードキー"
+
+#: Editor/Recording/AnimationTrackRecorder.cs:1
+msgid "Recorded"
+msgstr "レコード済み"
+
+#: Editor/inspectors/AnimationTrackInspector.cs:1
+msgid "Recorded Offset Euler Property"
+msgstr "オイラープロパティの記録されたオフセチE��"
+
+#: Editor/inspectors/AnimationTrackInspector.cs:1
+msgid "Recorded Offset Position Property"
+msgstr "ポジションプロパティの記録されたオフセチE��"
+
+#: Editor/inspectors/AnimationTrackInspector.cs:1
+msgid "Recorded Offsets"
+msgstr "記録されたオフセチE��"
+
+#: Editor/treeview/Drawers/ClipDrawer.cs:1
+msgid "Recording in blends in prohibited"
+msgstr "ブレンド�E記録が許可されてぁE��せん"
+
+#: Editor/treeview/TrackGui/TimelineTrackGUI.cs:1
+msgid "Recording is disabled: scene preview is ignored for this TimelineAsset"
+msgstr "収録が禁止されてぁE��ぁEこ�ETimelineAssetではシーンプレビューが無視されまぁE
+
+#: Editor/treeview/TrackGui/TimelineTrackGUI.cs:1
+msgid "Recording is not permitted when Track Offsets are set to Auto. Track Offset settings can be changed in the track menu of the base track."
+msgstr "トラチE��オフセチE��がオートに設定されてぁE��場合、レコーチE��ングは許可されません。トラチE��オフセチE��の設定�E、�EーストラチE��のトラチE��メニューで変更することができます、E
+
+#: Editor/DirectorStyles.cs:1
+msgid "Recording..."
+msgstr "記録中..."
+
+#: Editor/Recording/TimelineRecording.cs:1
+msgid "Remove Curve"
+msgstr "カーブ削除"
+
+#: [MenuEntry]./Editor/Actions/TrackActions.cs:1
+msgid "Remove Invalid Markers"
+msgstr "無効なマ�Eカーを削除"
+
+#: Editor/Recording/TimelineRecording.cs:1
+msgid "Remove Key"
+msgstr "キー削除"
+
+#: Editor/Animation/ClipCurveEditor.cs:1
+msgid "Remove Properties"
+msgstr "プロパティ削除"
+
+#: Editor/inspectors/AnimationPlayableAssetInspector.cs:1
+msgid "Remove Start Offset"
+msgstr "開始オフセチE��を削除"
+
+#: Editor/inspectors/AnimationPlayableAssetInspector.cs:1
+msgid "Remove Start Offset Property"
+msgstr "開始オフセチE��プロパティを削除"
+
+#: Editor/Extensions/TrackExtensions.cs:1
+msgid "Remove Track"
+msgstr "トラチE��削除"
+
+#: Editor/treeview/TrackGui/TimelineTrackGUI.cs:1
+msgid "Rename Track"
+msgstr "トラチE��リネ�Eム"
+
+#: Editor/inspectors/MarkerInspector.cs:1
+msgid "Rename marker"
+msgstr "マ�Eカーのリネ�Eム"
+
+#: Editor/DirectorStyles.cs:1
+msgid "Replace Mode (3)"
+msgstr "置換モーチE(3)"
+
+#: Editor/Utilities/ClipModifier.cs:1
+msgid "Reset Clip Editing"
+msgstr "クリチE�E編雁E�EリセチE��"
+
+#: Editor/Utilities/ClipModifier.cs:1
+msgid "Reset Clip Speed"
+msgstr "クリチE�Eスピ�Eド�EリセチE��"
+
+#: [MenuEntry]./Editor/Animation/AnimationClipActions.cs:1
+msgid "Reset Offsets"
+msgstr "オフセチE��のリセチE��"
+
+#: Editor/Signals/SignalReceiverHeader.cs:1
+msgid "Resize to Fit"
+msgstr "合うようにリサイズ"
+
+#: Editor/Signals/Styles.cs:1
+msgid "Retroactive"
+msgstr "遡及的"
+
+#: Editor/Signals/SignalEmitterInspector.cs:1
+msgid "Retroactive Property"
+msgstr "遡及的プロパティ"
+
+#: Editor/DirectorStyles.cs:1
+msgid "Ripple Mode (2)"
+msgstr "リチE�EルモーチE(2)"
+
+#: Editor/inspectors/AnimationTrackInspector.cs:1
+msgid "Rotation"
+msgstr "回転"
+
+#: Editor/inspectors/AnimationPlayableAssetInspector.cs:1
+msgid "Rotation Property"
+msgstr "回転プロパティ"
+
+#: Editor/inspectors/TimelineAssetInspector.cs:1
+#, fuzzy
+msgid "Scene Preview"
+msgstr "プレビュー"
+
+#: Editor/inspectors/TimelineAssetInspector.cs:1
+#, fuzzy
+msgid "Scene Preview Property"
+msgstr "遡及的プロパティ"
+
+#: Editor/inspectors/AnimationTrackInspector.cs:1
+msgid "Scene offsets will use the existing transform as initial offsets. Use this to play the track from the gameObjects current position and rotation."
+msgstr "シーンオフセチE��は最初�EオフセチE��として既存�Eトランスフォームを使用します。ゲームオブジェクト�E現在の位置および回転のトラチE��を�E生する際に使用してください、E
+
+#: Editor/DirectorStyles.cs:1
+msgid "Scene preview is disabled for this TimelineAsset"
+msgstr "こ�ETimelineAssetのシーンプレビューは無効でぁE
+
+#: Editor/Playables/ControlPlayableInspector.cs:1
+msgid "Search Hierarchy"
+msgstr "サーチヒストリー"
+
+#: Editor/Playables/ControlPlayableInspector.cs:1
+msgid "Search child game objects for particle systems and playable directors"
+msgstr "パ�EチE��クルシスチE��およびプレイアブルチE��レクターを持つ子ゲームオブジェクトを検索する"
+
+#: Editor/Window/TimelineWindow_Gui.cs:1
+msgid "Seconds"
+msgstr "私E
+
+#: Editor/Signals/Styles.cs:1
+msgid "Select which Signal Asset to emit."
+msgstr "発生させるシグナルアセチE��を選抁E
+
+#: Editor/Actions/Menus/TimelineContextMenu.cs:1
+msgid "Select {0}"
+msgstr "{0}を追加"
+
+#: Editor/Trackhead.cs:1
+msgid "Select/Blends Intersecting"
+msgstr "選抁E交差をブレンチE
+
+#: Editor/Trackhead.cs:1
+msgid "Select/Clips Ending After"
+msgstr "選抁E終亁E���EクリチE�E"
+
+#: Editor/Trackhead.cs:1
+msgid "Select/Clips Ending Before"
+msgstr "選抁E終亁E��のクリチE�E"
+
+#: Editor/Trackhead.cs:1
+msgid "Select/Clips Intersecting"
+msgstr "選抁E交差してぁE��クリチE�E"
+
+#: Editor/Trackhead.cs:1
+msgid "Select/Clips Starting After"
+msgstr "選抁E開始後�EクリチE�E"
+
+#: Editor/Trackhead.cs:1
+msgid "Select/Clips Starting Before"
+msgstr "選抁E開始前のクリチE�E"
+
+#: [MenuItem]./Editor/Window/TimelineWindow.cs:1
+msgid "Sequencing"
+msgstr "シーケンス"
+
+#: Editor/DirectorStyles.cs:1
+msgid "Show / Hide Timeline Markers"
+msgstr "タイムラインマ�Eカーの表示/非表示"
+
+#: Editor/inspectors/TimelinePreferences.cs:1
+msgid "Show Audio Waveforms"
+msgstr "オーチE��オウェーブフォーム表示"
+
+#: [MenuEntry]./Editor/Actions/TrackActions.cs:1
+msgid "Show Markers"
+msgstr "マ�Eカーの表示"
+
+#: Editor/Window/TimelineWindow_Gui.cs:1
+msgid "Show QuadTree Debugger"
+msgstr "QuadTreeチE��チE��表示"
+
+#: Editor/Window/TimelineWindow_Gui.cs:1
+msgid "Show Snapping Debug"
+msgstr "スナップデバッグを表示"
+
+#: [MenuEntry]./Editor/Actions/TimelineActions.cs:1
+msgid "Show Timeline Markers"
+msgstr "タイムラインマ�Eカー表示"
+
+#: Editor/treeview/TrackGui/TimelineTrackGUI.cs:1
+msgid "Show curves view"
+msgstr "カーブビュー表示"
+
+#: Editor/DirectorStyles.cs:1
+msgid "Show markers"
+msgstr "マ�Eカーの表示"
+
+#: [MenuItem]./Editor/Signals/SignalAssetInspector.cs:1
+msgid "Signal"
+msgstr "シグナル"
+
+#: [MenuEntry]./Editor/Attributes/MenuEntryAttribute.cs:1
+msgid "Simple Menu Action"
+msgstr "シンプルメニューアクション"
+
+#: [MenuEntry]./Tests/Editor/Actions/ClipActionTests.cs:1
+msgid "Simple With Menu Entry Custom Clip Test Action"
+msgstr "Simple With Menu Entry Custom Clip Test Action"
+
+#: [MenuEntry]./Tests/Editor/Actions/MarkerActionTests.cs:1
+msgid "Simple With Menu Entry Custom Marker Test Action"
+msgstr "Simple With Menu Entry Custom Marker Test Action"
+
+#: [MenuEntry]./Tests/Editor/Actions/TimelineActionTests.cs:1
+msgid "Simple With Menu Entry Custom Timeline Test Action"
+msgstr "Simple With Menu Entry Custom Timeline Test Action"
+
+#: [MenuEntry]./Tests/Editor/Actions/TrackActionTests.cs:1
+msgid "Simple With Menu Entry Custom Track Test Action"
+msgstr "Simple With Menu Entry Custom Track Test Action"
+
+#: Editor/inspectors/TimelinePreferences.cs:1
+msgid "Snap To Frame"
+msgstr "フレームにスナッチE
+
+#: Editor/Playables/ControlPlayableInspector.cs:1
+msgid "Source Object"
+msgstr "ソースオブジェクチE
+
+#: Editor/inspectors/TimelineAssetInspector.cs:1
+msgid "Specified how the duration of the sequence is calculated"
+msgstr "シーケンス期間の計算方況E
+
+#: Editor/inspectors/ClipInspector/ClipInspector.cs:1
+msgid "Speed Multiplier"
+msgstr "速度の乗数"
+
+#: Editor/Utilities/ClipModifier.cs:1
+msgid "Split Clip"
+msgstr "クリチE�E刁E��"
+
+#: Editor/inspectors/ClipInspector/ClipInspector.cs:1
+msgid "Start"
+msgstr "開姁E
+
+#: Editor/treeview/TrackGui/TimelineTrackGUI.cs:1
+msgid "Start recording"
+msgstr "収録開姁E
+
+#: Editor/inspectors/ClipInspector/ClipInspector.cs:1
+msgid "Start the clip at this local time"
+msgstr "こ�Eローカル時間でクリチE�Eを開姁E
+
+#: Editor/Playables/ControlPlayableInspector.cs:1
+msgid "Synchronize the time between the clip and any Script that implements the ITimeControl interface on the game object"
+msgstr "クリチE�Eとゲームオブジェクト�E ITimeControl インタフェースを持つスクリプトを同期させる"
+
+#: Editor/Playables/ControlPlayableInspector.cs:1
+msgid "Synchronize the time between the clip and any particle systems on the game object"
+msgstr "クリチE�Eとゲームオブジェクト上�Eパ�EチE��クルシスチE��を同期させる"
+
+#: Editor/Playables/ControlPlayableInspector.cs:1
+msgid "Synchronize the time between the clip and any playable directors on the game object"
+msgstr "クリチE�Eとゲームオブジェクト�EプレイアブルチE��レクターを同期させる"
+
+#: [DisplayName]./Tests/Editor/Utilities/TypeLookup.cs:1
+msgid "Testing Track"
+msgstr "チE��トトラチE��"
+
+#: Editor/Utilities/BreadcrumbDrawer.cs:1
+msgid "The PlayableDirector is disabled"
+msgstr "そ�EPlayableDirectorは無効でぁE
+
+#: Editor/Signals/Styles.cs:1
+msgid "The Signal Receiver Component on the bound GameObject."
+msgstr "バインドされたゲームオブジェクト�Eシグナルレシーバ�E"
+
+#: Editor/Playables/ControlPlayableInspector.cs:1
+msgid ""
+"The active state to the leave the game object when the timeline is finished. \n"
+"\n"
+"Revert will leave the game object in the state it was prior to the timeline being run"
+msgstr ""
+"タイムラインが終わったとき放置させるゲームオブジェクトへのスチE�Eト、En"
+"\n"
+"リバ�Eトさせることでゲームオブジェクト�Eタイムライン実行前のままになります、E
+
+#: Editor/Playables/ControlPlayableInspector.cs:1
+msgid "The assigned GameObject contains a PlayableDirector component that results in a circular reference."
+msgstr "割り当てられたゲームオブジェクトに循環参�EするPlayableDirectorがあります、E
+
+#: Editor/Playables/ControlPlayableInspector.cs:1
+msgid "The assigned GameObject references the same PlayableDirector component being controlled."
+msgstr "割り当てられたゲームオブジェクト�E、制御される同じPlayableDirectorコンポ�Eネントを参�Eします、E
+
+#: Editor/CustomEditors/ClipEditor.cs:1
+msgid "The associated script can not be loaded"
+msgstr "関連するスクリプトを読み込めません"
+
+#: Editor/Activation/ActivationTrackEditor.cs:1
+msgid "The bound GameObject contains the PlayableDirector."
+msgstr "バインドされたゲームオブジェクト�EPlayableDirectorを保持してぁE��ぁE
+
+#: Editor/Activation/ActivationTrackEditor.cs:1
+msgid "The bound GameObject is a parent of the PlayableDirector."
+msgstr "バインドされたゲームオブジェクト�EPlayableDirectorの親でぁE
+
+#: Editor/CustomEditors/TrackEditor.cs:1
+msgid "The bound GameObject is disabled."
+msgstr "バインドされたゲームオブジェクトが無効でぁE
+
+#: Editor/CustomEditors/TrackEditor.cs:1
+msgid "The bound object is a Prefab"
+msgstr "バインドされたオブジェクトがプレハブでぁE
+
+#: Editor/CustomEditors/TrackEditor.cs:1
+msgid "The bound object is not the correct type."
+msgstr "バインドされたオブジェクトが正しい型ではありません"
+
+#: Editor/CustomEditors/TrackEditor.cs:1
+msgid "The component is disabled"
+msgstr "コンポ�Eネントが無効でぁE
+
+#: Editor/inspectors/ClipInspector/ClipInspector.cs:1
+msgid "The end time of the clip"
+msgstr "クリチE�Eの終亁E��閁E
+
+#: Editor/inspectors/ClipInspector/ClipInspector.cs:1
+msgid "The end time of the clip group"
+msgstr "クリチE�Eグループ�E終亁E��閁E
+
+#: Editor/Audio/AudioClipPropertiesDrawer.cs:1
+msgid "The final {3} is {0}\n"
+msgstr "最絁E3}は{0}\n"
+
+#: Editor/inspectors/TimelineAssetInspector.cs:1
+msgid "The frame rate at which this sequence updates"
+msgstr "こ�Eシーケンスが更新する地点のフレームレーチE
+
+#: Editor/inspectors/ClipInspector/ClipInspector.cs:1
+msgid "The length of the blend in"
+msgstr "インで混合する長ぁE
+
+#: Editor/inspectors/ClipInspector/ClipInspector.cs:1
+msgid "The length of the blend out"
+msgstr "アウトで混合する長ぁE
+
+#: Editor/inspectors/ClipInspector/ClipInspector.cs:1
+msgid "The length of the clip"
+msgstr "クリチE�Eの長ぁE
+
+#: Editor/inspectors/ClipInspector/ClipInspector.cs:1
+msgid "The length of the ease in"
+msgstr "イースインの長ぁE
+
+#: Editor/inspectors/ClipInspector/ClipInspector.cs:1
+msgid "The length of the ease out"
+msgstr "イースアウト�E長ぁE
+
+#: Editor/inspectors/TimelineAssetInspector.cs:1
+msgid "The length of the sequence"
+msgstr "シーケンスの長ぁE
+
+#: [Tooltip]./Runtime/Animation/AnimationPlayableAsset.cs:1
+msgid "The source AnimationClip does not loop during playback."
+msgstr "ソースとなるアニメーションクリチE�Eが�Eレイバック中にループしません、E
+
+#: [Tooltip]./Runtime/Animation/AnimationPlayableAsset.cs:1
+msgid "The source AnimationClip loops during playback."
+msgstr "ソースとなるアニメーションクリチE�Eはプレイバック中にループします、E
+
+#: Editor/inspectors/ClipInspector/ClipInspector.cs:1
+msgid "The start time of the clip"
+msgstr "クリチE�Eの開始時閁E
+
+#: Editor/inspectors/ClipInspector/ClipInspector.cs:1
+msgid "The start time of the clip group"
+msgstr "クリチE�Eグループ�E開始時閁E
+
+#: Editor/Signals/Styles.cs:1
+msgid "There is no Signal Receiver component on {0}"
+msgstr "{0}にはシグナルレシーバ�Eコンポ�Eネントがありません"
+
+#: Editor/CustomEditors/ClipEditor.cs:1
+msgid "This clip does not contain a valid playable asset"
+msgstr "こ�EクリチE�Eは有効なプレイアブルアセチE��を保持してぁE��せん"
+
+#: Editor/treeview/Drawers/ClipDrawer.cs:1
+msgid "This clip is not recordable"
+msgstr "こ�EクリチE�Eは記録できません"
+
+#: Editor/inspectors/AnimationTrackInspector.cs:1
+msgid "This mode is deprecated may be removed in a future release."
+msgstr "こ�Eモード�E削除予定でぁE
+
+#: Editor/DirectorStyles.cs:1
+msgid "This track references an external asset"
+msgstr "こ�EトラチE��は外部アセチE��を参照してぁE��ぁE
+
+#: Editor/inspectors/AnimationTrackInspector.cs:1
+msgid "This value is inherited from it's parent track."
+msgstr "これは親のトラチE��から継承された値でぁE
+
+#: Editor/Utilities/ClipModifier.cs:1
+msgid "Tile"
+msgstr "タイル"
+
+#: Editor/inspectors/TimelinePreferences.cs:1
+msgid "Time Unit"
+msgstr "時間の単佁E
+
+#: Editor/inspectors/ClipInspector/ClipInspector.cs:1
+msgid "Time scale of the playback speed"
+msgstr "プレイバック速度のタイムスケール"
+
+#: [MenuItem]./Editor/Window/TimelineWindow.cs:1
+msgid "Timeline"
+msgstr "タイムライン"
+
+#: Editor/inspectors/TimelineProjectSettings.cs:1
+msgid "Timeline Asset"
+msgstr "タイムラインアセチE��"
+
+#: Editor/inspectors/TimelineAssetInspector.cs:1
+msgid "Timeline Assets"
+msgstr "アセチE��のタイムライン"
+
+#: Editor/inspectors/ClipInspector/ClipInspector.cs:1
+msgid "Timeline Clips"
+msgstr "タイムラインクリチE�E"
+
+#: Editor/inspectors/TimelinePreferences.cs:1
+msgid "Timeline Editor Settings"
+msgstr "タイムラインのエチE��タ設宁E
+
+#: Editor/DirectorStyles.cs:1
+msgid "Timeline Selector"
+msgstr "タイムラインセレクター"
+
+#: Editor/DirectorStyles.cs:1
+msgid "To begin a new timeline with {0}, create {1}"
+msgstr "{0}でタイムラインを開始するために{1}を作�Eする忁E��がありまぁE
+
+#: Editor/DirectorStyles.cs:1
+msgid "To start creating a timeline, select a GameObject"
+msgstr "ゲームオブジェクトを選択することでタイムラインの作�Eを開始できまぁE
+
+#: Editor/Actions/TimelineActions.cs:1
+msgid "Toggle Mute"
+msgstr "ミュート�Eり替ぁE
+
+#: Editor/Extensions/TrackExtensions.cs:1
+msgid "Toggle Show Markers"
+msgstr "マ�Eカー表示の刁E��替ぁE
+
+#: Editor/DirectorStyles.cs:1
+msgid "Toggle play range markers."
+msgstr "プレイ篁E��マ�Eカーの刁E��替ぁE
+
+#: Editor/Actions/Menus/TimelineContextMenu.cs:1
+msgid "Track Group"
+msgstr "トラチE��グルーチE
+
+#: Editor/inspectors/AnimationTrackInspector.cs:1
+msgid "Track Offsets"
+msgstr "トラチE��オフセチE��"
+
+#: [MenuEntry]./Editor/Animation/AnimationTrackActions.cs:1
+msgid "Track Offsets/Apply Scene Offsets"
+msgstr "トラチE��オフセチE��/シーンオフセチE��を適用"
+
+#: [MenuEntry]./Editor/Animation/AnimationTrackActions.cs:1
+msgid "Track Offsets/Apply Transform Offsets"
+msgstr "トラチE��オフセチE��/トランスフォームオフセチE��を適用"
+
+#: [MenuEntry]./Editor/Animation/AnimationTrackActions.cs:1
+msgid "Track Offsets/Auto (Deprecated)"
+msgstr "トラチE��オフセチE��/自勁E(廁E��)"
+
+#: Editor/inspectors/AnimationTrackInspector.cs:1
+msgid "Track Position Property"
+msgstr "トラチE��ポジションのプロパティ"
+
+#: Editor/Animation/CurveDataSource.cs:1
+msgid "Track Properties"
+msgstr "トラチE��のプロパティ"
+
+#: Editor/inspectors/AnimationTrackInspector.cs:1
+msgid "Track Rotation Property"
+msgstr "トラチE��ローチE�Eションのプロパティ"
+
+#: Editor/Actions/Menus/TimelineContextMenu.cs:1
+msgid "Track Sub-Group"
+msgstr "トラチE��サブグルーチE
+
+#: Editor/treeview/TrackGui/TimelineTrackErrorGUI.cs:1
+msgid "Track cannot be loaded."
+msgstr "トラチE��を読み込めません"
+
+#: Editor/Signals/Styles.cs:1
+msgid "Track has no bound GameObject."
+msgstr "トラチE��にバインドされたゲームオブジェクトがありません"
+
+#: Editor/Audio/AudioTrackInspector.cs:1
+msgid "Track: {1}\n"
+msgstr "トラチE��: {1}\n"
+
+#: Editor/Audio/AudioClipPropertiesDrawer.cs:1
+msgid "Track: {2}"
+msgstr "トラチE��: {2}"
+
+#: Editor/inspectors/AnimationTrackInspector.cs:1
+msgid "Transform offsets are applied to the entire track. Use this mode to play the animation track at a fixed position and rotation."
+msgstr "トランスフォームオフセチE��は全体�EトラチE��に適用されます。このモード�E、固定�E位置および回転におけるアニメーションを�E生するときに使用してください、E
+
+#: Editor/Manipulators/EditMode.cs:1
+msgid "Trim Clip"
+msgstr "クリチE�Eトリム"
+
+#: Editor/Utilities/ClipModifier.cs:1
+msgid "Trim Clip End"
+msgstr "クリチE�Eエンドトリム"
+
+#: Editor/Utilities/ClipModifier.cs:1
+msgid "Trim Clip Last Loop"
+msgstr "クリチE�E最終ループ�Eトリム"
+
+#: Editor/Utilities/ClipModifier.cs:1
+msgid "Trim Clip Start"
+msgstr "クリチE�Eスタートトリム"
+
+#: Editor/inspectors/GroupTrackInspector.cs:1
+msgid "Type"
+msgstr "タイチE
+
+#: Editor/Actions/TrackActions.cs:1
+msgid "Unlock"
+msgstr "ロチE��解除"
+
+#: Editor/Actions/TrackActions.cs:1
+msgid "Unlock selected track only"
+msgstr "選択されたトラチE��のみロチE��解除"
+
+#: Editor/Actions/TrackActions.cs:1
+msgid "Unmute"
+msgstr "ミュート解除"
+
+#: Editor/Actions/TrackActions.cs:1
+msgid "Unmute selected track only"
+msgstr "選択されたトラチE��のみミュート解除"
+
+#: Editor/Playables/ControlPlayableInspector.cs:1
+msgid "Update Director"
+msgstr "チE��レクターを更新"
+
+#: Editor/Playables/ControlPlayableInspector.cs:1
+msgid "Update I Time Control"
+msgstr "ITimeControlの更新"
+
+#: Editor/Playables/ControlPlayableInspector.cs:1
+msgid "Update Particle"
+msgstr "パ�EチE��クルの更新"
+
+#: Editor/Playables/ControlPlayableInspector.cs:1
+msgid "Use Activation"
+msgstr "アクチE��ベ�Eション使用"
+
+#: Editor/inspectors/AnimationPlayableAssetInspector.cs:1
+msgid "Use defaults"
+msgstr "チE��ォルトを使用"
+
+#: Editor/Signals/Styles.cs:1
+msgid "Use retroactive to emit this signal even if playback starts afterwards."
+msgstr "あとからプレイバックが始まるとしてもこのシグナルを遡及的に発生させる"
+
+#: [Tooltip]./Runtime/Animation/AnimationPlayableAsset.cs:1
+msgid "Use the loop time setting from the source AnimationClip."
+msgstr "ソースのAnimationClipのループ時間設定を使用する"
+
+#: Editor/inspectors/AnimationPlayableAssetInspector.cs:1
+msgid "Use this to offset the root transform position and rotation relative to the track when playing this clip"
+msgstr "クリチE�E再生時�EトラチE��に相対皁E��ルート�EトランスフォームポジションおよびローチE�EションへのオフセチE��に使用されまぁE
+
+#: Editor/Playables/ControlPlayableInspector.cs:1
+msgid "When checked the clip will control the active state of the source game object"
+msgstr "クリチE�Eがソースゲームオブジェクト�EアクチE��ブ状態を制御するようになりまぁE
+
+#: Editor/inspectors/TimelineAssetInspector.cs:1
+msgid "When ignoring preview, the Timeline window will modify the scene when this timeline is opened."
+msgstr "プレビューを無視すると、タイムラインウインドウはこ�Eタイムラインが開ぁE��ときに変更されます、E
+
+#: Editor/inspectors/AnimationPlayableAssetInspector.cs:1
+msgid "Whether the source Animation Clip loops during playback."
+msgstr "プレイバック中のアニメーションクリチE�Eループ�EソースかどぁE��"
+
+#: [MenuItem]./Editor/Window/TimelineWindow.cs:1
+msgid "Window"
+msgstr "ウインドウ"
+
+#: Editor/Animation/AnimationPlayableAssetEditor.cs:1
+msgid "You are using motion curves without applyRootMotion enabled on the Animator. The root transform will not be animated"
+msgstr "アニメーターで applyRootMotion を有効にしてぁE��ぁE��ーションカーブを使用してぁE��す。ルート変換はアニメーション化されません"
+
+#: Editor/Animation/AnimationPlayableAssetEditor.cs:1
+msgid "You are using root curves without applyRootMotion enabled on the Animator. The root transform will not be animated"
+msgstr "アニメーターで applyRootMotion を有効にしてぁE��ぁE��ート曲線を使用してぁE��す。ルート変換はアニメーション化されません"
+
+#: Editor/Signals/Styles.cs:1
+msgid "Your project contains no Signal assets"
+msgstr "こ�EプロジェクトにシグナルアセチE��がありません"
+
+#: Editor/Utilities/DisplayNameHelper.cs:1
+msgid "[Read Only]"
+msgstr "[書き換え禁止]"
+
+#: Editor/Window/TimelineWindow_TrackGui.cs:1
+msgid "a Director component and a Timeline asset"
+msgstr "Directorコンポ�EネントとタイムラインアセチE��"
+
+#: Editor/inspectors/TimelineInspectorUtility.cs:1
+msgid "f"
+msgstr "f"
+
+#: Editor/inspectors/TimelineInspectorUtility.cs:1
+msgid "s"
+msgstr "s"
+
+#: Editor/inspectors/MarkerInspector.cs:1
+msgid "{0} Markers"
+msgstr "{0} マ�Eカー"
+
+msgid " Frames"
+msgstr "フレーム"
+
+msgid "Activation Playable Asset"
+msgstr "アクチE��ベ�EションプレイアブルアセチE��"
+
+msgid "Activation Track"
+msgstr "アクチE��ベ�EショントラチE��"
+
+msgid "Animation Playable Asset"
+msgstr "アニメーションプレイアブルアセチE��"
+
+msgid "Animation Track"
+msgstr "アニメーショントラチE��"
+
+msgid "Apply Transform Offsets"
+msgstr "トランスフォームオフセチE��を適用"
+
+msgid "Audio Playable Asset"
+msgstr "オーチE��オプレイアブルアセチE��"
+
+msgid "Audio Track"
+msgstr "オーチE��オトラチE��"
+
+msgid ""
+"Avatar Mask disabled\n"
+"Click to enable"
+msgstr ""
+"アバターマスク無効\n"
+"クリチE��で有効"
+
+msgid ""
+"Avatar Mask enabled\n"
+"Click to disable"
+msgstr ""
+"アバターマスク有効\n"
+"クリチE��で無効"
+
+msgid "Based On Clips"
+msgstr "クリチE�Eに基づぁE
+
+msgid "Blend In"
+msgstr "ブレンドイン"
+
+msgid "Blend Out"
+msgstr "ブレンドアウチE
+
+msgid "Control Activation|"
+msgstr "コントロールアクチE��ベ�Eション|"
+
+msgid "Control Playable Asset"
+msgstr "コントロールプレイアブルアセチE��"
+
+msgid "Control Playable Directors|"
+msgstr "プレイアブルチE��レクターの制御|"
+
+msgid "Control Track"
+msgstr "コントロールトラチE��"
+
+msgid "Delete Curve"
+msgstr "カーブ削除"
+
+msgid "Delete Parameter Curves"
+msgstr "パラメーターカーブ削除"
+
+msgid "Fixed Length"
+msgstr "固定長"
+
+msgid "Frame Rate/30"
+msgstr "フレームレーチE30"
+
+msgid "Frame Rate/50"
+msgstr "フレームレーチE50"
+
+msgid "Frame Rate/60"
+msgstr "フレームレーチE60"
+
+msgid "Frame Rate/Custom ("
+msgstr "フレームレーチEカスタム ("
+
+msgid "Frame Rate/Film (24)"
+msgstr "フレームレーチEフィルム (24)"
+
+msgid "Frame Rate/NTSC (29.97)"
+msgstr "フレームレーチENTSC (29.97)"
+
+msgid "Frame Rate/PAL (25)"
+msgstr "フレームレーチEPAL (25)"
+
+msgid "Hide Inline Curves"
+msgstr "インラインカーブ非表示"
+
+msgid "Inactive"
+msgstr "非アクチE��チE
+
+msgid "Leave As Is"
+msgstr "そ�Eまま"
+
+msgid "Markers"
+msgstr "マ�Eカー"
+
+msgid "Match Clip"
+msgstr "クリチE�EマッチE
+
+msgid "Must be disabled when the Source Game Object references the same PlayableDirector component that is being controlled"
+msgstr "ソースゲームオブジェクトが同じく制御されてぁE��PlayableDirectorを参照してぁE��場合�E無効にしてぁE��ければなりません"
+
+msgid "Pan"
+msgstr "パン"
+
+msgid "Playable Track"
+msgstr "プレイアブルトラチE��"
+
+msgid "Playback Scrolling mode/None"
+msgstr "プレイバックスクロールモーチEなぁE
+
+msgid "Playback Scrolling mode/Smooth"
+msgstr "プレイバックスクロールモーチEスムース"
+
+msgid "Reparent"
+msgstr "リペアレンチE
+
+msgid "Set Transform Offsets"
+msgstr "トランスフォームオフセチE��設宁E
+
+msgid "Show Inline Curves"
+msgstr "インラインカーブ表示"
+
+msgid "Signal Asset"
+msgstr "シグナルアセチE��"
+
+msgid "Signal Emitter"
+msgstr "シグナルエミッター"
+
+msgid "Signal Track"
+msgstr "シグナルトラチE��"
+
+msgid "Smooth"
+msgstr "スムース"
+
+msgid "Source Game Object"
+msgstr "ソースゲームオブジェクチE
+
+msgid "Spatial Blend"
+msgstr "空間的ブレンチE
+
+msgid "Stereo Pan"
+msgstr "スチE��オパン"
+
+msgid "Umute"
+msgstr "ミュート解除"
+
+msgid "Use Source Asset"
+msgstr "ソースアセチE��を使用"
+
+msgid "Volume"
+msgstr "音釁E
+
+msgid "translation: {0}   scale: {1}   rect: {2}   shownRange: {3}"
+msgstr "トランスレーション: {0}   スケール: {1}   矩形: {2}   矩形表示: {3}"

@@ -1,0 +1,11 @@
+== NotChange ==
+? {0} 在当前工作区中未更改
+
+== CannotMergeMergeInProgress ==
+无法?始新的合并，因?已在?行合并。?先完成?合并再?始新的合并。正在从?更集 {1} ?行合并：{0}
+
+== CannotUndoAdded ==
+无法撤?已更改的 '{0}'，因?包含非添加的更改
+
+== CannotUndoCopied ==
+无法撤?包含内容的已?制目?

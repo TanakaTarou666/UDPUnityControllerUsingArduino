@@ -1,0 +1,942 @@
+== MergetoolWindowTitle ==
+Unity Version Control 合并工具
+
+== FirstConflictButtonTooltip ==
+?到第一个冲突 (Ctrl + Shift + -)
+
+== PrevConflictButtonTooltip ==
+上一个冲突 (Ctrl + -)
+
+== NextConflictButtonTooltip ==
+下一个冲突 (Ctrl + +)
+
+== LastConflictButtonTooltip ==
+?到最后一个冲突 (Ctrl + Shift + +)
+
+== PrevNotAutomaticConflictButtonTooltip ==
+上一个非自?冲突 (Ctrl + PageUp)
+
+== NextNotAutomaticConflictButtonTooltip ==
+下一个非自?冲突 (Ctrl + PageDown)
+
+== PendingAutomaticConflictsLabel ==
+当前冲突：{0} / {1}
+
+== PendingNonAutomaticConflictsLabel ==
+待定未解决冲突：{0} / {1}
+
+== NonAutomaticConflictsLabelTooltip ==
+当前未解决非自?冲突
+
+== CurrentConflictLabelTooltip ==
+当前合并冲突
+
+== NonAutomaticConflictsNavigationTooltip ==
+??当前未解决的冲突
+
+== AutomaticConflictsNavigationTooltip ==
+??合并冲突
+
+== AutomaticConflictMarkup ==
+当前冲突是<span foreground='green'>自?</span>的。无需用?干?。
+
+== NonAutomaticConflictMarkup ==
+当前冲突是<span foreground='red'>非自?</span>的。通???上面的按?、???果文件或将冲突???已解决来解决冲突。
+
+== NonAutomaticConflictMarkedAsResolvedMarkup ==
+当前冲突是<span foreground='green'>非自?</span>的，并且用?<span foreground='green'>已解决</span>?冲突。
+
+== MarkAsResolvedButton ==
+???已解决
+
+== MarkAsUnresolvedButton ==
+???未解决
+
+== WinMergetoolUsageTitle ==
+Mergetool 用法
+
+== WinMergetoolUsage ==
+用法：mergetool [<diffOptions> | <mergeOptions>]
+
+    diffOptions:<generalFiles> [<generalOptions>]
+
+    mergeOptions:<generalFiles> <baseFile> [<baseSymbolicName>] [[<automatic>] [<silent>] <resultFile>] [<mergeType>] [<generalOptions>]
+
+        baseFile:{-b | --base}=<filename>
+        baseSymbolicName:{-bn | --basesymbolicname}=<symbolicname>
+        automatic:-a | --automatic
+        silent:--silent
+        resultFile:{-r | --result}=<filename>
+        mergeType:{-m | --mergeresolutiontype}={onlyone | onlysrc | onlydst | try | forced}
+
+    generalFiles:<sourceFile> [<srcSymbolicName>] <destination> [<dstSymbolicName>]
+
+        sourceFile:{-s | --source}=<filename>
+        srcSymbolicName:{-sn | --srcsymbolicname}=<symbolicname>
+        destinationFile:{-d | --destination}=<filename>
+        dstSymbolicName:{-dn | --dstsymbolicname}=<symbolicname>
+
+    generalOptions:[<defaultEncoding>] [<comparisonMethod>] [<fileType>] [<resultEncoding>]
+
+        defaultEncoding:{-e | --encoding}={none |ascii | unicode | bigendian | utf7 | utf8}
+        comparisonMethod:{-i | --ignore}={none | eol | whitespaces | eol&whitespaces}
+        fileType:{-t | --filestype}={text/csharp | text/XML | text}
+        resultEncoding:{-re | --resultencoding}={none |ascii | unicode | bigendian | utf7 | utf8}
+        progress:{--progress}=指示当前?度的?度字符串，例如：正在合并文件 1/8
+        extraInfoFile:{--extrainfofile}=文件的路径，文件中包含有?合并的?外信息
+
+    ?注：
+          
+        -a | --automatic:??自?解决合并。
+                             如果无法自?解决合并（需要用?交互），?会?示合并工具。
+        --silent:此??必?与 --automatic ???合使用。
+                             当无法自?解决合并?，此??将使?工具立即返回
+                             一个非零退出代?（不?示任何合并工具）。
+                             如果?工具能?自?解决合并，?程序将返回退出代? 0。
+
+    示例：
+
+        mergetool
+        mergetool -s=file1.txt -d=file2.txt
+        mergetool -s=file1.txt -b=file0.txt --destination=file2.txt
+        mergetool --base=file0.txt -d=file2.txt --source=file1.txt --automatic --result=result.txt
+        mergetool -b=file0.txt -s=file1.txt -d=file2.txt -a -r=result.txt -e=utf7 -i=eol -t=text/csharp -m=onlyone
+        
+== BrowseForSaveFileTitle ==
+保存文件
+
+== PendingUnsolvedConflicts ==
+?文件仍然有 {0} 个未解决的冲突。
+
+== FileChangedSinceSaved ==
+自上次保存以来，?文件已更改。
+
+== SaveAndExitDialogButton ==
+保存并退出
+
+== ExitWithoutSavingButton ==
+退出但不保存
+
+== CloseButton ==
+??
+
+== OkButton ==
+?定
+
+== CancelButton ==
+取消
+
+== SourceHeaderButton ==
+??源：'{0}'
+
+== SourceHeaderPressedButton ==
+取消????源：'{0}'
+
+== SourceHeaderButtonTooltip ==
+(Ctrl+1)
+
+== BaseHeaderButton ==
+??基?：'{0}'
+
+== BaseHeaderPressedButton ==
+取消??基?：'{0}'
+
+== BaseHeaderButtonTooltip ==
+(Ctrl+2)
+
+== DestinationHeaderButton ==
+??目?：'{0}'
+
+== DestinationHeaderPressedButton ==
+取消??目?：'{0}'
+
+== DestinationHeaderButtonTooltip ==
+(Ctrl+3)
+
+== ResultButton ==
+???果
+
+== ResultPressedButton ==
+取消???果
+
+== ResultButtonTooltip ==
+(Ctrl+4)
+
+== SaveAndExitButton ==
+保存并退出
+
+== SaveAndExitTooltip ==
+保存?果并?? Mergetool
+
+== SaveAsTooltip ==
+将?果保存到新文件中
+
+== SaveButton ==
+保存
+
+== SaveButtonTooltip ==
+保存更改 (Ctrl+S)
+
+== SaveAsMenu ==
+?存?...
+
+== MergeButton ==
+合并
+
+== KeepSrcMenu ==
+保留源参与者并退出
+
+== KeepBaseMenu ==
+保留基?参与者并退出
+
+== KeepDstMenu ==
+保留目?参与者并退出
+
+== SrcNeeded ==
+需要源文件名
+
+== DstNeeded ==
+需要目?文件名
+
+== ResultNeeded ==
+在自?合并中，需要?果文件名
+
+== AutomaticNeeded ==
+在静默模式中，需要自?合并??
+
+== FileTypeError ==
+{0} 不是用于???法的有效文件?型
+
+== CompMethodError ==
+无效的比?方法
+
+== ArgError ==
+指定的参数无效
+
+== SrcEncodingMenuTitle ==
+源??
+
+== DstEncodingMenuTitle ==
+目???
+
+== BaseEncodingMenuTitle ==
+基???
+
+== ResultEncodingMenuTitle ==
+?果??
+
+== SplitBlocksMenuTitle ==
+拆分冲突?
+
+== ComparisonMethodMenuTitle ==
+比?方法
+
+== RecognizeAll ==
+??全部
+
+== IgnoreEol ==
+忽略行尾
+
+== IgnoreWhitespace ==
+忽略空格
+
+== IgnoreEolWhitespace ==
+忽略行尾和空格
+
+== EncodingDialogTitle ==
+????
+
+== EncodingDialogDescription ==
+??字符??
+
+== EncodingDialogLabel ==
+??：
+
+== DefaultEncoding ==
+默???：
+
+== ResultEncoding ==
+?果??：
+
+== NoneEncoding ==
+无
+
+== AsciiEncoding ==
+ASCII
+
+== UnicodeEncoding ==
+Unicode
+
+== UnicodeBigEndianEncoding ==
+Unicode Big-Endian
+
+== Utf8Encoding ==
+UTF-8
+
+== OtherEncoding ==
+其他...
+
+== ChangeEncoding ==
+更改...
+
+== Options ==
+??
+
+== FindButton ==
+?找...
+
+== MatchCase ==
+匹配大小写
+
+== MergeResolutionOptionsTooltip ==
+合并解决??
+
+== MergeOptionsTooltip ==
+?示和?算??
+
+== SyntaxHighlight ==
+?法??
+
+== FirstDiffButtonTooltip ==
+第一个差?
+
+== PrevDiffButtonTooltip ==
+上一个差?
+
+== NextDiffButtonTooltip ==
+下一个差?
+
+== LastDiffButtonTooltip ==
+最后一个差?
+
+== FirstDiffButtonTooltipWithShortcut ==
+第一个差? (Ctrl + Shift + n)
+
+== PrevDiffButtonTooltipWithShortcut ==
+上一个差? (Ctrl + n)
+
+== NextDiffButtonTooltipWithShortcut ==
+下一个差? (Ctrl + m)
+
+== LastDiffButtonTooltipWithShortcut ==
+最后一个差? (Ctrl + Shift + m)
+
+== CurrentDifference ==
+当前：{0}/{1}
+
+== LeftEncoding ==
+左???
+
+== RightEncoding ==
+右???
+
+== DifferencesWindowTitle ==
+差?
+
+== AutomaticConflictChunk1 ==
+当前冲突是
+
+== AutomaticConflictChunk2 ==
+自?冲突
+
+== AutomaticConflictChunk3 ==
+.无需用?干?。
+
+== SolvedConflictChunk1 ==
+当前冲突是
+
+== SolvedConflictChunk2 ==
+非自?冲突
+
+== SolvedConflictChunk3 ==
+，并且已被
+
+== SolvedConflictChunk4 ==
+解决
+
+== SolvedConflictChunk5 ==
+ （由用?解决）。
+
+== NonAutomaticConflictChunk1 ==
+当前冲突是
+
+== NonAutomaticConflictChunk2 ==
+非自?冲突
+
+== NonAutomaticConflictChunk3 ==
+.通???上面的按?、???果文件或将冲突???已解决来解决冲突。
+
+== PatternNotFound ==
+找不到模式
+
+== PreviousSearchButtonTooltip ==
+搜索上一个匹配?
+
+== NextSearchButtonTooltip ==
+搜索下一个匹配?
+
+== UnexpectedError ==
+?生了意外??。
+
+== GoToLineMenuItem ==
+?到行...
+
+== AddDiffSelectionMenuItem ==
+添加差?比????
+
+== DiffWithPreviousSelectionMenuItem ==
+与前一个????行差?比?
+
+== FindMenuItem ==
+?找...
+
+== FindNextMenuItem ==
+?找下一个
+
+== FirstSelection ==
+第一个???
+
+== SecondSelection ==
+第二个???
+
+== SemanticDiffMovedCode ==
+差?比?已移?的代?...
+
+== SemanticGoToMovedCode ==
+?到已移?的代?
+
+== SemanticDiffChangedCode ==
+差?比?已更改的代?...
+
+== SyncMovedCode ==
+同??部已移?的代?
+
+== UnsyncMovedCode ==
+?原??位置
+
+== OutliningMenu ==
+大?
+
+== CollapseRegionsWithoutDiffsMenu ==
+折?没有差?的区域
+
+== CollapseToDefinitionsMenu ==
+折?到定?
+
+== ExpandAllMenu ==
+全部展?
+
+== Merged ==
+已合并
+
+== LoadingAnnotations ==
+正在加?批注...
+
+== AnnotateLineInfoChangeset ==
+?更集
+
+== AnnotateLineInfoTimeStamp ==
+?建日期
+
+== AnnotateLineInfoOwner ==
+所有者
+
+== AnnotateLineInfoComments ==
+注?
+
+== AnnotateColorByAuthor ==
+按作者着色
+
+== AnnotateColorByDate ==
+按日期着色
+
+== AnnotateContextMenu ==
+批注
+
+== AnnotateShowAuthor ==
+?示作者
+
+== AnnotateShowBranch ==
+?示分支
+
+== AnnotateShowChangeInMerge ==
+?示是否在合并中更改了行
+
+== AnnotateShowChangeset ==
+?示?更集
+
+== AnnotateShowDateModified ==
+?示修改日期
+
+== AnnotateShowLineAge ==
+?示行的存在??
+
+== BigFileMessage ==
+?文件很大。?算差?可能需要一段??。如果??要?算此文件的差?，???按?。
+
+== CalculateDifferencesButton ==
+?算差?
+
+== BranchChanges ==
+分支更改
+
+== BranchChangesTooltip ==
+突出?示分支中所做的更改
+
+== ConflictChanges ==
+冲突更改
+
+== ConflictChangesTooltip ==
+突出?示用?在合并期?已解决冲突的更改
+
+== MergedChanges ==
+已合并更改
+
+== MergedChangesTooltip ==
+突出?示来自合并的更改
+
+== CaseSensitiveCheckBox ==
+匹配大小写
+
+== ColorsConfigurationMenuItem ==
+配置字体和?色...
+
+== ComparisonMethodMenuItem ==
+比?方法
+
+== ComparisonMethodIgnoreEolMenuItem ==
+忽略行尾
+
+== ComparisonMethodIgnoreWhitespacesMenuItem ==
+忽略空格
+
+== ComparisonMethodIgnoreEolWhitespacesMenuItem ==
+忽略行尾和空格
+
+== ComparisonMethodRecognizeAllMenuItem ==
+??全部
+
+== Content ==
+{0} 的内容
+
+== CopyToClipboard ==
+?制到剪?板
+
+== DiffWaitingAnimation ==
+正在?算差?...
+
+== DiscardButton ==
+放弃
+
+== DiscardButtonTooltip ==
+放弃更改
+
+== EditorOptions ==
+??器??
+
+== EditorOptionsConvertTabsToSpaces ==
+???将制表符???空格
+
+== EditorOptionsWhistespaces ==
+?看空格
+
+== EditorOptionsTabs ==
+制表符
+
+== EditorOptionsTabsSpacesNumber ==
+{0} 个空格
+
+== EditorOptionsColumnGuides ==
+分列?助?
+
+== EditorOptionsColumnsNumber ==
+{0} 列
+
+== EditorOptionsBorderLines ==
+?看未?定区域的?界?
+
+== EncodingDifferences ==
+??已从 {0} 更改? {1}。
+
+== FsProtectionDifferences ==
+文件系??限已从 {0} 更改? {1}
+
+== UnableCalculateDiffs ==
+无法?算差?。
+
+== HideUnchanged ==
+?藏未更改?
+
+== HideUnchangedTooltip ==
+??示已更改的声明
+
+== ShowUnchanged ==
+?示未更改?
+
+== ShowUnchangedTooltip ==
+?示完整的文件?，以便能????个声明
+
+== GroupUnchanged ==
+将未更改?分?
+
+== GroupUnchangedTooltip ==
+?示已更改的声明，并将其余声明分???个未更改?
+
+== ZoomIn ==
+放大
+
+== ZoomInTooltip ==
+放大?形 - 也可以在按住 Control ?的同?使用??
+
+== ZoomOut ==
+?小
+
+== ZoomOutTooltip ==
+?小?形 - 也可以在按住 Control ?的同?使用??
+
+== ErrorSavingFile ==
+保存文件??生了??：{0}
+
+== Find ==
+?找：
+
+== FindCloseButtonTooltip ==
+??搜索?
+
+== FindPreviousButtonTooltip ==
+搜索上一个匹配?
+
+== FindNextButtonTooltip ==
+搜索下一个匹配?
+
+== MovedDetectionMenuItem ==
+已移???
+
+== MovedDetectionDialogMenuItem ==
+已移???...
+
+== EnableMoveDetectionMenuItem ==
+?用已移???
+
+== MoveDetectionRatio ==
+移???比率
+
+== MinimumLinesInDifference ==
+最少差?行数
+
+== MaximizeButtonLeftTooltip ==
+最大化左?面板
+
+== MaximizeButtonRightTooltip ==
+最大化右?面板
+
+== RestoreButtonLeftTooltip ==
+?原左?面板
+
+== RestoreButtonRightTooltip ==
+?原右?面板
+
+== OutliningPreferencesTitle ==
+大?首??
+
+== OutliningPreferencesCaption ==
+大?首??
+
+== OutliningPreferencesDetails ==
+??加?文件?首?的大?模式
+
+== OutliningPreferencesExplanation ==
+加?文件后，使用以下大?模式：
+
+== OutliningPreferencesCollapseWithoutDiffs ==
+折?没有差?的区域
+
+== OutliningPreferencesCollapseToDefinitions ==
+折?到定?
+
+== OutliningPreferencesExpandAll ==
+全部展?
+
+== NavigationTooltip ==
+?到已移?的片段
+
+== XDiffTooltip ==
+并排?示已移?的片段的差?
+
+== XDiffFragment ==
+[片段]
+
+== FontsAndColorsMenuItem ==
+字体和?色
+
+== FontDoesNotSupportStrikeout ==
+字体 {0} 不支持?用程序使用的?除??式。???其他字体。
+
+== ChangeFontMenuItem ==
+更改字体...
+
+== LeftDiffColorMenuItem ==
+左?差??色
+
+== RightDiffColorMenuItem ==
+右?差??色
+
+== RestoreDefaultsMenuItem ==
+?原默??
+
+== FilesIdentical ==
+文件相同。
+
+== AddDiffSelection ==
+添加差?比????
+
+== DiffWithPreviousSelection ==
+与前一个????行差?比?
+
+== DiffSourceWithBase ==
+差?比?基?和源参与者
+
+== DiffDestinationWithBase ==
+差?比?基?和目?参与者
+
+== DiffDestinationWithSource ==
+差?比?源参与者和目?参与者
+
+== Encoding ==
+??
+
+== FontMenuItem ==
+字体
+
+== DuplicatedArg ==
+重?参数 {0}。
+
+== MergeTypeError ==
+{0} 不是有效的合并解决?型
+
+== MergeExplanation ==
+此??将??一个三向合并工具，?及基?文件、源文件和目?文件。?将能?将?果保存到?一个文件中。
+
+== DifferencesExplanation ==
+此??将??可?文本文件差?比?工具。????个文件以?看它?之?的文本差?。
+
+== XMergeNoChanges ==
+Xmerge ?果?空。不会?行任何更改。
+
+== XMergeConfirmationMessage ==
+Xmerge ?果将替??的??，并会?弃非自?冲突。是否要??？
+
+== SourceDesc ==
+源（要合并的代?）
+
+== SourceLoc ==
+在源中
+
+== DestinationDesc ==
+目?（工作副本）
+
+== DestinationLoc ==
+在目?中
+
+== HowXMergeFormat ==
+?有一个合并冲突，但{0}不再存在于??。
+
+?生了什?情况？一名??者很可能已?移?了一段代? ({1})，而?一名??者已?在原始位置 ({2}) 修改了?段代?。
+
+== UnauthorizedAccessFile ==
+无法保存文件 '{0}'，因??没有?限。?可以将文件保存在其他路径中。
+
+== AutomaticConflictMarkup1 ==
+当前冲突是
+
+== AutomaticConflictMarkup2 ==
+自?冲突
+
+== AutomaticConflictMarkup3 ==
+.无需用?干?。
+
+== SolvedConflictMarkup1 ==
+当前冲突是
+
+== SolvedConflictMarkup2 ==
+非自?冲突
+
+== SolvedConflictMarkup3 ==
+ ，并且已被
+
+== SolvedConflictMarkup4 ==
+解决
+
+== SolvedConflictMarkup5 ==
+ （由用?解决）。
+
+== NonAutomaticConflictMarkup1 ==
+当前冲突是
+
+== NonAutomaticConflictMarkup2 ==
+非自?冲突
+
+== NonAutomaticConflictMarkup3 ==
+.通???上面的按?、???果文件或将冲突???已解决来解决冲突。
+
+== MarkAsResolvedExplanation ==
+使用下面的按?????到?果文件的参与者（源、基?或目?）。或者，如果建?的?果已?很好，???“???已解决”
+
+== MarkAsUnresolvedButton ==
+???未解决
+
+== SourceFileName ==
+源文件：{0}
+
+== BaseFileName ==
+基?文件：{0}
+
+== DestinationFileName ==
+目?文件：{0}
+
+== RestoreButtonSrcTooltip ==
+?原源面板
+
+== RestoreButtonBaseTooltip ==
+?原基?面板
+
+== RestoreButtonDstTooltip ==
+?原目?面板
+
+== RestoreButtonResultTooltip ==
+?原?果面板
+
+== MaximizeButtonSrcTooltip ==
+最大化源面板
+
+== MaximizeButtonBaseTooltip ==
+最大化基?面板
+
+== MaximizeButtonDstTooltip ==
+最大化目?面板
+
+== MaximizeButtonResultTooltip ==
+最大化?果面板
+
+== PendingNonAutomatic ==
+待解决：{0}/{1}
+
+== PreviousConflictButtonTooltip ==
+上一个冲突 (Ctrl+-)
+
+== PreviousUnsolvedConflictButtonTooltip ==
+上一个非自?冲突 (Ctrl+PageUp)
+
+== NextUnsolvedConflictButtonTooltip ==
+下一个非自?冲突 (Ctrl+PagDown)
+
+== OptionsButton ==
+??
+
+== BaseEncodingMenuItem ==
+基???
+
+== SrcEncodingMenuItem ==
+源??
+
+== DstEncodingMenuItem ==
+目???
+
+== ResultEncodingMenuItem ==
+?果??
+
+== SplitMenuItem ==
+拆分冲突?
+
+== XmergeButton ==
+XMerge...
+
+== XmergeButtonTooltip ==
+?? XMerge 向?
+
+== XmergeMenuItem ==
+XMerge...
+
+== XmergeNoTextSelected ==
+未??文本。无法?行 Xmerge。
+
+== XmergeNotEnoughInfo ==
+没有足?的信息来?行 XMerge
+
+== XmergeRemovedTextSelected ==
+??的行已被?除。它?不再是有效的 Xmerge ???。
+
+== XmergeStartTip ==
+此窗口?示已移?和已修改的代?片段。已移?的代?位于{0} ({1})。{2} ({3}) 是在移?代?之前的已修改代?。?解决剩余的手?冲突，然后??“保存并退出”。
+
+== UnsolvedPendingConflicts ==
+?文件仍然有 {0} 个未解决的冲突。
+
+== ChangedFile ==
+自上次保存以来，?文件已更改。
+
+== MergeWaitingAnimation ==
+正在?算冲突。?稍候...
+
+== SaveAsButton ==
+?存?...
+
+== SaveBaseContributor ==
+保留基?参与者并退出
+
+== SaveDstContributor ==
+保留目?参与者并退出
+
+== SaveSrcContributor ==
+保留源参与者并退出
+
+== ExtraInfoButton ==
+有?此合并的信息
+
+== ExtraInfoButtonTooltip ==
+在面板中?示有?此合并的信息
+
+== Left ==
+左?
+
+== Right ==
+右?
+
+== SourceContributor ==
+源参与者
+
+== DestinationContributor ==
+目?参与者
+
+== MovedCode ==
+已移?代?段。
+
+== ModifiedCode ==
+原始位置中已修改代?段。
+
+== OriginalCode ==
+原始代?段。
+
+== ResultFile ==
+?果文件
+
+== AnnotateOptions ==
+批注??
+
+== Copy ==
+?制
+
+== Cut ==
+剪切
+
+== Paste ==
+粘?
+
+== SelectAll ==
+全?
+
+== FileTooLargeToDisplay ==
+文件太大，无法?示内容。
+
+== BinMergeToolUnsupportedFileTypeForDiff ==
+二?制文件差?比?不支持的文件?型。?支持?像

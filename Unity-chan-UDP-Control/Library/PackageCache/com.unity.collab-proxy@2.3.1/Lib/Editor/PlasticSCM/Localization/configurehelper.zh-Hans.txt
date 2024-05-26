@@ -1,0 +1,110 @@
+== ConfiguringLanguage ==
+正在配置?言。?些是可用的?言
+
+== ChooseLanguage ==
+???言（?入数字）
+
+== YesAnswers ==
+是|y
+
+== YesOrNoDefaultYes ==
+[Y/n]
+
+== YesOrNoDefaultNo ==
+[y/N]
+
+== ConfiguringEdition ==
+Unity VCS 有??版本：Enterprise（面向需要高度可?展性的大型??）和 Team（面向最多 15 名??者的??）。可在 plasticscm.com 中了解有?版本的更多信息
+
+== ChooseEdition ==
+??要安装的版本（?入一个数字）
+
+== ConfiguringWorkingMode ==
+??用?身???模式。?些是可用的模式
+
+== ChooseWorkingMode ==
+??模式（?入数字）
+
+== NameWorkingMode ==
+名称
+
+== NameIdWorkingMode ==
+名称 + ID
+
+== AdWorkingMode ==
+Active Directory
+
+== LdapWorkingMode ==
+LDAP
+
+== UpWorkingMode ==
+用?和密?
+
+== ConfiguringLdap ==
+正在配置 LDAP ?接...
+
+== ConfiguringUp ==
+配置?的凭据：
+
+== ConfiguringLicenseToken ==
+配置???可?的自???：
+
+== LicenseToken ==
+?可?令牌 [按 ENTER 跳?]
+
+== UpUserName ==
+用?名
+
+== UpPassword ==
+密?
+
+== LdapServer ==
+LDAP 服?器
+
+== LdapPort ==
+LDAP 端口 [389]
+
+== LdapDomain ==
+LDAP 域
+
+== LdapUser ==
+LDAP 用?
+
+== LdapPassword ==
+LDAP 密?
+
+== MsgError ==
+??：
+
+== AvailableLdapTypes ==
+可用的 LDAP 服?器?型
+
+== ChooseType ==
+服?器?型（?入数字）
+
+== InvalidOption ==
+无效的??。
+
+== InvalidValue ==
+无效?。
+
+== InvalidParameter ==
+无效的参数：{0}
+
+== InvalidLanguage ==
+无效的?言：{0}
+
+== InvalidWorkingModeConf ==
+无效的工作模式：{0}
+
+== InvalidLdapType ==
+无效的 LDAP 服?器?型：{0}
+
+== ParameterNotPresent ==
+参数 {0} 不存在或无效
+
+== NoPortInRemotingFile ==
+?程配置文件中未指定端口
+
+== InvalidPortNumber ==
+无效的端口号：{0}

@@ -1,0 +1,4801 @@
+== Branch ==
+ブランチE
+== Branches ==
+ブランチE
+== Changeset ==
+変更セチE��
+
+== Label ==
+ラベル
+
+== Labels ==
+ラベル
+
+== Server ==
+サーバ�E
+
+== Repository ==
+リポジトリ
+
+== Checkin ==
+チェチE��イン
+
+== UndoChanges ==
+変更を取り消す
+
+== UpdateWorkspace ==
+ワークスペ�Eスを更新
+
+== ItemsMenuUndoCheckout ==
+チェチE��アウトを取り消す
+
+== ItemsMenuUndoChanges ==
+変更を取り消す
+
+== ItemsMenuChangeRevType ==
+リビジョンタイプを変更
+
+== MenuItemExternalTools ==
+外部チE�Eル
+
+== ItemNameEmpty ==
+名前を空にすることはできません
+
+== ItemExists ==
+頁E�� {0} はすでに存在しまぁE
+== MovingItems ==
+頁E��を移動してぁE��ぁE..
+
+== Options ==
+オプション
+
+== BranchExplorerOptionsToggleTooltip ==
+オプションパネルを非表示また�E表示
+
+== GoButton ==
+移勁E
+== GoToBranchBase ==
+ブランチ�Eースに移勁E
+== BranchExplorerMenu ==
+ブランチエクスプローラー
+
+== FilterSelectedBranches ==
+選択したブランチをフィルター処琁E
+== FilterSelectedAndRelatedBranches ==
+選択したブランチと関連ブランチをフィルター処琁E
+== FilterSelectedBranchesPendingMerges ==
+選択したブランチ�E保留中のマ�Eジをフィルター処琁E
+== GoToParentChangeset ==
+親変更セチE��に移勁E
+== AddInclusion ==
+匁E��を追加
+
+== AddExclusion ==
+除外を追加
+
+== CustomBranchQuery ==
+カスタムブランチ�Eクエリルール
+
+== CustomChangesetQuery ==
+カスタム変更セチE��のクエリルール
+
+== CustomLabelQuery ==
+カスタムラベルのクエリルール
+
+== ConditionalBranchFormatText ==
+新しい条件付きブランチ形弁E(強調表示されるブランチE
+
+== ConditionalChangesetFormatText ==
+新しい条件付き変更セチE��形弁E(強調表示される変更セチE��)
+
+== ConditionalLabelFormatText ==
+新しい条件付きラベル形弁E(強調表示されるラベル)
+
+== InclusionRuleText ==
+新しい匁E��ブランチフィルター (含められるブランチE
+
+== ExclusionRuleText ==
+新しい除外ブランチフィルター (除外されるブランチE
+
+== ActiveBranch ==
+ワークスペ�Eス冁E�EアクチE��ブなブランチE
+== ActiveBranches ==
+ワークスペ�Eス冁E�E褁E��のアクチE��ブなブランチE
+== BranchesWithPendingIntegrations ==
+保留中のマ�EジがあるブランチE
+== AddFormat ==
+フォーマットを追加
+
+== Calculating ==
+計算してぁE��ぁE..
+
+== CopyrightTextFormat ==
+Copyright © 2006-{0} Unity Technologies. All Rights Reserved.
+
+== FiltersAndConditionalFormat ==
+フィルターと形弁E
+== ReleaseNotesLinkText ==
+リリースノ�EチE
+== WebsiteLink ==
+https://unity.com
+
+== ReleaseNotesUrlPreffix ==
+https://www.plasticscm.com/download/releasenotes/
+
+== RevertStart ==
+ワークスペ�Eスのリビジョンを�Eに戻してぁE��ぁE..
+
+== RevertingItemsSingular ==
+1 頁E��を�Eに戻してぁE��ぁE..
+
+== RevertingItemsPlural ==
+{0} 頁E��を�Eに戻してぁE��ぁE..
+
+== RevertingProgress ==
+{1} 個�EぁE��ファイル {0} を�Eに戻してぁE��ぁE{2}
+
+== Validating ==
+チE�Eタを検証してぁE��ぁE..
+
+== UpdateReportNoLinesSelected ==
+更新するパスを選択してください
+
+== UpdateProgressCalculating ==
+計算してぁE��ぁE..
+
+== UpdateProgressUpdating ==
+更新してぁE��ぁE..
+
+== UpdateProgressSingular ==
+{1} 中 {0} を更新しました (1 個中 {2} 個�Eファイル){4}
+
+== UpdateProgressPlural ==
+{1} 中 {0} を更新しました ({3} 個中 {2} 個�Eファイル){4}
+
+== CheckinComments ==
+チェチE��インのコメンチE
+== UpdatingSelectedItems ==
+選択された頁E��を更新してぁE��ぁE..
+
+== LoadingItems ==
+頁E��をロードしてぁE��ぁE..
+
+== LoadingBranches ==
+ブランチをロードしてぁE��ぁE..
+
+== LoadingBranchExplorer ==
+ブランチエクスプローラーをロードしてぁE��ぁE..
+
+== LoadingLabels ==
+ラベルをロードしてぁE��ぁE..
+
+== LoadingChangesets ==
+変更セチE��をロードしてぁE��ぁE..
+
+== LoadingShelves ==
+シェルブをロードしてぁE��ぁE..
+
+== LoadingSyncViewDetails ==
+同期ビューの詳細をロードしてぁE��ぁE..
+
+== LoadingDeletedItems ==
+削除された頁E��をロードしてぁE��ぁE..
+
+== UncheckoutStart ==
+選択された頁E��のチェチE��アウトを解除してぁE��ぁE..
+
+== ActionMenuButtonTooltip ==
+選択した頁E��に対してアクションを実行しまぁE
+== MainSidebarItemsItem ==
+ワークスペ�Eスエクスプローラー
+
+== MainSidebarPendingChangesItem ==
+保留中の変更
+
+== MainSidebarBranchesItem ==
+ブランチE
+== MainSidebarBranchExplorerItem ==
+ブランチエクスプローラー
+
+== MainSidebarChangesetsItem ==
+変更セチE��
+
+== MainSidebarLabelsItem ==
+ラベル
+
+== MainSidebarAttributesItem ==
+属性
+
+== MainSidebarSyncItem ==
+リポジトリを同朁E
+== MainSidebarSyncItemCloudEdition ==
+Cloud に同期
+
+== MainSidebarMergeItem ==
+マ�Eジ
+
+== MainSidebarIncomingChangesItem ==
+受信される変更
+
+== MainSidebarPreferencesItem ==
+環墁E��宁E
+== MainSidebarAboutItem ==
+Unity DevOps Version Control につぁE��
+
+== MainSidebarAboutGluonItem ==
+Gluon につぁE��
+
+== MainSidebarCodeReviewsItem ==
+コードレビュー
+
+== ItemColumn ==
+頁E��
+
+== StatusColumn ==
+スチE�Eタス
+
+== ExtensionColumn ==
+拡張孁E
+== TypeColumn ==
+タイチE
+== DateModifiedColumn ==
+変更日
+
+== RepositoryColumn ==
+リポジトリ
+
+== ServerColumn ==
+サーバ�E
+
+== ObjectNameColumn ==
+オブジェクト名
+
+== NameColumn ==
+名前
+
+== PathColumn ==
+パス
+
+== ProblemColumn ==
+問顁E
+== SeverityColumn ==
+重大度
+
+== TimestampColumn ==
+タイムスタンチE
+== LastEditedByColumn ==
+最終編雁E��E
+== CreationDateColumn ==
+作�E日
+
+== GuidColumn ==
+GUID
+
+== CommentColumn ==
+コメンチE
+== ItemsCount ==
+({0})
+
+== ItemsCountSingular ==
+(1 頁E��)
+
+== ItemsCountPlural ==
+({0} 頁E��)
+
+== ItemsSelected ==
+({0}/{1} selected)
+
+== ItemsSelectedSingular ==
+1 頁E��のぁE�� {0} 個が選択されてぁE��ぁE
+== ItemsSelectedPlural ==
+{1} 頁E��のぁE�� {0} 個が選択されてぁE��ぁE
+== ItemsSelectedForGluonSingular ==
+1 頁E��中 {0} 倁E
+== ItemsSelectedForGluonPlural ==
+{1} 頁E��中 {0} 倁E
+== ChangedItemsCategory ==
+変更された頁E��
+
+== AddedPrivateItemsCategory ==
+追加済みと非�E閁E
+== DeletedItemsCategory ==
+削除された頁E��
+
+== MovedItemsCategory ==
+移動された頁E��
+
+== DeletingObjectsSingular ==
+1 個�Eオブジェクトを削除しよぁE��してぁE��ぁE
+== DeletingObjectsPlural ==
+{0} 個�Eオブジェクトを削除しよぁE��してぁE��ぁE
+== DeleteObjectsSingular ==
+1 個�Eオブジェクトを削除しよぁE��してぁE��す。よろしぁE��すか?
+
+== DeleteObjectsPlural ==
+{0} 個�Eオブジェクトを削除しよぁE��してぁE��す。よろしぁE��すか?
+
+== ConfirmRevertTitle ==
+允E��戻す操作を確誁E
+== ConfirmRevertMessage ==
+コンチE��チE��リビジョン {0} に戻します。続行しますか?
+
+== ConfirmRevertToClientDiffsMessage ==
+選択されたファイルは允E��戻されます。続行しますか?
+
+== ConfirmUndeleteTitle ==
+削除の取り消しを確誁E
+== ConfirmUndeleteMessage ==
+選択されたファイルの削除は取り消されます。続行しますか?
+
+== FromTo ==
+{0} から {1}
+
+== From ==
+允E
+== To ==
+から
+
+== AddProgress ==
+頁E��を追加してぁE��ぁE..
+
+== CheckoutProgress ==
+頁E��をチェチE��アウトしてぁE��ぁE..
+
+== UndoingPendingChanges ==
+変更を取り消してぁE��ぁE..
+
+== UndoingUnchanged ==
+未変更の頁E��を取り消してぁE��ぁE..
+
+== ShelvingPendingChanges ==
+変更をシェルブしてぁE��ぁE..
+
+== UndoingChangedFiles ==
+変更を取り消してぁE��ぁE..
+
+== UndoingChangedFilesError ==
+変更の取り消し操作中にエラーが発生しました:
+
+== New ==
+新要E..
+
+== ItemsMenuItemHistory ==
+履歴
+
+== ItemsMenuItemAnnotate ==
+注釁E
+== NoItemsAreSelected ==
+頁E��が選択されてぁE��せん。頁E��のチェチE��ボックスを使用して選択してください。この状況�E、E��E��を選択してもすべて無視されてぁE��場合にも発生する可能性があります、E
+== RepositoryNameLabel ==
+新規リポジトリの名前:
+
+== WorkspaceNameLabel ==
+新規ワークスペ�Eスの名前:
+
+== NewRepositoryTitle ==
+新規リポジトリを作�E
+
+== RenameRepositoryTitle ==
+リポジトリ名を変更
+
+== NewWorkspace ==
+新規ワークスペ�Eスを作�E
+
+== RenameWorkspaceTitle ==
+ワークスペ�Eス名を変更
+
+== RepositoryServerLabel ==
+サーバ�E (your_server:8087 また�E your_org@cloud):
+
+== WorkspacePathLabel ==
+チE��スク上�Eパス:
+
+== RepositoryLabel ==
+リポジトリ:
+
+== BrowseLabel ==
+参�E...
+
+== CouldNotGetOrganizationNameFromCredentials ==
+賁E��惁E��が無効です。絁E��名を取得できませんでした
+
+== CouldNotGetOrganizationName ==
+Cloud サーバ�Eから絁E��名を取得できません。賁E��惁E��が間違ってぁE��可能性があります。設定ツールをもぁE��度実行して、新しい賁E��惁E��を�E力してください (「{0} --configure、E
+
+== RepositoryServerIsNotAvailable ==
+リポジトリサーバ�Eは使用できません
+
+== RepositoryNameEmpty ==
+リポジトリ名を空にすることはできません
+
+== WorkspaceNameEmpty ==
+ワークスペ�Eス名を空にすることはできません
+
+== WorkspacePathEmpty ==
+ワークスペ�Eスパスを空にすることはできません
+
+== WorkspacePathUnauthorizedAccess ==
+持E��されたパスにワークスペ�Eスを作�Eするためのアクセス権が認可されてぁE��せん
+
+== InvalidCharsInPath ==
+ワークスペ�Eスパスに無効な斁E��が含まれてぁE��ぁE
+== WorkspaceNameAlreadyExists ==
+ワークスペ�Eス {0} はすでに存在しまぁE
+== WorkspacePathAlreadyUsed ==
+パス {0} はワークスペ�Eスにすでに含まれてぁE��ぁE
+== RepositoryMenuItemCreate ==
+新規リポジトリを作�E...
+
+== RepositoryMenuItemCreateWorkspace ==
+こ�Eリポジトリにワークスペ�Eスを作�E...
+
+== RenameMenuItem ==
+名前変更
+
+== WorkspaceMenuItemOpen ==
+開く
+
+== WorkspaceMenuItemOpenInNewWindow ==
+新しいウィンドウで開く
+
+== OpenInExplorerMenuItem ==
+エクスプローラーで開く
+
+== DeleteMenuItem ==
+削除
+
+== UndeleteMenuItem ==
+削除の取り消し
+
+== WorkspaceMenuItemCreate ==
+新規ワークスペ�Eスを作�E...
+
+== WorkspaceMenuItemRename ==
+名前変更
+
+== WorkspaceMenuItemDelete ==
+削除
+
+== BranchMenuItemCreateBranch ==
+子ブランチを作�E...
+
+== BranchMenuItemMergeFromBranch ==
+こ�Eブランチから�Eージ...
+
+== BranchMenuItemAdvancedMerge ==
+高度なマ�Eジ
+
+== BranchMenuItemCherrypickFromBranch ==
+こ�Eブランチからチェリーピック...
+
+== BranchMenuItemMergeToFromBranch ==
+こ�Eブランチから次にマ�Eジ...
+
+== BranchMenuItemPushPull ==
+プッシュ/プル
+
+== BranchMenuItemPullBranch ==
+こ�Eブランチをプル...
+
+== BranchMenuItemPullRemoteBranch ==
+リモートブランチをプル...
+
+== BranchMenuItemSyncWithGit ==
+Git と同期...
+
+== BranchMenuItemPushBranch ==
+こ�Eブランチをプッシュ...
+
+== BranchMenuItemRenameBranch ==
+名前変更...
+
+== BranchMenuItemDeleteBranch ==
+削除
+
+== BranchMenuItemSwitchToBranch ==
+ワークスペ�Eスをこのブランチに刁E��替ぁE
+== BranchMenuItemDiff ==
+ブランチ�E差刁E��表示
+
+== BranchMenuItemDiffWithAnotherBranch ==
+別のブランチとの差刁E��表示...
+
+== BranchMenuItemViewChangesets ==
+こ�Eブランチ�Eの変更セチE��を表示
+
+== ChangesetMenuItemCreateBranch ==
+こ�E変更セチE��からブランチを作�E...
+
+== ChangesetMenuItemDiff ==
+前との差刁E��表示
+
+== ChangesetMenuItemDiffWithAnother ==
+別の変更セチE��との差刁E��表示...
+
+== ChangesetMenuItemDiffSelected ==
+選択された変更セチE��の差刁E��表示
+
+== ChangesetMenuItemBrowseRepositoryOnChangeset ==
+こ�E変更セチE��冁E�Eリポジトリを参照
+
+== ChangesetMenuItemLabelChangeset ==
+こ�E変更セチE��にラベルを付けめE..
+
+== ChangesetMenuItemSwitchToChangeset ==
+ワークスペ�Eスをこの変更セチE��に刁E��替ぁE
+== ChangesetMenuItemMergeFromChangeset ==
+こ�E変更セチE��からマ�Eジ...
+
+== ChangesetMenuItemCherrypickFromChangeset ==
+こ�E変更セチE��からチェリーピック...
+
+== ChangesetMenuItemAdvancedMerge ==
+高度なマ�Eジ
+
+== ChangesetMenuItemSubtractiveFromChangeset ==
+こ�E変更セチE��から減法�Eージ...
+
+== ChangesetMenuItemSubtractiveFromChangesetInterval ==
+こ�E変更セチE��の間隔から減法�Eージ...
+
+== ChangesetMenuItemCherrypickFromChangesetInterval ==
+こ�E変更セチE��の間隔からチェリーピック...
+
+== ChangesetMenuItemMergeToFromChangeset ==
+こ�E変更セチE��から次にマ�Eジ...
+
+== ChangesetMenuItemAdvancedOptions ==
+詳細オプション
+
+== ChangesetMenuItemMoveChangeset ==
+こ�E変更セチE��から別のブランチに移勁E..
+
+== ChangesetMenuItemDeleteChangeset ==
+変更セチE��を削除
+
+== CheckoutChangesetMenuItemShowPendingChangesView ==
+「保留中の変更」ビューを表示
+
+== LabelMenuItemCreateLabel ==
+新規ラベルを作�E...
+
+== LabelMenuItemApplyLabelToWorkspace ==
+ワークスペ�EスのコンチE��チE��ラベルを適用
+
+== LabelMenuItemSwitchToLabel ==
+ワークスペ�Eスをこのラベルに刁E��替ぁE
+== LabelMenuItemMergeFromLabel ==
+こ�Eラベルからマ�Eジ...
+
+== LabelMenuItemMergeToFromLabel ==
+こ�Eラベルから次にマ�Eジ...
+
+== LabelMenuItemCreateBranchFromLabel ==
+こ�Eラベルからブランチを作�E...
+
+== LabelMenuItemRenameLabel ==
+名前変更...
+
+== LabelMenuItemDeleteLabel ==
+削除
+
+== ShelveMenuItemViewShelve ==
+シェルブを表示
+
+== ShelveMenuItemApplyShelveInWorkspace ==
+ワークスペ�Eスにシェルブを適用...
+
+== ShelveMenuItemDeleteShelve ==
+削除
+
+== AttributeMenuItemCreate ==
+作�E
+
+== AttributeMenuItemEdit ==
+編雁E
+== AttributeMenuItemDelete ==
+削除
+
+== PendingChangesMenuItemOpen ==
+開く
+
+== PendingChangesMenuItemOpenWith ==
+プログラムから開く...
+
+== PendingChangesMenuItemDiffAnnotateHistory ==
+差刁E注釁E履歴
+
+== PendingChangesMenuItemDiffWorkspace ==
+ワークスペ�EスのコンチE��チE�E差刁E��表示
+
+== PendingChangesMenuItemAnnotate ==
+注釁E
+== PendingChangesMenuItemViewHistory ==
+履歴
+
+== PendingChangesMenuItemUndoChanges ==
+変更を取り消す
+
+== PendingChangesMenuItemDelete ==
+削除
+
+== PendingChangesMenuItemCheckout ==
+チェチE��アウチE
+== PendingChangesMenuItemSearchMatches ==
+一致を検索...
+
+== PendingChangesMenuItemHideIgnoreCloak ==
+非表示/無要Eクローク
+
+== PendingChangesMenuItemHideIgnore ==
+非表示/無要E
+== DirectoryConflictsTitleSingular ==
+1 件のチE��レクトリ競吁E
+== DirectoryConflictsTitlePlural ==
+{0} 件のチE��レクトリ競吁E
+== FileConflictsTitleSingular ==
+1 件のファイル競吁E
+== FileConflictsTitlePlural ==
+{0} 件のファイル競吁E
+== NoActionMenuItem ==
+使用可能なアクションがありません
+
+== ItemsMenuItemNew ==
+新要E
+== ItemsMenuItemNewDirectory ==
+チE��レクトリ...
+
+== ItemsMenuItemNewFile ==
+ファイル...
+
+== ItemsMenuAdd ==
+ソース管琁E��追加
+
+== ItemsMenuAddRecursive ==
+ソース管琁E��チE��レクトリチE��ーを追加
+
+== ItemsMenuCheckin ==
+チェチE��イン
+
+== ItemsMenuItemOpen ==
+開く
+
+== ItemsMenuItemOpenWith ==
+プログラムから開く...
+
+== ItemsMenuItemOpenWithCustom ==
+{0} で開く
+
+== ItemsMenuItemRevealInFinder ==
+検索に表示
+
+== ItemsMenuItemCut ==
+刁E��取り
+
+== ItemsMenuItemDelete ==
+削除...
+
+== ItemsMenuItemPaste ==
+貼り付け
+
+== ItemsMenuItemCreateXlink ==
+Xlink を作�E...
+
+== ItemsMenuItemEditXlink ==
+Xlink を編雁E..
+
+== BrowseRepositoryMenuItemDiffWithPrevious ==
+前�Eリビジョンとの差刁E��表示
+
+== BrowseRepositoryMenuItemSaveAs ==
+名前を付けて保孁E..
+
+== BrowseRepositoryMenuItemViewHistory ==
+履歴を表示
+
+== HistoryMenuItemOpen ==
+開く
+
+== HistoryMenuItemOpenWith ==
+プログラムから開く...
+
+== HistoryMenuItemSaveRevisionAs ==
+こ�Eリビジョンに名前を付けて保孁E..
+
+== HistoryMenuItemDiffWithPrevious ==
+前�Eリビジョンとの差刁E��表示
+
+== HistoryMenuItemDiffSelectedRevisions ==
+選択されたリビジョンの差刁E��表示
+
+== HistoryMenuItemDiffChangeset ==
+変更セチE��の差刁E��表示
+
+== HistoryMenuItemRevertToThisRevision ==
+こ�Eリビジョンに戻ぁE
+== ItemsMenuItemRename ==
+名前変更...
+
+== ItemsMenuItemDiffWithPrevious ==
+前�Eリビジョンとの差刁E��表示
+
+== HidePrivateItems ==
+非�E開頁E��を非表示
+
+== ExcludePrivateItemsSize ==
+チE��レクトリサイズから非�E開を除夁E
+== MergeWithPendingChangesTitle ==
+変更済みファイルが検�Eされました
+
+== MergeWithPendingChangesMessage ==
+ワークスペ�EスにチェチE��インする忁E���Eある保留中の変更があります。�Eージの前にチェチE��インして、�Eージの取り消しで発生する可能性のあるイシューを回避することをお勧めします、Eマ�Eジに精通してぁE��場合�E、「環墁E��定、E「差刁E��マ�Eジ、E「保留中のマ�Eジがあっても�Eージできるようにする」に移動してこ�E動作を変更できます、E
+注:新規ユーザーでのイシューを回避するようにこ�E動作を変更しましたが、�Eージの仕絁E��に精通してぁE��場合�E有効にしても危険はありません、E
+== MergeNotificationMessageTitle ==
+通知メチE��ージ
+
+== BaseContributor ==
+ベ�Eス
+
+== SrcContributor ==
+ソース
+
+== DstContributor ==
+同期允E
+== DeleteDialogTitleSingular ==
+頁E��を削除
+
+== DeleteDialogTitlePlural ==
+頁E��を削除
+
+== DeleteFromDiskSingular ==
+チE��スクから頁E��を削除する
+
+== DeleteFromDiskPlural ==
+チE��スクから頁E��を削除する
+
+== DoNotDeleteFromDiskSingular ==
+チE��スクから頁E��を削除しなぁE
+== DoNotDeleteFromDiskPlural ==
+チE��スクから頁E��を削除しなぁE
+== DeletingProgress ==
+({0}/{1}) {2} を削除してぁE��ぁE..
+
+== RemoveFromVersionControlPlural ==
+バ�Eジョン管琁E��ら頁E��を削除
+
+== DirectoryConflictsCaption ==
+これら�EチE��レクトリ構造の競合です。通常は、移動、名前変更、削除に関連します。他�E変更を適用する前に、これらを解決する忁E��があります、E
+== DirectoryConflictsUnsolvedCaptionSingular ==
+解決するチE��レクトリ競合、E
+== DirectoryConflictsUnsolvedCaptionPlural ==
+解決するチE��レクトリ競合、E
+== MergeAlreadyConnected ==
+マ�Eジ検索が完亁E��ました。�Eージ先にはソース変更がすでに含まれてぁE��す、E
+== MergeAlreadySubtracted ==
+マ�Eジ検索が完亁E��ました。�Eージ允E�E同期先からすでに除外されてぁE��す、E
+== MergeInvalidInterval ==
+マ�Eジ検索が完亁E��ました。指定された間隔は無効です、E
+== MergeNoMergesDetected ==
+マ�Eジ検索が完亁E��ました。�Eージする頁E��が検�Eされませんでした、E
+== MergeNoMergesDetectedCreateLink ==
+マ�Eジ検索が完亁E��ました。�Eージする頁E��は検�Eされませんでしたが、ソースと同期先�E共同作�E老E�E異なります。これ�E通常、ソースと同期先でまったく同じ変更が行われた場合に発生します、E
+「�Eージの説明」�EタンをクリチE��して、E��連する共同作�E老E�E詳細を確認してください、E
+「変更を適用」�EタンをクリチE��して、ソースと同期先を統一してください (それら�E間�Eマ�Eジリンクを作�E)、E
+
+== MergeNoMergesDetectedCreateLinkForIncomingView ==
+ダウンロードするものがありません
+
+「ワークスペ�Eスを更新」をクリチE��してワークスペ�Eスをブランチ�Eヘッドに移動します、E
+
+詳細な説昁E変更は、ブランチ�Eヘッドで行われたも�Eと一致するため、実際には何もダウンロードされてぁE��せんが、メタチE�Eタを同期する忁E��があります、E
+
+== MergeNothingToDownloadForIncomingView ==
+ダウンロードするものがありません
+
+
+== MergeNotConnected ==
+マ�Eジ検索が完亁E��ました。減法�Eージ允E��同期先�E接続されてぁE��せん、E
+== MergeAlreadyProcessed ==
+マ�Eジが終亁E��ました。変更は「保留中の変更」ビューに表示されます。このビューを閉じると参�Eできます、E
+== FileMergeTitleSingular ==
+適用する 1 個�E変更
+
+== FileMergeTitlePlural ==
+適用する {0} 個�E変更
+
+== MergeChangedOnSrc ==
+ソース共同作�E老E��のみ変更
+
+== MergeChangedOnSrcForIncomingView ==
+更新予宁E
+== MergeWarningsTitleSingular ==
+1 件の競合を破棁E��E
+== MergeWarningsTitlePlural ==
+{0} 件の競合を破棁E��E
+== MergeWarningsCaption ==
+適用されなくなり、警告�E可能性がある競合、E
+== XlinkWarningMessageSingular ==
+{0} (1 頁E��)
+
+== XlinkWarningMessagePlural ==
+{0} ({{0}} 頁E��)
+
+== DivergentMoveConflictsSingular ==
+刁E��する移動�E競吁E(1 頁E��)
+
+== DivergentMoveConflictsPlural ==
+刁E��する移動�E競吁E({0} 頁E��)
+
+== CyleMoveConflictsSingular ==
+循環する移動�E競吁E(1 頁E��)
+
+== CyleMoveConflictsPlural ==
+循環する移動�E競吁E({0} 頁E��)
+
+== EvilTwinsSingular ==
+悪魔�E双子�E競吁E(1 頁E��)
+
+== EvilTwinsPlural ==
+悪魔�E双子�E競吁E({0} 頁E��)
+
+== MoveDeleteConflictsSingular ==
+移勁E削除の競吁E(1 頁E��)
+
+== MoveDeleteConflictsPlural ==
+移勁E削除の競吁E({0} 頁E��)
+
+== DeleteMoveConflictsSingular ==
+削除/移動�E競吁E(1 頁E��)
+
+== DeleteMoveConflictsPlural ==
+削除/移動�E競吁E({0} 頁E��)
+
+== MovedEvilTwinsSingular ==
+移動された悪魔�E双子�E競吁E(1 頁E��)
+
+== MovedEvilTwinsPlural ==
+移動された悪魔�E双子�E競吁E({0} 頁E��)
+
+== AddMoveConflictsSingular ==
+追加/移動�E競吁E(1 頁E��)
+
+== AddMoveConflictsPlural ==
+追加/移動�E競吁E({0} 頁E��)
+
+== MoveAddConflictsSingular ==
+移勁E追加の競吁E(1 頁E��)
+
+== MoveAddConflictsPlural ==
+移勁E追加の競吁E({0} 頁E��)
+
+== LoadedTwiceConflictsSingular ==
+頁E��ぁE2 回ロードされたことによる競吁E(1 頁E��)
+
+== LoadedTwiceConflictsPlural ==
+頁E��ぁE2 回ロードされたことによる競吁E({0} 頁E��)
+
+== MoveSourceDeleteConflictsSingular ==
+移勁E削除、削除からの移動�E競吁E(1 頁E��)
+
+== MoveSourceDeleteConflictsPlural ==
+移勁E削除、削除からの移動�E競吁E({0} 頁E��)
+
+== DeleteMoveSourceConflictsSingular ==
+削除/移動、削除からの移動�E競吁E(1 頁E��)
+
+== DeleteMoveSourceConflictsPlural ==
+削除/移動、削除からの移動�E競吁E({0} 頁E��)
+
+== ChangeDeleteConflictsSingular ==
+変更/削除の競吁E(1 頁E��)
+
+== ChangeDeleteConflictsPlural ==
+変更/削除の競吁E({0} 頁E��)
+
+== DeleteChangeConflictsSingular ==
+削除/変更の競吁E(1 頁E��)
+
+== DeleteChangeConflictsPlural ==
+削除/変更の競吁E({0} 頁E��)
+
+== ReadonlyXlinkConflictsSingular ==
+読み取り専用 Xlink の競吁E(1 頁E��)
+
+== ReadonlyXlinkConflictsPlural ==
+読み取り専用 Xlink の競吁E({0} 頁E��)
+
+== ResolveDirectoryConflict ==
+チE��レクトリ競合を解決
+
+== ResolveDirectoryConflictChooseOption ==
+競合を解決するには、次のオプションの 1 つを選択しまぁE
+
+== SelectAMatch ==
+照合する変更を選択してください
+
+== SearchMatchesDialogTitle ==
+移動された候補を検索
+
+== SearchMatchesDialogExplanation ==
+新規頁E��につぁE��老E��られるすべてのソースが表示されます。類似度のしきぁE��を変更するには、下�Eバ�Eをスライドします、E
+== MinSimilarityAccepted ==
+許容される最小類似度:{0:0.0}
+
+== LoadingMatches ==
+一致をロードしてぁE��ぁE..
+
+== SrcPathColumn ==
+ソースパス
+
+== DstPathColumn ==
+同期先�Eパス
+
+== SimilarityColumn ==
+類似度
+
+== DiffCategoryHeaderSingular ==
+{0}: 1 頁E��
+
+== DiffCategoryHeaderPlural ==
+{0}: {1} 頁E��
+
+== MergeDiffCategory ==
+{0} からマ�Eジ済み
+
+== AddedMergeDiffCategory ==
+追加済み (マ�Eジ允E��追加されたファイル)
+
+== DeletedMergeDiffCategory ==
+削除済み (マ�Eジ允E��削除されたファイル)
+
+== MergedMergeDiffCategory ==
+マ�Eジ済み (マ�Eジ允E��マ�Eジ先で変更されたファイル)
+
+== MovedMergeDiffCategory ==
+移動済み (マ�Eジ允E��移動されたファイル)
+
+== ReplacedMergeDiffCategory ==
+変更済み (マ�Eジ允E��変更されたファイル)
+
+== AddedDiffCategory ==
+追加済み
+
+== ChangedDiffCategory ==
+変更済み
+
+== DeletedDiffCategory ==
+削除済み
+
+== MovedDiffCategory ==
+移動済み
+
+== MergedDiffCategory ==
+マ�Eジ済み
+
+== FSProtectionDiffCategory ==
+ファイルシスチE��の権限�Eみ変更済み
+
+== Source ==
+ソース:
+
+== Destination ==
+同期允E
+
+== KeepSrcChanges ==
+ソースの変更を保持
+
+== KeepSrcNotSupported ==
+ソース頁E��の保持は、このタイプ�E競合ではサポ�Eトされません
+
+== KeepDstChanges ==
+同期先�E変更を保持
+
+== KeepDstNotSupported ==
+同期先頁E��の保持は、このタイプ�E競合ではサポ�Eトされません
+
+== RenameOnDst ==
+ワークスペ�Eス冁E�E頁E��を名前変更
+
+== RenameNotSupported ==
+同期先頁E��の名前変更は、このタイプ�E競合ではサポ�Eトされません
+
+== InputItemNameMessage ==
+頁E��名を入力してください
+
+== HelpButton ==
+ヘルチE
+== AdvancedButton ==
+詳細
+
+== BranchExplorerSearchFieldTooltip ==
+検索パターンを�E力します。結果を制限するには cs: lb: また�E br: を使用しまぁE
+== BranchColumn ==
+ブランチE
+== CancelButton ==
+キャンセル
+
+== CloseButton ==
+閉じめE
+== OkButton ==
+OK
+
+== YesButton ==
+はぁE
+== NoButton ==
+ぁE��ぁE
+== CheckinButton ==
+チェチE��イン
+
+== CheckinToADifferentBranchButton ==
+変更を別のブランチにチェチE��イン...
+
+== CheckinToADifferentBranch ==
+変更を別のブランチにチェチE��イン
+
+== MoveChangesetsToADifferentBranch ==
+変更セチE��を別のブランチに移勁E
+== ShelveButton ==
+シェルチE
+== ShowShelvesButton ==
+シェルブを表示
+
+== ShowShelvesViewTooltip ==
+シェルブビューを表示
+
+== OptionsTooltip ==
+保留中の変更オプションを設宁E
+== ChooseMessage ==
+選抁E..
+
+== GluonConfigurationSelectRepositoryButton ==
+選抁E..
+
+== GluonConfigurationBrowseWorkspacePathButton ==
+パスを選抁E..
+
+== GluonConfigurationCreateRepositoryButton ==
+作�E...
+
+== ChangesetColumn ==
+変更セチE��
+
+== ExecuteButton ==
+実衁E
+== FileConflictsCaptionSingular ==
+解決するファイル競合、E
+== FileConflictsCaptionPlural ==
+解決するファイル競合、E
+== FileConflictsCaptionForIncomingViewSingular ==
+変更と競合してぁE��ファイル、E
+== FileConflictsCaptionForIncomingViewPlural ==
+変更と競合してぁE��ファイル、E
+== FilterLabel ==
+フィルター:
+
+== Controlled ==
+管琁E��象
+
+== ItemsMenuCheckout ==
+チェチE��アウチE
+== ItemsMenuLockAndCheckout ==
+ロチE��とチェチE��アウチE
+== ItemsMenuCheckoutRecursive ==
+再帰皁E��チェチE��アウチE
+== CheckedOut ==
+チェチE��アウト済み
+
+== Deleted ==
+削除済み
+
+== ChangedOnDisk ==
+チE��スクで変更渁E
+== ContainsChanges ==
+変更を含む
+
+== Private ==
+非�E閁E
+== Ignored ==
+無要E
+== Cloaked ==
+クローク済み
+
+== HiddenChanged ==
+非表示の変更済み
+
+== MainWindowTitle ==
+Unity DevOps Version Control - ワークスペ�Eス:{0} - {1} - {2}:{3}@{4}
+
+== StatusInfo ==
+{0} {1}@{2} を参照してぁE��ぁE
+== DiffWindowTitle ==
+前�EコンチE��チE�� {0} のリビジョンと比輁E��
+
+== ChangesetsDiffWindowTitle ==
+{0} のリビジョンめE{1} のリビジョンと比輁E��
+
+== FsProtectionDifferences ==
+ファイルシスチE��の権限が {0} から {1} に変更されました
+
+== NoItemsToUndo ==
+頁E��が選択されてぁE��せん。頁E��のチェチE��ボックスを使用して選択してください。この状況�E、E��E��を選択してもすべて非�E開また�E無視されてぁE��場合にも発生する可能性があります、E
+== ResolveConflictsButton ==
+競合を解決
+
+== ApplyChangesButton ==
+変更を適用
+
+== QueryLabel ==
+クエリ:
+
+== RefreshButton ==
+最新惁E��に更新
+
+== RefreshButtonAmp ==
+最新惁E��に更新(&R)
+
+== GoHomeTooltip ==
+作業中の変更セチE��に移勁E
+== OnlyRelevantButton ==
+関連のみ
+
+== OnlyRelevantTooltip ==
+関連する変更セチE��のみを表示
+
+== ResolutionMethodColumn ==
+解決方況E
+== UndoButton ==
+取り消し
+
+== UndoUnchangedButton ==
+変更なしを取り消し
+
+== UndoRequest ==
+変更の取り消しを確誁E
+== UndoRequestMessageSingular ==
+1 個�E変更を取り消そぁE��してぁE��す。この操作�E允E��戻せません。続行しますか?
+
+== UndoRequestMessagePlural ==
+{0} 個�E変更を取り消そぁE��してぁE��す。この操作�E允E��戻せません。続行しますか?
+
+== CheckoutIgnoringFailedRequest ==
+一部のファイルはロチE��されてぁE��ためチェチE��アウトできません
+
+== CheckoutIgnoringFailedRequestMessage ==
+
+ロチE��されたファイルをスキチE�Eし、残りをチェチE��アウトしますか?
+
+ロチE��されたファイル:{0}
+
+== UndoUnchangedRequestMessage ==
+変更されてぁE��ぁE��E��を取り消そぁE��してぁE��す。この操作�E允E��戻せません。続行しますか?
+
+== UndoWithMergeLinkMessageSingular ==
+1 個�E変更と、E��連するマ�Eジリンクを取り消します。この操作�E允E��戻せません。続行しますか?
+
+== UndoWithMergeLinkMessagePlural ==
+{0} 個�E変更と、E��連するマ�Eジリンクを取り消します。この操作�E允E��戻せません。続行しますか?
+
+== PendingChangesOptionsTitle ==
+保留中の変更オプション
+
+== CreatingRepository ==
+リポジトリ {0} を作�EしてぁE��ぁE..
+
+== CreatingWorkspace ==
+ワークスペ�Eス {0} を作�EしてぁE��ぁE..
+
+== WaitingForDynamicWorkspaceToBeMounted ==
+動的ワークスペ�Eス {0} のマウントを征E��してぁE��ぁE..
+
+== CreatingBranch ==
+ブランチE{0} を作�EしてぁE��ぁE..
+
+== CreatingLabel ==
+ラベル {0} を作�EしてぁE��ぁE..
+
+== RepositoryNameAlreadyExists ==
+リポジトリ {0} はすでに存在しまぁE
+== RenamingRepository ==
+リポジトリ名を変更してぁE��ぁE..
+
+== RenamingWorkspace ==
+ワークスペ�Eス {0} の名前を変更してぁE��ぁE..
+
+== RenamingBranch ==
+ブランチE{0} の名前を変更してぁE��ぁE..
+
+== RenamingLabel ==
+ラベル {0} の名前を変更してぁE��ぁE..
+
+== EditingAttribute ==
+属性 '{0}' を編雁E��てぁE��ぁE..
+
+== ChangingRevisionType ==
+リビジョンタイプを変更してぁE��ぁE..
+
+== DeletingWorkspacesSingular ==
+ワークスペ�Eス{0} を削除してぁE��ぁE..
+
+== DeletingWorkspacesPlural ==
+ワークスペ�Eス{0} を削除してぁE��ぁE..
+
+== DeletingRepositoriesSingular ==
+リポジトリ{0} を削除してぁE��ぁE..
+
+== DeletingRepositoriesPlural ==
+リポジトリ{0} を削除してぁE��ぁE..
+
+== UndeletingRepositoriesSingular ==
+リポジトリ{0} の削除を取り消してぁE��ぁE..
+
+== UndeletingRepositoriesPlural ==
+リポジトリ{0} の削除を取り消してぁE��ぁE..
+
+== DeletingBranchesSingular ==
+ブランチ{0} を削除してぁE��ぁE..
+
+== DeletingBranchesPlural ==
+ブランチ{0} を削除してぁE��ぁE..
+
+== DeletingLabelsSingular ==
+ラベル{0} を削除してぁE��ぁE..
+
+== DeletingLabelsPlural ==
+ラベル{0} を削除してぁE��ぁE..
+
+== DeletingShelvesSingular ==
+シェルブを削除してぁE��ぁE..
+
+== DeletingShelvesPlural ==
+シェルブを削除してぁE��ぁE..
+
+== DeletingAttributesSingular ==
+属性 {0} を削除してぁE��ぁE..
+
+== DeletingAttributesPlural ==
+属性 {0} を削除してぁE��ぁE..
+
+== DeletingChangeset ==
+変更セチE��を削除してぁE��ぁE..
+
+== MovingChangeset ==
+変更セチE��を移動してぁE��ぁE..
+
+== PreviousLabel ==
+前�E結果
+
+== NextLabel ==
+次の結果
+
+== BrexSearchFieldLabel ==
+ブランチエクスプローラー検索
+
+== BrexDisplayOptions ==
+オプションを表示
+
+== InitialDateLabel ==
+開姁E
+
+== EndDateLabel ==
+終亁E
+
+== SinceDateLabel ==
+次の日時以陁E
+
+== SelectAll ==
+すべて選抁E
+== MergeSelectedFiles ==
+選択されたファイルを�Eージ
+
+== MergeKeepingSourceChanges ==
+ソース変更 (相手�E) を保持してマ�Eジ
+
+== MergeKeepingWorkspaceChanges ==
+ワークスペ�Eスの変更を保持してマ�Eジ (自刁E同期允E
+
+== DiffDestinationWithAncestor ==
+同期先�E共同作�E老E��の差刁E�E祖�E
+
+== DiffSourceWithAncestor ==
+ソース共同作�E老E��の差刁E�E祖�E
+
+== DiffSourceWithDestinationEvilTwin ==
+ソースで追加された頁E��と同期先で追加された頁E��の差刁E��表示
+
+== DiffSourceWithDestinationAddMove ==
+ソースで追加された頁E��と同期先で移動された頁E��の差刁E��表示
+
+== DiffSourceWithDestinationCycleMove ==
+ソースで移動された頁E��と同期先で移動された頁E��の差刁E��表示
+
+== DiffSourceWithDestinationDeleteMove ==
+ソースで削除された頁E��と同期先で移動された頁E��の差刁E��表示
+
+== DiffSourceWithDestinationMoveAdd ==
+ソースで移動された頁E��と同期先で追加された頁E��の差刁E��表示
+
+== DiffSourceWithDestinationMoveDelete ==
+ソースで移動された頁E��と同期先で削除された頁E��の差刁E��表示
+
+== DiffSourceWithDestinationMoveEvilTwin ==
+ソースで移動された頁E��と同期先で移動された頁E��の差刁E��表示
+
+== RetryUpdate ==
+更新を�E試衁E
+== UpdateForced ==
+更新適用済み
+
+== LoadingWorkspaces ==
+ワークスペ�EスをロードしてぁE��ぁE..
+
+== LoadingHistory ==
+履歴をロードしてぁE��ぁE..
+
+== LoadingAnnotations ==
+注釈をロードしてぁE��ぁE..
+
+== LoadingBrowseRepository ==
+変更セチE��チE��ーをロードしてぁE��ぁE..
+
+== ProcessingMerge ==
+マ�Eジを�E琁E��てぁE��ぁE..
+
+== CalculatingMerge ==
+マ�Eジを計算してぁE��ぁE..
+
+== CalculatingIncomingChanges ==
+受信した変更を計算してぁE��ぁE..
+
+== LoadingFindMerge ==
+マ�Eジする要素を検索してぁE��ぁE..
+
+== LoadingPendingChanges ==
+ワークスペ�Eス冁E�E変更を検索してぁE��ぁE..
+
+== LabellingWorkspace ==
+ワークスペ�Eスにラベル {0} を適用してぁE��ぁE..
+
+== LabellingChangeset ==
+変更セチE�� {1} にラベル {0} を適用してぁE��ぁE..
+
+== ApplyingLocalChanges ==
+ローカルの変更を適用してぁE��ぁE..
+
+== ApplyingConflicts ==
+競合を適用してぁE��ぁE..
+
+== LoadingRepositories ==
+リポジトリをロードしてぁE��ぁE..
+
+== NewRepositoryExplanation ==
+新規リポジトリの名前を�E力し、E��刁E��サーバ�Eに作�Eします、E
+== NewWorkspaceExplanation ==
+ワークスペ�Eスは、ファイルを操作して変更を加えるためのローカルコピ�Eです。ワークスペ�Eスは、一度に 1 つのブランチを処琁E��ます。ワークスペ�Eスは、別のリポジトリにある別のブランチに刁E��替えることもできます、E
+== RenameWorkspaceExplanation ==
+ワークスペ�Eスの名前を変更してもパスは変更されません、E
+== ItemSearchField ==
+頁E��の検索
+
+== SearchInProgress ==
+検索してぁE��ぁE..
+
+== SearchIncludePrivateItems ==
+非�E開頁E��を含む
+
+== SizeColumn ==
+サイズ
+
+== BinaryFile ==
+バイナリ
+
+== Directory ==
+チE��レクトリ
+
+== TextFile ==
+チE��スチE
+== LinkFile ==
+シンボリチE��リンク
+
+== Unknown ==
+不�E
+
+== CustomExtensionFile ==
+カスタム拡張孁E
+== CreateChildBranchTitle ==
+ブランチを作�E
+
+== CreateChildBranchExplanation ==
+新しい子ブランチを次から作�E:
+
+== ReplicateBranchTitle ==
+Unity VCS レプリケーション
+
+== ReplicateBranchExplanation ==
+ブランチと別のリポジトリとの間でレプリケートします、E
+== UsingProfile ==
+プロファイル:{0}
+
+== DefaultProfile ==
+チE��ォルト設定を使用中
+
+== LabelChangesetExplanation ==
+{1}@{2} のラベル変更セチE�� {0}
+
+== RenameBranchTitle ==
+ブランチ名を変更
+
+== CreateLabelTitle ==
+ラベルを変更セチE��に適用
+
+== CreateLabelExplanation ==
+ラベルは重要な変更セチE��の強調に役立ちます。通常、ラベルは安定した�Eースラインと顧客へのリリースを�Eークします、E
+== RenameLabelTitle ==
+ラベル名を変更
+
+== EditAttributeTitle ==
+属性を編雁E
+== LastChangeset ==
+最終変更セチE��
+
+== BranchNameEntry ==
+ブランチ名:
+
+== BranchNameAlreadyExists ==
+ブランチE{0} はすでに存在しまぁE
+== LabelNameAlreadyExists ==
+ラベル {0} はすでに存在しまぁE({1})
+
+== LabelNameEntry ==
+ラベル吁E
+
+== ChangesetToLabelEntry ==
+ラベル付けする変更セチE��:
+
+== CommentsEntry ==
+コメンチE
+
+== SwitchToBranchCheckButton ==
+ワークスペ�Eスをこのブランチに刁E��替ぁE
+== SwitchToLabelCheckButton ==
+ワークスペ�Eスをこのラベルに刁E��替ぁE
+== SwitchToBranchTitle ==
+ブランチに刁E��替ぁE
+== SwitchToChangesetTitle ==
+変更セチE��に刁E��替ぁE
+== SwitchToLabelTitle ==
+ラベルに刁E��替ぁE
+== SwitchToExplanation ==
+ワークスペ�Eス冁E��保留中の変更があります、E
+ 刁E��替え操作を続行するか、�Eり替えをキャンセルして「保留中の変更」ビューを開き、保留中の変更をチェチE��イン (また�E取り消し) できます。その後、E{0}" コマンドを再度実行できます、E
+刁E��替え操作を続行する場合�E、ローカルの変更は失われず、�Eり替え操作後も保留中の変更として表示されます、E
+== SwitchToLabelExplanation ==
+ワークスペ�Eス冁E��保留中の変更があります、E
+刁E��替え操作を続行するか、�Eり替えをキャンセルして「保留中の変更」ビューを開き、保留中の変更をチェチE��イン (また�E取り消し) できます。次に、「ワークスペ�Eスをこのラベルに刁E��替え」コマンドを再度実行できます、E
+刁E��替え操作を続行する場合�E、ローカルの変更は失われず、�Eり替え操作後も保留中の変更として表示されます。ただし、ラベル設定�E読み取り専用の設定であるため、これらの変更を送信することはできません、E
+ラベルが付けられた設定を変更するには、ラベルをブランチ�Eースとして設定してブランチを作�Eします。次に、ワークスペ�Eスをそのブランチに刁E��替えて、E��常どおり変更します、E
+== SwitchToConfirmationCheckButton ==
+今後�Eこ�Eダイアログを表示しなぁE
+== SwitchToConfirmationContinueButton ==
+刁E��替えを続衁E
+== SwitchToConfirmationCancelViewChangesButton ==
+キャンセルして変更を表示
+
+== SwitchToConfirmation ==
+ワークスペ�Eス設定を変更します。続行しますか?
+
+== SwitchToBranchConfirmation ==
+ワークスペ�Eス設定を変更しまぁE {0}、E
+続行しますか?
+
+== SwitchToLabelConfirmation ==
+ワークスペ�Eスをラベルに刁E��替えると、各頁E��のラベル付けされたリビジョンがロードされます。ロードされたリビジョンはすべて読み取り専用になります、E
+ ラベルが付けられた設定を変更するには、ラベルをブランチ�Eースとして設定してブランチを作�Eします。次に、ワークスペ�Eスをそのブランチに刁E��替えて、E��常どおり変更します、E
+続行しますか?
+
+== SwitchActionOptionsTitle ==
+変更された頁E��のあるワークスペ�Eスを�Eり替ぁE更新しよぁE��したとき�E動佁E
+
+== SwitchActionAllowOption ==
+許可
+
+== SwitchActionWarnOption ==
+許可して警告を表示
+
+== SwitchActionFailOption ==
+許可せずエラーを表示
+
+== UpdateResultsTitle ==
+更新結果
+
+== UpdateResultsExplanation ==
+更新操作にイシューが見つかりました。確認してください、E
+== CheckinConflictsTitle ==
+チェチE��インでの競吁E
+== CheckinConflictsExplanation ==
+チェチE��イン操作で、チェチE��インできなぁE��の競合が見つかりました、E競合してぁE��ぁE��E��に対して操作を続行するには「OK」をクリチE��します、E 操作�E体を中止するには「キャンセル」をクリチE��します、E
+== CheckinConflictsToMergeTitle ==
+ファイルのマ�Eジが忁E��E
+== CheckinConflictsToMergeExplanation ==
+自刁E�E変更とマ�Eジする忁E���Eある新しい変更があります、Eファイルを今すぐ�Eージするには「�Eージ」をクリチE��します、Eそれ以外�E場合�E、「キャンセル」をクリチE��します、E
+== EditAttributeExplanation ==
+属性に新しい名前を付けて、そのコメントテキストを変更できます、E
+== ResetQueryButton ==
+クエリをリセチE��
+
+== ClearHistoryButton ==
+履歴をクリア
+
+== SetAsDefaultQuery ==
+チE��ォルトとして設宁E
+== NewDirectoryTitle ==
+新しいチE��レクトリを作�E
+
+== NewFileTitle ==
+新しい空のファイルを作�E
+
+== NewDirectory ==
+新規ディレクトリ
+
+== NewFile ==
+新規ファイル
+
+== RenameDirectoryTitle ==
+チE��レクトリ名を変更
+
+== RenameFileTitle ==
+ファイル名を変更
+
+== NewSyncTitle ==
+新規同期ビューを作�E
+
+== DependenciesTitle ==
+依存関係�EチェチE��アウトを取り消す
+
+== DependenciesDialogTitle ==
+保留中の依存関俁E
+== AddChildBranches ==
+子ブランチを追加
+
+== AddParentBranches ==
+親ブランチを追加
+
+== AddBranchesSourceOfMerge ==
+マ�Eジのブランチソースを追加
+
+== AddBranchesDestinationOfMerge ==
+マ�Eジのブランチ同期�Eを追加
+
+== TypeDescription ==
+ここに説明を入劁E
+== ConditionalBranchRulesHelp ==
+「ブランチを検索」を持E��する忁E��なしに、クエリを「cm find」形式で入力できます、E詳細につぁE��は、「ガイドを検索」を確認してください、E侁E
+  changesets >= '2 months ago'
+  attribute = 'status' and attrvalue='finished'
+
+== ConditionalChangesetRulesHelp ==
+「変更セチE��を検索」を持E��する忁E��なしに、クエリを「cm find」形式で入力できます、E詳細につぁE��は、「ガイドを検索」を確認してください、E侁E
+  branch = 'main'
+  attribute = 'status' and attrvalue='finished'
+
+== ConditionalLabelRulesHelp ==
+「ラベルを検索」を持E��する忁E��なしに、クエリを「cm find」形式で入力できます、E詳細につぁE��は、「ガイドを検索」を確認してください、E侁E
+  date >= '2 months ago'
+  attribute = 'status' and attrvalue='finished'
+
+== DependenciesExplanation ==
+選択された頁E��の一部が他�E頁E��に依存しており、それらの頁E��も操作に含める忁E��があります、E"{0}" をクリチE��してすべての依存頁E��を続行するか (推奨)、操作をキャンセルします、E
+== MergeLinkDescriptionColumn ==
+マ�Eジリンクの説昁E
+== TaskIdColumn ==
+ID
+
+== TaskTitleColumn ==
+タイトル
+
+== AssigneeColumn ==
+拁E��老E
+== LocationColumn ==
+場所
+
+== Merge ==
+マ�Eジ
+
+== CherryPick ==
+チェリーピック
+
+== IntervalMerge ==
+間隔マ�Eジ
+
+== SubtractiveMerge ==
+減法�Eージ
+
+== SubtractiveIntervalMerge ==
+減算的な間隔のマ�Eジ
+
+== UnsupportedMergeType ==
+サポ�EトされてぁE��ぁE�EージタイチE
+== MergeSourceFormat ==
+{1}@{2} にある {0}
+
+== ConfirmDeleteTitle ==
+削除を確誁E
+== ConfirmApplyLabelTitle ==
+ラベル付け操作を確誁E
+== ConfirmApplyLabelExplanation ==
+現在ワークスペ�Eス冁E��あるすべてのリビジョンにラベル "{0}" を適用します。続行しますか?
+
+== BranchNameEmpty ==
+ブランチ名を空にすることはできません
+
+== LabelNameEmpty ==
+ラベル名を空にすることはできません
+
+== SyncViewNameEmpty ==
+同期ビュー名を空にすることはできません
+
+== AttributeNameEmpty ==
+属性名を空にすることはできません
+
+== LabelButton ==
+ラベル
+
+== LabelAllXlinksCheckButton ==
+Xlink されたすべてのリポジトリをラベル付け
+
+== RenameButton ==
+名前変更
+
+== Rename ==
+名前変更
+
+== CreateButton ==
+作�E
+
+== SaveButton ==
+保孁E
+== DeleteButton ==
+削除
+
+== SwitchButton ==
+刁E��替ぁE
+== DiffWindowMenuItemDiff ==
+差刁E
+== ApplyButton ==
+適用
+
+== MergeButton ==
+マ�Eジ
+
+== BrExNewChangesetWillBeCreated ==
+新規変更セチE��
+
+== BrexMergeLinkTitle ==
+マ�Eジリンク {0}
+
+== BrexMergeLinkCaptionBody ==
+ソース:{0}{1}同期允E{2}
+
+== BrexMergeLinkPending ==
+、保留中
+
+== BrexMergeChangesetInterval ==
+変更セチE��の間隔 ({0} - {1}]
+
+== BrexMergeCouldNotMerge ==
+[間隔チE�Eタを取得できませんでした]
+
+== BrexMergeChangesetOnBranch ==
+ブランチE{1} の変更セチE�� {0}
+
+== BrexCherryPickLinkType ==
+(チェリーピック)
+
+== BrexIntervalCherryPickLinkType ==
+(変更セチE��の間隔からチェリーピック)
+
+== BrexIntervalCherryPickSubstractiveLinkType ==
+(変更セチE��の間隔から減況E
+
+== BrexCherryPickSubstractiveLinkType ==
+(減況E
+
+== BrexProperties ==
+特性
+
+== BrexAttributes ==
+属性
+
+== CredentialsDialogTitle ==
+サーバ�Eに接綁E
+== CredentialsDialogExplanation ==
+{0} に接続するため�E賁E��惁E��を�E力してください
+
+== UserName ==
+ユーザー吁E
+
+== Password ==
+パスワーチE
+
+== RememberCredentialsAsProfile ==
+賁E��惁E��を接続�Eロファイルとして記�Eする
+
+== CredentialsErrorSavingProfile ==
+接続�Eロファイルの保存中にエラーが発生しました:{0}
+
+== BrexObjectNameProperty ==
+オブジェクト名:
+
+== BrexCreationDateProperty ==
+作�E日:
+
+== BrexOwnerProperty ==
+所有老E
+
+== BrexReplicationSourceProperty ==
+レプリケーション允E
+
+== BrexGuidProperty ==
+GUID:
+
+== BrexCommentsProperty ==
+コメンチE
+
+== BrexDisplayBranches ==
+ブランチを表示
+
+== BrexDisplayFullBranchNames ==
+完�Eなブランチ名を表示
+
+== BrexDisplayMergeLinks ==
+マ�Eジリンクを表示
+
+== BrexDisplayCrossBranchCsetLinks ==
+クロスブランチ変更セチE��リンクを表示
+
+== BrexDisplayLabels ==
+ラベルを表示
+
+== BrexDisplayBranchTaskInfo ==
+ブランチタスク惁E��を表示
+
+== BrexDisplayOnlyRelevantCsets ==
+関連する変更セチE��のみを表示
+
+== NoReplicationSources ==
+レプリケートされてぁE��せん
+
+== GluonConfiguration ==
+Gluon 設宁E
+== EnterServer ==
+サーバ�E名を入力してください
+
+== EnterServerFormat ==
+サーバ�E名を server:port の形式で持E��してください。デフォルト�Eポ�Eト�E 8087 でぁE
+== EnterUserName ==
+ユーザー名を入力してください
+
+== EnterPassword ==
+パスワードを入力してください
+
+== EnterRepository ==
+リポジトリを�E力してください
+
+== EnterCloudRepository ==
+Cloud リポジトリ名を入力してください
+
+== EnterLocalRepository ==
+ローカルリポジトリ名を入力してください
+
+== NoValidPath ==
+有効なパスがありません
+
+== Connected ==
+正常に接続済み ({0})
+
+== CredentialsOK ==
+賁E��惁E��が確認されました
+
+== Connecting ==
+接続してぁE��ぁE..
+
+== CheckingCredentials ==
+賁E��惁E��をチェチE��してぁE��ぁE..
+
+== Connect ==
+接綁E
+== ScanNetwork ==
+ネットワークをスキャン...
+
+== Check ==
+確誁E
+== ChooseRepositoryCloudEdition ==
+既存�Eプロジェクトに参加するか、新規�Eロジェクトを作�EしまぁE
+== EnterRepositoryWaterMark ==
+リポジトリ名を入力するか、リストから選択しまぁE
+== GluonConfigurationWorkspaceLabel ==
+ワークスペ�Eス:
+
+== GluonConfigurationWorkspaceExplanation ==
+作業チE��レクトリ (ワークスペ�Eスとも呼ぶ) を選択します。これ�E、作業するファイルを含むチE��レクトリです、E
+== ApplyingChanges ==
+変更を適用してぁE��ぁE..
+
+== Apply ==
+適用
+
+== CouldNotFindWorkingRepositoryOrBranch ==
+作業リポジトリまた�Eブランチが見つかりませんでした
+
+== AvailableChangesets ==
+使用可能な Unity VCS 変更セチE��
+
+== SelectChangesetBelow ==
+下�Eリストから変更セチE��を選択してください:
+
+== AvailableBranches ==
+使用可能な Unity VCS ブランチE
+== AvailableRepositories ==
+使用可能な Unity VCS リポジトリ
+
+== SelectBranchesBelow ==
+下�Eリストからブランチを選択してください:
+
+== SelectRepositoryBelow ==
+下�Eリストからリポジトリを選択してください:
+
+== AvailableServers ==
+使用可能な Unity VCS サーバ�E
+
+== SelectServerBelow ==
+下�Eリストからサーバ�Eを選択してください:
+
+== ScanningForServers ==
+サーバ�EをスキャンしてぁE��ぁE..
+
+== AddressColumn ==
+アドレス
+
+== PortColumn ==
+ポ�EチE
+== FilterWaterMark ==
+フィルター
+
+== ExploreWorkspace ==
+ワークスペ�Eスを探索
+
+== CheckinChanges ==
+変更をチェチE��イン
+
+== Configure ==
+設宁E
+== Loading ==
+ロードしてぁE��ぁE..
+
+== OperationRunning ==
+操作を実行中
+
+== OperationInProgress ==
+現在実行中の操作が 1 つあります。完亁E��るまでお征E��ください、E
+== ConfirmClosingRunningOperation ==
+操作が現在実行中です。中止してもよろしぁE��すか?
+
+== SearchFiles ==
+ファイルを検索...
+
+== SearchFilesHint ==
+'*' と '?' を使用してファイル名を照合できます。検索でチE��レクトリを使用することもできます、E
+== SearchForFiles ==
+ファイルを検索
+
+== Searching ==
+検索中
+
+== IncludePrivateFiles ==
+非�E開ファイルを含める
+
+== NoMatchesFound ==
+一致が見つかりませんでした
+
+== ContainerFolderColumn ==
+コンチE��ーフォルダー
+
+== CheckinComment ==
+チェチE��インのコメントをここに入劁E
+== BrowseForFolderTitle ==
+フォルダーを参照
+
+== BrowseForSaveFileTitle ==
+ファイルを保孁E
+== PlasticSCMServerLabel ==
+サーバ�Eの名前また�E IP とポ�Eトを入劁E
+
+== PreferencesWindowTitle ==
+Unity DevOps Version Control 環墁E��宁E- {0}
+
+== GeneralPreferences ==
+全般
+
+== DiffAndMerge ==
+差刁E��マ�Eジ
+
+== DiffAndMergeExplanation ==
+Unity VCS 絁E��込み差刁E��ールとマ�EジチE�Eル (Xmerge) の環墁E��宁E
+== ComparisonMethodAndEncodingTitle ==
+比輁E��法とエンコーチE��ング
+
+== MergeViewBehaviorTitle ==
+マ�Eジビューの動佁E
+== ConflictResolutionTitle ==
+マ�Eジ競合�E解決
+
+== ComparisonMethod ==
+比輁E��況E
+
+== ManualConflictResolution ==
+手動競合解決
+
+== ManualConflictResolutionTooltip ==
+すべてが�E動競合�E場合でも、常にマ�EジチE�Eルを起動して競合を確認しまぁE
+== AutomaticConflictResolution ==
+自動競合解決 (可能な場吁E
+
+== AutomaticConflictResolutionTooltip ==
+競合�E解決にユーザーの対応が忁E��な場合にのみマ�EジチE�Eルを起動しまぁE
+== MergeWithPendingChanges ==
+保留中の変更があっても�Eージできるようにする
+(新しいユーザーが�Eージの取り消し問題を回避できるよう、デフォルトでは無効)
+
+== OtherOptions ==
+そ�E他�Eオプション
+
+== MiscOptionsTitle ==
+そ�E仁E
+== SetFilesAsReadOnlyAfterUpdateOrCi ==
+更新とチェチE��インの操作でファイルを読み取り専用に設定すめE
+== CompareChangedFilesContents ==
+ファイルのタイムスタンプが「変更済み」として設定されるように変更されたときに
+コンチE��チE(ハッシュ) を確誁E
+== CompareChangedFilesContentsTooltip ==
+これは「変更済み」頁E��スチE�Eタスを確立するために使用されまぁE
+== UpdateSetsTimestamps ==
+ファイルの操作セチE��リポジトリタイムスタンプを更新
+
+== EnableSharedWorkspaces ==
+共有ワークスペ�Eスサポ�Eトを有効匁E(Samba/WinShare)
+
+== DisplayErrorOnSameCaseFiles ==
+大斁E��E小文字が異なる同じファイル名に対してエラーを表示
+
+== DisplayErrorOnSameCaseFilesTooltip ==
+Unix ライクなファイルシスチE��にのみ適用されまぁE
+== DefaultWorkspaceRoot ==
+チE��ォルトワークスペ�EスのルーチE
+
+== CommandHelpDialogTitle ==
+コマンド�EルチE
+== MergeToolsConfiguration ==
+マ�EジチE�Eル
+
+== DiffToolsConfiguration ==
+差刁E��ール
+
+== DiffToolsTableTitle ==
+さまざまなファイルタイプと拡張子用に差刁E��ールを設定します。ルールは次の頁E��で上から頁E��に適用されます、E
+== DiffToolsExplanation ==
+ファイルタイプまた�E拡張子を選択し、コマンドを入力して差刁E��ールを実行しまぁE
+
+== DiffToolsCommandHelp ==
+外部の差刁E��ールを呼び出す際には、次のコマンドラインパラメーターを使用できます、E            持E��されたファイルに比輁E��象のリビジョンのコンチE��チE��あるかどぁE��は、ユーザーが確認する忁E��があります、E
+            @sourcefile:左側のパネルにコンチE��チE��表示されるファイルのフルパス、E            @destinationfile:右側のパネルにコンチE��チE��表示されるファイルのフルパス、E
+            @sourcesymbolic:ソースファイルのシンボリチE��名、E            @destinationsymbolic:同期先ファイルのシンボリチE��名、E
+            @sourcehash:ソースファイルのコンチE��チE��ら計算された MD5 斁E���E、E            @destinationhash:同期先ファイルのコンチE��チE��ら計算された MD5 斁E���E、E
+            @filetype:構文の強調表示に使用されめEMIME タイプ、E            @comparationmethod:使用される比輁E��法、E            @fileencoding:エンコーチE��ングが検�Eされなかった場合に使用するチE��ォルト�EファイルエンコーチE��ング、E
+== MergeToolsTableTitle ==
+さまざまなファイルタイプと拡張子用にマ�EジチE�Eルを設定します。ルールは次の頁E��で上から頁E��に適用されます、E
+== MergeToolsExplanation ==
+ファイルタイプまた�E拡張子を選択し、コマンドを入力してマ�EジチE�Eルを実行しまぁE
+
+== MergeToolsCommandHelp ==
+コマンドラインで外部のマ�EジチE�Eルを呼び出す際には、次の変数を引数として使用できまぁE
+
+            @sourcefile:ソースマ�Eジファイルのフルパス、E            @destinationfile:同期先�Eージファイルのパス、E            @basefile:共通祖�Eマ�Eジファイルのパス、E            @output:マ�Eジ結果ファイルのパス、E
+            @sourcesymbolic:ソースファイルのシンボリチE��名、E            @destinationsymbolic:同期先ファイルのシンボリチE��名、E            @basesymbolic:ベ�EスファイルのシンボリチE��名、E
+            @sourcehash:ソースファイルのコンチE��チE��ら計算された MD5 斁E���E、E            @destinationhash:同期先ファイルのコンチE��チE��ら計算された MD5 斁E���E、E            @basehash:ベ�EスファイルのコンチE��チE��ら計算された MD5 斁E���E、E
+            @filetype:構文の強調表示に使用されめEMIME タイプ、E            @fileencoding:エンコーチE��ングが検�Eされなかった場合に使用するチE��ォルト�EファイルエンコーチE��ング、E            @resultencoding:結果ファイルのエンコーチE��ング (「なし」を選択した場合、�E同作�E老E��ら計算されまぁE、E
+            @comparationmethod:使用される比輁E��法、E            @mergetype:使用される�Eージの種類、E
+            @progress:現在の操作�E進行状況を示す文字�E (侁E 「ファイル 3/10 を�Eージ中、E、E            @extrainfofile:現在のマ�Eジに関する追加惁E��が含まれるファイルのパス、E
+== TypeSuffixColumn ==
+タイチEサフィチE��ス
+
+== DiffCommandColumn ==
+差刁E��ールのコマンドライン
+
+== MergeCommandColumn ==
+マ�EジチE�Eルのコマンドライン
+
+== AddToolButton ==
+追加
+
+== RemoveToolButton ==
+削除
+
+== FileTypeQuestion ==
+どのファイルをこのコマンドで照合しますか?
+
+== ExtensionTooltip ==
+.拡張孁E
+== ExternalTool ==
+外部チE�Eル:
+
+== ExternalToolNotFoundError ==
+チE�Eルが見つかりません。有効なチE�Eルを導�Eしてください
+
+== BrowseForExecutableFile ==
+実行可能ファイルを参照
+
+== CommandTooltip ==
+ここにコマンドを入力しまぁE
+== FileCorruptError ==
+ファイル {0} にはエラーが含まれてぁE��ため、その設定を使用できません。ファイルのコンチE��チE��確認してください。エラー:{1}
+
+== UndoCheckoutTitle ==
+チェチE��アウトを取り消す
+
+== UndoCheckoutQuestion ==
+選択された頁E��のチェチE��アウトを取り消すと、最後�EチェチE��イン後に行った変更が破棁E��れます。この操作�E允E��戻せません。続行しますか?
+
+== RenameSyncTitle ==
+同期ビューを名前変更
+
+== RenameTitle ==
+頁E��を名前変更
+
+== ApplyLocalChanges ==
+ローカルの変更を適用
+
+== SearchingDependencies ==
+依存関係を検索してぁE��ぁE..
+
+== ApplyingDependencies ==
+依存関係を適用してぁE��ぁE..
+
+== CheckinViewOptions ==
+チェチE��インビューのオプション
+
+== Canceling ==
+キャンセルしてぁE��ぁE..
+
+== CancelingMerge ==
+キャンセルしてぁE��ぁE..(現在のマ�Eジ操作が完亁E��るまでお征E��ください)
+
+== KeepLocked ==
+頁E��のロチE��を維持E
+== StatusCannotMerge ==
+マ�Eジできません
+
+== StatusOutOfDate ==
+最新でなぁE
+== StatusDeletedOnServer ==
+サーバ�E上で削除済み
+
+== StatusLockedBy ==
+'{0}' によってロチE��済み
+
+== StatusCheckedOutChanged ==
+チェチE��アウト済み (変更あり)
+
+== StatusCheckedOutUnchanged ==
+チェチE��アウト済み (変更なぁE
+
+== StatusChanged ==
+変更済み
+
+== StatusReplaced ==
+置換済み
+
+== StatusNotOnDisk ==
+チE��スク上になぁE
+== StatusAdded ==
+追加済み
+
+== StatusIgnored ==
+無要E
+== UpdatingWorkspace ==
+ワークスペ�Eスを更新してぁE��ぁE..
+
+== ApplyingConfiguration ==
+設定を適用してぁE��ぁE..
+
+== SwitchingToBranch ==
+ブランチE{0} に刁E��替えてぁE��ぁE..
+
+== SwitchingToChangeset ==
+変更セチE�� {0} に刁E��替えてぁE��ぁE..
+
+== SwitchingToLabel ==
+ラベル {0} に刁E��替えてぁE��ぁE..
+
+== StatusUnderUnresolvedXlink ==
+Xlink されぁEcset '{0}@{1}' は使用できません
+
+== MovedHistoryDescription ==
+{0} から "{1}" に移動しました
+
+== RemovedHistoryDescription ==
+{0} を削除しました
+
+== SelectProgramToLaunch ==
+起動する�Eログラムを選抁E
+== WindowTitle ==
+ワークスペ�Eス:{0}
+
+== ItemsMenuUpdate ==
+更新
+
+== ConfigurationUnresolvedXlink ==
+Xlink されぁEcset '{0}@{1}' は使用できません
+
+== WorkspacesViewTitle ==
+ワークスペ�Eス
+
+== RepositoriesViewTitle ==
+リポジトリ
+
+== PendingChangesViewTitle ==
+保留中の変更
+
+== BranchesViewTitle ==
+ブランチE
+== ChangesetsViewTitle ==
+変更セチE��
+
+== SyncViewTitle ==
+リポジトリを同朁E
+== ShelvesViewTitle ==
+シェルチE
+== HistoryViewTitle ==
+{0} の履歴
+
+== AnnotateViewTitle ==
+{0} の注釁E
+== BrowseRepositoryViewTitle ==
+リポジトリを参照 - {0}
+
+== ConfigurationModeExplanationAutomatic ==
+チE��レクトリ更新モーチE自勁E
+自動モード�E、ディレクトリのすべての子が選択されてぁE��ときに設定されます、E自動とは、更新時にすべての新しいファイルとチE��レクトリがダウンロードされることを意味します、E
+== ConfigurationModeExplanationManual ==
+チE��レクトリ更新モーチE手動
+
+手動モード�E、ディレクトリのすべての子が選択されてぁE��ぁE��きに設定されます、E手動とは、更新によって新しいファイルとチE��レクトリが�E動的にダウンロードされなぁE��とを意味します、E
+== PendingDirectoryConflictsResolvingConflictsSingular ==
+ファイル競合を解決する前に解決する忁E��がある 1 件のチE��レクトリ競合があります、E
+== PendingDirectoryConflictsResolvingConflictsPlural ==
+ファイル競合を解決する前に解決する忁E��がある {0} 件のチE��レクトリ競合があります、E
+== PendingDirectoryConflictsApplyingChangesSingular ==
+変更を適用する前に解決する忁E��がある 1 件のチE��レクトリ競合があります、E
+== PendingDirectoryConflictsApplyingChangesPlural ==
+変更を適用する前に解決する忁E��がある {0} 件のチE��レクトリ競合があります、E
+== PendingDirectoryConflictsUpdatingWorkspaceSingular ==
+ワークスペ�Eスを更新する前に解決する忁E��がある 1 件のチE��レクトリ競合があります、E
+== PendingDirectoryConflictsUpdatingWorkspacePlural ==
+ワークスペ�Eスを更新する前に解決する忁E��がある {0} 件のチE��レクトリ競合があります、E
+== CreatedByColumn ==
+作�E老E
+== UnresolvedXlink ==
+未解決の Xlink
+
+== UnexpectedError ==
+予期しなぁE��ラーが発生しました、E
+== SaveRequest ==
+コメント�E保存を確誁E
+== SaveRequestMessage ==
+現在選択されてぁE��オブジェクト�Eコメントが変更されました。変更を保存しますか?
+
+== ProvideDifferentWorkspaceName ==
+別のワークスペ�Eス名を持E��するか、操作をキャンセルしてください、E
+== ProvideDifferentRepositoryName ==
+別のリポジトリ名を持E��するか、操作をキャンセルしてください、E
+== ProvideDifferentItemName ==
+別の頁E��名を持E��するか、操作をキャンセルしてください、E
+== ProvideDifferentBranchName ==
+別のブランチ名を指定するか、操作をキャンセルしてください、E
+== ProvideDifferentLabelName ==
+別のラベル名を持E��するか、操作をキャンセルしてください、E
+== ProvideDifferentSyncViewName ==
+別の同期ビュー名を持E��するか、操作をキャンセルしてください、E
+== ProvideDifferentItemNameForRenameResolution ==
+別の頁E��名を持E��してください、E
+== ProvideUserName ==
+ユーザー名を入力してください、E
+== ProvidePassword ==
+パスワードを入力してください、E
+== ReplicationSource ==
+レプリケーション允E
+== ReplicationDestination ==
+レプリケーション允E
+== PullingProgressTitle ==
+ブランチE{0} を�Eル中
+
+== PushingProgressTitle ==
+ブランチE{0} めE{1} にプッシュ中
+
+== CurrentOfTotalReplicationProgressTitle ==
+   {0}/{1}
+
+== PullBranch ==
+ブランチE{0} を�Eル
+
+== PullRemoteBranch ==
+リモートブランチをプル
+
+== PushBranch ==
+ブランチE{0} を�EチE��ュ
+
+== ReplicateButton ==
+レプリケーチE
+== GenericChooseButton ==
+...
+
+== ServerEmpty ==
+サーバ�Eフィールドを空にすることはできません、E
+== RepositoryEmpty ==
+リポジトリフィールドを空にすることはできません、E
+== BranchEmpty ==
+ブランチフィールドを空にすることはできません、E
+== OperationStarting ==
+操作を開始中
+
+== FetchingMetadata ==
+メタチE�EタをフェチE��中
+
+== PushingMetadata ==
+メタチE�Eタを�EチE��ュ中
+
+== IntroducingData ==
+チE�Eタを取り込み中
+
+== OperationStartingFetch ==
+フェチE��操作を開始中
+
+== CalculatingInitialChangeset ==
+初期変更セチE��を計算中
+
+== FetchingRevisions ==
+リビジョンをフェチE��中 ({0})
+
+== FetchingBranches ==
+ブランチをフェチE��中 ({0})
+
+== FetchingItems ==
+頁E��をフェチE��中 ({0})
+
+== FetchingLabels ==
+ラベルをフェチE��中 ({0})
+
+== FetchingLinks ==
+リンクをフェチE��中 ({0})
+
+== FetchingChildren ==
+子をフェチE��中 ({0})
+
+== FetchingChangeSets ==
+変更セチE��をフェチE��中 ({0})
+
+== FetchingMoveRealizations ==
+移動実現をフェチE��中 ({0})
+
+== FetchingReviews ==
+レビューをフェチE��中 ({0})
+
+== FetchingAttributes ==
+属性をフェチE��中 ({0})
+
+== FetchingACLs ==
+ACL をフェチE��中 ({0})
+
+== FetchingReferences ==
+参�EをフェチE��中 ({0})
+
+== FetchingSEIDs ==
+SEID をフェチE��中 ({0})
+
+== FetchingFinished ==
+メタチE�Eタを送信中 ({0})
+
+== OperationStartingPush ==
+プッシュ操作を開始中
+
+== ReconcilingObjects ==
+オブジェクトを調整中 ({0})
+
+== PushingReferences ==
+参�Eを�EチE��ュ中 ({0} %)
+
+== ReconcilingACLs ==
+ACL を調整中 ({0} %)
+
+== PushingBranches ==
+ブランチをプッシュ中 ({0} %)
+
+== PushingItems ==
+頁E��を�EチE��ュ中 ({0} %)
+
+== PushingLinks ==
+リンクを�EチE��ュ中 ({0} %)
+
+== PushingLabels ==
+ラベルを�EチE��ュ中 ({0} %)
+
+== PushingAttributes ==
+属性を�EチE��ュ中 ({0} %)
+
+== ProcessingBranches ==
+ブランチを処琁E�� ({0} %)
+
+== PushingChangeSets ==
+変更セチE��を�EチE��ュ中 ({0} %)
+
+== PushingRevisions ==
+リビジョンを�EチE��ュ中 ({0} %)
+
+== PushingMoveRealizations ==
+移動実現を�EチE��ュ中 ({0} %)
+
+== PushingTrees ==
+チE��ーを�EチE��ュ中 ({0} %)
+
+== PushingACLs ==
+ACL を�EチE��ュ中 ({0} %)
+
+== PushingFinished ==
+プッシュが完亁E��ました
+
+== IntroducingDataProgress ==
+チE�Eタを取り込み中 ({0} %)
+
+== DataWritten ==
+チE�Eタが書き込まれました
+
+== OperationAbandoned ==
+操作を中止しました
+
+== OperationFinished ==
+操作が完亁E��ました
+
+== ReplicationError ==
+レプリケーション中にエラーが発生しました:{0}
+
+== UnknownStatus ==
+不�EなスチE�Eタス
+
+== RetryReplicaButton ==
+再試衁E
+== SkipReplicaButton ==
+スキチE�E
+
+== SourceReplicationServer ==
+ソースサーバ�E
+
+== SourceReplicationRepository ==
+ソースリポジトリ
+
+== SourceReplicationBranch ==
+ソースブランチE
+== DestinationReplicationServer ==
+同期先サーバ�E
+
+== DestinationReplicationRepository ==
+同期先リポジトリ
+
+== CreateWorkspaceButton ==
+新規ワークスペ�Eスを作�E...
+
+== MenuAddToIgnoreList ==
+無視リストに追加
+
+== MenuRemoveFromIgnoreList ==
+無視リストから削除
+
+== MenuAddToCloakedList ==
+クローク対象リストに追加
+
+== MenuRemoveFromCloakedList ==
+クローク対象リストから削除
+
+== MenuAddToHiddenChangesList ==
+非表示の変更リストに追加
+
+== MenuRemoveFromHiddenChangesList ==
+非表示の変更リストから削除
+
+== UsingItemExtension ==
+頁E��の拡張子を使用
+
+== UsingItemFullPath ==
+頁E��のフルパスを使用
+
+== UsingItemName ==
+頁E��名を使用
+
+== FilterRulesConfirmationTitle ==
+フィルタールールの確誁E
+== FilterRulesConfirmationAddMessage ==
+次のルールが設定ファイルに追加されます。続行しますか?
+
+== FilterRulesConfirmationRemoveMessage ==
+次のルールが設定ファイルから削除されます。続行しますか?
+
+== ApplyRulesToAllWorkspaceCheckButton ==
+すべてのワークスペ�Eスにルールを適用
+
+== ShelveWithPendingMergeLinksRequest ==
+保留中のマ�EジリンクがあるシェルチE
+== ShelveWithPendingMergeLinksRequestMessage ==
+ワークスペ�Eス冁E��保留中のマ�Eジリンクがあります。シェルブ操作では、保留中のマ�Eジリンクはシェルブされません。シェルブを実行しますか?
+
+== UndoChangesAfterShelveRequest ==
+シェルブ後に変更を取り消す
+
+== UndoChangesAfterShelveRequestMessage ==
+変更が一時変更セチE�� (シェルチE にチェチE��インされました。これらの変更は今すぐ任意�Eブランチに適用できます。ワークスペ�Eス冁E�Eこれら�E変更を取り消しますか?
+
+== ShelveCreatedMessage ==
+保留中の変更が以下にシェルブされました {0}
+
+== NewCertificateTitle ==
+サーバ�Eの SSL 証明書がストアにありません
+
+== NewCertificateMessageUnityVCS ==
+接続�Eのサーバ�Eから、ストアになぁE��明書が送信されました。このサーバ�Eに初めて接続する場合、これ�E正常な動作です、E
+            証明書の詳細:
+            - 発行�E:{0}
+            - 発行�E:{1}
+            - 有効期限:{3}
+            - 証明書ハッシュ:{5}
+
+            こ�Eホストを信頼する場合�E、「�EぁE��をクリチE��して Unity Version Control キーストアにキーを追加しまぁE(こ�Eサーバ�Eに初めて接続する場合�E推奨)、E            ストアにキーを追加せずにこ�Eまま 1 回だけ接続する場合�E、「いぁE��」をクリチE��します、E            こ�Eホストを信頼しなぁE��合�E、「キャンセル」をクリチE��して接続を中止します、E
+== ExistingCertificateChangedTitle ==
+サーバ�E証明書が変更されてぁE��ぁE
+
+== ExistingCertificateChangedMessageUnityVCS ==
+警呁Eこ�Eホスト証明書は、キーストアにある証明書と一致してぁE��せん。これ�E、サーバ�Eの ID が侵害されたか、中間老E��撁E��受けてぁE��ことを意味してぁE��可能性があります、E
+            証明書の詳細:
+            - 発行�E:{0}
+            - 発行�E:{1}
+            - 有効期限:{3}
+            - 証明書ハッシュ:{5}
+
+            こ�E変更を予期しており、新しい証明書を信頼する場合�E、「�EぁE��をクリチE��して Unity Version Control キーストアにキーを追加し、今後この証明書を信頼します、E            ストアにキーを追加せずにこ�Eまま 1 回だけ接続する場合�E、「いぁE��」をクリチE��します、E            こ�E接続を中止する場合�E、「キャンセル」をクリチE��します。これ�E唯一の保証された安�Eな選択肢です、E
+== InvalidCertificateHostnameTitle ==
+安�Eな接続でのホスト名の不一致
+
+== InvalidCertificateHostnameMessage ==
+警呁Eサーバ�E証明書で持E��されてぁE��ホスト名が、サーバ�Eのホスト名と一致してぁE��せん。これ�E、証明書がこのホスト名に対して発行されてぁE��ぁE��、このホストにネットワーク設定�E問題があることを意味します、E
+            - 証明書のホスト名:{0}
+            - サーバ�Eのホスト名:{1}
+
+            こ�Eホストへの接続を続行する場合�E、「�EぁE��をクリチE��します。証明書の検証が続行されまぁE(非推奨)、E            こ�E接続を中止する場合�E、「いぁE��」をクリチE��しまぁE(推奨)、E
+== RepositoryExplorerServerLabel ==
+サーバ�E:
+
+== UndeleteButtonTooltip ==
+削除済みのファイルを復允E��るために使用しまぁE
+== UndeleteViewTitle ==
+削除された頁E��
+
+== UndeleteMenuItemUndeleteRevision ==
+リビジョンの削除の取り消し
+
+== UndeleteMenuItemUndeleteRevisionToThisPath ==
+リビジョンの削除を取り消して次のパスに復允E..
+
+== UndeletingItem ==
+頁E��の削除を取り消してぁE��ぁE..
+
+== UndeletingItemsSingular ==
+1 頁E��の削除を取り消してぁE��ぁE..
+
+== UndeletingItemsPlural ==
+{0} 頁E��の削除を取り消してぁE��ぁE..
+
+== EnterRestorePathFormTitle ==
+頁E��の削除の取り消し
+
+== EnterRestorePathFormParentDoesNotExistExplanation ==
+頁E��の親チE��レクトリが存在しません。新しい場所を�E力してください
+
+== EnterRestorePathFormIsPathAlreadyUsedExplanation ==
+同じパスに頁E��がすでに存在します。新しい場所を�E力してください
+
+== EnterRestorePathFormTextBoxExplanation ==
+削除を取り消す要素の復允E��スを�E力しまぁE
+== EnterRestorePathFormLabel ==
+パス:
+
+== EnterValidRestorePath ==
+有効なワークスペ�Eスパスを�E力してください
+
+== RestorePathShouldNotExist ==
+復允E��スが存在してぁE��ぁE��E��がありまぁE
+== RestorePathParentShouldExist ==
+復允E��スの親チE��レクトリが存在してぁE��忁E��がありまぁE
+== DeletedItemsOwner ==
+所有老E
+
+== DeletedItemsSince ==
+次の日時以陁E
+
+== MeOwnerOption ==
+自刁E
+== EveryoneOwnerOption ==
+全ユーザー
+
+== ItemUndeletedCorrectly ==
+削除が正常に取り消されました:'{0}'
+
+== ItemCannotBeUndeleted ==
+頁E�� '{0}' (ID:{1}) が親チE��レクトリのリビジョンに見つからなかったため、E��E��の削除を取り消せませんでした。リビジョン (ID:{2})
+
+== CheckinViewTitle ==
+変更をチェチE��イン
+
+== UserDefinedSyncView ==
+ユーザー定義の同期ビュー:
+
+== AddSyncViewButton ==
+追加
+
+== RenameSyncViewButton ==
+名前変更
+
+== DeleteSyncViewButton ==
+削除
+
+== SyncViewDetailsTitle ==
+同期ビューの詳細
+
+== AddSrcSyncViewRepoButton ==
+ソースリポジトリを追加
+
+== DeleteSrcSyncViewRepoButton ==
+ソースリポジトリを削除
+
+== AddDstSyncViewRepoButton ==
+同期先リポジトリを追加
+
+== DeleteDstSyncViewRepoButton ==
+同期先リポジトリを削除
+
+== PushVisibleButton ==
+表示されてぁE��も�Eを�EチE��ュ
+
+== PushVisibleButtonTooltip ==
+表示されてぁE��すべての送信ブランチをプッシュしまぁE
+== PullVisibleButton ==
+表示されてぁE��も�Eを�Eル
+
+== PullVisibleButtonTooltip ==
+表示されてぁE��すべての受信ブランチをプルしまぁE
+== ShowExcludedBranchesCheckButton ==
+除外されたブランチを表示
+
+== NewSyncView ==
+新規同期ビュー
+
+== NewSyncViewName ==
+同期ビュー吁E
+== NewSyncViewTitle ==
+ブランチ�Eグループをプッシュ/プルするための新規同期ビューを作�EしまぁE
+== NewSyncViewTitleCloud ==
+Unity VCS Cloud との間でブランチ�Eグループをプッシュ/プルするための新規同期ビューを作�EしまぁE
+== NewSyncViewExplanation ==
+同期ビューでは、ブランチを 1 つずつプッシュ/プルする代わりに、バチE��で簡単にレプリケートできまぁE
+== NewSyncViewCheckingRepositories ==
+リポジトリをチェチE��してぁE��ぁE..
+
+== NewSyncViewNoSourceRepository ==
+ソースとして使用する {0} リポジトリがありません
+
+== NewSyncViewNoDestinationRepository ==
+同期先として使用する {0} リポジトリがありません
+
+== NewSyncViewSourceRepository ==
+ソースリポジトリ
+
+== NewSyncViewDestinationRepository ==
+同期先リポジトリ
+
+== NewSyncViewEnterSyncViewName ==
+有効な同期ビュー名を入力してください
+
+== NewSyncViewEnterRepositorySpec ==
+有効なリポジトリ持E��を入力してください
+
+== NewSyncViewInvalidRepositorySpec ==
+無効なリポジトリ持E��E{0}
+
+== NewSyncViewCheckingSourceRepositoryExists ==
+ソースリポジトリが存在することを確認してぁE��ぁE..
+
+== NewSyncViewCheckingDestinationRepositoryExists ==
+同期先リポジトリが存在することを確認してぁE��ぁE..
+
+== NewSyncViewSourceRepositoryNotExist ==
+ソースリポジトリ {0} が存在しません
+
+== NewSyncViewDestinationRepositoryNotExist ==
+同期先リポジトリ {0} が存在しません
+
+== NewSyncViewCreateSyncView ==
+新規同期ビューを作�E (プッシュ/プル)
+
+== SyncStatusLoading ==
+ロードしてぁE��ぁE..
+
+== SyncStatusUpToDate ==
+すべてのブランチが最新でぁE
+== SyncStatusError ==
+エラー:{0}
+
+== OutgoingBranchesSingular ==
+送信ブランチE- 1 個�EブランチE
+== OutgoingBranchesPlural ==
+送信ブランチE- {0} 個�EブランチE
+== IncomingBranchesSingular ==
+受信ブランチE- 1 個�EブランチE
+== IncomingBranchesPlural ==
+受信ブランチE- {0} 個�EブランチE
+== ExcludedBranchesSingular ==
+除外されたブランチE- 1 個�EブランチE
+== ExcludedBranchesPlural ==
+除外されたブランチE- {0} 個�EブランチE
+== SyncMenuItemSyncAllMenuItem ==
+すべてを同朁E
+== SyncMenuItemPushAllMenuItem ==
+すべての送信ブランチをプッシュ
+
+== SyncMenuItemPullAllMenuItem ==
+すべての受信ブランチをプル
+
+== SyncMenuItemRefreshReplicationTarget ==
+最新惁E��に更新
+
+== SyncMenuItemPushBranch ==
+ブランチをプッシュ
+
+== SyncMenuItemPullBranch ==
+ブランチをプル
+
+== SyncMenuItemExcludeBranch ==
+ブランチを除外すめE
+== SyncMenuItemIncludeBranch ==
+ブランチを含める
+
+== CantShowBinaryContent ==
+こ�Eファイルはバイナリとして検�Eされました。ファイルのコンチE��チE��表示できません。代わりにファイルのメタチE�Eタが表示されます。それを右クリチE��して「開く」を使用すると、コンチE��チE��表示できます。詳細につぁE��は、オンラインドキュメントを参�Eしてください、E
+== CantShowBinaryDiff ==
+こ�Eファイルはバイナリとして検�Eされました。差刁E�E計算されません。代わりにファイルのメタチE�Eタが表示されます。それを右クリチE��して「差刁E��を使用すると、外部の差刁E��ューアー (設定が忁E��E が起動します。詳細につぁE��は、オンラインドキュメントを参�Eしてください、E
+== Content ==
+{0} のコンチE��チE
+== UpdateMergeExplanation ==
+リポジトリで新規変更セチE��が検�Eされました。最新の変更セチE��への更新、また�E最新の更新セチE��からのマ�Eジを実行できます、E
+== ViewNewChangesButton ==
+新しい変更を表示
+
+== RetrievingBranchHeads ==
+ブランチ�Eヘッドを取得してぁE��ぁE..
+
+== RetrievingNewChanges ==
+新しい変更を取得してぁE��ぁE..
+
+== RetrievingObjectInfo ==
+オブジェクト情報を取得してぁE��ぁE..
+
+== WorkspaceRevisionKey ==
+ワークスペ�Eスリビジョン
+
+== MergeToDiffWithDst ==
+同期先ブランチ上�Eリビジョン
+
+== EncryptionConfiguration ==
+サーバ�E暗号匁E
+== RetypePassword ==
+パスワードを再�E劁E
+
+== EncryptionConfigurationExplanation ==
+サーバ�E '{0}' ではチE�Eタ暗号化が忁E��です、E            ご使用のクライアントでは、E{0}' からの暗号化されたチE�Eタを�E琁E��るため�E設定がまだ行われてぁE��せん、E
+== EncryptionConfigurationEnterPassword ==
+暗号化キーを生成するため�Eパスワードを入劁E
+
+== EncryptionConfigurationRemarks ==
+備老E
+            * 暗号化パスワードにつぁE��は十�Eな注意を払ってください。このパスワード�E、サーバ�E '{0}' でチE�Eタを暗号化解除するための唯一の手段です、E            * チE�Eタを暗号化解除する際に間違ったパスワードを入力すると、データの暗号化解除は失敗します。クライアントで cryptedservers.conf を編雁E��て、問題を修正しなければならなくなります、E            * '{0}' を操作するにあたっては、会社全体で同じパスワーチE(暗号化キー) を使用するようにしてください。そぁE��なぁE��、データがクライアントごとに異なる方法で暗号化されます、E
+== InvalidEmptyPassword ==
+パスワードを空にすることはできません
+
+== PasswordDoesntMatch ==
+パスワードが一致しません
+
+== ApplyActionForNextConflictsCheckButtonSingular ==
+こ�Eアクションを次の 1 件の競合に適用します、E
+== ApplyActionForNextConflictsCheckButtonPlural ==
+こ�Eアクションを次の {0} 件の競合に適用します、E
+== FsProtectionChanged ==
+ファイルシスチE��の権限が {0} から {1} に変更されました、E
+== CreateXlinkTitle ==
+Xlink を作�E
+
+== CreateXlinkExplanation ==
+Xlink は、別のリポジトリ冁E�E変更セチE��にリンクするチE��レクトリです。これ�E、ワークスペ�Eスに褁E��のリポジトリをロードする方法です、E
+== XlinkTargetServerEntry ==
+ターゲチE��サーバ�E。選択また�E入力しまぁE
+== XlinkTargetServerExplanation ==
+サーバ�E:ポ�Eト�E形式。侁Emyserver:8087
+
+== XlinkTargetRepositoryEntry ==
+ターゲチE��リポジトリ
+
+== XlinkTargetChangesetEntry ==
+ターゲチE��の変更セチE��
+
+== XlinkNameEntry ==
+Xlink 吁E(チE��レクトリエントリの名前)
+
+== XlinkHint ==
+Xlink されたコンチE��チE�E、Xlink をチェチE��インしてワークスペ�Eスを更新するまでダウンロードされません
+
+== SelectARepository ==
+リポジトリ冁E�E変更セチE��を選択する前に、リポジトリを選択する忁E��がありまぁE
+== MainMainRuleCreated ==
+ターゲチE��リポジトリでメインブランチへの Xlink を作�EしよぁE��してぁE��す、E            2 つのリポジトリ間でメインブランチをリンクしよぁE��してぁE��可能性が高いため、それに関する拡張ルールが作�Eされます、E            こ�Eレイアウトが予期したも�EではなぁE��合�E、拡張ルールを手動で編雁E��てください、E
+== XlinkOptions ==
+Xlink オプション
+
+== WritableXlinkCheckButton ==
+書き込み可能 (そうでなぁE��合、コードツリーのこ�E部刁E�E読み取り専用になりまぁE
+
+== RelativeServerCheckButton ==
+関連サーバ�Eを使用 - Xlink はローカルサーバ�Eからのリポジトリの取得を試行しまぁE(リポジトリがレプリケートされてぁE��場合に推奨)
+
+== BranchExpansionRules ==
+ブランチ拡張ルール
+
+== BranchExpansionRulesExplanation ==
+これら�Eルールでは、ソースと同期先�Eブランチがどのようにリンクされるかを定義します。書き込み可能な Xlink の場合�E、main@src と main/fix@dst の間にリンクを定義できます、E
+== SelectARepositoryForRule ==
+ルールを作�Eする前に、リポジトリを選択する忁E��がありまぁE
+== AddExpansionRuleTitle ==
+拡張ルールを追加
+
+== AddExpansionRuleExplanation ==
+Xlink されたリポジトリ間でブランチがどのように拡張されるかを定義しまぁE
+== SourceBranch ==
+ソースブランチE
+== DestinationBranch ==
+同期先ブランチE
+== IsDefinedByUser ==
+ユーザーが定義
+
+== Yes ==
+はぁE
+== No ==
+ぁE��ぁE
+== AlreadyDefinedRuleForBranch ==
+こ�Eソースブランチ�Eルールはすでに定義されてぁE��ぁE
+== XlinkNoChangesetSelected ==
+Xlink のターゲチE��として変更セチE��が選択されてぁE��せん
+
+== EmptyXlinkName ==
+Xlink チE��レクトリ名が空でぁE
+== NoRulesDefined ==
+こ�E Xlink に対してブランチ拡張ルールが定義されてぁE��せん。続行しますか?
+
+== NoRulesDefinedCaption ==
+ルールの定義なぁE
+== EditXlinkTitle ==
+Xlink を編雁E
+== EditButton ==
+編雁E
+== EmptySourceBranch ==
+ソースブランチフィールドを空にすることはできません、E
+== EmptyDestinationBranch ==
+同期先ブランチフィールドを空にすることはできません、E
+== LoadingXlinkData ==
+Xlink チE�EタをロードしてぁE��ぁE..
+
+== CreatingDefaultRule ==
+チE��ォルト�Eルールを作�EしてぁE��ぁE..
+
+== NoContentToCompare ==
+比輁E��るコンチE��チE��ありません、E
+== CreateBranchManualMode ==
+手動
+
+== CreateBranchTaskMode ==
+タスクから
+
+== LoadingIssueTrackerExtension ==
+イシュートラチE��ーの拡張機�EをロードしてぁE��ぁE..
+
+== MarkingTaskAsOpen ==
+'{1}' で '{0}' タスクをオープンとしてマ�Eク
+
+== PendingTasks ==
+保留中のタスク
+
+== RetrievingTasks ==
+保留中のタスクを取得してぁE��ぁE..
+
+== RetrievingUserTasks ==
+ユーザー '{0}' の保留中のタスクを取得してぁE��ぁE..
+
+== DisplayPendingTasksFromAllUsers ==
+保留中のタスクをすべてのユーザーから表示
+
+== MarkAsOpenInIssueTracker ==
+イシュートラチE��ーでオープンとしてマ�Eク
+
+== LinkedTasksViewTitle ==
+リンクされたタスク
+
+== PlasticTaskIdProperty ==
+ID:
+
+== PlasticTaskOwnerProperty ==
+所有老E
+
+== PlasticTaskStatusProperty ==
+スチE�Eタス:
+
+== PlasticTaskTitleProperty ==
+タイトル:
+
+== PlasticTaskDescriptionProperty ==
+説昁E
+
+== DeleteTaskTooltip ==
+こ�Eイシューを削除
+
+== LoadingLinkedTasks ==
+イシュートラチE��ーでリンクするタスクをロードしてぁE��ぁE..
+
+== AddTaskTooltip ==
+新規イシューを追加
+
+== SelectTasksToBeLinkedDialogTitle ==
+{0} からイシューを選抁E
+== SelectTasksToBeLinkedExplanation ==
+新規変更セチE��にリンクするイシューを選択しまぁE
+== TaskIdEntryTitle ==
+イシュー ID:
+
+== ManualTaskIdEntryExplanation ==
+上になぁE��合�E、コンマ区刁E��のイシュー ID リストを手動で入力できまぁE
+== UnknownTaskIdsInManualEntry ==
+手動入力フィールドで無効なイシュー ID が見つかりました、E
+== OpenTaskInBrowserTooltip ==
+ウェブブラウザーのオープンタスク惁E��ペ�Eジ
+
+== DoNotCheckinChangesJustMove ==
+変更をチェチE��インせず、指定されたブランチへの移動だけ行います、E
+== CreateANewBrachRadioButton ==
+新規ブランチを作�E
+
+== CreateANewBranchToCheckinExplanationLabel ==
+{0} の子ブランチを作�Eし、ワークスペ�Eスの変更をそのブランチにチェチE��インします、E
+== CreateANewBranchToMoveChangesetExplanationLabel ==
+変更セチE�� cs:{1} を移動するため�E {0} の子ブランチを作�Eします、E
+== CreateANewBranchLabel ==
+子ブランチ�E名前
+
+== SelectExistingBranchRadioButton ==
+既存�Eブランチを選抁E(空であることが忁E��E
+
+== SelectExistingBranchExplanationLabel1 ==
+以前に作�Eしたブランチを選択し、ワークスペ�Eスの変更をそのブランチにチェチE��インします、E
+== SelectExistingBranchExplanationLabel2 ==
+選択したブランチ�Eブランチ�Eースは現在のベ�Eスに変更されます、E
+== SelectExistingBranchToMoveExplanationLabel ==
+以前に作�Eしたブランチを選択し、E��択した変更セチE��をそのブランチ�Eに移動します、E
+== SelectExistingBranchLabel ==
+選択したブランチE
+== MoveChangesNoBranchName ==
+子ブランチ名を指定してください
+
+== MoveChangesSelectABranch ==
+ブランチを選択してください
+
+== MoveChangesBranchMustBeEmpty ==
+選択したブランチ�E空である忁E��がありまぁE
+== CantUpdateBraseChangesetBranchWithRevisions ==
+ブランチ�Eベ�Eス変更セチE��は空である忁E��があるため、更新できません
+
+== RetrievingWorskpaceInfo ==
+ワークスペ�Eス惁E��を取得中
+
+== MovingChangesToTargetBranch ==
+変更をターゲチE��ブランチに移動してぁE��ぁE..
+
+== UpdatingTargetBranchBase ==
+変更をターゲチE��ブランチ�Eースを更新してぁE��ぁE..
+
+== OrganizationUserBelongsTo ==
+お客様�E絁E���E {0} でぁE
+== OrganizationNotFoundLine1 ==
+{0} 用の絁E��がなぁE��ぁE��ぁE
+== NameWorkingMode ==
+コンピューターからのユーザー吁E
+== NameIdWorkingMode ==
+名前 + ユーザー ID
+
+== ADWorkingMode ==
+Active Directory
+
+== LDAPWorkingMode ==
+LDAP
+
+== UPWorkingMode ==
+絁E��込みのユーザー名とパスワーチE
+== TubeWorkingMode ==
+Tube 動作モーチE
+== RepositoryWillBeKnownAs ==
+{0} として認識されまぁE
+== CantCreateLocalRepository ==
+ローカルリポジトリを作�Eできません
+
+== CantCreateCloudRepository ==
+Cloud リポジトリを作�Eできません
+
+== CantCreateWorkspace ==
+ワークスペ�Eスを作�Eできません
+
+== CantCreateSyncView ==
+同期ビューを作�Eできません
+
+== CantRetrieveCloudOrganization ==
+Cloud 絁E��を取得できません
+
+== SyncViewNameAlreadyExists ==
+同期ビュー {0} はすでに存在しまぁE
+== StartANewProject ==
+新規�Eロジェクトを開姁E
+== Distributed ==
+刁E��垁E
+== JoinExistingProject ==
+既存�Eプロジェクトを結合
+
+== Centralized ==
+雁E��垁E
+== WelcomeToCloudEdition ==
+Unity Version Control Cloud Edition へようこそ!
+
+== WelcomeToUnityVCS ==
+Unity VCS へようこそ!
+
+== WelcomeToGluonTeamEdition ==
+Gluon へようこそ!
+
+== WelcomeToGluonCloudEdition ==
+Gluon - Cloud Edition へようこそ!
+
+== TeamEditionFirstSteps1stCaption ==
+作業は Unity VCS サーバ�Eに接続されたローカルワークスペ�Eス上で行いまぁE
+== TeamEditionFirstSteps2ndCaption ==
+さまざまなプロジェクト用にさまざまなリポジトリを作�Eでき、E��常は吁E��ポジトリに対して 1 つのワークスペ�Eスを作�EできまぁE
+== CloudEditionFirstSteps1stCaption ==
+作業は雁E��型また�E刁E��型で行うことができまぁE
+== CloudEditionFirstSteps2ndCaption ==
+雁E��型�EローカルリポジトリがなぁE��とを意味しまぁE
+== CloudEditionFirstStepsChooseOption ==
+Unity VCS Cloud の操作を開始するには、パスめE1 つ選択してください
+
+== TeamEditionFirstStepsChooseOption ==
+Unity Version Control の操作を開始するには、次のぁE��れかのオプションを選択してください
+
+== TeamEditionFirstStepsJoinExistingProjectExplanation ==
+Unity VCS サーバ�E上�E既存�Eリポジトリを選択し、それをダウンロードするため�E新規ワークスペ�Eスを作�EしまぁE
+== CloudRepository ==
+Cloud リポジトリ
+
+== LocalRepositoryName ==
+ローカルリポジトリ吁E
+== NewRepositoryName ==
+新規リポジトリ吁E
+== WorkspaceName ==
+ワークスペ�Eス吁E
+== PathOnDisk ==
+チE��スク上�Eパス。ファイルが�E置されるディスク上�E場所です。ディスクにプロジェクトがすでにある場合�E、既存�Eパスを選択できまぁE
+== MakeWorkspaceDynamic ==
+こ�Eワークスペ�Eスを動皁E��する
+
+== CreateSyncViewToPushPullCloud ==
+Cloud との間で変更を�EチE��ュ/プルするための同期ビューを作�EしまぁE
+== BrowseButton ==
+参�E...
+
+== CheckingLocalRepositoryAvailable ==
+Cloud リポジトリ名が使用可能であることを確認してぁE��ぁE..
+
+== CheckingWorkspaceAvailable ==
+ワークスペ�Eスが使用可能であることを確認してぁE��ぁE..
+
+== CheckingSyncViewNameAvailable ==
+同期ビュー名が使用可能であることを確認してぁE��ぁE..
+
+== CreatingLocalRepository ==
+リポジトリ {0}@local を作�EしてぁE��ぁE..
+
+== CreatingSyncView ==
+同期ビューを作�EしてぁE��ぁE..
+
+== CloudEditionFirstStepsDistributedExplanation ==
+これは、ローカルリポジトリと Cloud リポジトリへのプッシュ/プルでの Git の動作でぁE
+== CloudRepositoryDoNotExist ==
+Cloud 絁E��にリポジトリ {0} が存在しません
+
+== CheckingCloudRepositoryExists ==
+Cloud リポジトリが存在することを確認してぁE��ぁE..
+
+== CloudEditionFirstStepsCreateWorkspaceExplanation ==
+ワークスペ�EスぁECloud リポジトリに接続されました。よくわからなぁE��合�E、このオプションを選択できまぁE
+== NoRepositoriesFound ==
+リポジトリが見つかりません。Unity VCS サーバ�Eが実行中で、そのサーバ�E上にリポジトリが存在することを確認してください
+
+== SyncFromLocalToCloudViewName ==
+ローカルから Cloud に {0} を同朁E
+== SyncToRepository ==
+{0} に同期
+
+== SyncFromRepository ==
+{0} から同期
+
+== LocalServerDetected ==
+ローカルサーバ�E {0} が検�Eされました
+
+== LocalServerDetectedDvcsMode ==
+ローカルサーバ�Eが検�Eされました
+
+== UseSsl ==
+SSL を使用
+
+== TeamEditionFirstStepsJoinTeamExplanation ==
+新規�Eロジェクトを開始するには、Unity VCS サーバ�Eに新規リポジトリを作�EしまぁE
+== ConfirmDeleteChangesetCaption ==
+変更セチE��の削除を確誁E
+== DeleteChangesetWarning ==
+次の変更セチE��を削除しますか?
+{0}
+
+== CantDeleteChangesetCaption ==
+変更セチE��を削除できません
+
+== CantDeleteChangeset ==
+現在の変更セチE��は別の頁E��によって参�EされてぁE��ため、削除できません、E
+次のことを確認してください:
+ * 変更セチE��が�EージリンクのソースではなぁE * 変更セチE��に子がなぁE * 変更セチE��がラベル付けされてぁE��ぁE * 変更セチE��から作�EされたシェルブセチE��がなぁE
+なお、特定�E変更セチE��から作�EされたシェルブセチE��は、CLI また�Eシェルブビューから次のクエリを実行することで検索できまぁE
+
+    find shelve where parent=changesetspec
+
+== DeleteWorkingChangesetCaption ==
+作業中の変更セチE��を削除
+
+== DeleteWorkingChangeset ==
+変更セチE��を削除すると、ワークスペ�Eス設定が変更されます。続行しますか?
+
+== CannotDeleteCsetWithPendingChanges ==
+保留中の変更があるため、E��択された変更セチE��を削除できません。保留中の変更を確認し、操作を再試行してください、E
+== CannotMoveCsetWithPendingChanges ==
+保留中の変更があるため、E��択された変更セチE��を移動できません。保留中の変更を確認し、操作を再試行してください、E
+== ReportChanged ==
+変更された頁E��
+
+== ReportAdded ==
+追加された頁E��
+
+== ReportDeleted ==
+削除された頁E��
+
+== ReportMoved ==
+移動された頁E��
+
+== ReportLoaded ==
+ロードされた頁E��
+
+== ReportUnloaded ==
+ロードされてぁE��ぁE��E��
+
+== ShowUpdateReportButton ==
+更新レポ�Eトを表示
+
+== HideUpdateReportButton ==
+更新レポ�Eトを非表示
+
+== ReportUpdatedHeader ==
+更新済み
+
+== ConfigurationAppliedHeader ==
+設定が適用されました
+
+== ZoomIn ==
+拡大
+
+== ZoomOut ==
+縮封E
+== RemoveFilter ==
+フィルターを削除
+
+== SelectedBranchesAndRelated ==
+{0} および関連するブランチE
+== SelectedBranchesAndPendingMerges ==
+{0} および保留中のマ�Eジ
+
+== DownloadingRevisions ==
+リビジョンをダウンロードしてぁE��ぁE..
+
+== GoToSourceChangesetMenuItem ==
+ソース変更セチE��に移勁E
+== GoToDestinationChangesetMenuItem ==
+同期先変更セチE��に移勁E
+== Name ==
+名前:
+
+== NewName ==
+新しい名前:
+
+== NoCsetCreatedWarning ==
+ファイルチE�Eタが変更されてぁE��ぁE��め、新規変更セチE��は作�Eされませんでした
+
+== AllFileConflictsWereMergedWarning ==
+すべてのファイルが�Eージされ、チェチE��インできる状態になってぁE��ぁE
+== SomeFileConflictsWereMergedWarning ==
+一部のファイルのみが�Eージされ、チェチE��インできる状態になってぁE��ぁE
+== NoFileConflictsWereMergedWarning ==
+ファイルはマ�Eジされませんでした
+
+== SaveDiffChangesTitle ==
+現在のファイルに加えた変更を保存しますか?
+
+== SaveDiffChangesMessage ==
+保存しなぁE��合、変更は失われまぁE
+== DontSaveButton ==
+保存しなぁE
+== SelectFileToSeeDifferences ==
+差刁E��表示するファイルを選択しまぁE
+== SaveThisRevisionAs ==
+こ�Eリビジョンに名前を付けて保孁E..
+
+== SaveRevisionAs ==
+リビジョンに名前を付けて保孁E..
+
+== SavingRevision ==
+リビジョンめE'{0}' に保存してぁE��ぁE..
+
+== DownloadFilesProgress ==
+{1} 個中 {0} 個をダウンロード済み (ダウンロード対象ファイル {3} 個中 {2} 倁E
+
+== DownloadInfoSingular ==
+1 個�Eファイル {0} をダウンロードしまぁE
+== DownloadInfoPlural ==
+{0} 個�Eファイル {1} をダウンロードしまぁE
+== NotifyLinuxWatchLimitWarning ==
+ウォチE��する頁E��の最大数に達しました。この値を大きくするには、Esudo sysctl fs.inotify.max_user_watches=524288' を実行しまぁE
+== CheckinProgressMultiThreadUploading ==
+マルチスレチE��のチェチE��イン
+
+== CheckinProgressMultiThreadNumOfBlocks ==
+{0} 個�EブロチE��を並行してアチE�Eロード中
+
+== SkipDiffMergeTracking ==
+マ�Eジの追跡をスキチE�E
+
+== SkipDiffMergeTrackingTooltip ==
+ファイル変更を�Eージ允E��にグループ化しません。各ファイルはそ�E「�E体的な」変更とともに 1 回表示されまぁE
+== FetchNoDataCheckButton ==
+チE�EタをレプリケートしなぁE(サーバ�Eの管琁E��E��ある忁E��がありまぁE
+
+== FetchNoDataNoPermissions ==
+「データをレプリケートしなぁE��オプションを使用するには、同期�Eサーバ�Eの管琁E��E��ある忁E��があります、E
+== CheckingFetchNoDataNoPermissions ==
+権限を確認してぁE��ぁE..
+
+== CheckinProgressUploadingFiles ==
+{0} ファイルをアチE�Eロード中
+
+== CheckinProgressUploadingFileData ==
+ファイル {0} ({1}) をリポジトリにアチE�Eロード中
+
+== CheckinProgressOf ==
+/
+
+== ToggleDetails ==
+詳細を�Eり替ぁE
+== ShowDetails ==
+詳細を表示
+
+== ToggleDetailsButtonTooltip ==
+詳細領域を表示/非表示
+
+== NoDiffToolDefined ==
+クライアント設定ファイルで差刁E��ールが定義されてぁE��せん
+
+== FileHistory ==
+ファイルの履歴
+
+== OpenButton ==
+開く
+
+== ApplyAttributesButton ==
+属性を適用...
+
+== ApplyAttribute ==
+選択したオブジェクトに属性を適用
+
+== ApplyAttributeExplanation ==
+「属性」ドロチE�Eダウンリストで適用する属性タイプを選択します。「値」フィールドでは、既存�E値をドロチE�Eダウンリストから選択するか、新しい値を�E力できます、E
+== AttributeValueLabel ==
+値:
+
+== LoadingAttributes ==
+属性をロードしてぁE��ぁE..
+
+== LoadingAttributeValues ==
+属性値をロードしてぁE��ぁE..
+
+== SelectAttribute ==
+属性を選択してください
+
+== SelectAttributeValue ==
+属性値を�E劁E
+== ApplyingAttribute ==
+属性を適用してぁE��ぁE..
+
+== SettingAttributeValue ==
+新しい値を設定してぁE��ぁE..
+
+== DeletingAttribute ==
+属性を削除してぁE��ぁE..
+
+== AnnotateDays ==
+日
+
+== AnnotateLocalRevision ==
+ローカル
+
+== AnnotateAuthorField ==
+作�E老E
+
+== AnnotateDateField ==
+日仁E
+
+== AnnotateBranchField ==
+ブランチE
+
+== AnnotateChangesetField ==
+変更セチE��:
+
+== AnnotateChangedDuringMerge ==
+マ�Eジ中に変更:
+
+== CreateAttribute ==
+新規属性を作�E
+
+== CreateAttributeExplanation ==
+新規属性の名前を�E力します。この属性は '{0}' に作�Eされます、E
+== AttributeNameLabel ==
+属性吁E
+
+== AttributeCommentLabel ==
+コメンチE
+
+== AttributeHelpLabel ==
+形弁E'default: value1, "value two", ..., valueN' を使用して行を追加することで、この属性のチE��ォルト値を定義します、E
+== CreatingAttribute ==
+属性を作�EしてぁE��ぁE..
+
+== AttributeNameAlreadyExists ==
+属性 {0} はすでに存在しまぁE({1})
+
+== MergeToPendingFileConflicts ==
+マ�Eジ先を処琁E��る前に解決する忁E��がある保留中のファイル競合があります、E
+== CommentsDialogTitle ==
+コメンチE
+== CommentsDialogExplanation ==
+マ�Eジ先�EチェチE��イン操作�Eコメントを入劁E
+
+== BranchMergeTo ==
+サーバ�E側マ�Eジ  EブランチE{0} からブランチE{1} へ
+
+== LabelMergeTo ==
+サーバ�E側マ�Eジ  Eラベル {0} からブランチE{1} へ
+
+== ChangesetMergeTo ==
+サーバ�E側マ�Eジ  E変更セチE�� cs:{0} からブランチE{1} へ
+
+== CheckinMergeTo ==
+マ�EジをチェチE��イン
+
+== MergeBranch ==
+ブランチE{0} からマ�Eジ
+
+== ChangesetIntervalCherryPick ==
+変更セチE��の間隔からチェリーピック (cs:{0} - cs:{1}]
+
+== BranchCherryPick ==
+ブランチE{0} からチェリーピック
+
+== ChangesetCherryPick ==
+変更セチE�� cs:{0} からチェリーピック
+
+== LabelMerge ==
+ラベル {0} からマ�Eジ
+
+== CherrypickSubtractiveMerge ==
+変更セチE�� cs:{0} から減法�Eージ
+
+== IntervalCherrypickSubtractiveMerge ==
+変更セチE��の間隔から減法�Eージ (cs:{0} から cs:{1} へ)
+
+== ChangesetMerge ==
+変更セチE�� cs:{0} からマ�Eジ
+
+== SwitchBranchButton ==
+ブランチを刁E��替ぁE..
+
+== PleaseTypeAPath ==
+パスを�E力してください
+
+== Copy ==
+コピ�E
+
+== AnnotateOptions ==
+注釈オプション
+
+== AnnotateDiffBranchMenuItem ==
+ブランチE{0} の差刁E��表示
+
+== AnnotateDiffChangesetMenuItem ==
+変更セチE�� {0} の差刁E��表示
+
+== AnnotateParentRevisionMenuItem ==
+親リビジョンに注釈を付けめE
+== AnnotateParentChangesetMenuItem ==
+これら�E変更より剁E(cs:{0} の親) に注釈を付けめE
+== AnnotateShowDate ==
+変更日を表示
+
+== AnnotateShowChangeset ==
+変更セチE��を表示
+
+== AnnotateShowBranch ==
+ブランチを表示
+
+== AnnotateShowAuthor ==
+作�E老E��表示
+
+== AnnotateShowLineAge ==
+行�E最終更新からの経過日数を表示
+
+== AnnotateShowRevInMerge ==
+マ�Eジで行が変更されたかどぁE��を表示
+
+== AnnotateDisplayShortBranchNames ==
+短ぁE��ランチ名を表示
+
+== AnnotateDisplayFullBranchNames ==
+完�Eなブランチ名を表示
+
+== Shelve ==
+シェルチE
+== AnnotateDialogTitle ==
+注釁E
+== AnnotateCantFindRevisionAtChangeset ==
+変更セチE�� cs:{0} にリビジョンが見つかりません
+
+== AnnotateNoPreviousRevision ==
+こ�E頁E��には前�Eバ�Eジョンがありません、E
+== AnnotateCantRunOnBinaryFiles ==
+バイナリファイルに注釈を付けることはできません。ファイルが実際にはプレーンチE��ストである場合、ワークスペ�EスエクスプローラーのコンチE��ストメニューからファイルのリビジョンタイプを変更するか、filetypes.conf 設定ファイルを使用してそれを強制皁E��実行できます、E
+== ChangesetsDynamicViewTitle ==
+変更セチE�� {0}
+
+== UserProfileServerLabel ==
+サーバ�E:
+
+== UserProfileServerProfileNotFound ==
+サーバ�E '{0}' の接続�Eロファイルが見つかりません。設定してください、E
+== UserProfileWrongAuthMode ==
+ユーザープロファイルは、LDAP また�Eユーザー/パスワード認証を使用してのみ設定できます、E
+== UserProfileCloudServer ==
+The user profile can't be configured for cloud servers.
+
+== LoadingUserProfile ==
+ユーザープロファイルをロードしてぁE��ぁE..
+
+== NoProfileToShow ==
+表示する定義済みのプロファイルがありません
+
+== SavingUserProfile ==
+ユーザープロファイルを保存してぁE��ぁE..
+
+== EnterValidEmailAddress ==
+有効なメールアドレスを�E力してください、E
+== EnterValidIntValue ==
+有効な整数値を�E力してください、E
+== UserProfileLoadError ==
+{0} からプロファイルを取得できません。詳細:{1}
+
+== UserProfileSaveError ==
+{0} のプロファイルを保存できません。詳細:{1}
+
+== PendingChangesOptionsDialogTitle ==
+保留中の変更 - オプション
+
+== PendingChangesWhatToFindTab ==
+検索するも�E
+
+== PendingChangesWhatToShowTab ==
+表示するも�E
+
+== PendingChangesMoveDetectionTab ==
+移動�E検�E
+
+== PendingChangesWhatToFindDialogTitle ==
+ワークスペ�Eス冁E��変更を検索する方法を設宁E
+== PendingChangesWhatToFindDialogExplanation ==
+Unity VCS がディスク上で変更を検索する方法とスキチE�Eする対象を微調整できまぁE
+== PendingChangesWhatToShowDialogTitle ==
+表示する変更のタイプを設宁E
+== PendingChangesWhatToShowDialogExplanation ==
+自動更新から、E��公開ファイル、無視されたファイルなどの表示/非表示まで持E��できまぁE
+== PendingChangesMoveDetectionDialogTitle ==
+Unity VCS がワークスペ�Eス冁E��移動されたファイルとチE��レクトリを検索する方法を設宁E
+== PendingChangesMoveDetectionDialogExplanation ==
+チE��スク上で移動また�E名前変更したファイルとチE��レクトリを検�EできまぁE
+== PendingChangesFilesystemWatcherEnabled ==
+ファイルシスチE��監視が有効になってぁE��ぁE
+== PendingChangesFilesystemWatcherDisabled ==
+ファイルシスチE��監視が無効になってぁE��ぁE
+== PendingChangesFilesystemWatcherEnabledExplanationUnityVCS ==
+Unity Version Control は、操作をより高速にするためにワークスペ�Eスの変更を監視します。これによりチE��レクトリ構造を調べる忁E��がなくなりますが、それでも移動�E照合には時間がかかることがあります、E
+== PendingChangesFilesystemWatcherDisabledExplanationUnityVCS ==
+これは正常な動作ではなく、パフォーマンスに影響を及ぼす可能性があります。Unity Version Control は、Windows API を使用してワークスペ�Eスの変更を監視します。これにより、ディレクトリ構造を調べる忁E��がなくなります。無効になってぁE��場合、操作�E速度が大幁E��低下する可能性があります。client.conf で意図皁E��無効にしてぁE��場合以外�E、サポ�Eトにお問ぁE��わせください、E[HELP_URL|{0}]]
+
+== PendingChangesShowCheckouts ==
+チェチE��アウトを表示
+
+== PendingChangesShowCheckoutsExplanation ==
+Unity VCS で明示皁E��チェチE��アウトしたファイルを表示します。また、Unity VCS GUI また�Eコマンドラインを使用して移動したファイルも表示します。さらに、E��行中のマ�Eジに関与したファイルも表示します、Eこれら�Eファイルはリスト上にあり、ディレクトリ構造を調べて検索する忁E��がなぁE��め、チェチE��アウト�E表示は非常に高速です、EヒンチEファイル数ぁE80 丁E��趁E��るワークスペ�Eスでは、操作を高速化するためにチェチE��アウト�Eみを使用することが合琁E��な場合があります。チェチE��アウト�E、ファイルロチE��を使用する場合にも忁E��です、E
+== PendingChangesFindChanged ==
+ワークスペ�Eス冁E�E変更されたファイルを検索
+
+== PendingChangesFindChangedExplanation ==
+ワークスペ�EスのチE��レクトリ構造を調べて、変更されたファイル (変更されたタイムスタンチE を検索します、E
+== PendingChangesCheckFileContent ==
+タイムスタンプだけなく、コンチE��チE��確認してファイルが変更されたかどぁE��を判断
+
+== PendingChangesCheckFileContentExplanation ==
+ファイルのタイムスタンプが変更されたときに、ファイルを変更済みとして設定する前に以前�Eファイルでハッシュを計算します。何も変更を行わずにファイルを保存するアプリケーションで役立ちます。警呁Eこれにはファイルの読み取りとハッシュが忁E��なため、「保留中の変更」が低速になる可能性があります、E
+== PendingChangesAutoRefresh ==
+自動更新
+
+== PendingChangesAutoRefreshExplanation ==
+忁E��に応じて「保留中の変更」リストを自動的に更新し、手動更新を行わずに済�Eようにします、E
+== PendingChangesGroupInChangeLists ==
+変更を「変更リスト」にグループ化
+
+== PendingChangesGroupInChangeListsExplanation ==
+Unity VCS で、ワークスペ�Eス冁E�E変更をユーザー作�Eのリストにグループ化できます。これ�E前�Eバ�Eジョン管琁E��あった機�Eを利用したぁE��合に便利です、E
+== PendingChangesShowPrivateFiles ==
+非�E開ファイルを表示
+
+== PendingChangesShowPrivateFilesExplanation ==
+ソース管琁E��になぁE��ァイルを一覧表示します。これ�Eおそらく最近追加されたファイルですが、無視する忁E��がある、ツールによって生�EされたコンチE��チE�E場合もあります、E「無視」に追加することをお勧めします、E
+
+== PendingChangesAlwaysSelectPrivateFiles ==
+常に非�E開ファイルを選抁E
+== PendingChangesAlwaysSelectPrivateFilesExplanation ==
+これにより、チェチE��イン時に新しいファイルを忘れることがなくなります。しかし、一時的なファイルをバージョン管琁E��追加してしまわなぁE��ぁE��、E��刁E�� ignore.conf を設定する忁E��があります、E
+== PendingChangesShowIgnoredFiles ==
+無視したファイルを表示
+
+== PendingChangesShowIgnoredFilesExplanation ==
+ignore.conf に追加することで無視したファイルを表示します、E
+== PendingChangesShowHiddenFiles ==
+非表示ファイルを表示
+
+== PendingChangesShowHiddenFilesExplanation ==
+hidden_changes.conf に追加することで非表示にしたファイルを表示します、E
+== PendingChangesShowDeletedFiles ==
+削除されたファイルとチE��レクトリを表示
+
+== PendingChangesShowDeletedFilesExplanation ==
+Unity VCS の管琁E��で、ワークスペ�Eス冁E��手動で削除したファイルを表示します、EGUI また�Eコマンドを使用せずに、単純にチE��スクから削除したファイル)
+
+== PendingChangesMoveDetectionExplanation ==
+「cm mv」を使用してファイルを移動した場合や、GUI また�E IDE 統合からファイルを移動した場合�E、Unity VCS によって移動が認識されます。この方法では「検�E」�E忁E��ありません。しかし、ディスク上で直接ファイルを移動した場合でも、Unity VCS はそ�E操作を検�Eできます。ディレクトリに関しても同様です、E
+== PendingChangesFindMovedFiles ==
+移動されて名前変更されたファイルとチE��レクトリを検索
+
+== PendingChangesFindMovedFilesExplanation ==
+ワークスペ�Eスを調べて、老E��られる移動を検索します。たとえ�E、foo.c めEbar.c に名前変更した場合、Unity VCS は bar.c を追加されたファイル、foo.c を削除されたファイルとして検�Eし、これらの照合を試みます。非公開ファイルが多数ある場合�E低速になることがあります、E
+== PendingChangesMoveDetectionFineTune ==
+「移動を検索」�E動作を微調整できまぁE
+
+== PendingChangesMatchBinarySameExtension ==
+拡張子が同じである場合にのみバイナリファイルを�E吁E
+== PendingChangesMatchBinarySameExtensionExplanation ==
+.png と .jpg の照合を試みません。ただし、これによって .doc から .docx への名前変更が検�Eされなくなります、E
+== PendingChangesMatchTextSameExtension ==
+拡張子が同じである場合にのみチE��ストファイルを�E吁E
+== PendingChangesMatchTextSameExtensionExplanation ==
+.cs と .c の照合を試みません。これ�E、状況によっては役立つことがあります、E
+== PendingChangesSimilarityPercentage ==
+類似玁E
+== PendingChangesSimilarityPercentageExplanation ==
+移動また�E名前変更されたファイルとして検�EされぁE2 つのファイルの比輁E��忁E��な「類似度」を定義します。たとえ�E、foo.c めEbar.c に移動した後で変更した場合、このパ�EセンチE�Eジによって、Unity VCS がこれらを同じファイルと見なすために忁E��な類似度が定義されます、EチE��レクトリに関しても同様です。ディレクトリ構造に忁E��な類似度は、ディレクトリのエントリの総数に対する移動された子�E数の割合となります、Eバイナリの場合、このパ�EセンチE�Eジは許容されるサイズの差を意味します、E
+== PendingChangesEnableNTFSJournal ==
+NTFS ジャーナルを使用した正確な追跡を有効にする
+
+== PendingChangesEnableNTFSJournalExplanation ==
+NTFS ジャーナルを使用して、GUI が開かれてぁE��ときに移動されたファイルとチE��レクトリを検�Eします。これ�E非常に正確であり、「推測」や発見的手法�E使用されません、ETFS は、ファイルめE��ィレクトリがいつ移動されたかを認識します、E
+しかし欠点もあります。Visual Studio などのチE�Eルでプロジェクト�Eリファクターを行う場合、これを使用するのは安�Eではありません。なぜなら、VS は単純に foo.c めEsrc/bar.c に移動する�Eではなく、新しい src/bar.c を作�Eし、コンチE��チE��コピ�Eした後で foo.c を削除するからです。これをファイルシスチE��から追跡する方法�Eありません、E
+Windows エクスプローラーめE��マンドラインを使用した大規模なリファクターの実行を予定してぁE��場合�E、スムーズに機�Eします、E
+== PendingChangesChangeTrackerServiceNotRunning ==
+Unity VCS Change Tracker サービスが実行されてぁE��せん
+
+== PendingChangesChangeTrackerServiceNotRunningExplanation ==
+Unity VCS Change Tracker サービスと通信できません。このサービスがインスト�Eルされて実行されてぁE��ことを確認してください、E
+== PendingChangesINotifyEnabled ==
+inotify 変更監視が有効になってぁE��ぁE
+== PendingChangesINotifyDisabled ==
+inotify 変更監視が無効になってぁE��ぁE
+== PendingChangesINotifyEnabledExplanation ==
+Unity VCS は、操作をより高速にするためにワークスペ�Eスの変更を監視します。これによりチE��レクトリ構造を調べる忁E��がなくなりますが、それでも移動�E照合には時間がかかることがあります。Unity VCS は inotify を利用しますが、inotify を正しく動作させるにはぁE��つか�E調整が忁E��です。以下を確認してください:{0}
+
+== PendingChangesINotifyDisabledExplanation ==
+inotify ベ�Eスの検�EシスチE��を利用すると、保留中の変更のパフォーマンスが大幁E��向上します。これを有効にするには、以下�E手頁E��確認してください:{0} と GUI の再起勁E
+== ProjectSettingsGeneral ==
+General
+
+== ProjectSettingsFileChange ==
+File Change Settings
+
+== ProjectSettingsFileVisibility ==
+File Visibility Settings
+
+== ProjectSettingsMoveAndRename ==
+File Move and Rename Detections
+
+== MergeToMergeNeededExplanation ==
+マ�Eジ先操作�E実行中に、�Eージ先操作�E同期先で新しい変更セチE��が作�Eされたため、褁E��のヘッドが作�EされてぁE��す。新しいマ�Eジ (また�Eマ�Eジ允E 操作を実行してこれらを統合することを検討してください。影響を受けるブランチE
+
+== MergeToMergeNeededBranch ==
+{0}@{1}@{2} (マウンチE'{3}')
+
+== MergeToNeededQuestion ==
+マ�Eジ先操作中に新しい変更セチE��が作�Eされたため、ブランチE{0}@{1}@{2} (マウンチE'{3}') に褁E��のヘッドがあります。今すぐ別のマ�Eジ先操作を実行してヘッドを統合しますか?
+
+== DontShowItAgain ==
+今後このメチE��ージを表示しなぁE
+== LearnMore ==
+詳細を表示
+
+== HelpActionNotFound ==
+申し訳ありませんが、次のアクションを追加し忘れました:(
+
+== RemovedLocallyStatus ==
+ローカルで削除済み
+
+== RemovedStatus ==
+削除済み
+
+== MovedLocallyStatus ==
+ローカルで移動済み
+
+== MovedStatus ==
+移動済み
+
+== AddedStatus ==
+追加済み
+
+== IgnoredStatus ==
+無要E
+== PrivateStatus ==
+非�E閁E
+== ReplacedStatus ==
+置換済み
+
+== CopiedStatus ==
+コピ�E (新要E
+
+== CheckedOutStatus ==
+チェチE��アウト済み
+
+== ChangedStatus ==
+変更済み
+
+== HiddenChangedStatus ==
+非表示の変更済み
+
+== UnsupportedImageFormat ==
+サポ�EトされてぁE��ぁE��像形弁E
+== ShowPropertiesButton ==
+特性を表示
+
+== PreviewConfigAlreadyExist ==
+こ�E名前の別の設定が存在します。他�E名前を選択してください
+
+== UserDefinedPreview ==
+ユーザー定義チE�Eル
+
+== ConfirmDeleteDiffTool ==
+こ�E差刁E��ール設定を削除しますか?
+
+== ConfirmDeleteMergeTool ==
+こ�Eマ�EジチE�Eル設定を削除しますか?
+
+== CloudEditionConfigInsertValidEmail ==
+有効なメールアドレス (また�Eユーザー吁E を�E力してください
+
+== CloudEditionConfigInsertValidPassword ==
+有効なパスワードを入力してください
+
+== CloudEditionConfigurationWelcome ==
+Cloud Edition へようこそ!
+
+== CloudEditionConfigurationExplanation ==
+Unity VCS Cloud への接続に使用するユーザー名とパスワーチE(plasticscm.com と同じも�E) を�E力してください。そぁE��ると、Cloud へのレプリケート時に再�E力を求められません、E
+== CloudEditionConfigurationExtraExplanation ==
+これはチェチE��イン時に毎回確認されるユーザー名でもある�Eで、�E重に選択してください、E
+== CloudEditionConfigCheckingCredentials ==
+賁E��惁E��をチェチE��してぁE��ぁE..
+
+== CloudEditionConfigEmail ==
+ユーザー吁E(通常は plasticscm.com のメールアドレス)
+
+== CloudEditionConfigPassword ==
+パスワーチE
+== CloudEditionConfigCheckCredentials ==
+賁E��惁E��をチェチE��
+
+== SelectFieldsMergeDiffOptions ==
+すべてのマ�Eジ/差刁E��プションフィールドに入劁E
+== SelectFieldsMergeDiffOptionsCaption ==
+すべてのフィールドに入劁E
+== EOLMethod ==
+EOL を無要E
+== WhitespacesMethod ==
+空白を無要E
+== EOLWhitespacesMethod ==
+EOL と空白を無要E
+== NoneMethod ==
+すべてを認譁E
+== DiffVariables ==
+外部の差刁E��ールを呼び出す際には、次のコマンドラインパラメーターを使用できます、E持E��されたファイルに比輁E��象のリビジョンのコンチE��チE��あるかどぁE��は、ユーザーが確認する忁E��があります、E
+@sourcefile:左側のパネルにコンチE��チE��表示されるファイルのフルパス
+@destinationfile:右側のパネルにコンチE��チE��表示されるファイルのフルパス
+
+@sourcesymbolic:コントロールパネルに表示される「左のファイル」�E斁E���E
+@destinationsymbolic:コントロールパネルに表示される「右のファイル」�E斁E���E
+
+@sourcehash:@leftrev ファイルのコンチE��チE��ら計算される MD5 斁E���E
+@destinationhash:@rightrev ファイルのコンチE��チE��ら計算される MD5 斁E���E
+
+@filetype:構文の強調表示に使用されめEMIME タイチE@comparationmethod:使用される比輁E��況E@fileencoding:エンコーチE��ングが検�Eされなかった場合に使用するチE��ォルト�EファイルエンコーチE��ング
+
+== NoDiffType ==
+こ�E差刁E��ールで処琁E��るファイルタイプを持E��します、E
+== NoDiffTool ==
+こ�E差刁E��ールのコマンドラインを指定します、E
+== DiffToolError ==
+差刁E��ールエラー
+
+== DiffNoExt ==
+差刁E��ールに対するサフィチE��スが指定されてぁE��せん、E
+== NoTxtDiff ==
+チE��ストファイルに対する差刁E��ールが指定されてぁE��せん、E
+== NoBinDiff ==
+バイナリファイルに対する差刁E��ールが指定されてぁE��せん、E
+== NoDiffForExt ==
+{0} に対する差刁E��ールが指定されてぁE��せん、E
+== DiffToolsError ==
+差刁E��ールエラー
+
+== NoDiscoveredServers ==
+サーバ�Eが見つかりませんでした、E
+== DownloadPreviewSoftware ==
+こ�Eプロバイダーでプレビューを生成するには、[[{0}|{1}]] をインスト�Eルする忁E��がありまぁE
+== ExecutableOpenFileDialogFilterWin ==
+実行可能ファイル (*.exe; *.bat;)|*.exe; *.bat|すべてのファイル (*.*)|*.*
+
+== ExecutableOpenFileDialogFilterNoWin ==
+すべてのファイル (*.*)|*.*
+
+== ValidatePreviewTypeName ==
+名前を�E力してください
+
+== ValidatePreviewAddExtension ==
+サポ�EトされてぁE��拡張子を少なくとめE1 つ追加してください
+
+== NullRefText ==
+リクエスト�E処琁E��にエラーが発生しました、E
+== PathTooLong ==
+パスが長すぎまぁE
+== ServerNullRefText ==
+サーバ�Eで予期しなぁE��ラーが発生しました。詳細につぁE��は、サーバ�Eログを確認してください、E
+== MsgInformative ==
+惁E��
+
+== MsgWarning ==
+警呁E
+== MsgError ==
+エラー
+
+== MergeVariables ==
+コマンドラインで外部のマ�EジチE�Eルを呼び出す際には、次の変数を引数として使用できまぁE
+
+@sourcefile:ソースマ�Eジファイルのフルパス
+@destinationfile:同期先�Eージファイルのパス
+@basefile:共通祖�Eマ�Eジファイルのパス
+@output:マ�Eジ結果ファイルのパス
+@sourcesymbolic:ソース共同作�E老E�EシンボリチE��吁E@destinationsymbolic:同期先�E共同作�E老E�EシンボリチE��吁E@basesymbolic:共通祖�E共同作�E老E�EシンボリチE��吁E@sourcehash:ソースファイルのコンチE��チE��ら計算される MD5 斁E���E
+@destinationhash:同期先ファイルのコンチE��チE��ら計算される MD5 斁E���E
+@basehash:共通祖�EファイルのコンチE��チE��ら計算される MD5 斁E���E
+@filetype:構文の強調表示に使用されめEMIME タイチE@comparationmethod:使用される比輁E��況E@fileencoding:エンコーチE��ングが検�Eされなかった場合に使用するチE��ォルト�EファイルエンコーチE��ング
+@resultencoding:結果ファイルのエンコーチE��ング (「なし、E> 共同作�E老E�EエンコーチE��ングから計算されまぁE
+@mergetype:使用される�Eージの種顁E@progress:現在の操作�E進行状況を示す文字�E (侁E 「ファイル 3/10 を�Eージ中、E
+@extrainfofile:現在のマ�Eジに関する追加惁E��が含まれるファイルのパス
+
+== NoMergeType ==
+こ�Eマ�EジチE�Eルで処琁E��るファイルタイプを持E��します、E
+== NoMergeTool ==
+こ�Eマ�EジチE�Eルのコマンドラインを指定します、E
+== MergeToolError ==
+マ�EジチE�Eルエラー
+
+== MergeNoExt ==
+マ�EジチE�Eルに対するサフィチE��スが指定されてぁE��せん、E
+== NoTxtMerge ==
+マ�EジチE�Eルに対するサフィチE��スが指定されてぁE��せん、E
+== NoBinMerge ==
+バイナリファイルに対するマ�EジチE�Eルが指定されてぁE��せん、E
+== NoMergeForExt ==
+{0} に対するマ�EジチE�Eルが指定されてぁE��せん、E
+== MergeToolsError ==
+マ�EジチE�Eルエラー
+
+== ConfirmDeletePreviewProvider ==
+選択されたプレビューチE�Eルを削除しますか?
+
+== CreateNewProfileTitle ==
+サーバ�Eに接続するため�E新しいプロファイルを追加
+
+== EditProfileTitle ==
+既存�Eサーバ�E接続�Eロファイルを編雁E
+== ProfileNameInputLabel ==
+プロファイル名を持E��E
+== ProfileConnectionTypeLabel ==
+接続タイプを選抁E
+== ProfileConnOnDemand ==
+オンチE�EンチE
+== ProfileConnOnDemandTooltip ==
+プロファイルは、保存されてぁE��サーバ�Eへの接続が確立されてぁE��ときにのみ使用されます、E
+== ProfileConnAuto ==
+自勁E
+== ProfileConnAutoTooltip ==
+保存されてぁE��サーバ�Eは、リポジトリビューのリストに表示されます。このオプションは、常にアクセス可能なサーバ�Eに対して使用してください、E
+== ProfileDialogExplanation ==
+接続�Eロファイルを使用してリモートサーバ�Eの認証パラメーターを保存できます、E
+== ProfileNameEmpty ==
+プロファイル名を空にすることはできません、E
+== ProfileNameAlreadyExists ==
+プロファイル名がすでに存在しまぁE
+== DeleteProfileConfirmation ==
+選択した�Eロファイルを削除します。続行しますか?
+
+== DeleteProfileCaption ==
+プロファイルを削除
+
+== NotValidProxyServer ==
+持E��されたサーバ�E {0} は有効なプロキシサーバ�Eではありません、E
+== ConnectedOk ==
+正常に接続済み
+
+== ConfigurationUserNameInfo ==
+次のユーザー名が使用されまぁE
+
+== ConfigurationCredentialsInfo ==
+賁E��惁E��を設定してください
+
+== PlasticConfiguration ==
+Unity DevOps Version Control の設宁E
+== ConfigurationServerInfo ==
+Unity VCS サーバ�Eの名前 (また�E IP アドレス) とポ�Eトを入力してください。「ネチE��ワークをスキャン」を使用すると、ネチE��ワーク上�E利用可能な Unity VCS サーバ�Eを検索できまぁE
+== ConfigureProxy ==
+プロキシサーバ�Eを使用
+
+== SwitchModeConfirmationDialogTitle ==
+モード�Eり替え�E確誁E
+== SwitchModeConfirmationDialogExplanation ==
+現在のモード�E {0} です、E1} モードに刁E��替えますか?
+
+Gluon の詳細につぁE��は以下をご覧ください:{2}
+
+== DeveloperMode ==
+開発老E
+== GluonMode ==
+Gluon
+
+== ReloadButton ==
+再ローチE
+== SearchTooltip ==
+検索
+
+== CannotLaunchInProgressMergeFromNotRootMountPoint ==
+こ�Eマ�Eジを続行できません。進行中のマ�Eジは Xlink されたリポジトリ冁E��実行されます。このオプションは、E��行中のマ�Eジがルートワークスペ�Eスのリポジトリ冁E��実行される場合にのみ使用できます。続行するには、�Eージを手動で起動してください、E
+== OneVersionBehind ==
+1 バ�Eジョン遁E��てぁE��ぁE
+== TwoOrMoreVersionsBehind ==
+{0} バ�Eジョン遁E��てぁE��ぁE
+== GitSyncAllRefsRejected ==
+送信されたすべての参�E (ブランチまた�Eタグ) がサーバ�Eによって拒否されたため、何もプッシュされませんでした。詳細につぁE��は、Git サーバ�Eプロバイダーの設定を確認してください、E0} のプッシュに失敗しました
+
+== LoggingIn ==
+'{0}' としてログインしてぁE��ぁE..
+
+== SigningUp ==
+アカウンチE'{0}' を作�EしてぁE��ぁE..
+
+== GettingDatacenters ==
+チE�Eタセンターを取得してぁE��ぁE...
+
+== EnterOrganizationName ==
+絁E��名を�E力してください
+
+== NoDatacenterSelected ==
+チE�Eタセンターを選択してください
+
+== CreatingOrganization ==
+絁E��E'{0}' を作�EしてぁE��ぁE..
+
+== OrganizationNameTooShort ==
+絁E��名は 3 斁E��以上�E長さにする忁E��がありまぁE
+== SignUp ==
+サインアチE�E
+
+== SignUpNeeded ==
+アカウンチEが見つかりません。Unity VCS アカウントを作�Eしてください {0}
+
+== SignUpButton ==
+サインアチE�E
+
+== SignIn ==
+サインイン
+
+== SignInToUnityVCS ==
+Unity VCS にサインイン
+
+== SignInWithGoogle ==
+Google でサインイン
+
+== SignInWithUnityID ==
+Unity ID でサインイン
+
+== SignInWithEmail ==
+メールアドレスでサインイン
+
+== SignInWith ==
+{0} でサインイン
+
+== SignInWithSSO ==
+SSO でサインイン
+
+== ConfirmPassword ==
+パスワードを確誁E
+
+== SignedUpTitle ==
+plasticscm.com に正常にサインアチE�Eしました!
+
+== LoggedInTitle ==
+plasticscm.com に正常にログインしました!
+
+== CreateFirstOrganizationLabel ==
+次に、Cloud 絁E��を作�EしまぁE
+== CreateOtherOrganizationLabel ==
+また�E、独自に作�EすることもできまぁE
+== YouBelongToOrganization ==
+絁E��に所屁E {0}
+
+== YouBelongToSeveralOrganizations ==
+褁E��の絁E��に所屁E
+
+== JoinButton ==
+参加
+
+== CreateOrganizationTitle ==
+Cloud 絁E��を作�E
+
+== OrganizationName ==
+絁E��名:
+
+== Datacenter ==
+チE�Eタセンター:
+
+== DatacenterExplanation ==
+最も近いも�Eがすでに選択されてぁE��ぁE)
+
+== EncryptionCheckButton ==
+Unity VCS Cloud に送信されたすべてのチE�Eタを暗号匁E
+== EncryptionCheckButtonExplanation ==
+コンピューターから離れる前に、Unity VCS Cloud に送信されたすべてのチE�Eタを強制皁E��暗号化できます。これにより、データが侵害される�Eを防ぐことができます。このオプションを選択した場合、絁E���Eすべてのメンバ�Eが、データを暗号匁E暗号化解除するための同じ秘寁E��を�E有する忁E��があります、E{0}
+
+== CreatedOrganizationTitle ==
+絁E��が正常に作�Eされました
+
+== CreatedOrganizationExplanation ==
+絁E��E{0} が正常に作�Eされました
+
+== ContinueButton ==
+続衁E
+== RetryButton ==
+再試衁E
+== CloudEditionOrganization ==
+絁E��E{0} に所属してぁE��ぁE
+== SignUpAgreeToShort ==
+「サインアチE�E」をクリチE��すると、弊社の{0}および{1}に同意されたことになります、E
+== SignInAgreeToShort ==
+「サインイン」をクリチE��すると、弊社の{0}および{1}に同意されたことになります、E
+== TermsOfService ==
+利用規紁E
+== PrivacyPolicy ==
+プライバシーポリシー
+
+== Email ==
+メール:
+
+== BackButton ==
+< 戻めE
+== LastThingTitle ==
+最後にもう 1 つ
+
+== LastThingExplanation ==
+Unity VCS には 2 つの種類があります、Eどちらでも、いつでも使用できます、E
+== PlasticForDevelopersTitle ==
+開発老E��ぁEUnity VCS
+
+== PlasticForDevelopersExplanation ==
+ブランチ、�Eージ、�EチE��ュ/プルに適したクラシチE��な Unity VCS GUI
+
+== PlasticForArtistsTitle ==
+Gluon - アーチE��スト向ぁEUnity VCS
+
+== PlasticForArtistsExplanation ==
+ゲーム開発のアーチE��ストや、単純にチェチE��インだけを行いたいすべてのユーザー向けの非常にシンプルな GUI
+
+== LaunchButton ==
+起勁E
+== ReplyButton ==
+返信
+
+== CommentButton ==
+コメンチE
+== DiscardUnsavedChangesTitle ==
+変更を破棁E
+== DiscardUnsavedChangesQuestion ==
+保存されてぁE��ぁE��更を破棁E��ますか?
+
+== DiscardButton ==
+破棁E
+== DeleteCommentQuestion ==
+これを削除しますか?
+
+== CheckingLockRulesProgress ==
+頁E��をロチE��できるかどぁE��を確認してぁE��ぁE..
+
+== ConfigLocksNoPermissions ==
+configlocks 権限がありません。管琁E��E��問い合わせて、リポジトリ '{0}' に対する 'configlocks' 権限を付与してもらぁE��、このファイルに対するロチE��ルールを設定してもらってください、E
+== AddLockRuleAndCheckoutTitle ==
+ロチE��ルールの追加とチェチE��アウチE
+== AddLockRuleAndCheckoutMessage ==
+ファイルをロチE��するには、まずロチE��ルールを設定する忁E��があります、E0}{0}次のぁE��れかのオプションを選択して、チェチE��アウト時に自動的にロチE��する対象のファイルを設定します、E
+== AddLockRuleRadioGroup ==
+ロチE��ルールを選択するか、独自に作�Eする
+
+== AddLockRuleExtensionOption ==
+{0} に一致するファイルをロチE��
+
+== AddLockRuleNameOption ==
+名前 '{0}' のファイルをロチE��
+
+== AddLockRuleDirectoryOption ==
+次のチE��レクトリ冁E�EすべてのファイルをロチE��{0}{1}
+
+== AddLockRuleFullPathOption ==
+次のみをロチE��{0}{1}
+
+== AddLockRuleEditOption ==
+ロチE��ルールを�E刁E��編雁E��めE
+== AddLockRuleLearnMore ==
+ここをクリチE��してロチE��ルールの設定方法を表示
+
+== AddLockRuleLearnMoreUrl ==
+https://www.plasticscm.com/download/help/locking
+
+== AddLockRuleEmptyRuleMessage ==
+ロチE��ルールを空にすることはできません、E
+== UnsupportedServerOperation ==
+サーバ�Eでこ�E操作がサポ�EトされてぁE��せん。サーバ�Eをバージョン {0} 以上にアチE�Eグレードしてください、E
+== KnownServersListRetrievingCloudOrgsProgress ==
+Cloud 絁E��を取得してぁE��ぁE..
+
+== EditCommentButton ==
+コメントを編雁E
+== DiffChangedWithCommentDirty ==
+コメントを編雁E��ました。変更を保存しますか?
+
+== ReviewOfChangesetTitle ==
+変更セチE�� {0} のレビュー
+
+== ReviewOfBranchTitle ==
+ブランチE{0} のレビュー
+
+== Title ==
+タイトル
+
+== ReviewStatus ==
+スチE�Eタス
+
+== ReworkRequired ==
+再作業が忁E��E
+== UnderReview ==
+レビュー中
+
+== Reviewed ==
+レビュー済み
+
+== Reviewer ==
+レビュー拁E��老E
+== ChangeButton ==
+変更
+
+== ReviewCommentsLabel ==
+衁E{0} のコメンチE
+== NoReviewCommentsToShow ==
+特定�E行に対するレビューのコメントを表示するには、差刁E�E右側のアイコンをクリチE��しまぁE
+== NoReviewCommentsForSelectedFile ==
+選択されたファイルに対するレビューのコメント�Eありません
+
+== NoReviewComments ==
+特定�E行に対する新しいコメントを作�Eするには、差刁E�E右側の、E」記号をクリチE��しまぁE
+== NoReviewCommentsSupportedXlinkedRepo ==
+Xlink に対するレビューのコメント�Eまだサポ�EトされてぁE��せん
+
+== NoReviewCommentsSupportedDifferentRepos ==
+Xlink されたファイルに対するレビューのコメント�Eまだサポ�EトされてぁE��せん
+
+== NoReviewCommentsSupportedUnsupportedFileType ==
+こ�Eファイルタイプに対するレビューのコメント�Eまだサポ�EトされてぁE��せん
+
+== DirtyCodeReviewTitleTitle ==
+コードレビューのタイトルを保孁E
+== DirtyCodeReviewTitleQuestion ==
+タイトルを編雁E��ました。変更を保存しますか?
+
+== DirtyReviewCommentTitle ==
+レビューのコメントを保孁E
+== DirtyReviewCommentQuestion ==
+レビューのコメントを編雁E��ました。変更を保存しますか?
+
+== DirtyCommentQuestion ==
+コメントを編雁E��ました。変更を保存しますか?
+
+== NullRepSpec ==
+差刁E�E計算に忁E��なリポジトリ惁E��がありません、E解決するには、この問題をサポ�Eトに報告してください、E
+== CommentsLabelSingular ==
+コメンチE
+== CommentsLabelPlural ==
+コメンチE
+== ChangesLabelSingular ==
+変更
+
+== ChangesLabelPlural ==
+変更
+
+== ChangeColumn ==
+リクエストされた変更
+
+== RevisionWithComments ==
+コメントが付いてぁE��リビジョン
+
+== LastInBranch ==
+ブランチ�E最征E
+== DiffWithHead ==
+ヘッドとの差刁E
+== ThisFileHasNewChangesInTheBranch ==
+こ�Eファイルのブランチ�Eに新しい変更がありまぁE
+== ThisFileHasNewChangesInTheBranchExplanation ==
+コメントが入力されたリビジョンの差刁E��表示しよぁE��してぁE��す。しかし、新しい変更があります。�Eのリビジョンとの差刁E��ブランチ�Eの最新のリビジョンとの差刁E��また�E両老E�E間�E変更の差刁E��表示できます、E
+== AskQuestionButton ==
+質問すめE
+== AskQuestionButtonToolTip ==
+承認前に回答が忁E��な場吁E
+== RequestChangeButton ==
+変更をリクエスチE
+== RequestChangeButtonToolTip ==
+承認前に作�E老E��何らか�E変更を行ってもらぁE��E��がある場吁E
+== CopyCommentId ==
+コメンチEID をクリチE�Eボ�Eドにコピ�E
+
+== ChangeStatusDone ==
+完亁E
+== ChangeStatusPending ==
+保留中
+
+== ChangeStatusDiscarded ==
+破棁E��み
+
+== QuestionsLabelSingular ==
+質啁E
+== QuestionsLabelPlural ==
+質啁E
+== QuestionColumn ==
+質啁E
+== AnswerColumn ==
+回筁E
+== ExploreChangesetsPanelWaitingAnimation ==
+変更セチE��をロードしてぁE��ぁE..
+
+== ChangesetReview ==
+変更セチE��をレビュー
+
+== ReviewEntireBranch ==
+ブランチ�E体をレビュー
+
+== ReviewChangesetByChangeset ==
+変更セチE��ごとにレビュー
+
+== UpdateStatusTitle ==
+スチE�Eタスの更新を確誁E
+== UpdateStatusPendingChangesSingular ==
+適用が忁E��な 1 件の変更があります、E
+== UpdateStatusPendingChangesPlural ==
+適用が忁E��な {0} 件の変更があります、E
+== UpdateStatusPendingQuestionsSingular ==
+回答が忁E��な 1 件の質問があります、E
+== UpdateStatusPendingQuestionsPlural ==
+回答が忁E��な {0} 件の質問があります、E
+== UpdateStatusPendingChangeAndQuestion ==
+適用が忁E��な 1 件の変更と回答が忁E��な 1 件の質問があります、E
+== UpdateStatusPendingChangesAndQuestion ==
+適用が忁E��な {0} 件の変更と回答が忁E��な 1 件の質問があります、E
+== UpdateStatusPendingChangeAndQuestions ==
+適用が忁E��な 1 件の変更と回答が忁E��な {0} 件の質問があります、E
+== UpdateStatusPendingChangesAndQuestions ==
+適用が忁E��な {0} 件の変更と回答が忁E��な {1} 件の質問があります、E
+== UpdateStatusQuestion ==
+保留中のコメントがあるコードレビューをレビュー済みとしてマ�Eクすることはできません。続行しますか?
+
+== SinceOneWeekAgo ==
+1 週間前
+
+== SinceFifteenDaysAgo ==
+15 日剁E
+== SinceOneMonthAgo ==
+1 か月剁E
+== SinceThreeMonthsAgo ==
+3 か月剁E
+== SinceAGivenDate ==
+持E��した日仁E
+== CloseChangeRequestedInReview ==
+レビューでリクエストされた変更を閉じる
+
+== CollapseReviewCommentsTooltip ==
+レビューのコメントを折りたたみまぁE
+== ExpandReviewCommentsTooltip ==
+レビューのコメントを展開しまぁE
+== CollapseCommentsSummaryTooltip ==
+コメント�Eサマリーを折りたたみまぁE
+== ExpandCommentsSummaryTooltip ==
+コメント�Eサマリーを展開しまぁE
+== ReviewCommentsSummaryTitle ==
+レビューのコメント�Eサマリー
+
+== EmptyChangeList ==
+変更のリストが空でぁE
+== EmptyQuestionList ==
+質問�Eリストが空でぁE
+== MergeFileChangesInConflictCategory ==
+ファイル変更に競合があり、手動介�Eが忁E��な可能性がありまぁE
+== ChangesWithDirectoryConflictsCategory ==
+チE��レクトリ構造の競合が発生してぁE��変更
+
+== MergeFileChangesInConflictForIncomingViewCategory ==
+変更と競合してぁE��ダウンロード対象ファイル
+
+== MergeFileChangesInConflictRemark ==
+ソース共同作�E老E��同期先�E共同作�E老E�E両方での変更
+
+== MergeFileChangesInConflictRemarkForIncomingView ==
+マ�Eジが忁E��E
+== MergeChangesMadeInSourceOfMergeCategory ==
+マ�Eジ允E��行われた変更。競合なぁE
+== MergeChangesMadeInSourceOfMergeForIncomingViewCategory ==
+更新が忁E��なファイル
+
+== MergeMovesToApplyCategory ==
+適用する移勁E
+== MergeMovesToApplyRemark ==
+ソースで {0} に移動済み
+
+== MergeMovesToApplyRemarkForIncomingView ==
+移動をワークスペ�Eスに適用しまぁE
+== MergeDeletesToApplyCategory ==
+適用する削除
+
+== MergeDeletesToApplyRemark ==
+ソースで削除済み
+
+== MergeDeletesToApplyRemarkForIncomingView ==
+削除をワークスペ�Eスに適用しまぁE
+== MergeNewItemsToDownloadCategory ==
+ダウンロードする新しい頁E��
+
+== MergeNewItemsToDownloadRemark ==
+ソースで追加済み
+
+== MergeNewItemsToDownloadRemarkForIncomingView ==
+追加をワークスペ�Eスに適用
+
+== MergeFileSystemPermissionsChangesToApplyCategory ==
+適用するファイルシスチE��の権限�E変更
+
+== MergeFileSystemPermissionsChangesToApplyRemark ==
+ファイルシスチE��の権限�E変更
+
+== MergeFileSystemPermissionsChangesToApplyRemarkForIncomingView ==
+ファイルシスチE��の権限�E変更をワークスペ�Eスに適用しまぁE
+== MergeFilesToDownloadCaptionSingular ==
+1 個�Eダウンロード対象ファイル ({0})
+
+== MergeFilesToDownloadCaptionPlural ==
+{0} 個�Eダウンロード対象ファイル ({1})
+
+== MergeFilesToDeleteCaptionSingular ==
+1 個�E削除するファイル ({0})
+
+== MergeFilesToDeleteCaptionPlural ==
+{0} 個�E削除するファイル ({1})
+
+== MergeToEnterCheckinComment ==
+チェチE��インのコメントを入劁E
+== MergeToEnterCheckinCommentExplanation ==
+マ�Eジ先によって作�Eされた新規変更セチE��に対するチェチE��インのコメントを入力します、E
+== IncomingChangesTitle ==
+ブランチE{0} からの受信される変更
+
+== IncomingChangesCannotBeApplied ==
+適用できなぁE��信される変更
+
+== ConfirmRecalculateMergeSingular ==
+1 件のチE��レクトリ競合をすでに解決しました。�Eージを�E計算しますか?
+
+== ConfirmRecalculateMergePlural ==
+{0} 件のチE��レクトリ競合をすでに解決しました。�Eージを�E計算しますか?
+
+== ConfirmRecalculateMergeMessage ==
+続行した場合、解決済みの競合に対して選択してぁE��解決方法が失われます。後で再度選択できます、E
+== RecalculateButton ==
+再計箁E
+== MergeProgressStatus ==
+{1} 個中 {0} 個を更新済み (ダウンロードするファイル {3} 個中 {2} 個、E��用する操佁E{5} 個中 {4} 倁E
+
+== MergeProgressDownloadingFile ==
+ファイル {0} をダウンロード中 ({1})
+
+== MergeProgressDownloadingBlock ==
+{0} ファイルのブロチE��をダウンロード中 ({1})
+
+== IncomingChangesAvailableSingular ==
+1 個�E新規変更セチE��が使用可能
+
+== IncomingChangesAvailablePlural ==
+{0} 個�E新規変更セチE��が使用可能
+
+== IncomingChangesConflictsSingular ==
+1 個�E新規変更セチE�� - 競吁E
+== IncomingChangesConflictsPlural ==
+{0} 個�E新規変更セチE�� - 競吁E
+== IncomingChangesAvailableForGluon ==
+新しい変更が使用可能
+
+== IncomingChangesConflictsForGluon ==
+競合してぁE��新しい変更
+
+== UpdateButton ==
+更新
+
+== ViewButton ==
+表示
+
+== DeleteRepositoryTitle ==
+リポジトリの削除を確誁E
+== UndeleteRepositoryTitle ==
+リポジトリの削除の取り消しを確誁E
+== DeleteRepositoryWarningText ==
+リポジトリ '{0}' を削除しよぁE��してぁE��す、E
+== DeleteRepositoriesWarningText ==
+次のリポジトリを削除しよぁE��してぁE��ぁE
+
+== DeleteRepositoryConfirmText ==
+確認�Eために、リポジトリの名前を�E力してください:
+
+== DeleteRepositoriesConfirmText ==
+削除を確認するには、E{0}' を�E力してください
+
+== DeleteRepositoryCannotUndo ==
+こ�Eアクションは取り消せません
+
+== DeleteRepositoryConfirmEntry ==
+削除
+
+== UndeleteRepositoryConfirmText ==
+次のリポジトリの削除を取り消そぁE��してぁE��ぁE{0}.続行しますか?
+
+== IncomingChangesMenuItemMergeKeepingSourceChanges ==
+受信される変更を保持してマ�Eジ (ヘッチEソース)
+
+== IncomingChangesMenuItemMergeKeepingWorkspaceChanges ==
+ワークスペ�Eスの変更を保持してマ�Eジ (自刁E同期允E
+
+== IncomingChangesMenuItemDiffIncomingChanges ==
+受信される変更の差刁E��表示 (ヘッチEソース)
+
+== IncomingChangesMenuItemDiffYoursWithIncoming ==
+自刁E�E変更と受信される変更の差刁E��表示 (ヘッチEソース)
+
+== IncomingSymbolicName ==
+受信される変更
+
+== WorkingChangesetMissing ==
+作業中の変更セチE��がありません
+
+== WorkingChangesetDeletedTitle ==
+作業中の変更セチE��が削除されました
+
+== WorkingChangesetDeletedMessage ==
+作業中の変更セチE��が削除されました、E
+チェチE��アウトとローカルの変更が有効ではなくなりました、E
+「保留中の変更」に移動し、変更を取り消して有効な設定に戻りますか?
+
+== IncomingChangesUpdateTooltip ==
+プレビューとダウンロードが可能な新しい変更がブランチにありまぁE
+== IncomingChangesResolveTooltip ==
+現在の変更と競合してぁE��ファイルがありまぁE
+== IncomingChangesWorkingChangesetMissingTooltip ==
+作業中の変更セチE��が削除されました。有効な設定に戻るには「更新」�EタンをクリチE��しまぁE
+== UndoAllWorkingChangesetDeletedMessage ==
+作業中の変更セチE��が削除されたため、変更を取り消すにはワークスペ�Eスを更新する忁E��があります、E
+続行しますか?
+
+== PartialUndoWorkingChangesetDeletedMessage ==
+作業中の変更セチE��が削除されたため、すべての変更を取り消す忁E��があります、E
+すべての変更を取り消し、ワークスペ�Eスを有効な設定に更新しますか?
+
+== OutOfDateIncomingChangesView ==
+作業中の変更セチE��が削除されたため、このビューは有効ではなくなりました、E
+ワークスペ�Eスを更新する忁E��があります、E
+== Warning ==
+警呁E
+== IncomingChangesViewTitle ==
+受信される変更
+
+== Reason ==
+琁E��
+
+== LoadingCodeReviews ==
+コードレビューをロードしてぁE��ぁE..
+
+== ReviewTitleColumn ==
+タイトル
+
+== ReviewStatusColumn ==
+スチE�Eタス
+
+== MergingFile ==
+{1} 個�EぁE��ファイル {0} を�Eージ中:{2}
+
+== CodeReviewMenuItemOpen ==
+開く
+
+== CodeReviewMenuItemDelete ==
+削除
+
+== DeletingCodeReview ==
+タイトル {0} のコードレビューを削除してぁE��ぁE...
+
+== BranchMenuCreateANewCodeReview ==
+こ�Eブランチ�E新しいコードレビュー...
+
+== ChangesetMenuCreateANewCodeReview ==
+こ�E変更セチE��の新しいコードレビュー...
+
+== CreatingCodeReview ==
+タイトル {0} のコードレビューを作�EしてぁE��ぁE...
+
+== ObtainingCodeReviewInfo ==
+タイトル {0} のコードレビューをロードしてぁE��ぁE...
+
+== UpgradeServerForNewCodeReviewError ==
+新しいコードレビューシスチE��を使用するためには、サーバ�Eをバージョン 8.0.16.3691 以上にアチE�Eグレードする忁E��がありまぁE
+
+== UpgradeServerTo110168307ForNewCodeReviewError ==
+新しいコードレビューシスチE��を使用するためには、サーバ�Eをバージョン 11.0.16.8321 以上にアチE�Eグレードする忁E��がありまぁE
+
+== LoadingMembers ==
+メンバ�EをロードしてぁE��ぁE..
+
+== UserChooserDialogTitle ==
+下�Eリストからユーザーまた�Eグループを選択してください:
+
+== SelectUserGroupDialogTitle ==
+Select user or group
+
+== NoUserSelectedErrorMessage ==
+リストからユーザーを選択してください
+
+== UserNotFoundErrorMessage ==
+名前 '{0}' のユーザーまた�Eグループが見つかりませんでした
+
+== UserSizeLimitExceededErrorMessage ==
+認証サーバ�Eで、クエリのエントリ数が単一クエリでの最大限度を趁E��てぁE��す。検索フィルターを使用して、取得するエントリを減らしてください (取得をトリガーするには「最新惁E��に更新」�EタンをクリチE��しまぁE、E
+== CreateRepositoryDialogDetailedExplanation ==
+リポジトリには、ファイルとチE��レクトリのすべてのリビジョン、リビジョンラベル、�Eージリンク、その他�EメタチE�Eタなど、特定�EチE��レクトリチE��ーの履歴全体が格納されます、E
+== MergeToMenuItemMergeKeepingDestinationChanges ==
+同期先�E変更を保持してマ�Eジ
+
+== MergeToMenuItemPreserveDestinationChanges ==
+同期先�E変更を保持
+
+== MergeToMenuItemMergeKeepingSourceChanges ==
+ソースの変更を保持してマ�Eジ
+
+== MergeToMenuItemPreserveSourceChanges ==
+ソースの変更を保持
+
+== DetailsColumn ==
+詳細
+
+== AuthorColumn ==
+作�E老E
+== PrivacyStatementText ==
+コントローラー�E�Unity Technologies ApS。�E琁E�E目皁E��アカウントを作�Eし、要求されたサービスを提供します、EUnityプライバシーポリシーに記載されてぁE��ように、アクセス、修正、消去、およ�Eそ�E他�EチE�Eタ保護の権利を行使することができます。詳細につぁE��は、{0} を参照してください、E
+== PrivacyStatement ==
+Unityプライバシーポリシー
+
+== GitSyncDialogTitle ==
+Git との Unity VCS の同期
+
+== GitSyncDialogExplanation ==
+リポジトリ '{0}' を同朁E
+== GitSyncDialogDetailedExplanation ==
+Unity VCS と Git のリポジトリ間で忁E��な変更セチE��を同期しまぁE
+== SyncButton ==
+同期
+
+== PlasticRepository ==
+Unity VCS リポジトリ:
+
+== GitRepositoryUrl ==
+Git リポジトリ URL:
+
+== GitRepositoryCannotBeEmpty ==
+リポジトリ URL フィールドを空にすることはできません、E
+== LoadingStoredGitUrls ==
+リポジトリ '{0}' の Git URL をロードしてぁE��ぁE
+== SyncStatusPullRepository ==
+"{0}" めE{1} からプルしてぁE��ぁE
+== SyncStatusPushRepository ==
+"{0}" めE{1} にプッシュしてぁE��ぁE
+== SyncStatusSyncRepository ==
+"{0}" めE{1} と同期してぁE��ぁE
+== SyncStatusConflict ==
+警呁EGit 側と Unity VCS 側の両方で同時に変更されたブランチがあります、Eこれら�E競合�E、Unity VCS では「サブブランチ」として処琁E��れ、�Eージする忁E��があります、Eもう一度同期できるようにするには、まずこれらのブランチで競合を解決する忁E��があります、E
+== SyncPhaseUpgradingMappings ==
+マッピングをアチE�Eグレード中
+
+== SyncPhaseReceivingReferences ==
+参�Eを受信中
+
+== SyncPhaseSyncType ==
+オブジェクトを圧縮中
+
+== SyncPhaseCompressing ==
+圧縮中
+
+== SyncPhaseDownloading ==
+ダウンロード中
+
+== SyncPhaseProcessing ==
+処琁E��
+
+== SyncPhaseImporting ==
+インポ�Eト中
+
+== SyncPhaseExporting ==
+エクスポ�Eト中
+
+== SyncPhasePackaging ==
+パッケージ中
+
+== SyncPhaseUploading ==
+送信中
+
+== SyncPhaseCompleted ==
+完亁E
+== Users ==
+ユーザー
+
+== Groups ==
+グルーチE
+== Both ==
+両方
+
+== SelectedUserOrGroup ==
+選択されたユーザーまた�EグルーチE
+
+== User ==
+ユーザー
+
+== Group ==
+グルーチE
+== SpecialUser ==
+特別なユーザー
+
+== SpecialGroup ==
+特別なグルーチE
+== AddButton ==
+追加...
+
+== RemoveButton ==
+削除
+
+== AllowAll ==
+すべて許可
+
+== DenyAll ==
+すべて拒否
+
+== RepositoryServerPermissions ==
+リポジトリサーバ�Eの権陁E
+== PermissionsFor ==
+{0} のための権陁E
+== ConfigureObjectPermissions ==
+オブジェクト権限を設定しまぁE
+== PermissionsColumn ==
+権陁E
+== AllowedColumn ==
+許可
+
+== DeniedColumn ==
+拒否
+
+== SecurityRepserverEntriesCannotBeEmpty ==
+リポジトリサーバ�Eには、少なくとめE1 つの有効なユーザーまた�Eグループに対して定義された権限が忁E��です、Eこれらいずれか�E権限を設定し、�E試行してください、E
+== PermissionsCantRemoveInheritedSeid ==
+継承されたエントリは削除できません
+
+== MsgAllowDeny ==
+拒否された権限�E許可された権限をオーバ�EライドしまぁE
+== ChangeOwner ==
+変更...
+
+== UsersAndGroups ==
+ユーザーとグルーチE
+== PermissionsMenuItem ==
+権陁E
+== Override ==
+オーバ�EライチE
+== OverrideHelp ==
+権限をオーバ�Eライドして継承をバイパスすることができます。上書き済みとしてマ�Eクした後、新しい値を設定してください、E
+== DeleteBranchGroup ==
+ブランチ�Eグループを削除
+
+== DeleteSelectedBranchGroup ==
+選択したブランチ�Eグループを削除します、E
+== ContinueQuestion ==
+続行しますか?
+
+== DoNotShowMessageAgain ==
+Do not show this message again
+
+== PathPermissions ==
+パス権陁E
+== DeleteSecuredPath ==
+パスを削除
+
+== DeleteSelectedSecuredPath ==
+選択したパスを削除します、E
+== AllBranches ==
+すべてのブランチE
+== NewBranchGroupTitle ==
+ブランチを選抁E
+== NewBranchGroupExplanation ==
+新しいパス権限が適用されるブランチを選択しまぁE
+== NewBranchGroupLabel ==
+ブランチを入劁E
+== BranchesRadioButton ==
+ブランチE
+
+== NewBranchGroupIdentificationTag ==
+ブランチグループ�E識別タグを�E劁E
+
+== NoBranchSelected ==
+ブランチが選択されてぁE��せん
+
+== EditBranchGroupLabel ==
+ブランチグループを編雁E
+== EditBranchGroupExplanation ==
+ブランチグループからブランチを追加また�E削除しまぁE
+== PathPermissionFormExplanation ==
+セキュリチE��で保護されたパスの権限を設定します。なお、これらの権限�E、対応するブランチおよ�E親パスとマ�Eジされます、E
+== RetrievingRepositoryServerInfoProgress ==
+リポジトリサーバ�E惁E��を取得してぁE��ぁE..
+
+== CalculatingPermissionsInfo ==
+権限情報を計算してぁE��ぁE..
+
+== RetrievingSecuredPathsProgress ==
+セキュリチE��で保護されたパスを取得してぁE��ぁE..
+
+== RetrievingAllSecuredPathsProgress ==
+すべてのセキュリチE��で保護されたパスを取得してぁE��ぁE..
+
+== NewSecuredPathTitle ==
+セキュリチE��で保護されたパスを新規作�E
+
+== NewSecuredPathExplanation ==
+パス権限を定義できるセキュリチE��で保護されたパスを新規作�EしまぁE
+== NewSecuredPathLabel ==
+パスを�E力してください
+
+== DefineBranchesCheckBox ==
+パスの作�E後にブランチを設宁E
+== PartialWorkspaceStripLabel ==
+ワークスペ�Eスは部刁E��ードです、E[UpdateWorkspace|更新を実行]] (最新を取征E して完�Eモードに刁E��替えてください。この GUI は、E��刁E��ードでは正常に動作しません
+
+== FullWorkspaceStripLabel ==
+ワークスペ�Eスは完�Eモードです、E[UpdateWorkspace|更新を実行]] (最新を取征E して部刁E��ードに刁E��替えてください。この GUI は、完�Eモードでは正常に動作しません
+
+== RemainingProgressMessage ==
+残り
+
+== DiffLinkButtonTooltip ==
+リンクをコピ�Eして差刁E��共朁E
+== GluonFilePlasticLinkText ==
+リンクを取征E- こ�Eファイルへのリンクをコピ�Eし、他�Eユーザーと簡単に共有できまぁE
+== OAuthSignInCheckMessage ==
+セチE��ョンを征E��してぁE��ぁE..
+
+== RetrievingOrgsProgress ==
+絁E��を取得してぁE��ぁE..
+
+== GettingSSOProviders ==
+絁E���Eプロバイダーを取得してぁE��ぁE..
+
+== CompleteSignInOnBrowser ==
+ブラウザーを使用してサインインを完亁E��ます、E
+== Or ==
+また�E
+
+== OrganizationNameWatermark ==
+お客様�E絁E��名
+
+== SSOSignInTitle ==
+シングルサインオンでサインイン
+
+== SignInToOrganization ==
+{0} にサインイン
+
+== NoProvidersForOrganization ==
+持E��された絁E���E SSO によるアクセスを許可してぁE��せん
+
+== DontKnowOrganizationName ==
+絁E��名がわかりません
+
+== KnowOrganizationName ==
+絁E��名を知ってぁE��ぁE
+== CompanyEmail ==
+会社のメールアドレス
+
+== SignInWithSingleSignOn ==
+シングルサインオンでサインイン
+
+== SentEmailStatementText ==
+お客様が所属する絁E��で {0} にメールを送信しました。確認し、{1} を使用してサインインしてください
+
+== OrganizationNameStatementText ==
+絁E��名、E
+== SendingEmail ==
+メールを送信してぁE��ぁE..
+
+== EmailNotSent ==
+メールを送信できませんでした
+
+== FileMerge ==
+File Merge
+
+== KDiff3 ==
+KDiff3
+
+== SemanticMerge ==
+Semantic Merge
+
+== UnitySmartMerge ==
+Unity Smart Merge
+
+== OpenInDesktopApp ==
+Open in Desktop App
+
+== OpenInGluon ==
+Open in Gluon
+
+== ElementNotFound ==
+要素が見つかりませんでした
+
+== RevisionNotConnected ==
+処琁E��きません。関連するリビジョンはレプリケートされてぁE��せん
+
+== ChangedMergeFromCs ==
+マ�Eジ允E��同期先で変更済み (cs:{0} から)
+
+== NotChanged ==
+変更なぁE
+== Added ==
+追加済み
+
+== Changed ==
+変更済み
+
+== MergeFromCs ==
+ マ�Eジ允E��ース冁E(cs:{0} から)
+
+== MovedOutScope ==
+{0} から {1} に移動しました
+
+== Renamed ==
+{0} から {1} に名前変更済み
+
+== MovedDownPosition ==
+位置めE{0} 下に移動しました
+
+== MovedUpPosition ==
+{0} の位置を上に移動しました
+
+== And ==
+ および {0}
+
+== ErrorDialogTitle ==
+Error - {0}
+
+== InstallUnityVersionControl ==
+Install Unity Version Control
+
+== CreateAUnityVersionControlWorkspace ==
+ Create a Unity Version Control workspace for this project
+
+== LoginOrSignUpUnityVersionControl ==
+ Login or sign up for a Unity Version Control account
+
+== PrefixUnityVersionControlMenu ==
+Assets/Unity Version Control
+
+== UnityInitialCheckinComment ==
+Add packages and project settings to Unity Version Control.
+
+== UnityVersionControl ==
+Unity Version Control
+
+== PlasticConfigurationTitleUnityVCS ==
+Configure the connection to the Unity VCS server

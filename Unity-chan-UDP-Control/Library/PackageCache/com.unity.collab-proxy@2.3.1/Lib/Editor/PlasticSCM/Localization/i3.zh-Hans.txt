@@ -1,0 +1,80 @@
+== FontPreviewSampleTest ==
+敏捷的棕色狐狸跳?了?洋洋的狗
+
+== FontPreviewLabelFont ==
+字体：{0}
+
+== StrikeoutFontNotSupportedMessage ==
+字体 {0} 不支持?用程序使用的?除??式。???其他字体。
+
+== StrikeoutFontNotSupportedCaption ==
+无效字体
+
+== CloseTab ==
+?????
+
+== CloseAllTabs ==
+??所有???
+
+== CloseAllTabsButThis ==
+??除此???之外的所有???
+
+== CloseTabsToTheRight ==
+??右?的所有???
+
+== CopyTitle ==
+?制??
+
+== ListOpenedTabs ==
+列出打?的???
+
+== Abort ==
+中止
+
+== Retry ==
+重?
+
+== Ignore ==
+忽略
+
+== Ok ==
+?定
+
+== Cancel ==
+取消
+
+== Yes ==
+是
+
+== No ==
+否
+
+== Change ==
+更改...
+
+== AbortAmp ==
+&中止
+
+== RetryAmp ==
+&重?
+
+== IgnoreAmp ==
+&忽略
+
+== OkAmp ==
+&?定
+
+== CancelAmp ==
+&取消
+
+== YesAmp ==
+&是
+
+== NoAmp ==
+&否
+
+== On ==
+On
+
+== Off ==
+Off

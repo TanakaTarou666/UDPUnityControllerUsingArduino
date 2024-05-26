@@ -1,0 +1,880 @@
+== AddNotAllowedPathIsFreeByTransformerRule ==
+无法添加? '{0}'。已在服?器中使用路径 '{0}'，但由于???? '{1}'，?路径在客?端上?可用状?。
+
+== AddedItemCannotBeLocked ==
+无法?定? '{0}'，因?它是已添加的?。（注意：如果??未?示?已添加的?，?工作区可能已?坏。?与支持人??系）
+
+== AdminReadonlyNotSupported ==
+服?器 '{0}' 版本不支持 admin readonly 命令。?升?服?器版本。
+
+== AttNameField ==
+属性名称
+
+== BisyncMissingChangesPull ==
+有一些修?未从外部 SCM 拉取（{0} 不是最后一个外部更改）。在推送 Unity VCS 更改之前，必?先拉取所有外部 SCM 更改。
+
+== BisyncMissingSubmoduleConfiguration ==
+尚未定? '{0}' 的等效 Git 存??。无法推送 Xlink。?在配置文件 '{1}' 的子模?部分中添加等效?。
+
+== BisyncMissingSubmoduleTarget ==
+提交 {0}@{1} 未同?。必?先同?存?? {1}。
+
+== BisyncMissingXlinkedCset ==
+?更集 {0}@{1} 未同?。必?先同?存?? {1}。
+
+== BothDirectoriesMustBeOnSameMountToMove ==
+源目?和目?目?必?位于同一装入点上才能移?。{0}，{1}。
+
+== BrNameField ==
+分支名称
+
+== BranchDoesnotexist ==
+指定的分支 {0} 不存在
+
+== BranchOrMarkerChangesetDoesntexist ==
+指定的??或分支 {0} 无效。??的?更集（或分支的?部）{1} 不存在。
+
+== BranchParentDoesnotexist ==
+指定的分支 {0} 无父?
+
+== BusyWorkspace ==
+工作区 '{0}' 正忙。?稍后再?
+
+== CannotDoChangeEditedXlink ==
+无法在已??的 Xlink 中?行?出。
+
+== CannotDoChangeReadonlyXlink ==
+无法修改只? Xlink 中的?。
+
+== CannotDoChangeUnresolvedXlink ==
+无法修改未解析的 Xlink 中的?。
+
+== CannotEditXlinkRoot ==
+无法?? Xlink 根。
+
+== CannotIncomingChangesMergeInProgress ==
+无法?取新的更改（?入更改），因?正在?行合并。需要先完成合并。
+正在从?更集 {1} ?行合并：{0}
+
+== CannotIncomingChangesMergePendingToConfirm ==
+无法?取新的更改（?入更改），因?需要先?入当前合并。?可以将更改?入到新分支，也可以从当前分支的最后一个?更集?行合并。
+
+== CannotMergeIncomingChangesInProgress ==
+无法?始合并，因?正在?行“?入更改”操作。必?先完成?操作。
+
+== CannotMergeMergeInProgress ==
+无法?始新的合并，因?已在?行合并。?先完成?合并再?始新的合并。
+正在从?更集 {1} ?行合并：{0}
+
+== CannotMergetoWithConflicts ==
+正在?接的 Unity VCS 服?器可能不支持??新功能。?了使用服?器端合并（或具有冲突解决方案的“合并到”操作），?需要 7.0.16.2077 或更高版本。如果是??情况，?升?服?器安装。否?，???服?器日志以?取更多信息。
+
+== CannotPerformPartialCheckin ==
+无法?行?入操作。必?将所有合并更改一起?入，从而?保正?存?合并可追溯性。?在包含所有合并更改的情况下重??操作。
+
+== CannotPerformPartialUndo ==
+无法?行撤?操作。必?将所有合并更改一起撤?。?在包含所有更改或排除所有更改的情况下重??操作。
+
+== CannotSwitchWithPendingChanges ==
+无法?行切?到分支/??/?更集/?置的?程，因?存在待定更改。??看待定更改，然后重??操作。
+
+== CannotUndoAdded ==
+无法撤?已更改的 '{0}'，因?包含非添加的更改
+
+== CannotUndoCopied ==
+无法撤?包含内容的已?制目?
+
+== CannotUndoMoved ==
+无法撤?从 {0} 到 {1} 的移?，因?已?除 {2}
+
+== CannotUpdateWithPendingChanges ==
+无法更新工作区，因?存在待定更改。??看待定更改，然后重??操作。
+
+== CannotUpdateWorkspaceContainsChanges ==
+当前配置上没有任何可更新到的新?更集。?的工作区上有待定更改。如果?正在???取最新更改，???撤?那些更改，而不是?行更新。
+
+== CantArchiveAnAlreadyArchivedRevision ==
+无法存档已存档的修?。{0}
+
+== CantArchiveCheckedoutrev ==
+无法存档已?出的修?。{0}
+
+== CantArchiveDirectory ==
+无法存档目?。{0}
+
+== CantArchiveFromDifferentRepositories ==
+无法在?次?用中?档来自不同存??的修?
+
+== CantDiffBranchNoParent ==
+无法差?比?分支 {0}，因?无法找到其父?更集。
+
+== CantDiffCsetNoParent ==
+无法差?比??更集 {0}，因?它没有父?。
+
+== CantEditAndDeleteReview ==
+参数 -e（??）和 -d（?除）不能一起使用。
+
+== CantFindDataForArchived ==
+无法找到??求的任何已存档修?的数据
+
+== CantRenameElementAlreadyExist ==
+无法将 "{0}" 重命名? "{1}"，因?具有此名称的元素已存在
+
+== CantRestoreNonArchivedData ==
+无法?原 {0} 的数据，因?它尚未?档。如果??定此修?的数据已存档，???服?器是否正在解析已存档的数据，并将其禁用以便?行?原
+
+== CantRevertToDifferentItem ==
+无法?原??，因?指定的修? '{0}' 引用了?一个?。
+
+== CantUpdateBaseChangesetBranchWithRevisions ==
+无法更新分支的基??更集，因?分支必??空。
+
+== ChangeMustBeSelected ==
+要??更改 '{0}'，?必???更改 '{1}'。
+
+== ChangelistAddtoBuiltinmergeEx ==
+无法将更改添加到内置更改列表：'{0}'。
+
+== ChangelistAlreadyExist ==
+名? {0} 的更改列表已存在。
+
+== ChangelistCannotDeleteBuiltinEx ==
+不允??除“内置”?型的更改列表。
+
+== ChangelistCannotEditBuiltinEx ==
+不允???“内置”?型的更改列表。
+
+== ChangelistCannotShowBuiltinEx ==
+无法?示内置更改列表的内容：'{0}'。要?示“内置”更改列表，?使用“cm status --changelist”命令。
+
+== ChangelistCorruptedStorageFile ==
+无法加?更改列表信息数据文件。可能文件格式无效。
+
+== ChangelistDeletefromBuiltinEx ==
+无法从“内置”更改列表?除更改：'{0}'。
+
+== ChangelistInvalidName ==
+无效的更改列表名称：'{0}'。
+
+== ChangelistNotFound ==
+更改列表 {0} 不存在
+
+== ChangesetMoveRepositoryMismatch ==
+目??更集和目?分支位于不同的存??中。
+
+== ChangetNotLoadOnConf ==
+在当前工作区配置上未加??更集 {0}。
+
+== CheckinTooManyIgnoredErrors ==
+无法?入太多更改。无法?入。??看更改，然后重?。
+
+== CherryPick ==
+挑?
+
+== ClientconfWithErrors ==
+客?端配置文件“client.conf”包含??：{0}
+
+== CloakedCannotBeDeleted ==
+无法?除?? ('{0}')，因?它已被掩蔽。
+
+== CloakedDstCannotBeMoved ==
+无法将??移?到 '{0}'，因? '{0}' 已被掩蔽。
+
+== CloakedSrcCannotBeMoved ==
+无法移??? ('{0}')，因?它已被掩蔽。
+
+== CloudEditionInvalidCredentials ==
+用?名或密?无效。
+
+== CmdBadPosition ==
+触?位置必?是整数。
+
+== CmdErrorInvalidWebtriggerUri ==
+指定的 URI '{0}' 无效。
+
+== CmdErrorNoSuchChangeset ==
+?更集 {0} 在存?? {1} 中不存在。
+
+== CommentField ==
+注?
+
+== CompMethodError ==
+{0} 不是有效的比?方法
+
+== ContentMustBeUndoCheckedout ==
+要?目? '{0}' ?行撤??出操作，目?内容必?包含在?操作中。
+
+== CorruptConfigurationFile ==
+无法?取配置文件 '{0}'，因?其数据无效或?坏。
+
+== CsetTreeCannotBeLoaded ==
+无法加??更集 '{0}' 内容。
+
+== DaysAgo ==
+{0} 天前
+
+== DeleteNotAllowedTransfomerRuleInside ==
+无法?除? '{0}'，因?它包含???? '{1}'。
+
+== DestinationField ==
+目?
+
+== DestinationMustBeCheckedin ==
+不?入目? '{1}' 就无法?入移?源 '{0}'。
+
+== DifferentRepositoryBrSpecs ==
+无法指定来自不同存??的分支
+
+== DifferentRepositoryCsSpecs ==
+无法指定来自不同存??的?更集
+
+== DifftoolsUncorrectDefined ==
+差?比?工具 "{0}" ?行出?。client.conf 中的差?比?工具未正?定?。
+
+== SpreadsheetcompareFailed ==
+?行 SpreadsheetCompare.exe 已失?。命令："{0}"。
+
+== DirConflictsCannotBeApplied ==
+无法用?定的解决方案解决 {0} 个冲突。?于?些冲突，???使用其他解决方案，或者先解决其他冲突。
+
+== DiscardedDeletedWithDiscardedMoved ==
+无法?入已?除的 '{0}'，因?它包含已?弃的从 '{1}' 到 '{2}' 的移?。
+
+== DmnotavailableWithDir ==
+dm 命令?可用于比?文件，而不能用于比?目?。
+
+== DuplicatedBrSpecified ==
+指定的分支列表包含重?的条目：{0}。??除重?的条目。
+
+== DuplicatedItemOnWk ==
+此?分?在 {0} 和 {1} 加?了?次。?可能是“移?”操作不完整的?果。??除??个?例之一。
+
+== EncodingError ==
+{0} 不是有效的文本??
+
+== ErrorAclNoPermissions ==
+未指定?限
+
+== ErrorAclNoSuchPermission ==
+没有此??限：{0}
+
+== ErrorAclNoSuchUserOrGroup ==
+没有此?用?或?。{0}
+
+== ErrorAclNoSuchUserOrGroupSpecified ==
+未指定用?或?。
+
+== ErrorAclWrongBranchesArg ==
+"--branches" 参数不正?。???分支名称之?没有空格，或使用引号将整个参数引起来。
+  示例：
+    --branches=/main,/task001
+    --branches="/main, /task001"
+    "--branches=/main, /task001"
+  
+
+== ErrorArchiveCantRetrieveData ==
+无法?索已?档的卷，?以正?的路径配置 externaldata.conf 文件以找到已?档的数据。基?文件名称：{0}。注?：{1}。文件：{2}
+
+== ErrorCannotRenameDynamicWk ==
+无法重命名??工作区。
+
+== ErrorCantImportInvalidPackage ==
+无效的?制包。找不到有效的版本?名
+
+== ErrorClientconfignotfound ==
+?于当前用?，Unity VCS 客?端的配置不正?：找不到配置文件 {0}。??行 'cm configure' 以?行文本模式配置，或?行 '{1} --configure' 以使用?形模式。
+
+== ErrorDiffType ==
+无法?算不同?型的?之?的差?
+
+== ErrorEmptySelector ==
+??器不能?空。
+
+== ErrorMoveSrcDstEqual ==
+无法移? {0}。源路径和目?路径相同
+
+== ErrorNoRepositoriesFound ==
+在任何服?器上都找不到存??
+
+== ErrorPartialConfigureChangeCannotApply ==
+?求的操作无法?用于路径 {0}（已加?/卸?）。
+
+== ErrorPartialConfigurePathNotFound ==
+找不到路径 {0}。
+
+== ErrorPartialConfigureWrongFormat ==
+找不到?期的格式。??看命令用法/?助以?取更多信息。
+
+== ErrorReplicatePackageDoesntExist ==
+包 {0} 不存在
+
+== ErrorTwoCsetWithPathDiff ==
+无法?算 '{0}' 和 '{1}' 之?的差?。
+
+== ErrorUpdateTrailingDots ==
+Windows 不允?在文件名中使用尾随点。
+
+== ExpansionRulesHeader ==
+分支?展??：
+
+== FailConnectionServer ==
+无法建立与服?器 {0} 的?接
+
+== FastChgRepNotAllowedOnTransWk ==
+快速更新不能用于通?????更改目?存??。?使用?准更新。
+
+== FastNotAllowedRuleRestricion ==
+不允?快速更新，因?服?器更改 '{0}' 不能?用于具有???? '{1}' 的工作区。如果需要，?更新工作区????，并使用?准更新。
+
+== FastUpdCloakedError ==
+具有已掩蔽???，无法使用快速更新。?使用?准更新。
+
+== FastUpdConflictsError ==
+无法?行快速更新，因?本地更改和服?器更改存在冲突。
+
+== FastUpdPendingChangesError ==
+无法?行快速更新，因?存在待定更改。??看待定更改，然后重??操作。
+
+== FastUpdPendingMergesError ==
+无法?行快速更新，因?存在待定合并?接。??看待定合并，然后重??操作。
+
+== FastUpdateApplyChangesError ==
+无法在工作区中?行快速更新：'{0}'。?撤?所有本地更改，禁用快速更新??，然后再次??更新。
+
+== FieldTooLong ==
+{0} 太?。当前大小? {1}，但最大允?大小? {2}
+
+== FileTypesFileNotFound ==
+无法找到 filetypes 文件 {0}
+
+== FindNeedRepositories ==
+不在工作区上。在??中需要“on repositories”子句。
+
+== FormatterError ==
+?于指定的?象?型，字段 {0} 无效
+
+== GameUiCiHeadOutOfDateError ==
+无法完成?入操作，因?自?操作?始以来在存?? '{0}' 中?建了新的更改。?重??入操作，以?入新的服?器更改。
+
+== GameuiCiInsideUnresolvedXlinkNotAllowed ==
+无法解析 Xlink '{0}'。无法?入未解析的 Xlink 下的更改。
+
+== GameuiCoBrMissingXlink ==
+无法在 Xlink '{0}' 中完成更改，因??更改不再加?到服?器中。?更新工作区配置。
+
+== GameuiCoBrUnresolvedXlink ==
+无法在 Xlink '{0}' 中完成更改，因?由于以下??，当前无法解析? Xlink：{1}
+
+== GenericError ==
+服?器 {0} 上?生了??
+
+== GetRevisionDirectoryNotSupported ==
+目?不支持 GetRevision。?了?取目?的内容，?在工作区??中加??目?。
+
+== GluonPartialUpdateToDifferentBranch ==
+更新操作无法??。目??更集必?位于当前工作区分支：{0}。
+
+== HoursAgo ==
+{0} 小?前
+
+== IncomingChangesCannotCalculateMerge ==
+无法?算?入更改。???是否已?除工作区?更集，或者?系支持人?以?取更多信息。
+
+== IncomingChangesDontMerge ==
+更新操作??到冲突。?操作无法??，因??行?使用了 --dontmerge ??。
+
+== IncomingChangesNotSupported ==
+服?器 {0} 不支持“?入更改”操作。?升?服?器或??行常?合并/更新以?取最新更改。
+
+== IncomingChangesReadonlyXlinksNotSupported ==
+?入更改当前不支持只? Xlink 更改。???行常?合并以?取最新更改。
+
+== IncomingTansformerRulesNotSupported ==
+工作区包含????。?入更改当前不支持????。?先更新工作区，并撤?所有待定更改。如果有需要保留的待定更改，?可以在撤??些更改之前将它??置，然后在更新后?用??置。
+
+== IncomingWxlinkBackwardEditionNotSupported ==
+已将可写 Xlink '{0}' ???指向某个先前（?旧）的?更集。?入更改当前不支持此版本的可写 Xlink。?先更新工作区，并撤?所有待定更改。如果有需要保留的待定更改，?可以在撤??些更改之前将它??置，然后在更新后?用??置。
+
+== IncomingChangesSubbranchesNotSupported ==
+?正在?理子分支。当加?的?更集不是分支?部的父??，便会?生??情况。?入更改当前不支持子分支。?从 cs:{0} ?行合并以?取最新更改。
+
+== IncompatibleCmdOptions ==
+不兼容的??：{0}。
+
+== IncorrecBrspec ==
+不正?的分支?格
+
+== IncorrectCiDateFormat ==
+无法使用格式 '{1}' 解析日期 '{0}'。
+
+== IncorrectExtensionConfiguration ==
+行 {0} 的??跟踪程序配置数据不正?：{1}
+
+== IncorrectExtensionConfigurationParameter ==
+行 {0} 的??跟踪程序参数配置不正?：{1}
+
+== IncorrectSelector ==
+未正?定???器。
+
+== IncorrectSelectorErrorMultiplePathsForRep ==
+未正?定???器。存?? {0} 有多个路径??。
+
+== IncorrectSelectorMultipleRules ==
+未正?定???器。有多个存????。
+
+== IncorrectSelectorNoRule ==
+未正?定???器。没有存????。
+
+== IncorrectSelectorParamInvalidMountPoint ==
+未正?定???器。存?? {0} 不能具有装入点 ({1})。
+
+== IncorrectSelectorParamRepDoesntexist ==
+未正?定???器。指定的存??不存在：{0}。
+
+== IncorrectSelectorParamRepServerCannotBeReached ==
+无法??与指定存?? {1} ??的服?器 ({0})。
+
+== IncorrectSelectorParamRepnameCantBeEmpty ==
+未正?定???器。存??名称不能?空。
+
+== Incorrectspec ==
+不正?的?象?格 {0}
+
+== InsensitiveDuplicatedItem ==
+? {0} 和 {1} 不能在不敏感的文件系?上同?加?。已?弃? {0}。
+
+== IntervalMerge ==
+?隔合并
+
+== InvalidCharsInName ==
+{0} 不能包含以下任何字符：
+               {1}
+
+== InvalidExpansionRule ==
+?展?? '{0}' 无效。
+
+== InvalidExpansionRuleRepNotMatch ==
+?展?? '{0}' 无效，因?分支 '{1}' 必?来自存?? '{2}' 而不是 '{3}'。
+
+== InvalidFieldError ==
+字段 '{0}' 无效。
+
+== InvalidFormatString ==
+无效的格式字符串
+
+== InvalidMergeDstBrSpec ==
+?更集?格不是有效的合并目?。
+
+== InvalidMergeDstSpec ==
+合并目??格无效。?改用?更集?格或分支?格。
+
+== InvalidMergespec ==
+无效的?格 {0}
+
+== InvalidMountPoint ==
+存?? {1} 的装入点 '{0}' 在工作区 '{2}' 上无效。可能已?期。
+
+== InvalidMoveDstPriv ==
+无法将受控?移?到私有目?
+
+== IsNotAnXlink ==
+'{0}' 不是 Xlink。
+
+== ItemAlreadyExistsOnWkWithDifferentTypeDir ==
+? {0} 已存在于工作区中，但它是目?而不是文件，因此无法更新
+
+== ItemAlreadyExistsOnWkWithDifferentTypeFile ==
+? {0} 已存在于工作区中，但它是文件而不是目?，因此无法更新
+
+== ItemAlreadyLocked ==
+无法?定? '{0}'，因?已将其独占?出 {1}。
+
+== ItemAlreadyLockedOnMergeFromHead ==
+'{0}' 已被?定 {1}，因此合并无法??。需要解??文件或者需要撤?更改才能??。以后，可通?在?行更改之前?出需要?定的文件来避免此??。
+
+== ItemCannotBeFoundOnRep ==
+无法在存?? '{2}' 上找到? '{0}' (ItemId:{1})。?可能正在使用?期的工作区。??行更新。
+
+== ItemLockOutOfDateOnMergeFromHead ==
+无法?定 '{0}'。它不是最新修?，只能?最新版本?行?定。?可以撤?更改并再次更新。以后，可通?在?行更改之前?出需要?定的文件来避免此??。
+
+== ItemMustBeUndoCheckedout ==
+无法撤? '{0}'，因?它依?于 '{1}'。?在命令参数中添加 '{1}' 并重?。
+
+== ItemNameField ==
+?名称
+
+== ItemPathField ==
+?路径
+
+== LockCopiedItemsNotSupported ==
+服?器 {0} 不支持?定已?制?。?升?服?器。
+
+== LogOnPrivateNotCsRep ==
+要在私有路径上?行 log 命令，需要指定一个?更集或存??完整?格。
+
+== LsItemNotFound ==
+无法解析? {0} 的??器
+
+== LsItemNotFoundSelector ==
+无法解析? {0} 的??器。由于要指定自定???器，因此??住，必?使用“存??格式”的路径：使用 /src 而不是 c:\myworkspace\src
+
+== MainBranchesNotAllowed ==
+在此版本中不允???分支，只能?建子分支。
+
+== Merge ==
+合并
+
+== MergeAddNotAllowedPathFreeByRule ==
+无法添加? '{0}'。已在服?器中使用路径 '{0}'，但由于???? '{1}'，?路径在客?端上?可用状?。使用当前?????，无法完成合并。??除?及的????（或使用未??的工作区），然后重?合并。
+
+== MergeDeleteNotAllowedRuleInside ==
+无法?除? '{0}'，因?它包含???? '{1}'。使用当前?????，无法完成合并。??除?及的????（或使用未??的工作区），然后重?合并。
+
+== MergeMoveNotAllowedPathFreeByRule ==
+无法将? '{0}' 移?到 '{1}'。已在服?器中使用路径 '{1}'，但由于???? '{2}'，?路径在客?端上?可用状?。使用当前?????，无法完成合并。??除?及的????（或使用未??的工作区），然后重?合并。
+
+== MergeMoveNotAllowedTransformedItem ==
+无法移?? '{0}'，因?它已由?? '{1}' ?行??。使用当前?????，无法完成合并。??除?及的????（或使用未??的工作区），然后重?合并。
+
+== MergeNeeded ==
+需要从?更集 cs:{0}@rep:{2}@repserver:{3}(mount:{4}) 合并到?更集 cs:{1}@rep:{2}@repserver:{3}(mount:{4})（当前正在加?的?更集）才能?入。?入操作无法??。有必要通?将当前工作区内容与?当前正在?理的分支的最新内容?行合并来解决冲突。然后，可重??入操作。
+
+== MergeRestorerDeletedPathInUse ==
+由???? '{0}' ?除的路径已由???? '{1}' 重?使用，因此无法?原已?除的内容。使用当前?????，无法完成合并。??除?及的????（或使用未??的工作区），然后重?合并。
+
+== MergeRestorerRmRuleCannotBeLoaded ==
+无法加????? '{0}' 的内容。使用当前?????，无法完成合并。??除?及的????（或使用未??的工作区），然后重?合并。
+
+== MergeRestorerRmRuleMountMissing ==
+无法找到???? '{0}' 的装入点。使用当前?????，无法完成合并。??除?及的????（或使用未??的工作区），然后重?合并。
+
+== MergeRestorerRmRuleParentMissing ==
+无法?原???? '{0}' 的内容，因?其父? '{1}' 未加?到工作区上。使用当前?????，无法完成合并。??除?及的????（或使用未??的工作区），然后重?合并。
+
+== MergeToPendingDirectoryConflicts ==
+在?理“合并到”之前，有一些待定目?冲突必?解决。
+
+== MergeToPendingFileConflicts ==
+在?理“合并到”之前，有一些待定文件冲突必?解决。
+
+== MergeWithChgInsideMissingNotAllowed ==
+?于待定的已掩蔽更改或位于已?除????下的待定更改，不允?合并操作。?先??或撤?待定更改。
+
+== MergetoolsUncorrectDefined ==
+合并工具 "{0}" ?行出?。client.conf 中的合并工具未正?定?。
+
+== MinutesAgo ==
+{0} 分?前
+
+== MkNameField ==
+??名称
+
+== MkbranchParentnotfound ==
+在存??服?器上找不到父分支 {0}
+
+== Months ==
+{0} 个月
+
+== MonthsAgo ==
+{0} 个月前
+
+== MoveNotAllowedForTransformedItem ==
+无法移?? '{0}'，因?它已由?? '{1}' ?行??。
+
+== MoveNotAllowedPathIsFreeByTransformerRule ==
+无法将? '{0}' 移?到 '{1}'。已在服?器中使用路径 '{1}'，但由于???? '{2}'，?路径在客?端上?可用状?。
+
+== MultipleWorkspaceNotAllowed ==
+无法使用来自不同工作区的??行 {0} 操作。?使用?个工作区的?重??操作。
+
+== MustBeOnSameRep ==
+{0} 和 {1} 必?位于同一存??上才能?行?操作
+
+== NewerWorkspaceVersion ==
+工作区 '{0}' 的元数据已由新版本的 Unity VCS ?行升?。?在，旧版本无法?取工作区元数据。解决此??的方法如下：1) 可升? Unity VCS 客?端，或 2) 可?除工作区中的 '.plastic' 目?（所有工作区元数据都将?失，文件将?示?私有，?需要?行更新）。
+
+== NoContentToCompare ==
+没有可比?的内容。
+
+== NoDifftoolDefined ==
+客?端配置文件中未定?任何差?比?工具
+
+== NoElementFound ==
+尚未找到要?示?史??的元素。
+
+== NoMergesInProgress ==
+工作区 '{0}' 中没有正在?行的合并。
+
+== NoMergetoolDefined ==
+客?端配置文件中未定?任何合并工具
+
+== NoMountPointForMultirepQuery ==
+无法?取多存????（??：'{0}'）的装入点。
+
+== NoPathBetweenCsets ==
+'{0}' 与 '{1}' 之?没有路径。
+
+== NoSuchCodeReview ==
+无法找到指定的代??? '{0}'。
+
+== NoSuchCodeReviewStatus ==
+无此?代???状?：{0}。可用??：{1}
+
+== NotChange ==
+{0} 不是更改
+
+== NotValidCmPath ==
+指定的路径 {0} 不是有效的服?器路径。
+
+== ObjectNameField ==
+?象名称
+
+== OnlyOneRepRuleByRep ==
+无效的??器。存?? '{0}' 有多个存????，?个存???允?一个存????。
+
+== ParentRevisionNotFound ==
+无法?算差?，因?服?器不包含所??的父修? (revid:{0}@{1})。可能?一个用??除了加??修?的?更集。
+
+== PartialWkWxlinkCannotBeEditedTargetOnExpandedBr ==
+在非完整的工作区上，如果已?在?理 Xlink '{0}' 的目?分支，?无法?其?行??。
+
+== PartialWkWxlinkCannotBeEditedTargetOnSameBr ==
+非完整的工作区始?将?部?更集的内容加?到工作分支上，因此?无法??可写的 Xlink '{0}' 以指向?分支上的?一个?更集。
+
+== PendingDirectoryConflict ==
+在?理合并之前，有一个目?冲突必?解决。
+
+== PendingDirectoryConflicts ==
+在?理合并之前，有 {0} 个目?冲突必?解决。
+
+== PrivDirDiff ==
+无法取得私有目?之?的差?
+
+== ProfileNameAlreadyExists ==
+配置文件名称已存在
+
+== RepCannotBeLoadedInsideItself ==
+存??无法在自身内部加?。无法将存?? {0} 加?到 '{1}' 上，因?它已?加?到 '{2}' 上。
+
+== RepNameField ==
+存??名称
+
+== RepSpecField ==
+存???格
+
+== RepositoryLoadedTwiceOnWk ==
+存?? {0} 在 '{1}' 和 '{2}' 中装入了?次。?指定装入点。
+
+== RestorePathShouldNotExist ==
+?原路径不??存在。
+
+== RevdatanotfoundForSpec ==
+?于?定的修??格，找不到数据
+
+== RevertToCurrentRev ==
+指定的修? '{0}' 是最新修?，需要?原。
+
+== ReviewNameField ==
+代???的??
+
+== RevisionCannotBeFoundOnRep ==
+在存?? '{1}' 上无法找到 {0} 的当前修?。
+
+== SecondsAgo ==
+{0} 秒前
+
+== SecuredPathField ==
+指定的安全路径
+
+== SecuredPathTagField ==
+安全路径的??
+
+== SelectorCsetZeroRootCannotBeLoaded ==
+无法使用?定的??器来初始化工作区。可能?没有足?的?限来加???器存??的初始?更集。
+
+== SelectorRepNotFound ==
+无法找到存??。可能??器包含??。
+
+== SelectorTreeContentCannotBeLoaded ==
+无法加???器内容。可能?没有足?的?限来加?它。
+
+== ShelveIdGreaterThanZero ==
+?置 ID 必?是大于零的整数
+
+== SubtractiveIntervalMerge ==
+?法?隔合并
+
+== SubtractiveMerge ==
+?法合并
+
+== SupportBundleAdding ==
+正在添加 {0}...
+
+== SwitchSelectorErrorMultiplePathsInRule ==
+存?? {0} 有多个路径??。无法自?切???器
+
+== SwitchSelectorErrorNoRepFound ==
+当前工作区??器不包含存?? {0} 的任何??
+
+== SwitchSelectorErrorNoRepFoundOnlyOneRule ==
+当前工作区??器不包含存?? {0} 的任何??
+
+== SwitchSelectorErrorObjectsOnSameRep ==
+?同一存????了多个分支或??
+
+== SyncBranchWithMultipleHeads ==
+分支 {0} 具有多个?部。??行合并以??同?
+
+== SyncBranchesWithMultipleHeads ==
+分支 {0} 具有多个?部。??行合并以??同?
+
+== TransformedItemAlreadyApplied ==
+无法?用?? '{0}'，因?已??用了同一个?的?? '{1}'
+
+== TransformerMvRuleDstInUseError ==
+无法?用?? '{0}'，因?正在使用目?路径。
+
+== TransformerMvRuleDstInsideSrcError ==
+无法?用?? '{0}'，因??无法在自身内部移?。
+
+== TransformerMvRuleModifiesAppliedRule ==
+无法?用?? '{0}'，因?它会修改已??用的?? ('{1}')。
+
+== TransformerRmRuleMvInsideError ==
+无法?用?? '{0}'，因?它包含移??? ('{1}')。
+
+== TransformerRuleDeleteRootError ==
+无法?用?? '{0}'，因??无法?除根?。
+
+== TransformerRuleMissingPathError ==
+无法?用?? '{0}'，因?找不到路径 '{1}'。
+
+== TriggerNameField ==
+触?器名称
+
+== TwoRulesForSameBranchError ==
+无法添加新的?展?? '{0} -> {1}'，因?分支 '{0}' 已?有?展?? '{0} -> {2}'。
+
+== UnableToOpen ==
+无法打? URL： 
+
+== UndeleteNotSupported ==
+Xlink 不支持撤??除操作。
+
+== UnexpectedError ==
+?生了意外??。
+
+== UnexpectedErrorOnServer ==
+服?器上?生了意外??。有?更多信息，???服?器日志。
+
+== UnreachableServer ==
+无法??服?器 '{0}'。
+
+== UnrecognizedLanguage ==
+当前不支持所?文件的?言。
+
+== UnsupportedMergeType ==
+不支持的合并?型
+
+== UpPasswordCorrupt ==
+参数“password”在客?端配置文件中已?坏。
+
+== UpdateWkContentError ==
+无法更新工作区 '{0}' 的内容，因?存在以下??：{1}
+
+== UserDefinedExpansionRuleSuffix ==
+ [由用?定?]
+
+== UsingDefaultConfiguration ==
+使用默?配置
+
+== WkConfigurationDirAlreadyChanged ==
+无法加?/卸?目? '{0}'，因?它包含了 '{1}' 内的更改。?撤?目?中的所有更改，然后重??操作。
+
+== WkConfigurationFileAlreadyChanged ==
+无法加?/卸?文件 '{0}'，因?它已?在 '{1}' 中被更改。?撤?更改，然后重??操作。
+
+== WkConfigurationItemAlreadyLoaded ==
+已在工作区中加?? '{0}'。?卸? '{1}' 以便将其加?到新位置。
+
+== WkConfigurationPathAlreadyInUse ==
+路径 '{0}' 中?加?了?一个?。?将其卸?，然后重??操作。
+
+== WkConfigurationRootAlreadyChanged ==
+无法加?/卸?根?，因?工作区中有待定更改。?撤?所有工作区更改，然后重??操作。
+
+== WkNameField ==
+工作区名称
+
+== WkPathField ==
+工作区路径
+
+== WktreeCorrupt ==
+工作区 '{0}' 元数据已?坏。?更新工作区。
+
+== WorkspacePathNotResolved ==
+无法解析? {0} 的工作区路径。
+
+== WorkspaceWithChangesApplingLabel ==
+工作区包含更改。如果当前工作区上有待定更改，?无法?用??。
+
+== WrongConflictToResolve ==
+'{0}' 不是一个要解决的有效冲突。
+
+== WrongPercentValue ==
+? '{0}' 不是有效的百分比。
+
+== WrongResolutionInfo ==
+'{0}' 不是解决方案 '{1}' 的有效解决方案信息。
+
+== WrongResolutionOption ==
+'{0}' 不是有效的解决方案。
+
+== XlinkCsetNotFound ==
+无法找到在 Xlink {0} 上指定的?更集
+
+== XlinkRootNotFound ==
+无法在 {1}@{2}@{3} 上找到 Xlink 根 '{0}'。
+
+== Years ==
+{0} 年
+
+== YearsAgo ==
+{0} 年前
+
+== RevisionToReloadNotFound ==
+找不到要重新加?的修?
+
+== InvalidEncryptionMethod ==
+指定的加密方法无效：{0}。?使用 AES128、AES192 或 AES256
+
+== MissingEncryptionPassword ==
+使用 --encryptpassword 指定密?
+
+== EmptyEncryptionPassword ==
+指定有效的加密密?
+
+== MissingEncryptionServer ==
+使用 --encryptserver 指定服?器
+
+== EmptyEncryptionServer ==
+指定有效的加密服?器
+
+== MkworkspaceDynamicIncorrectTreespec ==
+不正?的分支、?更集或???格：'{0}'
+
+== MkworkspaceDynamicTreespecNotfound ==
+无法使用?格 '{0}' 找到分支、?更集或??
+
+== MkworkspaceDynamicAlreadyExists ==
+目? '{0}' 已存在且不?空！
+
+== GameUiCheckinConflictsError ==
+无法完成?入操作，因?某些本地更改无法?用于当前服?器版本。????的本地更改与当前服?器版本之?的冲突。
+
+== CmdPatchFileNotFound ==
+找不到包含?丁的文件。
+
+== IsNotWk ==
+{0} 不在工作区中。

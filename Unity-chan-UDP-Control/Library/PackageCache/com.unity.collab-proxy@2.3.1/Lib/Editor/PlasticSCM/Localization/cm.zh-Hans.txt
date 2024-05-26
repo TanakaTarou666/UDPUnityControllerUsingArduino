@@ -1,0 +1,147 @@
+== CmExistingCertificateChanged ==
+
+警告：此主机的??与密?存??中的??不匹配。
+?可能意味着服?器的身?已泄露或?正在受到
+中?人攻?。
+
+????信息：
+- 已???：{0}
+- ??者：{1}
+- 到期日期：{3}
+- ??哈希：{5}
+
+如果此更改是?期望的并且?信任新??，???“是”
+以将密?添加到 Unity VCS 密?存??中并在以后信任
+此??。
+如果只想?行一次?接而不将密?添加到存??中，
+???“否”。
+如果要放弃此?接，???“取消”。
+?是唯一有保?的安全??。
+
+
+
+== CmExistingCertificateChangedPrompt ==
+????“是(Y)”、“否(N)”、“取消(C)”（默??置?“取消”）： 
+
+== CmInvalidCertificateHostname ==
+警告：服?器??中提供的安全?接主机名
+与服?器主机名不匹配。?意味着??
+不是???此主机名的，或者此主机存在
+网?配置??。
+
+- ??主机名：{0}
+- 服?器主机名：{1}
+
+如果要???接到此主机，???“是”。
+  ????将??（不推荐）。
+如果要放弃?接，???“否”（推荐）。
+    
+
+== CmInvalidCertificateHostnamePrompt ==
+????“是(Y)”、“否(N)”（按 Enter 将??“否”）： 
+
+== CmInvalidCertuiResponse ==
+(!) ?入的??无效。
+
+== CmNewCertificate ==
+
+要?接到的服?器?送了一个不在存??中的??。
+如果是首次?接到此服?器，?是正常?象。
+
+????信息：
+- 已???：{0}
+- ??者：{1}
+- 到期日期：{3}
+- ??哈希：{5}
+
+如果?信任此主机，???“是”以将密?添加到 Unity VCS 密?存??中
+（如果是首次?接到此服?器，建???做）。
+如果只想?行一次?接而不将密?添加到存??中，
+???“否”。
+如果?不信任此主机，???“取消”以放弃?接。
+
+    
+
+== CmNewCertificatePrompt ==
+????“是(Y)”、“否(N)”、“取消(C)”（按 Enter 将取消）： 
+
+== CmdListCommandsAdditionalHeader ==
+其他命令：
+
+== CmdListCommandsAdministrativeHeader ==
+管理命令：
+
+== CmdListCommandsAutomationHeader ==
+自?化命令：
+
+== CmdListCommandsCommandTypes ==
+
+?当前正在?看可用命令的?化列表。?可以使用：
+      cm showcommands --essential ?示基本命令（默??）
+      cm showcommands --additional ?示其他命令
+      cm showcommands --administrative ?示管理?使用的命令
+      cm showcommands --security ?示用于管理安全性和 ACL 的命令
+      cm showcommands --automation ?示用于自??行 CLI 的命令
+      cm showcommands --all ?示完整命令列表
+
+== CmdListCommandsEnd ==
+        
+* ?行命令：
+      cm command_name
+  
+* ?取命令的用法：
+      cm command_name --usage
+      cm command_name -?
+
+* ?取命令的?助：
+      cm help command_name
+      cm command_name --help
+
+了解有?如何使用命令行的更多信息：
+https://www.plasticscm.com/documentation/cli/plastic-scm-version-control-cli-guide.shtml
+
+了解有? cm find 的更多信息：
+https://www.plasticscm.com/documentation/cmfind/plastic-scm-version-control-query-system-guide.shtml
+
+了解有? cm automation 的更多信息：
+https://www.plasticscm.com/documentation/cmdrunner/plastic-scm-version-control-cmdrunner-guide.shtml
+      
+
+== CmdListCommandsEssentialHeader ==
+基本命令：
+
+== CmdListCommandsSecurityHeader ==
+安全性命令：
+
+== Description ==
+描述
+
+== EnterPassword ==
+密?： 
+
+== EnterUser ==
+用?： 
+
+== EnterUserCredentials ==
+?入凭据以?接到服?器 [{0}]
+
+== LongName ==
+命令
+
+== MsgCommandnotfound ==
+找不到命令 '{0}'。??入 cm showcommands 以?取命令列表。
+
+== MsgError ==
+??： 
+
+== MsgNocommands ==
+未定?命令！
+
+== ShortName ==
+?短 
+
+== WkUpgradeFinished ==
+已升?工作区。
+
+== WkUpgradeStarted ==
+正在升?工作区...

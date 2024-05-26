@@ -1,0 +1,146 @@
+== ConfiguringLanguage ==
+Configurando el idioma. Estos son los idiomas disponibles
+
+== ChooseLanguage ==
+Seleccione un idioma (teclee un numero)
+
+== YesAnswers ==
+si|s
+
+== YesOrNoDefaultYes ==
+[S/n]
+
+== YesOrNoDefaultNo ==
+[s/N]
+
+== ConfiguringEdition ==
+Unity VCS tiene dos ediciones: Enterprise para equipos grandes que necesitan escalabilidad, y Team para grupos de hasta 15 desarrolladores. Puede obtener mas informacion acerca de las ediciones en plasticscm.com
+
+== ChooseEdition ==
+Seleccione la edicion a instalar (type a number)
+
+== ConfiguringWorkingMode ==
+Configurando el modo de seguridad/usuarios. Estos son los modos disponibles
+
+== ChooseWorkingMode ==
+Seleccione un modo (teclee un numero)
+
+== NameWorkingMode ==
+Nombre
+
+== NameIdWorkingMode ==
+Nombre + ID
+
+== AdWorkingMode ==
+Active Directory
+
+== LdapWorkingMode ==
+LDAP
+
+== OIDCWorkingMode
+OpenID Connect
+
+== UpWorkingMode ==
+Usuario y contrasena
+
+== SSOWorkingMode ==
+Single Sign On
+
+== ConfiguringLdap ==
+Configurando la conexion con LDAP ...
+
+== ConfiguringSaml ==
+Configurando la conexion con SAML ...
+
+== ConfiguringUp ==
+Configure sus credenciales:
+
+== ConfiguringLicenseToken ==
+Configurando autorenovacion para licencias de suscripcion
+
+== LicenseToken ==
+Token de licencia [Pulse ENTER para omitir]
+
+== UpUserName ==
+Usuario
+
+== UpPassword ==
+Constrasena
+
+== LdapServer ==
+Servidor LDAP
+
+== LdapPort ==
+Puerto LDAP [389]
+
+== LdapDomain ==
+Dominio LDAP
+
+== LdapUser ==
+Nombre de usuario LDAP
+
+== LdapPassword ==
+Contrasena LDAP
+
+== MsgError ==
+Error: 
+
+== AvailableLdapTypes ==
+Tipos de servidor LDAP disponibles
+
+== ChooseType ==
+Seleccione su tipo de servidor (teclee un numero)
+
+== InvalidOption ==
+Opcion no valida. 
+
+== InvalidValue ==
+Valor no valido. 
+
+== InvalidParameter ==
+Parametro no valido: {0}
+
+== InvalidLanguage ==
+Idioma no valido: {0}
+
+== InvalidWorkingModeConf ==
+Modo de seguridad/usuarios no valido: {0}
+
+== InvalidLdapType ==
+Tipo de servidor LDAP no valido: {0}
+
+== ParameterNotPresent ==
+El parametro {0} no se ha especificado o no es valido
+
+== NoPortInRemotingFile ==
+No hay ningun puerto especificado en el fichero de configuracion de remoting
+
+== InvalidPortNumber ==
+Numero de puerto no valido: {0}
+
+== SamlWorkingMode ==
+SAML
+
+== SamlIdPMetadata ==
+Autenticacion SAML - IdP metadatos (documento de metadatos de federacion)
+
+== SamlIssuer ==
+Autenticacion SAML - Id. de aplicacion (cliente)
+
+== SamlSignInUrl ==
+Autenticacion SAML - URL de inicio de sesion (Punto de conexion de inicio de sesion de SAML-P)
+
+== SamlAbsoluteSessionValidityInDays ==
+Autenticacion SAML - Duracion absoluta de la sesion de SAML en dias
+
+== SamlSignInUrl ==
+Autenticacion SAML - URL de inicio de sesion (Punto de conexion de inicio de sesion de SAML-P)
+
+== SamlGraphApiClientId ==
+Graph API - Id. de cliente del registro de aplicacion
+
+== SamlGraphApiTenantId ==
+Graph API - Id. de directorio (inquilino) del registro de aplicacion
+
+== SamlGraphApiClientSecret ==
+Graph API - Secreto de cliente del registro de aplicacion

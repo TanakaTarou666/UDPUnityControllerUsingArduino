@@ -1,0 +1,860 @@
+== PlasticWkExplFullEmpty ==
+[title]?的工作區是空的，而且?的儲存庫也是空的[/title]
+
+[bold]是否要新增現有專案?[/bold]
+1.在上方清單中的工作區路徑上按一下滑鼠右鍵。
+2.選取 [開?]。(請記住，我們有使用操作功能表；這在日後會非常實用。)
+3.這會開? [windows]Windows ?案總管[/windows][macos]Finder[/macos][linux]?案總管[/linux]。
+4.將?的專案複製或移動至?的工作區。
+5.完成後，請移至 "{viewname}" 以將初始程式碼簽入至?的儲存庫。
+
+[bold]專家秘訣[/bold]:是否需要新增大型專案?(超過 300k 個?案 / 數 GB)。
+如果是這種情況，?可以使用命令列更快速地進行匯入:
+1.將?的專案複製或移動至?的工作區。
+2.開?命令提示字元並移至?的工作區。
+3.使用下列命令，在單一?驟中簽入所有項目 (變更註解 :P):
+
+[bold]cm ci --all -c "此為初始匯入"[/bold]
+
+
+[bold]是否要改為加入現有專案?[/bold]
+1.接著，移至 [儲存庫] 檢視。
+2.尋找?要使用的儲存庫。
+3.在該儲存庫上按一下滑鼠右鍵來為其建立工作區。
+(還有其他做法，但這是最簡單的方法。)
+
+[bold]是否要複製/提取遠端儲存庫?[/bold]
+1.移至分支瀏覽器。
+2.在主要分支上按一下滑鼠右鍵。
+3.選取 [複寫/提取此分支]。
+或者，建立同?檢視以提取多個分支。
+
+== PlasticWkExplGeneralHelp ==
+[title]?案總管簡介[/title]
+
+此檢視就像 [windows]Windows ?案總管[/windows][macos]Finder[/macos][linux]?案總管[/linux] 一樣，並增添了版本控制資訊。
+
+這對於[help:PlasticWkExplExplainSearch]尋找?案[/help]來?非常實用。
+
+?也可以刪除?案、重新命名、簽出、移動、顯示?史記?及執行許多其他動作。
+
+[bold]秘訣[/bold]:?看?案的操作功能表。
+
+== PlasticWkExplRunUpdate ==
+[title]?的儲存庫中有等候下載的?容[/title]
+
+只要按一下 [action:UpdateWorkspace][更新工作區][/action]，即可取得最新變更。
+
+[bold]熟悉 Git ??[/bold]Git 稱為[italic]簽出[/italic]的功能，我們稱之為[italic]更新[/italic]。
+
+== PlasticWkExplExplainSearch ==
+[title]?可透過?建搜尋功能迅速找出?案[/title]
+
+只要輸入 [windows]CTRL-F[/windows][macos]Command-F[/macos][linux]CTRL-F[/linux]，將焦點設定在 [搜尋] 欄位並開始使用即可。
+
+== PlasticWkExplWorkingOnChangeset ==
+[title][更新工作區] 無法取得最新?容?[/title]
+
+我已偵測到?正在嘗試更新?的工作區，但?處理的是變更集。
+
+當?切換至變更集時，系統不會在?更新工作區時下載分支上的最後變更。若要下載新變更，?必須切換至分支。
+
+在[link:https://plasticscm.com/book/#_conflicts_during_checkin_working_on_a_single_branch]這裡[/link]深入瞭解單一分支工作流程。
+
+== PlasticPendingChangesEmptyState ==
+[title]未在?的工作區中偵測到任何變更[/title]
+
+尋找變更耗費了 {totaltime}。{description}
+
+== PlasticPendingChangesOnboarding ==
+[title]此為 [{viewname}] 檢視[/title]
+
+{viewname} 可用來簽入變更、新增新的?案，以及簽入移動、重新命名和刪除動作。
+
+這可能會是?最常用到的其中一項功能。
+
+它可發揮很棒的作用，例如準確地尋找已移動的?案。
+
+在[link:https://www.plasticscm.com/download/help/pendingchangesview]這裡深入瞭解{viewname}[/link]。
+
+== PlasticPendingChangesOptionWarningCheckouts ==
+[title]沒有暫止的變更但...[/title]
+
+?只是顯示簽出，並沒有尋找磁?上的變更。
+
+萬一這不是?預期的行為，請按一下 [action:PendingChangesOpenOptions][選項][/action] 按鈕，然後變更設定。
+
+== PlasticPendingChangesFrustrationFilter ==
+[title]有暫止的變更，但?有作用中的篩選...[/title]
+
+如果這些不是?預期的結果，請[action:PendingChangesRemoveFilter]移除篩選條件[/action]或變更。
+
+== PlasticPendingChangesFrustrationRefreshNoFilter ==
+[title]?是否遺失了任何變更?[/title]
+
+請檢? [action:PendingChangesOpenOptions][選項][/action]，以防萬一。
+
+== PlasticPendingChangesWithAdded ==
+[title]?有一些?案已準備好新增至版本控制[/title]
+
+尚未新增至版本控制的?案會在 [?態] 欄中標示為 [私人]。
+
+忽略某些私人?案會比較好，這樣它們就不會一再顯示在{viewname}中。
+
+只要在要忽略的?案上按一下滑鼠右鍵，然後選取 [新增至忽略清單] 即可。
+
+在[link:https://plasticscm.com/download/help/ignored-hidden-etc]這裡[/link]深入瞭解忽略的?案、隱藏的變更及其他設定選項。
+
+== PlasticPendingChangesDotPrivate ==
+[title]我必須將?的某些?案重新命名為 .private[/title]
+別驚慌!這些是 Unity VCS 建立的副本，目的是要保留在更新期間無法覆寫的?案。
+
+假設?有一個私人?案 "src/foo.c"，而?將工作區切換至某人已新增 "src/foo.c" 的分支。Unity VCS 會下載新?案，因為該?案是處於原始?控制，但?的?案不是。不過，它無法刪除?的?案，因此會將其重新命名為 .private.0。
+
+很合理??
+
+== PlasticPendingChangesMovedOnlyFiles ==
+[title]我已偵測到?在本地移動了?案[/title]
+
+當?移動/重新命名工作區中的?案時，Unity VCS 會嘗試將它與舊?案進行比對，以確認它是否為相同的?案。相似性欄會反映此結果。
+
+?可以在 [action:PendingChangesOpenOptions][選項][/action] 中調整比對所需的百分比 (%)。
+
+如果新?案差異太大，Unity VCS 會認為?直接刪除了舊?案並新增了新?案。
+
+[bold]秘訣[/bold]:如果?正在重新整理專案結構，而且?需要讓 Unity VCS 瞭解這件事，而不是猜測?做出的移動，?可以透過剪下/貼上在 [工作區瀏覽器] 中執行移動。
+
+[link:https://plasticscm.com/download/help/moveandrenames]?讀此文[/link]成為移動和重新命名的專家。
+
+== PlasticPendingChangesMovedOnlyDirectories ==
+[title]我刪除了已移動的目?[/title]
+
+Unity VCS 可以追蹤已移動的目?，因為它會比較其?容的相似程度。
+
+因此，如果?只在工作區中重新命名目? (不使用 Unity VCS，直接透過 [windows]Windows ?案總管[/windows][macos]Finder[/macos][linux]?案總管[/linux] 或命令列)，Unity VCS 會檢?其?容是否與舊?容相符。若是如此，那麼這就是移動。
+
+如果?容變更，Unity VCS 仍可偵測到高達指定之相似性臨界?的移動，?可在 [action:PendingChangesOpenOptions][選項][/action] 中調整該臨界?。
+
+[link:https://plasticscm.com/download/help/moveandrenames]?讀此文[/link]成為移動和重新命名的專家。
+
+== PlasticPendingChangesMovedFilesAndDirectories ==
+[title]?正在移動?案和目?[/title]
+
+Unity VCS 相當擅長偵測和追蹤移動。
+
+* 深入瞭解[help:PlasticPendingChangesMovedOnlyFiles]?案移動[/help]偵測。
+
+* 請深入瞭解[help:PlasticPendingChangesMovedOnlyDirectories]目?移動[/help]偵測，因為它們的偵測方式與?案移動不同。
+
+[bold]秘訣[/bold]:如果?正在重新整理專案結構，而且?需要讓 Unity VCS 瞭解這件事，而不是猜測?做出的移動，?可以透過剪下/貼上從 [工作區瀏覽器] 中執行移動。
+
+[link:https://plasticscm.com/download/help/moveandrenames]?讀此文[/link]成為移動和重新命名的專家。
+
+== PlasticPendingChangesAddedDeleted ==
+[title]?是否少了移動動作?[/title]
+
+我已偵測到?新增並刪除了?案/目?。
+
+這可能正是?執行的動作。若是如此，很抱歉打擾?。
+
+不過，有時候新增/刪除的組合意味著未偵測到的移動。
+
+若要比對已新增/已刪除的項目並將其標示為移動，則請在已新增的項目上按一下滑鼠右鍵，然後選取 [搜尋結果]。
+
+?也可以在 [action:PendingChangesOpenOptions][選項][/action] 下調整相似性移動偵測設定。
+
+[link:https://plasticscm.com/download/help/moveandrenames]?讀此文[/link]成為移動和重新命名的專家。
+
+== PlasticPendingChangesSlowTooManyPrivates ==
+[title]較少的私人?案，{viewname} 檢視的速度可能會更快[/title]
+
+尋找變更耗費了 {totaltime}。這花太多時間了。
+
+?的工作區中有太多私人?案。這些是未受到版本控制的?案，可能包括設定?案、中繼建置?案等。
+
+若要加快計算的速度:
+
+* ?可以將其新增至 ignore.conf:
+1.直接在?案上按一下滑鼠右鍵。
+2.選取 [新增至忽略清單]。
+
+* 或者，?也可以在{viewname}檢視中隱藏它們:
+1.直接開? [action:PendingChangesOpenOptions][選項][/action]。
+2.取消選取 [顯示私人?案]。
+  這個方法的缺點是不會顯示要新增至版本控制的新?案。
+
+[link:https://www.plasticscm.com/download/help/statusperfhintsignoreprivates]深入瞭解如何處理私人?案，以加快變更偵測的速度[/link]。
+
+== PlasticPendingChangesSlowMoveCalculation ==
+[title]移動計算耗時過久[/title]
+
+尋找變更耗時過久，共計 {totaltime}。
+
+計算移動耗費了 {movestime}。
+
+?有太多私人和本地刪除的?案，而 Unity VCS 耗費了太多時間在嘗試進行比對以便找出移動。
+
+[link:https://www.plasticscm.com/download/help/statusperfhintsmoved]請將其新增至 ignore.conf 或停用移動計算，以加快進度[/link]。
+
+== PlasticPendingChangesSlowFindChanges ==
+[title]尋找變更耗時過久[/title]
+
+尋找變更耗時過久，共計 {totaltime}。
+
+此作業的速度應該超快，因此當情況並非如此時，我們會有顧慮。
+
+此情形的一些可能原因包括:
+
+* ?的硬?不?快。?是否有機械式硬??是否有任何其他程序導致高磁?使用量?
+* 或許是防毒軟體?在開發人員機器上執行的防毒軟體時常?慢所有版本控制作業的速度。檢?防毒軟體是否在尋找變更時使用了太多 CPU 或磁? IO。
+* 如果?使用的是 Windows，請檢? Windows Superfetch 服務。Superfetch 服務已識別為導致磁?效能問題的可能原因。[link:http://windowsreport.com/service-host-local-service-network-restricted-causing-high-cpu-usage/]停止此服務可能會對?電腦的效能有正面的效果[/link]。
+
+== PlasticPendingChangesMergeInProgress ==
+[title]已偵測到進行中的合併[/title]
+
+這表示?已?動合併 ({inprogressmergefrom})，且仍剩下一些要處理的?案。
+
+?需要先完成此作業，才能簽入?的變更。
+
+按一下以[action:PendingChangesLaunchInProgressMerge]繼續[/action]進行中的合併。否則，?可以[action:PendingChangesUndoChanges]復原[/action]所有暫止的變更，並取消進行中的合併。
+
+== BrExNoDataFound ==
+[title]自 {fromtimestamp} 以來沒有任何變更集[/title]
+
+如果?預期結果，請變更日期範圍或檢?篩選選項。
+
+== BrExEmptyRepo ==
+[title]?的分支瀏覽器目前是空的...[/title]
+... 但它很快看起來會像[link:https://plasticscm.com/download/help/branchexplorer]這樣[/link] :)
+
+[bold]是否要改為從遠端儲存庫提取?[/bold]
+1.直接在分支上按一下滑鼠右鍵。
+2.選取 [複寫/提取此分支]。
+
+[bold]瞭解如何有效使用分支[/bold]:
+[link:https://plasticscm.com/download/help/taskbranches]?讀我們的任務分支教學課程[/link]
+
+== BrExSlowRangeTooBig ==
+[title]?可以加快分支瀏覽器的速度[/title]
+
+?可以設定範圍較狹小的日期篩選。
+
+這會大幅加快分支瀏覽器的資料載入和轉譯速度。
+
+== BrExTipUseContextMenu ==
+[title]請使用操作功能表[/title]
+
+請記得，分支、變更集，甚至是合併連結都有可用的操作功能表 (按一下滑鼠右鍵即可存取)。
+
+操作功能表有分支、合併、差異比對、推送和提取分支、推送/提取至 Git 等動作。
+
+== BrExTipOnlyRelevant ==
+[title]?!?知道?可以隱藏非相關的變更集??[/title]
+
+有時候?只需要摘要，不需要詳細資料，並專注在重要事項上。
+
+按一下工作列中的 [action:BrExOnlyRelevant][僅限相關項目][/action]，即可顯示或隱藏「非相關」的變更集 (從拓撲的觀點來看)。
+
+== BrExTipFilterBranches ==
+[title]專注於?關注的分支[/title]
+
+1.在分支上按一下滑鼠右鍵。
+2.移至 [分支瀏覽器] 功能表。
+3.選取篩選選項。
+
+?也可以篩選選取的分支。
+
+這對於處理較小的圖表很有?助，可專注於真正重要的事項。
+
+== BrExTipCustomColors ==
+[title]加一點顏色?![/title]
+
+有一些選項可為圖表加上顏色。
+
+?可以按?個使用者或根據建立變更集的伺服器 (如果?使用複本)，來為變更集加上顏色。
+
+?也可以將條件式規則新增至顏色分支。
+
+只要移至 [action:BrExShowOptions][選項][/action] 即可開始。
+
+== BrExTipUseTheSearch ==
+[title]善加利用搜尋功能[/title]
+
+?可以使用搜尋方塊來根據編號或 GUID 尋找變更集。
+
+這對於尋找分支和標籤也很有?助。
+
+局部搜尋的效果不錯，而?也可以瀏覽多個相符項目。
+
+== BrExGeneralIntro ==
+[title]圖表的重點為何?[/title]
+
+分支瀏覽器是我們嘗試以視覺化方式解?儲存庫?史記?的最佳做法。
+
+?個圓圈都是一個變更集，而所有變更集都在分支之?。
+
+在[link:https://plasticscm.com/download/help/branchexplorer]這裡深入瞭解分支瀏覽器[/link]。
+
+== PlasticLabelsEmptyState ==
+[title]使用標籤標示重要的變更集 (通常是新發行版本)[/title]
+?可以從這裡建立標籤，但從分支瀏覽器進行會更為輕鬆:
+1.直接在?要標示的變更集上按一下滑鼠右鍵。
+2.選取 [標記此變更集]。
+
+[bold]專家秘訣[/bold]:使用良好的命名慣例來標記發行版本，並維持此做法。
+
+[bold]適用於 Git 使用者的秘訣[/bold]:標籤 (Label) 等同於標記 (tag)。
+
+== PlasticBranchesEmptyState ==
+[title]Unity VCS 的重點在於分支... 以及合併![/title]
+雖然我們比較習慣使用分支瀏覽器來存取「分支清單」，但有時快速尋找分支會很有?助。
+
+「主要」是 Unity VCS 中建立的預設分支。這等同於 Git「主要」(master) 和 Subversion「主幹」(trunk)。
+
+請記得，?可以在分支上按一下滑鼠右鍵，顯示操作功能表。
+
+[bold]瞭解如何有效使用分支[/bold]:
+[link:https://plasticscm.com/download/help/taskbranches]?讀我們的任務分支教學課程[/link]。
+
+== PlasticChangesetsEmptyState ==
+[title]??次簽入時，都會建立一個新的變更集[/title]
+
+變更集具有雙重功能:
+1.它們可記??所簽入的?容。
+2.此外，它們也是整個儲存庫的快照。
+
+一些秘訣:
+* 變更集是由其儲存庫中的唯一「整數」所識別。但如果?使用複寫，則請改用 GUID。
+* ?個新儲存庫都有一個「變更集零」。
+* 我們通常會將變更集稱為 "cset"。
+* 在變更集上按一下滑鼠右鍵以尋找所有可用的動作。
+* 我們比較習慣使用分支瀏覽器來尋找 cset，但有時候此清單很適合用來快速尋找 cset。
+* 適用於 Git 使用者:"cset" 等同於「認可」(commit)。
+
+== PlasticAttributesEmptyState ==
+[title]什麼是屬性?[/title]
+
+屬性是?可在 Unity VCS 中指派給物件的索引鍵/?組，通常會指派給分支和變更集。
+
+當?在這裡建立新屬性時，?會建立新的「索引鍵」，之後可用來指派連接至某些物件的?。
+
+快速範例:使用 [?態] 屬性標示分支，可將該屬性設定為 [開?]、[已解決]、[已測試]、[失敗]、[已合併] 等。
+
+== PlasticShelvesEmptyState ==
+[title]擱置是包含進行中的工作的暫時變更集[/title]
+
+擱置只是安全儲存變更 (而不會真的執行簽入) 的一種選項。
+
+擱置像是一個暫時的儲存區。
+
+?可以擱置變更以清理工作區，或稍後在不同的分支上套用這些變更。
+
+若要建立擱置:
+1.移至 [暫止的變更]。
+2.按一下 [簽入] 下拉式按鈕。
+3.選取 [擱置暫止的變更] 動作。
+
+[link:https://plasticscm.com/download/help/shelves]深入瞭解擱置的使用方式和使用時機[/link]。
+
+== PlasticReposExplained ==
+[title]儲存庫會儲存所有?案資料和中繼資料[/title]
+
+儲存庫包含?做出的所有?案和目?變更，及其中繼資料 (作者、分支、合併資訊等)。
+
+所有 Unity VCS 伺服器都可以託管很多儲存庫。
+
+儲存庫可為本地或遠端。
+
+?可以採用[link:https://plasticscm.com/download/help/distributedvscentralized]集中式或分散式[/link]的方式工作。
+
+?可以從這裡建立儲存庫、列出來自其他伺服器的儲存庫 (如果?有權限執行此動作)，也可以刪除和重新命名儲存庫。
+
+[windows]在儲存庫上按一下滑鼠右鍵以設定權限、?動分支瀏覽器、列出分支等。[/windows]
+
+?也可以建立「子模組」:其他儲存庫?的儲存庫，例如 "default/subrepo00"。
+
+[link:https://plasticscm.com/download/help/repos]在這裡可以找到有關如何使用儲存庫的詳細資訊[/link]。
+
+== PlasticWorkspacesExplained ==
+[title]工作區是?的本地工作副本[/title]
+
+工作區是?的?案在磁?上的所在位置，也是?使用 IDE、編輯器、設計程式等項目來建立新?容的位置。
+
+工作區包含從儲存庫取得的單一工作副本。儲存庫是儲存所有?史記?的資料庫。
+
+[bold]適用於 Git 使用者的秘訣[/bold]:在 Git 中，儲存庫和工作副本都在相同的目?下。在 Unity VCS 中，它們則是在個別的目?下。事實上，?可以有很多個連線到同一個儲存庫的工作副本。
+
+[link:https://plasticscm.com/download/help/workspaces]在這裡可以找到有關如何使用工作區的詳細資訊[/link]。
+
+== PlasticCloudEditionGeneralHelp ==
+[title]?的 Cloud Edition 儲存庫清單[/title]
+
+?可以在這裡?看 Cloud Edition 組織中的儲存庫清單。
+
+?可以使用此檢視建立更多儲存庫，並視需要重新命名和刪除。
+
+[windows]?也可以從這裡設定權限。使用儲存庫上的操作功能表。[/windows]
+
+== PlasticCloudExplained ==
+[title]?知道 Unity VCS Cloud ??[/title]
+
+我們提供 Cloud 託管服務。
+
+?可以擁有 Cloud 託管儲存庫並直接簽入/更新 (集中式) 或推送/提取 (分散式)。
+
+如果?確定?已經屬於某個 Cloud 組織:
+1.請在 [伺服器] 區域中輸入該組織。如果?的組織名為 robotmaker，則會是類似 robotmaker@cloud 的名稱。
+2.接著，按一下 [重新整理] 以重新載入儲存庫。系統將視需要提示?輸入憑證。
+
+[link:https://plasticscm.com/download/help/cloudextension]在這裡可以找到有關 Unity VCS Cloud extension 的詳細資訊[/link]。
+
+== PlasticCloudEmptyOrganization ==
+[title]?的組織名稱是空的[/title]
+?似乎還沒有 [bold]Unity VCS Cloud 組織[/bold]。如果?確定?有組織，?目前的使用者可能尚未屬於該組織。請直接[bold]在上方的 [伺服器] 中輸入該組織[/bold]。請記得，如果?的組織名為 [italic]robotmaker[/italic]，請輸入 [italic]robotmaker@cloud[/italic]。
+
+== PlasticSyncDistributedCloudProject ==
+[title]如何同??的變更?[/title]
+1.從?的 Cloud 儲存庫提取?需要的分支 (請記得，?通常不需要完整複製)。
+2.此外，完成後，請切換至分支以開始工作。
+
+== PlasticMergeNoConflicts ==
+[title]這只是簡單合併[/title]
+
+沒有任何衝突，因此?只需要按一下 [action:MergeProcessAllMerges][套用變更][/action] 來合併分支即可。
+
+按一下 [action:MergeExplainMerge][解釋合併][/action] 以深入瞭解合併的運作方式以及瞭解什麼是貢獻者。
+
+使用?案的操作功能表並選取可用選項。
+
+[link:https://plasticscm.com/download/help/merges]在這裡可以找到有關合併的詳細資訊[/link]。
+
+== PlasticMergeIncomingFromCheckin ==
+[title]為何無法簽入?[/title]
+
+因為?的工作分支中有[bold]新變更[/bold]。
+
+?必須先更新至最新?容，才能完成簽入 (並解決衝突 (如果有的話))。
+
+完成更新和解決衝突後，請直接移至 [暫止的變更] 檢視並進行簽入。
+
+== PlasticMergeIncomingFromUpdate ==
+[title]為何無法更新?[/title]
+
+因為?的工作分支中有[bold]新變更[/bold]，而且?已變更工作區中的?案。
+
+?必須使用分支中的最新變更來進行更新 (並解決衝突 (如果有的話))
+
+完成後，?的工作區將更新為工作分支上的最新版本。
+
+== PlasticMergeWithConflicts ==
+[title]有需要解決的衝突![/title]
+
+[bold]專家秘訣[/bold]:按一下 [action:MergeProcessAllMerges][解決衝突][/action] 即可開始解決所有可能的合併衝突 
+(不需要在?個?案上按一下滑鼠右鍵，並逐一?動合併)。
+
+如需進階選項，請?看衝突中?個?案的操作功能表。
+
+按一下 [action:MergeExplainMerge][解釋合併][/action] 以深入瞭解合併的運作方式以及瞭解什麼是貢獻者。
+
+[link:https://plasticscm.com/download/help/merges]在這裡可以找到有關合併的詳細資訊[/link]。
+
+== PlasticMergeWithDirectoryConflicts ==
+[title]發生目?衝突![/title]
+
+別緊張，Unity VCS 很擅長處理這種問題。
+
+當目?結構需要合併時，就會發生這種情況。
+
+例如，如果?分別在兩個分支中重新命名同一個?案。
+
+只要選擇正確的「解決方法」即可。
+
+如果?不熟悉此方法，請在繼續進行前先花時間[link:https://www.plasticscm.com/download/help/directorymerges]深入?讀可能的目?合併衝突[/link]。
+
+== PlasticMergeRecursiveMergeDetected ==
+[title]?中頭彩了[/title]
+?發生了遞迴合併衝突。
+
+別擔心，但這是很難處理的情況，因為 3 向合併工具可能會出現多次。
+
+?只需要像平常一樣按一下 [解決衝突]。
+
+不過，如果?不熟悉遞迴合併，建議?先[link:https://plasticscm.com/download/help/recursivemerge]深入瞭解遞迴合併[/link]。
+
+此後?將非常熟悉如何處理合併相關問題。
+
+== PlasticMergeServerSideMergeFinished ==
+[title]合併已完成[/title]
+
+按一下 [action:MergeProcessAllMerges][簽入合併！][/action] 以[bold]提交合併[/bold]至儲存庫。
+
+[action:MergeCloseView][關閉][/action] 以取消此作業。
+
+== PlasticMergeGeneralHelp ==
+[title]合併預覽[/title]
+
+這是合併預覽。
+
+這可協助?瞭解即將合併的?容，以及解決可能的衝突。
+
+探索?個元素的操作功能表，以真正瞭解相關選項。
+
+[bold]專家秘訣[/bold]:使用 [解決衝突]，而不是逐一合併?案。
+
+== PlasticWkExplPendingChangesUnityFirstTime ==
+[title]使用 Unity 的實用秘訣[/title]
+
+* 設定鎖定。?很可能會想要讓 .prefabs 獨?鎖定。移至 [action:OpenLocksInDashboard]WebAdmin 並設定鎖定[/action]。
+* 使用簽出。鎖定會要求?在進行編輯前簽出 (鎖定) ?案。簽出是告訴 Unity VCS「我即將修改?案」的動作。?個?案的右鍵功能表都會提供此選項。
+* 設定要忽略的?案。?會有一些不想要新增至版本控制的?案。[action:IgnoreConfCreateUnity]按一下這裡[/action]來為 Unity 建立 ignore.conf。[link:https://plasticscm.com/download/help/ignored-hidden-etc]深入瞭解 ignore.conf[/link]。
+
+== PlasticWkExplPendingChangesVisualStudioFirstTime ==
+[title]處理 Visual Studio 專案的秘訣[/title]
+忽略 "bin" 和 "debug" 目?以及某些?案 (例如 ".csproj.user") 會很有?助。
+
+[action:IgnoreConfCreateVisualStudio]按一下這裡[/action]以將正確的規則新增至 ignore.conf，並提升 Visual Studio 的使用體驗 :-)
+
+== PlasticQueryViewsExplainFilterAndAdvanced ==
+[title]在上方輸入「篩選」以快速篩選清單[/title]
+
+篩選會在?詢結果上以本地的形式運作。
+
+[bold]篩選秘訣[/bold]:使用 [italic]欄位名稱[/italic]:?來根據指定的欄位進行篩選。
+例如:
+  "created by:maria"
+  "creation date:10/25/2018"
+  name:111923
+
+?也可以按一下 [action:QueryViewClickAdvanced][進階][/action] 以自訂?詢。
+
+在[link:https://plasticscm.com/download/help/cmfind]這裡[/link]深入瞭解?詢。
+
+請記得，清單中元素的操作功能表有額外的選項 (只要按一下滑鼠右鍵即可)。
+
+== PlasticQueryViewsFrustrationCustomQuery ==
+[title]?有已?用的自訂?詢[/title]
+
+這可能就是?找不到?要尋找的?容的原因 :-O
+
+按一下 [action:QueryViewClickAdvanced][進階][/action] 以進行自訂。
+
+== PlasticFrustrationFilterEnabled ==
+[title]?有已?用的篩選[/title]
+
+這可能就是?找不到?要尋找的?容的原因 :-O
+
+== PlasticNewVersionAvailableWithDownloadAction ==
+[title]有可用的新版本[/title]
+
+[bold]全新 {version} - {releaseDate}[/bold] ({versionsBehind})
+
+[action:DownloadNewVersion]下載[/action] - [link:{releaseNotesLink}]檢視版本資訊[/link]
+
+{releaseNotes}
+
+== PlasticNewVersionAvailable ==
+[title]有可用的新版本[/title]
+
+[bold]全新 {version} - {releaseDate}[/bold] ({versionsBehind})
+
+[link:{downloadLink}]下載[/link] - [link:{releaseNotesLink}]檢視版本資訊[/link]
+
+{releaseNotes}
+
+== PlasticPendingChangesMerge ==
+[title]?有準備好要進行簽入的合併[/title]
+
+?知道合併期間的?態欄所代表的意思??
+
+?將發現合併的?案會標示為 [來自 cset 編號的?態 / 合併]，以讓它們與?可能有的其他本地變更有所區別。
+
+* [bold]已簽出[/bold]:?案已合併，因為它已並行修改。合併可能曾設為自動執行，但仍發生了合併。
+
+* [bold]已取代[/bold]:?案已存在於?的分支中，但已由更新版本取代。未發生任何衝突。
+
+* [bold]已複製 (新)[/bold]:?案不存在於?的分支中，且已在合併期間建立 (從合併來源取得)。
+
+* [bold]已移除[/bold]:?案已在合併期間遭到刪除。
+
+也有將在簽入上建立之合併連結的相關資訊。它會追蹤已實際發生的合併作業。
+
+== PlasticPendingChangesMergeEmpty ==
+[title]此合併中沒有任何變更，但...[/title]
+
+?遇到了特殊案例。
+
+?正在進行合併，但?已經擁有的?案符合?嘗試合併的?案。
+
+因此，除了合併連結之外，沒有任何其他要簽入的?容。
+
+合併連結非常重要，因為這樣一來?會將此合併標示為已完成，即使實際上沒有修改任何?案亦然。這對合併追蹤來?是必要的。
+
+== PlasticPendingChangesAllMergeChangesRequired ==
+[title]?案已合併在一起，必須一起簽入[/title]
+
+Unity VCS 和所有現代化分散式版本控制系統的運作方式如下:當?合併分支時，?會將其整個合併。
+
+這是因為 Unity VCS 需要將整個分支標示為已合併。它無法只合併一些?案，然後再重複此循環來合併遺失的?案。
+
+原因在於，合併連結是在變更集 (而不是個別?案) 之間設定。
+此設計大幅提升合併效能，但要付出缺乏個別?案彈性的代價。
+
+== PlasticPendingChangesMergeSingleBranch ==
+[title]?，這是什麼?[/title]
+
+別緊張!?剛在處理分支時完成了一個合併。讓我解釋一下發生了什麼事。
+
+如果?剛合併了一些?案，為什麼會顯示所有這些其他?案?
+
+原因很簡單。當?合併至分支的源頭時，?納入了其他人所做的變更。
+
+必須合併的?案在 [?態] 欄中會標示為 [bold][已簽出][/bold]。
+
+所有其他?案則會標示為:
+
+* [bold][已取代][/bold]:?案已從前端複製到?的工作區。
+
+* [bold][已複製 (新)][/bold]:?之前沒有的新?案已複製到?的工作區。
+
+* [bold][已移除][/bold]:?案不再存在於前端上，因此也已經從?的工作區中刪除。
+
+比較清楚了??:-)
+
+== PlasticSyncViewGeneralHelp ==
+[title]一次同?數個分支[/title]
+
+{viewname} 非常適合用在單一?驟中同?許多分支。
+
+與其推送/提取個別分支，?可以建立儲存庫組合 (視需要可來自不同伺服器)，然後在一個?驟中進行同?。
+
+不需要同?整個儲存庫，?可以篩選?想要的分支。
+
+這在 Xlink 非常實用，因為?可以重新整理並根據指定的分支名稱進行篩選，然後一起推送/提取所有相符的分支。
+
+[link:https://plasticscm.com/download/help/syncview]在這裡深入瞭解 SyncView[/link]。
+
+== CodeReviewWindowGeneralHelp ==
+[title]像專家一樣進行檢?![/title]
+
+我們認為所有任務都必須[link:https://www.plasticscm.com/book/#_review_each_task]經過檢?[/link]。我們根據此概念設計了檢?功能。
+
+[bold]如何執行完美的檢?[/bold]
+1.選擇檢?模式:[按照變更集] 或 [整個分支]。如需詳細資料，請?讀下列?明。
+2.?可以 [要求變更] 和/或向作者提出 [問題]。
+3.最後，設定檢??態:[需要重做] 或 [已檢?]。
+
+[bold]'[按照變更集] 和 [整個分支] 檢?[/bold]
+- [整個分支] 會差異比對整個分支。這是大家知道的一般檢?。
+- [按照變更集] 可讓?逐?檢??個變更。只要有適當的訓練，這會是很棒的功能。作者會解??個變更，講述故事，協助?瞭解其思路。這比進行 200 個變更檢?好多了。
+
+[link:https://www.plasticscm.com/book/#_checkin_often_and_keep_reviewers_in_mind]在這裡[/link]全面瞭解如何在簽入變更時考慮檢?者。
+
+[bold]如何新增註解/問題/要求變更[/bold]
+在差異比對面板的右側，?可以找到具有 '+' 圖示且可點選的垂直列。按一下就大功告成了。
+
+== CodeReviewWindowNewComment ==
+[title]要求變更、提問[/title]
+
+?可以:
+
+1.[bold]要求變更[/bold]:需要作者先變更?容才能核准時。Unity VCS 會追蹤是否已套用變更，簡化下一輪的檢?。
+
+2.[bold]提問[/bold]:需要先回答才能核准時。Unity VCS 會追蹤是否已回答問題。
+
+?也可以使用標準的註解功能，但變更和問題專注於最重要的事項:簡化檢?程序，因此思考某個問題是否已回答或已變更變得微不足道。
+
+== CodeReviewWindowWithPendingComments ==
+[title]回答問題並解決變更要求[/title]
+
+1.檢? [變更要求] 和 [問題] 清單。按兩下以檢視詳細資料。
+2.若要解決 [變更要求]:在?的簽入註解中參考其 GUID。?讀下列範例。?也可以善加利用 [暫止的變更] 中的組合來填寫資訊。
+3.直接回覆，回答任何暫止的問題。
+4.最後，完成後，請將程式碼檢??態變更為 [已檢?]。
+
+[bold]如何套用/關閉 [變更要求][/bold]
+若要關閉 [變更要求]，只要在?的簽入註解中使用其變更要求 GUID 即可。
+有兩種模式:
+* [長]:[bold][apply-change:516a2741-9069-4c08-983f-71149f0a93c8][/bold]
+* [短]:[bold][apply-change:516a2741][/bold] (只要指定 GUID 的第一部分即可)
+
+== GluonWkExplFullEmpty ==
+[title]?的工作區是空的，而且?的儲存庫也是空的[/title]
+
+[bold]是否要新增現有專案?[/bold]
+1.只要將?的專案複製或移動至?的工作區目? ({workspacepath}) 即可。
+2.完成後，請移至 [簽入變更] 以將所有?容簽入至儲存區。
+
+[bold]是否要改為加入現有專案?[/bold]
+1.按一下 [action:GluonSwitchWorkspace][切換工作區][/action]。
+2.接著，為?要使用的儲存庫建立新工作區。
+
+== GluonWkExplSuggestConfigure ==
+[title]?的儲存庫中有等候下載的?容[/title]
+
+只要按一下 [action:GluonConfigure][設定][/action] 來設定?真正需要從儲存庫下載的?容即可。
+
+這可讓?確切地選取要將?些?案下載至?的工作區。
+
+== GluonConfigureNoPreviousConfig ==
+[title]載入?需要處理的?案[/title]
+
+只要瀏覽儲存庫並確切地選取?需要處理的?案或目?。
+
+Gluon 可讓?只下載?需要處理的?容。
+
+這在?大的儲存庫非常好用，因為?可節省大量空間和下載時間。
+
+[bold]秘訣[/bold]:按一下 [action:GluonConfigSearch][搜尋][/action] 以尋找?案。
+
+== GluonWkExplExplainUpdate ==
+[title]有可供下載的新版本[/title]
+
+使用 [action:GluonUpdateWorkspace][更新][/action] 下載?在工作區中擁有的所有新版?案。
+
+有更新版本的?案時，其?態欄將顯示 [過期]。?可以在?案上按一下滑鼠右鍵以個別更新該?案，而不是像使用 [更新] 按鈕時更新整個工作區。
+
+[bold]秘訣[/bold]:何時會下載新?案?假設有人將新?案新增至儲存庫。當?按一下 [更新] 時，是否會下載該?案?如果其目?已設定為 [已完整檢?]，則會下載。但如果只是局部檢?，則不會下載。這是為什麼?因為 [局部檢?] 代表?只想要下載某些?案。因此，它不會自動下載所有新?案。
+
+== GluonWkExplNewAddedFilesInRepo ==
+[title]新?案已新增至儲存庫[/title]
+
+儲存庫中有?在工作區中沒有的新?案。
+
+?可以 [action:GluonConfigure][設定][/action] ?的工作區並將其標示為待下載。
+
+== GluonConfigureEmpty ==
+[title]?的儲存庫是空的[/title]
+
+糟?!沒有任何可設定的項目，因為儲存庫是空的。
+
+?可能只想要將專案新增至此儲存庫。
+
+或者?可能聯結了錯誤的儲存庫。
+
+[help:GluonWkExplFullEmpty]?看如何將專案新增至 Unity VCS 或使用不同的儲存庫[/help]。
+
+== GluonConfigurePreviousConfig ==
+[title]微調?的工作區[/title]
+
+* 綠色勾號:設定要下載的新?案或目?。
+* 紅色勾號:取消設定元素。
+* 黑色勾號:已設定為待下載的?容。
+* 無勾號:未設定為下載至?的工作區。
+* 目?上的部分勾號:這表示並非所有其?容都會下載。如果?指選取一些?案，就會發生此情況。
+
+
+就?大儲存庫來?，只下載?需要處理的?案是非常實用的做法，因為?可節省大量空間和下載時間。
+
+[bold]秘訣[/bold]:按一下 [action:GluonConfigSearch][搜尋][/action] 以尋找?案。
+
+== GluonWkExplExplainSearch ==
+[title]?可透過?建搜尋功能迅速找出?案[/title]
+
+只要輸入 [windows]CTRL-F[/windows][macos]Command-F[/macos][linux]CTRL-F[/linux] 即可顯示 [尋找] 對話方塊。
+
+== GluonWkExplTipUseContextMenu ==
+[title]請使用操作功能表[/title]
+
+請記得，?有可用的操作功能表 (只要按一下滑鼠右鍵即可)。
+
+其中有很多實用的動作。
+
+== GluonWkExplTipHowToLockFiles ==
+[title]?知道如何鎖定?案??[/title]
+
+鎖定會在 [bold][簽出][/bold] 時自動發生。
+
+1.直接在?案上按右鍵。
+2.選取 [簽出]。
+
+如果已針對此?案類型設定鎖定，伺服器將在簽出期間鎖定?案。
+
+[link:https://plasticscm.com/download/help/locking]在這裡?讀更多有關鎖定的資訊[/link]。
+
+== GluonWkExplTipUseHistory ==
+[title]?知道可隨時取得所選?案的?史記???[/title]
+
+不只如此，?還可以從該位置輕鬆地進行多個版本的差異比對。
+
+== GluonChangesetsEmptyState ==
+[title]??次簽入時，都會建立一個新的變更集[/title]
+
+變更集具有雙重功能:
+1.它們可記??所簽入的?容。
+2.此外，它們也是整個儲存庫的快照。
+
+一些秘訣:
+* 變更集是由其儲存庫中的唯一「整數」所識別。但如果?使用複寫，則請改用 GUID。
+* ?個新儲存庫都有一個「變更集零」。
+* 我們通常會將變更集稱為 "cset"。
+* 使用操作功能表來差異比對變更集。
+* 適用於 Git 使用者:"cset" 等同於「認可」(commit)。
+
+== GluonChangesetsExplainFilterAndAdvanced ==
+[title]在上方輸入「篩選」以快速篩選清單[/title]
+
+篩選會在?詢結果上以本地的形式運作。
+
+[bold]篩選秘訣[/bold]:使用 [italic]欄位名稱[/italic]:?來根據指定的欄位進行篩選。
+例如:name:13055
+
+?也可以按一下 [action:QueryViewClickAdvanced][進階][/action] 以自訂?詢。
+
+在[link:https://plasticscm.com/download/help/cmfind]這裡[/link]深入瞭解?詢。
+
+請記得，?可以使用操作功能表 (只要按一下滑鼠右鍵即可) 來差異比對變更集。
+
+[windows]專家秘訣:?可以將欄?曳至表格上方的區域，以自訂?看變更集的方式。?可以根據日、作者等元素來進行分組。[/windows]
+
+== GluonPendingChangesEmptyState ==
+[reference]PlasticPendingChangesEmptyState[/reference]
+
+== GluonPendingChangesOnboarding ==
+[reference]PlasticPendingChangesOnboarding[/reference]
+
+== GluonPendingChangesOptionWarningCheckouts ==
+[reference]PlasticPendingChangesOptionWarningCheckouts[/reference]
+
+== GluonPendingChangesFrustrationFilter ==
+[reference]PlasticPendingChangesFrustrationFilter[/reference]
+
+== GluonPendingChangesFrustrationRefreshNoFilter ==
+[reference]PlasticPendingChangesFrustrationRefreshNoFilter[/reference]
+
+== GluonPendingChangesFirstTimeWithAdded ==
+[reference]PlasticPendingChangesFirstTimeWithAdded[/reference]
+== GluonPendingChangesWithAdded ==
+[reference]PlasticPendingChangesWithAdded[/reference]
+
+== GluonPendingChangesMovedOnlyFiles ==
+[reference]PlasticPendingChangesMovedOnlyFiles[/reference]
+
+== GluonPendingChangesMovedOnlyDirectories ==
+[reference]PlasticPendingChangesMovedOnlyDirectories[/reference]
+
+== GluonPendingChangesMovedFilesAndDirectories ==
+[reference]PlasticPendingChangesMovedFilesAndDirectories[/reference]
+
+== GluonPendingChangesSlowTooManyPrivates ==
+[reference]PlasticPendingChangesSlowTooManyPrivates[/reference]
+
+== GluonPendingChangesSlowMoveCalculation ==
+[reference]PlasticPendingChangesSlowMoveCalculation[/reference]
+
+== GluonPendingChangesSlowFindChanges ==
+[reference]PlasticPendingChangesSlowFindChanges[/reference]
+
+== GluonReposExplained ==
+[reference]PlasticReposExplained[/reference]
+
+== GluonWorkspacesExplained ==
+[reference]PlasticWorkspacesExplained[/reference]
+
+== GluonQueryViewsFrustrationCustomQuery ==
+[reference]PlasticQueryViewsFrustrationCustomQuery[/reference]
+
+== GluonFrustrationFilterEnabled ==
+[reference]PlasticFrustrationFilterEnabled[/reference]
+
+== GluonWkExplGeneralHelp ==
+[reference]PlasticWkExplGeneralHelp[/reference]

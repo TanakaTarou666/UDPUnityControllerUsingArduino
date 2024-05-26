@@ -7,13 +7,11 @@ char ssid[] = SECRET_SSID;
 char pass[] = SECRET_PASS;
 
 WiFiUDP Udp;
-unsigned int localPort = 8892;  //unityで設定したローカルポート
-IPAddress destinationIP(127,0,0,1); // wifiのipアドレス
+unsigned int localPort = 8892;  //unityで設定したローカルポ�EチEIPAddress destinationIP(127,0,0,1); // wifiのipアドレス
 
 void setup() {
   Serial.begin(9600);
-  // WiFiに接続
-  WiFi.begin(ssid, pass);
+  // WiFiに接綁E  WiFi.begin(ssid, pass);
   while (WiFi.status() != WL_CONNECTED) {
     delay(500);
     Serial.print(".");
@@ -29,12 +27,11 @@ void setup() {
 }
 
 void loop() {
-  // データの送信
-  byte dataToSend = 0b00000010; //末尾の010が右、100が左
-  Udp.beginPacket(dataToSend, localPort); // 送信先のIPアドレスとポートを指定
-  Udp.write(dataToSend);
+  // チE�Eタの送信
+  byte dataToSend = 0b00000010; //末尾の010が右、E00が左
+  Udp.beginPacket(dataToSend, localPort); // 送信先�EIPアドレスとポ�Eトを持E��E  Udp.write(dataToSend);
   Udp.endPacket();
   Serial.println("send messeage");
 
-  delay(1000); // 1秒待つ
+  delay(1000); // 1秒征E��
 }

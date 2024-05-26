@@ -1,0 +1,4825 @@
+== Branch ==
+刁E��
+
+== Branches ==
+刁E��
+
+== Changeset ==
+變更雁E
+== Label ==
+標籤
+
+== Labels ==
+標籤
+
+== Server ==
+伺服器
+
+== Repository ==
+儲存庫
+
+== Checkin ==
+簽入
+
+== UndoChanges ==
+復原變更
+
+== UpdateWorkspace ==
+更新工作區
+
+== ItemsMenuUndoCheckout ==
+復原簽出
+
+== ItemsMenuUndoChanges ==
+復原變更
+
+== ItemsMenuChangeRevType ==
+變更修訂類型
+
+== MenuItemExternalTools ==
+外部工具
+
+== ItemNameEmpty ==
+名稱不可為空白
+
+== ItemExists ==
+頁E�� {0} 已存在
+
+== MovingItems ==
+正在移動頁E��...
+
+== Options ==
+選頁E
+== BranchExplorerOptionsToggleTooltip ==
+隱藏�E顯示選頁E��板
+
+== GoButton ==
+前往
+
+== GoToBranchBase ==
+移至刁E��基庁E
+== BranchExplorerMenu ==
+刁E��瀏覽器
+
+== FilterSelectedBranches ==
+篩選選取的刁E��
+
+== FilterSelectedAndRelatedBranches ==
+篩選選取的及相關的刁E��
+
+== FilterSelectedBranchesPendingMerges ==
+篩選所選刁E��暫止皁E��併
+
+== GoToParentChangeset ==
+移至上層變更雁E
+== AddInclusion ==
+新增包含頁E��
+
+== AddExclusion ==
+新增排除頁E��
+
+== CustomBranchQuery ==
+自訂�E支查詢規則
+
+== CustomChangesetQuery ==
+自訂變更雁E��詢規則
+
+== CustomLabelQuery ==
+自訂標籤查詢規則
+
+== ConditionalBranchFormatText ==
+新增條件刁E��格弁E(要E�E目提示皁E�E支)
+
+== ConditionalChangesetFormatText ==
+新增條件變更雁E��弁E(要E�E目提示皁E��更雁E
+
+== ConditionalLabelFormatText ==
+新增條件標籤格弁E(要E�E目提示皁E��籤)
+
+== InclusionRuleText ==
+新增包含刁E��篩選 (要包含皁E�E支)
+
+== ExclusionRuleText ==
+新增排除刁E��篩選 (要排除皁E�E支)
+
+== ActiveBranch ==
+工作區中皁E��個作用中刁E��
+
+== ActiveBranches ==
+工作區中皁E��個作用中刁E��
+
+== BranchesWithPendingIntegrations ==
+匁E��暫止合併皁E�E支
+
+== AddFormat ==
+新增格弁E
+== Calculating ==
+正在計箁E..
+
+== CopyrightTextFormat ==
+Copyright © 2006-{0} Unity Technologies. All Rights Reserved.
+
+== FiltersAndConditionalFormat ==
+篩選和格弁E
+== ReleaseNotesLinkText ==
+版本賁E��E
+== WebsiteLink ==
+https://unity.com
+
+== ReleaseNotesUrlPreffix ==
+https://www.plasticscm.com/download/releasenotes/
+
+== RevertStart ==
+正在恢復工作區中皁E��訁E..
+
+== RevertingItemsSingular ==
+正在邁E�� 1 個頁E��...
+
+== RevertingItemsPlural ==
+正在邁E�� {0} 個頁E��...
+
+== RevertingProgress ==
+正在邁E�� {0} 個檔案，�E {1} 倁E{2}
+
+== Validating ==
+正在驗證賁E��...
+
+== UpdateReportNoLinesSelected ==
+請選取您要更新皁E��征E
+== UpdateProgressCalculating ==
+正在計箁E..
+
+== UpdateProgressUpdating ==
+正在更新...
+
+== UpdateProgressSingular ==
+已更新 {0}/{1} ({2}/1 個檔桁E{4}
+
+== UpdateProgressPlural ==
+已更新 {0}/{1} ({2}/{3} 個檔桁E{4}
+
+== CheckinComments ==
+簽入註解
+
+== UpdatingSelectedItems ==
+正在更新所選頁E��...
+
+== LoadingItems ==
+正在載�E頁E��...
+
+== LoadingBranches ==
+正在載�E刁E��...
+
+== LoadingBranchExplorer ==
+正在載�E刁E��瀏覽器...
+
+== LoadingLabels ==
+正在載�E標籤...
+
+== LoadingChangesets ==
+正在載�E變更雁E..
+
+== LoadingShelves ==
+正在載�E擱置...
+
+== LoadingSyncViewDetails ==
+正在載�E同步檢視詳細賁E��...
+
+== LoadingDeletedItems ==
+正在載�E所刪除頁E��...
+
+== UncheckoutStart ==
+正在取消簽出所選頁E��...
+
+== ActionMenuButtonTooltip ==
+對所選頁E��執行動佁E
+== MainSidebarItemsItem ==
+工作區瀏覽器
+
+== MainSidebarPendingChangesItem ==
+暫止皁E��更
+
+== MainSidebarBranchesItem ==
+刁E��
+
+== MainSidebarBranchExplorerItem ==
+刁E��瀏覽器
+
+== MainSidebarChangesetsItem ==
+變更雁E
+== MainSidebarLabelsItem ==
+標籤
+
+== MainSidebarAttributesItem ==
+屬性
+
+== MainSidebarSyncItem ==
+同步儲存庫
+
+== MainSidebarSyncItemCloudEdition ==
+同步至 Cloud
+
+== MainSidebarMergeItem ==
+合併
+
+== MainSidebarIncomingChangesItem ==
+傳入變更
+
+== MainSidebarPreferencesItem ==
+偏好設宁E
+== MainSidebarAboutItem ==
+關於 Unity DevOps Version Control
+
+== MainSidebarAboutGluonItem ==
+關於 Gluon
+
+== MainSidebarCodeReviewsItem ==
+程式碼檢閱
+
+== ItemColumn ==
+頁E��
+
+== StatusColumn ==
+狀慁E
+== ExtensionColumn ==
+擴允E��能
+
+== TypeColumn ==
+類型
+
+== DateModifiedColumn ==
+日期已修改
+
+== RepositoryColumn ==
+儲存庫
+
+== ServerColumn ==
+伺服器
+
+== ObjectNameColumn ==
+物件名稱
+
+== NameColumn ==
+名稱
+
+== PathColumn ==
+路征E
+== ProblemColumn ==
+問顁E
+== SeverityColumn ==
+嚴重性
+
+== TimestampColumn ==
+時間戳訁E
+== LastEditedByColumn ==
+上次編輯老E
+== CreationDateColumn ==
+建立日朁E
+== GuidColumn ==
+GUID
+
+== CommentColumn ==
+註解
+
+== ItemsCount ==
+({0})
+
+== ItemsCountSingular ==
+(1 個頁E��)
+
+== ItemsCountPlural ==
+({0} 個頁E��)
+
+== ItemsSelected ==
+({0}/{1} selected)
+
+== ItemsSelectedSingular ==
+已選叁E{0} 個頁E���E��E 1 倁E
+== ItemsSelectedPlural ==
+已選叁E{0} 個頁E���E��E {1} 倁E
+== ItemsSelectedForGluonSingular ==
+{0} 個頁E���E��E 1 倁E
+== ItemsSelectedForGluonPlural ==
+{0} 個頁E���E��E {1} 倁E
+== ChangedItemsCategory ==
+已變更頁E��
+
+== AddedPrivateItemsCategory ==
+已新增，而且已選取私人檔桁E
+== DeletedItemsCategory ==
+已刪除頁E��
+
+== MovedItemsCategory ==
+已移動頁E��
+
+== DeletingObjectsSingular ==
+正在刪除 1 個物件
+
+== DeletingObjectsPlural ==
+正在刪除 {0} 個物件
+
+== DeleteObjectsSingular ==
+正在刪除 1 個物件。您確定嗎?
+
+== DeleteObjectsPlural ==
+正在刪除 {0} 個物件。您確定嗎?
+
+== ConfirmRevertTitle ==
+退出恢復
+
+== ConfirmRevertMessage ==
+內容封E��復至修訁E{0}。是否要繼纁E
+
+== ConfirmRevertToClientDiffsMessage ==
+封E��邁E��所選檔案。是否要繼纁E
+
+== ConfirmUndeleteTitle ==
+確認取消刪除
+
+== ConfirmUndeleteMessage ==
+封E��取消刪除所選檔案。是否要繼纁E
+
+== FromTo ==
+{0} 到 {1}
+
+== From ==
+征E
+== To ==
+到
+
+== AddProgress ==
+正在新增頁E��...
+
+== CheckoutProgress ==
+正在簽出頁E��...
+
+== UndoingPendingChanges ==
+正在復原變更...
+
+== UndoingUnchanged ==
+正在復原未變更頁E��...
+
+== ShelvingPendingChanges ==
+擱置變更...
+
+== UndoingChangedFiles ==
+正在復原變更...
+
+== UndoingChangedFilesError ==
+復原變更作業期間發生錯誤:
+
+== New ==
+新墁E..
+
+== ItemsMenuItemHistory ==
+歷史記錄
+
+== ItemsMenuItemAnnotate ==
+標註
+
+== NoItemsAreSelected ==
+未選取任何頁E��。請使用頁E��皁E��取方塊侁E��取頁E��。如果您有選取頁E���E�也會發生此惁E���E�佁E�E部都可忽略、E
+== RepositoryNameLabel ==
+新儲存庫皁E��稱:
+
+== WorkspaceNameLabel ==
+新工作區皁E��稱:
+
+== NewRepositoryTitle ==
+建立新儲存庫
+
+== RenameRepositoryTitle ==
+重新命名儲存庫
+
+== NewWorkspace ==
+建立新工作區
+
+== RenameWorkspaceTitle ==
+重新命名工作區
+
+== RepositoryServerLabel ==
+伺服器 (your_server:8087 戁Eyour_org@cloud):
+
+== WorkspacePathLabel ==
+磁碟上的路征E
+
+== RepositoryLabel ==
+儲存庫:
+
+== BrowseLabel ==
+瀏覽...
+
+== CouldNotGetOrganizationNameFromCredentials ==
+無效的憑證。無法取得絁E��名稱
+
+== CouldNotGetOrganizationName ==
+無法從雲端伺服器取得絁E��名稱。您皁E�E證�E許錯誤。請�E次執行設定工具以輸入新皁E�E譁E('{0} --configure')
+
+== RepositoryServerIsNotAvailable ==
+儲存庫伺服器無法使用
+
+== RepositoryNameEmpty ==
+儲存庫名稱不得為空白
+
+== WorkspaceNameEmpty ==
+工作區名稱不得為空白
+
+== WorkspacePathEmpty ==
+工作區路徑不得為空白
+
+== WorkspacePathUnauthorizedAccess ==
+未經授權在持E��路徑中建立工作區
+
+== InvalidCharsInPath ==
+工作區路徑包含無效字�E
+
+== WorkspaceNameAlreadyExists ==
+工作區 {0} 已經存在
+
+== WorkspacePathAlreadyUsed ==
+路征E{0} 已經包含在工作區中
+
+== RepositoryMenuItemCreate ==
+建立新儲存庫...
+
+== RepositoryMenuItemCreateWorkspace ==
+建立此儲存庫皁E��作區...
+
+== RenameMenuItem ==
+重新命吁E
+== WorkspaceMenuItemOpen ==
+開啟
+
+== WorkspaceMenuItemOpenInNewWindow ==
+在新視窗中開啟
+
+== OpenInExplorerMenuItem ==
+在瀏覽器中開啟
+
+== DeleteMenuItem ==
+刪除
+
+== UndeleteMenuItem ==
+取消刪除
+
+== WorkspaceMenuItemCreate ==
+建立新工作區...
+
+== WorkspaceMenuItemRename ==
+重新命吁E
+== WorkspaceMenuItemDelete ==
+刪除
+
+== BranchMenuItemCreateBranch ==
+建立下層刁E��...
+
+== BranchMenuItemMergeFromBranch ==
+從此刁E��合併...
+
+== BranchMenuItemAdvancedMerge ==
+進階合併
+
+== BranchMenuItemCherrypickFromBranch ==
+從此刁E��揀選...
+
+== BranchMenuItemMergeToFromBranch ==
+從此刁E��合併至...
+
+== BranchMenuItemPushPull ==
+推送E提取
+
+== BranchMenuItemPullBranch ==
+提取此刁E��...
+
+== BranchMenuItemPullRemoteBranch ==
+提取遠端刁E��...
+
+== BranchMenuItemSyncWithGit ==
+舁EGit 同步處理...
+
+== BranchMenuItemPushBranch ==
+推送此刁E��...
+
+== BranchMenuItemRenameBranch ==
+重新命吁E..
+
+== BranchMenuItemDeleteBranch ==
+刪除
+
+== BranchMenuItemSwitchToBranch ==
+刁E��工作區至此刁E��
+
+== BranchMenuItemDiff ==
+差異比對�E支
+
+== BranchMenuItemDiffWithAnotherBranch ==
+對另一個修訂進行差異比封E..
+
+== BranchMenuItemViewChangesets ==
+在此刁E��中檢視變更雁E
+== ChangesetMenuItemCreateBranch ==
+從此變更雁E��立�E支...
+
+== ChangesetMenuItemDiff ==
+舁E�E版進行差異比封E
+== ChangesetMenuItemDiffWithAnother ==
+對另一個變更雁E��行差異比封E..
+
+== ChangesetMenuItemDiffSelected ==
+對所選變更雁E��行差異比封E
+== ChangesetMenuItemBrowseRepositoryOnChangeset ==
+在此變更雁E��瀏覽儲存庫
+
+== ChangesetMenuItemLabelChangeset ==
+標記此變更雁E..
+
+== ChangesetMenuItemSwitchToChangeset ==
+刁E��工作區至此變更雁E
+== ChangesetMenuItemMergeFromChangeset ==
+從此變更雁E��併...
+
+== ChangesetMenuItemCherrypickFromChangeset ==
+從此變更雁E��選...
+
+== ChangesetMenuItemAdvancedMerge ==
+進階合併
+
+== ChangesetMenuItemSubtractiveFromChangeset ==
+從此變更雁E��減合併...
+
+== ChangesetMenuItemSubtractiveFromChangesetInterval ==
+從此變更雁E��隔削減合併...
+
+== ChangesetMenuItemCherrypickFromChangesetInterval ==
+從此變更雁E��隔揀選...
+
+== ChangesetMenuItemMergeToFromChangeset ==
+從此變更雁E��併至...
+
+== ChangesetMenuItemAdvancedOptions ==
+進階選頁E
+== ChangesetMenuItemMoveChangeset ==
+從此變更雁E��動�E不同皁E�E支...
+
+== ChangesetMenuItemDeleteChangeset ==
+刪除變更雁E
+== CheckoutChangesetMenuItemShowPendingChangesView ==
+顯示暫止皁E��更檢要E
+== LabelMenuItemCreateLabel ==
+建立新標籤...
+
+== LabelMenuItemApplyLabelToWorkspace ==
+套用標籤至工作區內容
+
+== LabelMenuItemSwitchToLabel ==
+刁E��工作區至此標籤
+
+== LabelMenuItemMergeFromLabel ==
+從此標籤合併...
+
+== LabelMenuItemMergeToFromLabel ==
+從此標籤合併至...
+
+== LabelMenuItemCreateBranchFromLabel ==
+從此標籤建立�E支...
+
+== LabelMenuItemRenameLabel ==
+重新命吁E..
+
+== LabelMenuItemDeleteLabel ==
+刪除
+
+== ShelveMenuItemViewShelve ==
+檢視擱置
+
+== ShelveMenuItemApplyShelveInWorkspace ==
+套用擱置於我的工作區中...
+
+== ShelveMenuItemDeleteShelve ==
+刪除
+
+== AttributeMenuItemCreate ==
+建竁E
+== AttributeMenuItemEdit ==
+編輯
+
+== AttributeMenuItemDelete ==
+刪除
+
+== PendingChangesMenuItemOpen ==
+開啟
+
+== PendingChangesMenuItemOpenWith ==
+開啟檔桁E..
+
+== PendingChangesMenuItemDiffAnnotateHistory ==
+差異比封E/ 標註 / 歷史記錄
+
+== PendingChangesMenuItemDiffWorkspace ==
+差異比對工作區內容
+
+== PendingChangesMenuItemAnnotate ==
+標註
+
+== PendingChangesMenuItemViewHistory ==
+歷史記錄
+
+== PendingChangesMenuItemUndoChanges ==
+復原變更
+
+== PendingChangesMenuItemDelete ==
+刪除
+
+== PendingChangesMenuItemCheckout ==
+簽出
+
+== PendingChangesMenuItemSearchMatches ==
+搜尋結果...
+
+== PendingChangesMenuItemHideIgnoreCloak ==
+隱藁E/ 忽略 / 遮蔽
+
+== PendingChangesMenuItemHideIgnore ==
+隱藁E/ 忽略
+
+== DirectoryConflictsTitleSingular ==
+1 個目錁E��突E
+== DirectoryConflictsTitlePlural ==
+{0} 個目錁E��突E
+== FileConflictsTitleSingular ==
+1 個檔案衝突E
+== FileConflictsTitlePlural ==
+{0} 個檔案衝突E
+== NoActionMenuItem ==
+沒有可用皁E��佁E
+== ItemsMenuItemNew ==
+新墁E
+== ItemsMenuItemNewDirectory ==
+目錁E..
+
+== ItemsMenuItemNewFile ==
+檔桁E..
+
+== ItemsMenuAdd ==
+新增�E原始檔控制
+
+== ItemsMenuAddRecursive ==
+新增樹狀目錁E�E原始檔控制
+
+== ItemsMenuCheckin ==
+簽入
+
+== ItemsMenuItemOpen ==
+開啟
+
+== ItemsMenuItemOpenWith ==
+開啟檔桁E..
+
+== ItemsMenuItemOpenWithCustom ==
+使用 {0} 開啟檔桁E
+== ItemsMenuItemRevealInFinder ==
+在尋找器中顯示
+
+== ItemsMenuItemCut ==
+剪刁E
+== ItemsMenuItemDelete ==
+刪除...
+
+== ItemsMenuItemPaste ==
+貼丁E
+== ItemsMenuItemCreateXlink ==
+建竁EXlink...
+
+== ItemsMenuItemEditXlink ==
+編輯 Xlink...
+
+== BrowseRepositoryMenuItemDiffWithPrevious ==
+舁E�E前的修訂進行差異比封E
+== BrowseRepositoryMenuItemSaveAs ==
+另存為...
+
+== BrowseRepositoryMenuItemViewHistory ==
+檢視歷史記錄
+
+== HistoryMenuItemOpen ==
+開啟
+
+== HistoryMenuItemOpenWith ==
+開啟檔桁E..
+
+== HistoryMenuItemSaveRevisionAs ==
+封E��修訂另存為...
+
+== HistoryMenuItemDiffWithPrevious ==
+舁E�E前的修訂進行差異比封E
+== HistoryMenuItemDiffSelectedRevisions ==
+對選取的修訂進行差異比封E
+== HistoryMenuItemDiffChangeset ==
+差異比對變更雁E
+== HistoryMenuItemRevertToThisRevision ==
+恢復至此修訁E
+== ItemsMenuItemRename ==
+重新命吁E..
+
+== ItemsMenuItemDiffWithPrevious ==
+舁E�E前的修訂進行差異比封E
+== HidePrivateItems ==
+隱藏私人皁E��E��
+
+== ExcludePrivateItemsSize ==
+排除目錁E��小中皁E��人頁E��
+
+== MergeWithPendingChangesTitle ==
+偵測到已變更檔桁E
+== MergeWithPendingChangesMessage ==
+您皁E��作區中有忁E��檢查皁E��止變更。建議您在合併前�E簽入�E�以避免復原合併時可能出現皁E��題、E如果您熟悉合併�E�可以變更此行為�E�進入 [偏好設定]/[差異比對]�E�並合併/允許合併暫止皁E��更、E
+請注愁E 儘管您熟悉合併運作方式，對於啟用合併並不危險�E�佁E�E們已變更此行為�E�以避免對新使用老E��成問題、E
+== MergeNotificationMessageTitle ==
+通知訊�E
+
+== BaseContributor ==
+基庁E
+== SrcContributor ==
+侁E��E
+== DstContributor ==
+目皁E��
+
+== DeleteDialogTitleSingular ==
+刪除頁E��
+
+== DeleteDialogTitlePlural ==
+刪除頁E��
+
+== DeleteFromDiskSingular ==
+從磁碟刪除頁E��
+
+== DeleteFromDiskPlural ==
+從磁碟刪除頁E��
+
+== DoNotDeleteFromDiskSingular ==
+請勿從磁碟刪除頁E��
+
+== DoNotDeleteFromDiskPlural ==
+請勿從磁碟刪除頁E��
+
+== DeletingProgress ==
+正在刪除 ({0}/{1}) {2}...
+
+== RemoveFromVersionControlPlural ==
+從版本控制移除頁E��
+
+== DirectoryConflictsCaption ==
+這些是目錁E��構中皁E��突。通常用於移動、E��新命名、刪除。您忁E���E封E�E解決�E�才能套用其他變更、E
+== DirectoryConflictsUnsolvedCaptionSingular ==
+個目錁E��突征E��決、E
+== DirectoryConflictsUnsolvedCaptionPlural ==
+個目錁E��突征E��決、E
+== MergeAlreadyConnected ==
+合併搜尋已完�E�E�合併目皁E��已匁E��侁E��變更、E
+== MergeAlreadySubtracted ==
+合併搜尋已完�E�E�合併侁E��已從目皁E��削減、E
+== MergeInvalidInterval ==
+合併搜尋已完�E�E�指定的間隔無效、E
+== MergeNoMergesDetected ==
+合併搜尋已完�E。沒有偵測到要合併皁E��E��、E
+== MergeNoMergesDetectedCreateLink ==
+合併搜尋已完�E。沒有偵測到要合併皁E��E���E�不過侁E���E目皁E��貢獻老E��同。通常當侁E���E目皁E��進行完�E相同的變更時，就朁E��生這種惁E��、E
+按一丁E[解釋合併] 按�E查看相關貢獻老E��更多詳細賁E��、E
+按一丁E[套用變更] 按�E統一侁E���E目皁E�� (建立�E老E��皁E��併連絁E、E
+
+== MergeNoMergesDetectedCreateLinkForIncomingView ==
+沒有要下載的內容
+
+直接按一丁E[更新工作區] 可封E��作區移動�E刁E��皁E��端、E
+
+詳細說明：您皁E��更舁E�E支前端處完�E皁E��更相同，所以實際上沒有頁E��需要下載，佁E��繼賁E��需要同步處理、E
+
+== MergeNothingToDownloadForIncomingView ==
+沒有要下載的內容
+
+
+== MergeNotConnected ==
+合併搜尋已完�E�E�削減的合併侁E���E目皁E��並未連接、E
+== MergeAlreadyProcessed ==
+合併已完�E。您皁E��更朁E��示在暫止皁E��更檢視上。關閉此檢視，接著您就能看到這些變更!
+
+== FileMergeTitleSingular ==
+1 個變更征E��用
+
+== FileMergeTitlePlural ==
+{0} 個變更征E��用
+
+== MergeChangedOnSrc ==
+僁E��侁E��貢獻老E��皁E��更
+
+== MergeChangedOnSrcForIncomingView ==
+封E��行更新
+
+== MergeWarningsTitleSingular ==
+1 個捨棁E��衝突、E
+== MergeWarningsTitlePlural ==
+{0} 個捨棁E��衝突、E
+== MergeWarningsCaption ==
+不�E適用且可能產生警告的衝突、E
+== XlinkWarningMessageSingular ==
+{0} (1 個頁E��)
+
+== XlinkWarningMessagePlural ==
+{0} ({{0}} 個頁E��)
+
+== DivergentMoveConflictsSingular ==
+刁E��皁E��動衝突E(1 個頁E��)
+
+== DivergentMoveConflictsPlural ==
+刁E��皁E��動衝突E({0} 個頁E��)
+
+== CyleMoveConflictsSingular ==
+週期的移動衝突E(1 個頁E��)
+
+== CyleMoveConflictsPlural ==
+週期的移動衝突E({0} 個頁E��)
+
+== EvilTwinsSingular ==
+邪惡雙生衝突E(1 個頁E��)
+
+== EvilTwinsPlural ==
+邪惡雙生衝突E({0} 個頁E��)
+
+== MoveDeleteConflictsSingular ==
+移勁E刪除衝突E(1 個頁E��)
+
+== MoveDeleteConflictsPlural ==
+移勁E刪除衝突E({0} 個頁E��)
+
+== DeleteMoveConflictsSingular ==
+刪除/移動衝突E(1 個頁E��)
+
+== DeleteMoveConflictsPlural ==
+刪除/移動衝突E({0} 個頁E��)
+
+== MovedEvilTwinsSingular ==
+移動的邪惡雙生衝突E(1 個頁E��)
+
+== MovedEvilTwinsPlural ==
+移動的邪惡雙生衝突E({0} 個頁E��)
+
+== AddMoveConflictsSingular ==
+新墁E移動衝突E(1 個頁E��)
+
+== AddMoveConflictsPlural ==
+新墁E移動衝突E({0} 個頁E��)
+
+== MoveAddConflictsSingular ==
+移勁E新增衝突E(1 個頁E��)
+
+== MoveAddConflictsPlural ==
+移勁E新增衝突E({0} 個頁E��)
+
+== LoadedTwiceConflictsSingular ==
+頁E��載�E兩次衝突E(1 個頁E��)
+
+== LoadedTwiceConflictsPlural ==
+頁E��載�E兩次衝突E({0} 個頁E��)
+
+== MoveSourceDeleteConflictsSingular ==
+移勁E刪除�E�移出刪除衝突E(1 個頁E��)
+
+== MoveSourceDeleteConflictsPlural ==
+移勁E刪除�E�移出刪除衝突E({0} 個頁E��)
+
+== DeleteMoveSourceConflictsSingular ==
+刪除/移動，移出刪除衝突E(1 個頁E��)
+
+== DeleteMoveSourceConflictsPlural ==
+刪除/移動，移出刪除衝突E({0} 個頁E��)
+
+== ChangeDeleteConflictsSingular ==
+變更/刪除衝突E(1 個頁E��)
+
+== ChangeDeleteConflictsPlural ==
+變更/刪除衝突E({0} 個頁E��)
+
+== DeleteChangeConflictsSingular ==
+刪除/變更衝突E(1 個頁E��)
+
+== DeleteChangeConflictsPlural ==
+刪除/變更衝突E({0} 個頁E��)
+
+== ReadonlyXlinkConflictsSingular ==
+唯讀 Xlink 衝突E(1 個頁E��)
+
+== ReadonlyXlinkConflictsPlural ==
+唯讀 Xlink 衝突E({0} 個頁E��)
+
+== ResolveDirectoryConflict ==
+解決目錁E��突E
+== ResolveDirectoryConflictChooseOption ==
+為亁E��決衝突E��請選擁E���E其中一個選頁E
+
+== SelectAMatch ==
+請選取要比對的變更
+
+== SearchMatchesDialogTitle ==
+搜尋已移動的候選頁E��
+
+== SearchMatchesDialogExplanation ==
+新頁E��皁E��有可能侁E���E朁E��示。請滑動下方列以變更相似性臨界值、E
+== MinSimilarityAccepted ==
+已接受最小相似性:{0:0.0}
+
+== LoadingMatches ==
+正在載�E相符頁E��...
+
+== SrcPathColumn ==
+侁E��路征E
+== DstPathColumn ==
+目皁E��路征E
+== SimilarityColumn ==
+相似性
+
+== DiffCategoryHeaderSingular ==
+{0}: 1 個頁E��
+
+== DiffCategoryHeaderPlural ==
+{0}: {1}個頁E��
+
+== MergeDiffCategory ==
+已征E{0} 合併
+
+== AddedMergeDiffCategory ==
+已新墁E(檔案已在合併侁E��中新墁E
+
+== DeletedMergeDiffCategory ==
+已刪除 (檔案已在合併侁E��中刪除)
+
+== MergedMergeDiffCategory ==
+已合併 (檔案已在合併侁E��、合併目皁E��中變更)
+
+== MovedMergeDiffCategory ==
+已移勁E(檔案已在合併侁E��中移勁E
+
+== ReplacedMergeDiffCategory ==
+已變更 (檔案已在合併侁E��中變更)
+
+== AddedDiffCategory ==
+已新墁E
+== ChangedDiffCategory ==
+已變更
+
+== DeletedDiffCategory ==
+已刪除
+
+== MovedDiffCategory ==
+已移勁E
+== MergedDiffCategory ==
+已合併
+
+== FSProtectionDiffCategory ==
+僁E��案系統權限已變更
+
+== Source ==
+侁E��E
+
+== Destination ==
+目皁E��:
+
+== KeepSrcChanges ==
+保留侁E��變更
+
+== KeepSrcNotSupported ==
+此衝突E��型不支援保留侁E��頁E��
+
+== KeepDstChanges ==
+保留目皁E��變更
+
+== KeepDstNotSupported ==
+此衝突E��型不支援保留目皁E��頁E��
+
+== RenameOnDst ==
+重新命名在您工作區中皁E��E��
+
+== RenameNotSupported ==
+此衝突E��型不支援重新命名目皁E��頁E��
+
+== InputItemNameMessage ==
+請輸入頁E��名稱
+
+== HelpButton ==
+說昁E
+== AdvancedButton ==
+進隁E
+== BranchExplorerSearchFieldTooltip ==
+輸入搜尋類型。使用 cs: lb: 戁Ebr: 限制結果
+
+== BranchColumn ==
+刁E��
+
+== CancelButton ==
+取涁E
+== CloseButton ==
+關閉
+
+== OkButton ==
+確宁E
+== YesButton ==
+是
+
+== NoButton ==
+否
+
+== CheckinButton ==
+簽入
+
+== CheckinToADifferentBranchButton ==
+簽入變更至不同皁E�E支...
+
+== CheckinToADifferentBranch ==
+簽入變更至不同皁E�E支
+
+== MoveChangesetsToADifferentBranch ==
+移動變更雁E�E不同皁E�E支
+
+== ShelveButton ==
+擱置
+
+== ShowShelvesButton ==
+顯示擱置
+
+== ShowShelvesViewTooltip ==
+顯示擱置檢要E
+== OptionsTooltip ==
+設定暫止皁E��更選頁E
+== ChooseMessage ==
+選擁E..
+
+== GluonConfigurationSelectRepositoryButton ==
+選叁E..
+
+== GluonConfigurationBrowseWorkspacePathButton ==
+選擁E��征E..
+
+== GluonConfigurationCreateRepositoryButton ==
+建竁E..
+
+== ChangesetColumn ==
+變更雁E
+== ExecuteButton ==
+執衁E
+== FileConflictsCaptionSingular ==
+個檔案衝突征E��決、E
+== FileConflictsCaptionPlural ==
+個檔案衝突征E��決、E
+== FileConflictsCaptionForIncomingViewSingular ==
+個檔案�E您皁E��更衝突、E
+== FileConflictsCaptionForIncomingViewPlural ==
+個檔案�E您皁E��更衝突、E
+== FilterLabel ==
+篩選:
+
+== Controlled ==
+受控制
+
+== ItemsMenuCheckout ==
+簽出
+
+== ItemsMenuLockAndCheckout ==
+鎖定及簽出
+
+== ItemsMenuCheckoutRecursive ==
+遞迴簽出
+
+== CheckedOut ==
+已簽出
+
+== Deleted ==
+已刪除
+
+== ChangedOnDisk ==
+已在磁碟變更
+
+== ContainsChanges ==
+匁E��變更
+
+== Private ==
+私人
+
+== Ignored ==
+忽略渁E��
+
+== Cloaked ==
+已遮蔽
+
+== HiddenChanged ==
+隱藏已變更
+
+== MainWindowTitle ==
+Unity DevOps Version Control - 工作區:{0} - {1} - {2}:{3}@{4}
+
+== StatusInfo ==
+您正在瀏覽 {0} {1}@{2}
+
+== DiffWindowTitle ==
+比輁E��一個�E容舁E{0} 皁E��訁E
+== ChangesetsDiffWindowTitle ==
+比輁E{0} 皁E��訂�E {1} 皁E��訁E
+== FsProtectionDifferences ==
+檔案系統權限已征E{0} 變更戁E{1}
+
+== NoItemsToUndo ==
+未選取任何頁E��。請使用頁E��皁E��取方塊侁E��取頁E��。如果您有選取頁E���E�也會發生此惁E���E�佁E�E部都是私人頁E��或可忽略、E
+== ResolveConflictsButton ==
+解決衝突E
+== ApplyChangesButton ==
+套用變更
+
+== QueryLabel ==
+查詢:
+
+== RefreshButton ==
+重新整琁E
+== RefreshButtonAmp ==
+重新整琁E&R)
+
+== GoHomeTooltip ==
+前往工作中變更雁E
+== OnlyRelevantButton ==
+僁E��相關頁E��
+
+== OnlyRelevantTooltip ==
+顯示僁E��相關變更雁E
+== ResolutionMethodColumn ==
+解決方況E
+== UndoButton ==
+復厁E
+== UndoUnchangedButton ==
+復原未變更
+
+== UndoRequest ==
+確認復原變更
+
+== UndoRequestMessageSingular ==
+您即封E��厁E1 個變更。這個作業無法復原。是否要繼纁E
+
+== UndoRequestMessagePlural ==
+您即封E��厁E{0} 個變更。這個作業無法復原。是否要繼纁E
+
+== CheckoutIgnoringFailedRequest ==
+有些檔案無法簽出�E�因為已經鎖佁E
+== CheckoutIgnoringFailedRequestMessage ==
+
+您是否要略過這些鎖住的檔案，並繼續簽出其餘檔桁E
+
+鎖住的檔桁E{0}
+
+== UndoUnchangedRequestMessage ==
+您即封E��原未變更皁E��E��。這個作業無法復原。是否要繼纁E
+
+== UndoWithMergeLinkMessageSingular ==
+您即封E��厁E1 個變更和相關的合併連結。這個作業無法復原。是否要繼纁E
+
+== UndoWithMergeLinkMessagePlural ==
+您即封E��厁E{0} 個變更和相關的合併連結。這個作業無法復原。是否要繼纁E
+
+== PendingChangesOptionsTitle ==
+暫止皁E��更選頁E
+== CreatingRepository ==
+正在建立儲存庫 {0}...
+
+== CreatingWorkspace ==
+正在建立工作區 {0}...
+
+== WaitingForDynamicWorkspaceToBeMounted ==
+正在等征E��載動態工作區 {0}...
+
+== CreatingBranch ==
+正在建立�E支 {0}...
+
+== CreatingLabel ==
+正在建立標籤 {0}...
+
+== RepositoryNameAlreadyExists ==
+儲存庫 {0} 已經存在
+
+== RenamingRepository ==
+正在重新命名儲存庫...
+
+== RenamingWorkspace ==
+正在重新命名工作區 {0}...
+
+== RenamingBranch ==
+正在重新命名�E支 {0}...
+
+== RenamingLabel ==
+正在重新命名標籤 {0}...
+
+== EditingAttribute ==
+正在編輯屬性 '{0}'...
+
+== ChangingRevisionType ==
+正在變更修訂類型...
+
+== DeletingWorkspacesSingular ==
+正在刪除工作區{0}...
+
+== DeletingWorkspacesPlural ==
+正在刪除工作區{0}...
+
+== DeletingRepositoriesSingular ==
+正在刪除儲存庫{0}...
+
+== DeletingRepositoriesPlural ==
+正在刪除儲存庫{0}...
+
+== UndeletingRepositoriesSingular ==
+正在取消刪除儲存庫{0}...
+
+== UndeletingRepositoriesPlural ==
+正在取消刪除儲存庫{0}...
+
+== DeletingBranchesSingular ==
+正在刪除刁E��{0}...
+
+== DeletingBranchesPlural ==
+正在刪除刁E��{0}...
+
+== DeletingLabelsSingular ==
+正在刪除標籤{0}...
+
+== DeletingLabelsPlural ==
+正在刪除標籤{0}...
+
+== DeletingShelvesSingular ==
+正在刪除擱置...
+
+== DeletingShelvesPlural ==
+正在刪除擱置...
+
+== DeletingAttributesSingular ==
+正在刪除屬性 {0}...
+
+== DeletingAttributesPlural ==
+正在刪除屬性 {0}...
+
+== DeletingChangeset ==
+正在刪除變更雁E..
+
+== MovingChangeset ==
+正在移動變更雁E..
+
+== PreviousLabel ==
+上一個結果
+
+== NextLabel ==
+下一個結果
+
+== BrexSearchFieldLabel ==
+刁E��瀏覽器搜封E
+== BrexDisplayOptions ==
+顯示選頁E
+== InitialDateLabel ==
+征E
+
+== EndDateLabel ==
+到:
+
+== SinceDateLabel ==
+開始於:
+
+== SelectAll ==
+全選
+
+== MergeSelectedFiles ==
+合併選取的檔桁E
+== MergeKeepingSourceChanges ==
+合併保留侁E��變更 (侁E��本身)
+
+== MergeKeepingWorkspaceChanges ==
+合併保留工作區變更 (您皁E目皁E��)
+
+== DiffDestinationWithAncestor ==
+差異比對上階舁E��皁E��貢獻老E
+== DiffSourceWithAncestor ==
+差異比對上階舁E��E��貢獻老E
+== DiffSourceWithDestinationEvilTwin ==
+差異比對在侁E��中新增頁E��舁E��目皁E��中新增頁E��
+
+== DiffSourceWithDestinationAddMove ==
+差異比對在侁E��中新增頁E��舁E��目皁E��中移動頁E��
+
+== DiffSourceWithDestinationCycleMove ==
+差異比對在侁E��中移動頁E��舁E��目皁E��中移動頁E��
+
+== DiffSourceWithDestinationDeleteMove ==
+差異比對在侁E��中刪除頁E��舁E��目皁E��中移動頁E��
+
+== DiffSourceWithDestinationMoveAdd ==
+差異比對在侁E��中移動頁E��舁E��目皁E��中新增頁E��
+
+== DiffSourceWithDestinationMoveDelete ==
+差異比對在侁E��中移動頁E��舁E��目皁E��中刪除頁E��
+
+== DiffSourceWithDestinationMoveEvilTwin ==
+差異比對在侁E��中移動頁E��舁E��目皁E��中移動頁E��
+
+== RetryUpdate ==
+重試更新
+
+== UpdateForced ==
+已強制更新
+
+== LoadingWorkspaces ==
+正在載�E工作區 ...
+
+== LoadingHistory ==
+正在載�E歷史記錄...
+
+== LoadingAnnotations ==
+正在載�E標註...
+
+== LoadingBrowseRepository ==
+正在載�E變更雁E��狀目錁E..
+
+== ProcessingMerge ==
+正在處理合併...
+
+== CalculatingMerge ==
+正在計算合併...
+
+== CalculatingIncomingChanges ==
+正在計算傳入變更...
+
+== LoadingFindMerge ==
+正在尋找要合併皁E�E素...
+
+== LoadingPendingChanges ==
+正在工作區中尋找變更...
+
+== LabellingWorkspace ==
+正在套用標訁E{0} 至工作區...
+
+== LabellingChangeset ==
+正在套用標籤 {0} 至變更雁E{1}...
+
+== ApplyingLocalChanges ==
+正在套用本地變更...
+
+== ApplyingConflicts ==
+正在套用衝突E..
+
+== LoadingRepositories ==
+正在載�E儲存庫...
+
+== NewRepositoryExplanation ==
+輸入新儲存庫皁E��稱�E�並確保您朁E��正確皁E��服器上建立此儲存庫、E
+== NewWorkspaceExplanation ==
+工作區是要處琁E��案及進行變更皁E��機褁E��。工作區一次只能處理單一個�E支。工作區可以刁E��至不同儲存庫皁E��同刁E��、E
+== RenameWorkspaceExplanation ==
+重新命名工作區並不會修改其路徑、E
+== ItemSearchField ==
+頁E��搜封E
+== SearchInProgress ==
+正在搜封E..
+
+== SearchIncludePrivateItems ==
+匁E��私人頁E��
+
+== SizeColumn ==
+大封E
+== BinaryFile ==
+二進佁E
+== Directory ==
+目錁E
+== TextFile ==
+斁E��E
+== LinkFile ==
+符號連絁E
+== Unknown ==
+未知
+
+== CustomExtensionFile ==
+自訂副檔名
+
+== CreateChildBranchTitle ==
+建立�E支
+
+== CreateChildBranchExplanation ==
+從以下侁E��建立新皁E��層刁E��
+
+== ReplicateBranchTitle ==
+Unity VCS 褁E��
+
+== ReplicateBranchExplanation ==
+從另一個儲存庫褁E��刁E��/褁E��刁E��至另一個儲存庫、E
+== UsingProfile ==
+設定檁E{0}
+
+== DefaultProfile ==
+使用預設設宁E
+== LabelChangesetExplanation ==
+標記變更雁E{0}�E��E {1}@{2}
+
+== RenameBranchTitle ==
+重新命名�E支
+
+== CreateLabelTitle ==
+套用標籤至變更雁E
+== CreateLabelExplanation ==
+標籤可協助醒目提示重要變更雁E��通常標籤朁E��記客戶皁E��定基線�E發行版本、E
+== RenameLabelTitle ==
+重新命名標籤
+
+== EditAttributeTitle ==
+編輯屬性
+
+== LastChangeset ==
+最後一個變更雁E
+== BranchNameEntry ==
+刁E��名稱:
+
+== BranchNameAlreadyExists ==
+刁E�� {0} 已存在
+
+== LabelNameAlreadyExists ==
+標籤 {0} 已存在 ({1})
+
+== LabelNameEntry ==
+標籤名稱:
+
+== ChangesetToLabelEntry ==
+要標記的變更雁E
+
+== CommentsEntry ==
+註解:
+
+== SwitchToBranchCheckButton ==
+刁E��工作區至此刁E��
+
+== SwitchToLabelCheckButton ==
+刁E��工作區至此標籤
+
+== SwitchToBranchTitle ==
+刁E��至刁E��
+
+== SwitchToChangesetTitle ==
+刁E��至變更雁E
+== SwitchToLabelTitle ==
+刁E��至標籤
+
+== SwitchToExplanation ==
+在您皁E��作區中有暫止皁E��更、E
+ 您可以繼續進行�E換作業�E��E取消�E換後開啁E[暫止皁E��更] 檢視，以便您可以簽入 (或復厁E 暫止皁E��更。接著，您可以再次執衁E"{0}" 命令、E
+如果您繼續進行�E換作業�E�您皁E��地變更封E��會遺失�E�而且在此次刁E��作業之後，封E��顯示為暫止皁E��更、E
+== SwitchToLabelExplanation ==
+在您皁E��作區中有暫止皁E��更、E
+您可以繼續進行�E換作業�E��E取消�E換後開啁E[暫止皁E��更] 檢視，以便您可以簽入 (或復厁E 暫止皁E��更。接著，您就可以再次執衁E[刁E��工作區至此標籤] 命令、E
+如果您繼續進行�E換作業�E�您皁E��地變更封E��會遺失�E�而且在此次刁E��作業之後，封E��顯示為暫止皁E��更。不過�E�這些變更封E��法提交�E�因為標記設定是唯讀設定、E
+若要修改已標記的設定，請建立�E支�E�封E��籤設為刁E��基底。接著，封E��作區刁E��至該刁E���E�並如常進行變更、E
+== SwitchToConfirmationCheckButton ==
+不要�E顯示這個對話方塁E
+== SwitchToConfirmationContinueButton ==
+繼續進行�E揁E
+== SwitchToConfirmationCancelViewChangesButton ==
+取消及檢視變更
+
+== SwitchToConfirmation ==
+您即封E��更您皁E��作區設定。是否要繼纁E
+
+== SwitchToBranchConfirmation ==
+您即封E��更您皁E��作區設宁E{0}、E
+是否要繼纁E
+
+== SwitchToLabelConfirmation ==
+正在封E��作區刁E��至標籤�E��E中封E���E每個頁E��皁E��加上標籤修訂。所有載�E皁E��訂均是唯讀、E
+ 若要修改已標記的設定，請建立�E支�E�封E��籤設為刁E��基底。接著，封E��作區刁E��至該刁E���E�並如常進行變更、E
+是否要繼纁E
+
+== SwitchActionOptionsTitle ==
+嘗試刁E��/更新匁E��已變更頁E��皁E��作區時的行為
+
+== SwitchActionAllowOption ==
+允許
+
+== SwitchActionWarnOption ==
+允許�E�顯示警呁E
+== SwitchActionFailOption ==
+不�E許�E�顯示錯誤
+
+== UpdateResultsTitle ==
+更新結果
+
+== UpdateResultsExplanation ==
+更新作業發現問題。請進行檢視、E
+== CheckinConflictsTitle ==
+簽入衝突E
+== CheckinConflictsExplanation ==
+簽入作業發現下�E無法簽入皁E��突、E按一丁E[確定] 繼續對未發生衝突E��E��進行作業、E 按一丁E[取涁E 中止整個作業、E
+== CheckinConflictsToMergeTitle ==
+檔案需要合併
+
+== CheckinConflictsToMergeExplanation ==
+有些新變更需要�E您皁E��更合併、E按一丁E[合併] 立即合併這些檔案、E否剁E��按一丁E[取涁E、E
+== EditAttributeExplanation ==
+您可以為屬性持E��新名稱�E�及變更其註解斁E��、E
+== ResetQueryButton ==
+重設查詢
+
+== ClearHistoryButton ==
+渁E��歷史記錄
+
+== SetAsDefaultQuery ==
+設定為預設查詢
+
+== NewDirectoryTitle ==
+建立新目錁E
+== NewFileTitle ==
+建立新皁E��白檔桁E
+== NewDirectory ==
+新目錁E
+== NewFile ==
+新檔桁E
+== RenameDirectoryTitle ==
+重新命名目錁E
+== RenameFileTitle ==
+重新命名檔桁E
+== NewSyncTitle ==
+建立新皁E��步檢要E
+== DependenciesTitle ==
+復原簽出相依性
+
+== DependenciesDialogTitle ==
+暫止皁E��依性
+
+== AddChildBranches ==
+新增下層刁E��
+
+== AddParentBranches ==
+新增上層刁E��
+
+== AddBranchesSourceOfMerge ==
+新增合併皁E�E支侁E��E
+== AddBranchesDestinationOfMerge ==
+新增合併皁E�E支目皁E��
+
+== TypeDescription ==
+在此處輸入描述
+
+== ConditionalBranchRulesHelp ==
+您可以採用「cm find」格式輸入查詢�E�佁E��需要指定「尋找刁E��」、E查看「尋找持E��」取得更多賁E��、E篁E��E
+  changesets >= '2 months ago'
+  attribute = 'status' and attrvalue='finished'
+
+== ConditionalChangesetRulesHelp ==
+您可以採用「cm find」格式輸入查詢�E�佁E��需要指定「尋找變更雁E��、E查看「尋找持E��」取得更多賁E��、E篁E��E
+  branch = 'main'
+  attribute = 'status' and attrvalue='finished'
+
+== ConditionalLabelRulesHelp ==
+您可以採用「cm find」格式輸入查詢�E�佁E��需要指定「尋找標籤」、E查看「尋找持E��」取得更多賁E��、E篁E��E
+  date >= '2 months ago'
+  attribute = 'status' and attrvalue='finished'
+
+== DependenciesExplanation ==
+有些頁E��依存於其他也需要包含在作業中皁E��E��、E按一丁E["{0}"] 以繼續進行所有相依頁E�� (建議)�E��E取消作業、E
+== MergeLinkDescriptionColumn ==
+合併連結描述
+
+== TaskIdColumn ==
+ID
+
+== TaskTitleColumn ==
+標顁E
+== AssigneeColumn ==
+受指派老E
+== LocationColumn ==
+位置
+
+== Merge ==
+合併
+
+== CherryPick ==
+揀選
+
+== IntervalMerge ==
+間隔合併
+
+== SubtractiveMerge ==
+削減合併
+
+== SubtractiveIntervalMerge ==
+削減間隔合併
+
+== UnsupportedMergeType ==
+不支援皁E��併類型
+
+== MergeSourceFormat ==
+{1}@{2} 皁E{0}
+
+== ConfirmDeleteTitle ==
+確認刪除
+
+== ConfirmApplyLabelTitle ==
+確認標記作業
+
+== ConfirmApplyLabelExplanation ==
+正在套用標籤 "{0}" 至目前在您工作區中皁E��有修訂。是否要繼纁E
+
+== BranchNameEmpty ==
+刁E��名稱不得為空白
+
+== LabelNameEmpty ==
+標籤名稱不得為空白
+
+== SyncViewNameEmpty ==
+同步檢視名稱不得為空白
+
+== AttributeNameEmpty ==
+屬性名稱不得為空白
+
+== LabelButton ==
+標籤
+
+== LabelAllXlinksCheckButton ==
+封E��朁EXlinked 儲存庫加上標籤
+
+== RenameButton ==
+重新命吁E
+== Rename ==
+重新命吁E
+== CreateButton ==
+建竁E
+== SaveButton ==
+儲孁E
+== DeleteButton ==
+刪除
+
+== SwitchButton ==
+刁E��
+
+== DiffWindowMenuItemDiff ==
+差異比封E
+== ApplyButton ==
+套用
+
+== MergeButton ==
+合併
+
+== BrExNewChangesetWillBeCreated ==
+新增變更雁E
+== BrexMergeLinkTitle ==
+合併連絁E{0}
+
+== BrexMergeLinkCaptionBody ==
+侁E��E{0}{1} 目皁E��:{2}
+
+== BrexMergeLinkPending ==
+�E�暫止中
+
+== BrexMergeChangesetInterval ==
+變更雁E��隁E({0} - {1}]
+
+== BrexMergeCouldNotMerge ==
+[糟糁E 無法取得間隔賁E��!]
+
+== BrexMergeChangesetOnBranch ==
+刁E�� {1} 皁E��更雁E{0}
+
+== BrexCherryPickLinkType ==
+(揀選)
+
+== BrexIntervalCherryPickLinkType ==
+(從變更雁E��隔揀選)
+
+== BrexIntervalCherryPickSubstractiveLinkType ==
+(從變更雁E��隔削渁E
+
+== BrexCherryPickSubstractiveLinkType ==
+(削渁E
+
+== BrexProperties ==
+特性
+
+== BrexAttributes ==
+屬性
+
+== CredentialsDialogTitle ==
+連線�E伺服器
+
+== CredentialsDialogExplanation ==
+請輸入您皁E�E證以連線�E {0}
+
+== UserName ==
+使用老E��稱:
+
+== Password ==
+寁E��:
+
+== RememberCredentialsAsProfile ==
+儲存�E證做為連線設定檁E
+== CredentialsErrorSavingProfile ==
+儲存連線設定檔時發生錯誤: {0}
+
+== BrexObjectNameProperty ==
+物件名稱:
+
+== BrexCreationDateProperty ==
+建立日朁E
+
+== BrexOwnerProperty ==
+擁有老E
+
+== BrexReplicationSourceProperty ==
+褁E��侁E��E
+
+== BrexGuidProperty ==
+GUID:
+
+== BrexCommentsProperty ==
+註解:
+
+== BrexDisplayBranches ==
+顯示刁E��
+
+== BrexDisplayFullBranchNames ==
+顯示完整刁E��名稱
+
+== BrexDisplayMergeLinks ==
+顯示合併連絁E
+== BrexDisplayCrossBranchCsetLinks ==
+顯示交叉�E支變更雁E��絁E
+== BrexDisplayLabels ==
+顯示標籤
+
+== BrexDisplayBranchTaskInfo ==
+顯示刁E��任務賁E��E
+== BrexDisplayOnlyRelevantCsets ==
+顯示僁E��相關變更雁E
+== NoReplicationSources ==
+未褁E��
+
+== GluonConfiguration ==
+Gluon 設宁E
+== EnterServer ==
+請輸入伺服器名稱
+
+== EnterServerFormat ==
+請以 server:port 格式指定伺服器名稱。預設連接埠是 8087
+
+== EnterUserName ==
+請輸入使用老E��稱
+
+== EnterPassword ==
+請輸入寁E��
+
+== EnterRepository ==
+請輸入儲存庫
+
+== EnterCloudRepository ==
+請輸入 Cloud 儲存庫名稱
+
+== EnterLocalRepository ==
+請輸入本機儲存庫名稱
+
+== NoValidPath ==
+沒有有效路征E
+== Connected ==
+連線確宁E({0})
+
+== CredentialsOK ==
+憑證檢查沒問顁E
+== Connecting ==
+正在連緁E..
+
+== CheckingCredentials ==
+正在檢查憑譁E..
+
+== Connect ==
+連緁E
+== ScanNetwork ==
+掁E��網路...
+
+== Check ==
+檢查
+
+== ChooseRepositoryCloudEdition ==
+加入現有的專案�E建立新專桁E
+== EnterRepositoryWaterMark ==
+輸入儲存庫名稱或從渁E��中選擁E
+== GluonConfigurationWorkspaceLabel ==
+工作區:
+
+== GluonConfigurationWorkspaceExplanation ==
+選取工作中目錁E(又名工作區)。這是封E��含您要處琁E��案的目錁E��在、E
+== ApplyingChanges ==
+正在套用變更...
+
+== Apply ==
+套用
+
+== CouldNotFindWorkingRepositoryOrBranch ==
+找不到工作中儲存庫或�E支
+
+== AvailableChangesets ==
+可用皁EUnity VCS 變更雁E
+== SelectChangesetBelow ==
+請從下�E渁E��中選取變更雁E
+
+== AvailableBranches ==
+可用皁EUnity VCS 刁E��
+
+== AvailableRepositories ==
+可用皁EUnity VCS 儲存庫
+
+== SelectBranchesBelow ==
+請從下�E渁E��中選取�E支:
+
+== SelectRepositoryBelow ==
+請從下�E渁E��中選取儲存庫:
+
+== AvailableServers ==
+可用皁EUnity VCS 伺服器
+
+== SelectServerBelow ==
+請從下�E渁E��中選取伺服器:
+
+== ScanningForServers ==
+正在掁E��伺服器...
+
+== AddressColumn ==
+位址
+
+== PortColumn ==
+連接埠
+
+== FilterWaterMark ==
+篩選
+
+== ExploreWorkspace ==
+探索工作區
+
+== CheckinChanges ==
+簽入變更
+
+== Configure ==
+設宁E
+== Loading ==
+載�E中…
+
+== OperationRunning ==
+作業執行中
+
+== OperationInProgress ==
+目前有一個作業已在執行中。請等候執行完�E、E
+== ConfirmClosingRunningOperation ==
+作業目前正在執行中。您確定要E��出嗁E
+
+== SearchFiles ==
+搜尋檔桁E..
+
+== SearchFilesHint ==
+您可以使用、E」和、E」侁E��對檔案名稱。您也可以在搜尋中使用目錁E��E
+== SearchForFiles ==
+搜尋檔桁E
+== Searching ==
+正在搜封E
+== IncludePrivateFiles ==
+匁E��私人檔桁E
+== NoMatchesFound ==
+找不到相符頁E��
+
+== ContainerFolderColumn ==
+容器賁E��夾
+
+== CheckinComment ==
+在此處輸入您皁E��入註解
+
+== BrowseForFolderTitle ==
+瀏覽賁E��夾
+
+== BrowseForSaveFileTitle ==
+儲存檔桁E
+== PlasticSCMServerLabel ==
+輸入您皁E��服器名稱/ IP 和連接埠:
+
+== PreferencesWindowTitle ==
+Unity DevOps Version Control 偏好設宁E- {0}
+
+== GeneralPreferences ==
+一般
+
+== DiffAndMerge ==
+差異比對�E合併
+
+== DiffAndMergeExplanation ==
+Unity VCS 內建差異比對�E合併工具 (Xmerge) 皁E��好設宁E
+
+== ComparisonMethodAndEncodingTitle ==
+比輁E��法�E編碼
+
+== MergeViewBehaviorTitle ==
+合併檢視行為
+
+== ConflictResolutionTitle ==
+合併衝突解決
+
+== ComparisonMethod ==
+比輁E��況E
+
+== ManualConflictResolution ==
+手動衝突解決
+
+== ManualConflictResolutionTooltip ==
+始終啟動合併工具侁E��視衝突E��即使其中全為自動衝突亦然
+
+== AutomaticConflictResolution ==
+自動衝突解決 (如有可能)
+
+== AutomaticConflictResolutionTooltip ==
+只有在忁E��透過使用老E��動侁E��決衝突時才啟動合併工具
+
+== MergeWithPendingChanges ==
+允許合併暫止皁E��更
+(預設停用�E�如此新使用老E��復原合併時就不會發生問顁E
+
+== OtherOptions ==
+其他選頁E
+== MiscOptionsTitle ==
+其仁E
+== SetFilesAsReadOnlyAfterUpdateOrCi ==
+更新和簽入時封E��案設為唯讀
+
+== CompareChangedFilesContents ==
+當檔案時間戳記�E修改時檢查內容 (雜湁E
+封E�E設為「已變更、E
+== CompareChangedFilesContentsTooltip ==
+這個動作可用侁E��立「已變更」頁E��狀慁E
+== UpdateSetsTimestamps ==
+更新作業可在檔案上設定儲存庫時間戳訁E
+== EnableSharedWorkspaces ==
+啟用共用皁E��作區支援 (Samba/WinShare)
+
+== DisplayErrorOnSameCaseFiles ==
+當不同檔案�E現相同檔名時顯示錯誤
+
+== DisplayErrorOnSameCaseFilesTooltip ==
+僁E��用至 Unix 檔案系統
+
+== DefaultWorkspaceRoot ==
+預設工作區根目錁E
+
+== CommandHelpDialogTitle ==
+命令說昁E
+== MergeToolsConfiguration ==
+合併工具
+
+== DiffToolsConfiguration ==
+差異比對工具
+
+== DiffToolsTableTitle ==
+設定用於不同檔案類型舁E��檔名皁E��異比對工具。這些規則朁E��下�E頁E��套用�E�從上到下、E
+== DiffToolsExplanation ==
+選取檔案類型或副檔名�E�並輸入命令侁E��行差異比對工具:
+
+== DiffToolsCommandHelp ==
+叫用外部差異比對工具時，可以使用下�E命令列參數、E            您忁E��確定指定檔案中匁E��要比輁E��實際修訂�E容、E
+            @sourcefile:內容封E��示於左側面板皁E��案完整路徑、E            @destinationfile:內容封E��示於右側面板皁E��案完整路徑、E
+            @sourcesymbolic:侁E��檔案的符號名稱、E            @destinationsymbolic:目皁E��檔案的符號名稱、E
+            @sourcehash:從侁E��檔案�E容計算的 MD5 字串、E            @destinationhash:從目皁E��檔案�E容計算的 MD5 字串、E
+            @filetype:MIME 類型�E�用於語法�E目提示、E            @comparationmethod:使用皁E��輁E��法、E            @fileencoding:未偵測到編碼時，要使用皁E��設檔案編碼、E
+== MergeToolsTableTitle ==
+設定用於不同檔案類型舁E��檔名皁E��併工具。這些規則朁E��下�E頁E��套用�E�從上到下、E
+== MergeToolsExplanation ==
+選取檔案類型或副檔名�E�並輸入命令侁E��行合併工具:
+
+== MergeToolsCommandHelp ==
+使用命令列叫用外部合併工具時，可使用下�E叁E��做為引數:
+
+            @sourcefile:目皁E��合併檔案的完整路徑、E            @destinationfile:目皁E��合併檔案的路徑、E            @basefile:共同上階合併檔案的路徑、E            @output:合併結果檔案的路徑、E
+            @sourcesymbolic:侁E��檔案的符號名稱、E            @destinationsymbolic:目皁E��檔案的符號名稱、E            @basesymbolic:基底檔案的符號名稱、E
+            @sourcehash:從侁E��檔案�E容計算的 MD5 字串、E            @destinationhash:從目皁E��檔案�E容計算的 MD5 字串、E            @basehash:從基底檔案�E容計算的 MD5 字串、E
+            @filetype:MIME 類型�E�用於語法�E目提示、E            @fileencoding:未偵測到編碼時，要使用皁E��設檔案編碼、E            @resultencoding:結果檔案編碼 (如果已選叁ENONE�E�封E��貢獻老E��碼計箁E、E
+            @comparationmethod:使用皁E��輁E��法、E            @mergetype:使用皁E��併類型、E
+            @progress:表示目前作業皁E��度字串�E�例如，「正在合併檔桁E3/10」、E            @extrainfofile:匁E��目前合併相關額外賁E��的檔案路徑、E
+== TypeSuffixColumn ==
+類型/後綴
+
+== DiffCommandColumn ==
+差異比對工具命令刁E
+== MergeCommandColumn ==
+合併工具命令刁E
+== AddToolButton ==
+新墁E
+== RemoveToolButton ==
+移除
+
+== FileTypeQuestion ==
+這個命令應比對哪個檔桁E
+
+== ExtensionTooltip ==
+.副檔名
+
+== ExternalTool ==
+外部工具:
+
+== ExternalToolNotFoundError ==
+找不到工具�E�請引�E有效工具
+
+== BrowseForExecutableFile ==
+瀏覽可執行檁E
+== CommandTooltip ==
+在此處鍵入命令
+
+== FileCorruptError ==
+檔桁E{0} 含有錯誤�E�且無法使用其設定。請檢視�E內容。錯誤:{1}
+
+== UndoCheckoutTitle ==
+復原簽出
+
+== UndoCheckoutQuestion ==
+復原簽出所選取頁E��封E��棁E��上次簽入以侁E��這些頁E��做的任何變更。這個作業無法復原。是否要繼纁E
+
+== RenameSyncTitle ==
+重新命名同步檢要E
+== RenameTitle ==
+重新命名頁E��
+
+== ApplyLocalChanges ==
+套用本地變更
+
+== SearchingDependencies ==
+正在搜尋相依性...
+
+== ApplyingDependencies ==
+正在套用相依性...
+
+== CheckinViewOptions ==
+簽入檢視選頁E
+== Canceling ==
+正在取涁E..
+
+== CancelingMerge ==
+正在取涁E..(等到目前合併作業完�E)
+
+== KeepLocked ==
+保留頁E��鎖宁E
+== StatusCannotMerge ==
+無法合併
+
+== StatusOutOfDate ==
+過期
+
+== StatusDeletedOnServer ==
+已在伺服器上刪除
+
+== StatusLockedBy ==
+已由 '{0}' 鎖宁E
+== StatusCheckedOutChanged ==
+已簽出 (已變更)
+
+== StatusCheckedOutUnchanged ==
+已簽出 (未變更)
+
+== StatusChanged ==
+已變更
+
+== StatusReplaced ==
+已取代
+
+== StatusNotOnDisk ==
+不在磁碟丁E
+== StatusAdded ==
+已新墁E
+== StatusIgnored ==
+忽略渁E��
+
+== UpdatingWorkspace ==
+正在更新您皁E��作區...
+
+== ApplyingConfiguration ==
+正在套用設宁E..
+
+== SwitchingToBranch ==
+正在刁E��至刁E�� {0}...
+
+== SwitchingToChangeset ==
+正在刁E��至變更雁E{0}...
+
+== SwitchingToLabel ==
+正在刁E��至標籤 {0}...
+
+== StatusUnderUnresolvedXlink ==
+Xlinked cset '{0}@{1}' 無法使用
+
+== MovedHistoryDescription ==
+征E{0} 移至 "{1}"
+
+== RemovedHistoryDescription ==
+已移除{0}
+
+== SelectProgramToLaunch ==
+選取要啟動的程弁E
+== WindowTitle ==
+工作區:{0}
+
+== ItemsMenuUpdate ==
+更新
+
+== ConfigurationUnresolvedXlink ==
+Xlinked cset '{0}@{1}' 無法使用
+
+== WorkspacesViewTitle ==
+工作區
+
+== RepositoriesViewTitle ==
+儲存庫
+
+== PendingChangesViewTitle ==
+暫止皁E��更
+
+== BranchesViewTitle ==
+刁E��
+
+== ChangesetsViewTitle ==
+變更雁E
+== SyncViewTitle ==
+同步儲存庫
+
+== ShelvesViewTitle ==
+擱置
+
+== HistoryViewTitle ==
+{0} 歷史記錄
+
+== AnnotateViewTitle ==
+{0} 皁E��註
+
+== BrowseRepositoryViewTitle ==
+瀏覽儲存庫 - {0}
+
+== ConfigurationModeExplanationAutomatic ==
+目錁E��新模弁E自勁E
+選取目錁E��有下層時封E��成�E動模式、E「�E動」模式代表更新期間封E��下載所有的新檔案�E新目錁E��E
+== ConfigurationModeExplanationManual ==
+目錁E��新模弁E使用老E��冁E
+未選取目錁E��有下層時封E��成手動模式、E「手動」模式代表更新作業時不會自動下載新檔案�E新目錁E��E
+== PendingDirectoryConflictsResolvingConflictsSingular ==
+朁E1 個目錁E��突忁E���E解決�E�才能解決檔案衝突、E
+== PendingDirectoryConflictsResolvingConflictsPlural ==
+朁E{0} 個目錁E��突忁E���E解決�E�才能解決檔案衝突、E
+== PendingDirectoryConflictsApplyingChangesSingular ==
+朁E1 個目錁E��突忁E���E解決�E�才能套用變更、E
+== PendingDirectoryConflictsApplyingChangesPlural ==
+朁E{0} 個目錁E��突忁E���E解決�E�才能套用變更、E
+== PendingDirectoryConflictsUpdatingWorkspaceSingular ==
+朁E1 個目錁E��突忁E���E解決�E�才能更新工作區、E
+== PendingDirectoryConflictsUpdatingWorkspacePlural ==
+朁E{0} 個目錁E��突忁E���E解決�E�才能更新工作區、E
+== CreatedByColumn ==
+建立老E
+== UnresolvedXlink ==
+未解析的 Xlink
+
+== UnexpectedError ==
+發生未預期皁E��誤、E
+== SaveRequest ==
+確認儲存註解
+
+== SaveRequestMessage ==
+已修改目前所選物件皁E��解。是否要儲存變更?
+
+== ProvideDifferentWorkspaceName ==
+請提供不同皁E��作區名稱�E��E取消作業、E
+== ProvideDifferentRepositoryName ==
+請提供不同皁E��存庫名稱�E��E取消作業、E
+== ProvideDifferentItemName ==
+請提供不同皁E��E��名稱�E��E取消作業、E
+== ProvideDifferentBranchName ==
+請提供不同皁E�E支名稱�E��E取消作業、E
+== ProvideDifferentLabelName ==
+請提供不同皁E��籤名稱�E��E取消作業、E
+== ProvideDifferentSyncViewName ==
+請提供不同皁E��步檢視名稱�E��E取消作業、E
+== ProvideDifferentItemNameForRenameResolution ==
+請提供不同皁E��E��名稱、E
+== ProvideUserName ==
+請輸入使用老E��稱、E
+== ProvidePassword ==
+請輸入寁E��、E
+== ReplicationSource ==
+褁E��侁E��E
+== ReplicationDestination ==
+褁E��目皁E��
+
+== PullingProgressTitle ==
+正在提取刁E�� {0}
+
+== PushingProgressTitle ==
+正封E�E支 {0} 推送�E {1}
+
+== CurrentOfTotalReplicationProgressTitle ==
+   {1} 乁E{0}
+
+== PullBranch ==
+提取刁E�� {0}
+
+== PullRemoteBranch ==
+提取遠端刁E��
+
+== PushBranch ==
+推送�E支 {0}
+
+== ReplicateButton ==
+褁E��
+
+== GenericChooseButton ==
+...
+
+== ServerEmpty ==
+伺服器欁E��不可為空白、E
+== RepositoryEmpty ==
+儲存庫欁E��不可為空白、E
+== BranchEmpty ==
+刁E��欁E��不可為空白、E
+== OperationStarting ==
+作業正在啟動
+
+== FetchingMetadata ==
+正在擷取中繼賁E��
+
+== PushingMetadata ==
+正在推送中繼賁E��
+
+== IntroducingData ==
+引�E賁E��
+
+== OperationStartingFetch ==
+作業正開始擷叁E
+== CalculatingInitialChangeset ==
+正在計算�E始變更雁E
+== FetchingRevisions ==
+正在擷取修訁E({0})
+
+== FetchingBranches ==
+正在擷取�E支 ({0})
+
+== FetchingItems ==
+正在擷取頁E�� ({0})
+
+== FetchingLabels ==
+正在擷取標籤 ({0})
+
+== FetchingLinks ==
+正在擷取連絁E({0})
+
+== FetchingChildren ==
+正在擷取下層頁E�� ({0})
+
+== FetchingChangeSets ==
+正在擷取變更雁E({0})
+
+== FetchingMoveRealizations ==
+正在擷取移動實現 ({0})
+
+== FetchingReviews ==
+正在擷取檢閱 ({0})
+
+== FetchingAttributes ==
+正在擷取屬性 ({0})
+
+== FetchingACLs ==
+正在擷叁EACL ({0})
+
+== FetchingReferences ==
+正在擷取參老E({0})
+
+== FetchingSEIDs ==
+正在擷叁ESEID ({0})
+
+== FetchingFinished ==
+正在傳送中繼賁E�� ({0})
+
+== OperationStartingPush ==
+作業正開始推送E
+== ReconcilingObjects ==
+正在協調物件 ({0})
+
+== PushingReferences ==
+正在推送參老E({0} %)
+
+== ReconcilingACLs ==
+正在協調 ACL ({0} %)
+
+== PushingBranches ==
+正在推送�E支 ({0} %)
+
+== PushingItems ==
+正在推送E��E�� ({0} %)
+
+== PushingLinks ==
+正在推送E��絁E({0} %)
+
+== PushingLabels ==
+正在推送標籤 ({0} %)
+
+== PushingAttributes ==
+正在推送屬性 ({0} %)
+
+== ProcessingBranches ==
+正在處理刁E�� ({0} %)
+
+== PushingChangeSets ==
+正在推送變更雁E({0} %)
+
+== PushingRevisions ==
+正在推送修訁E({0} %)
+
+== PushingMoveRealizations ==
+正在推送移動實現 ({0} %)
+
+== PushingTrees ==
+正在推送樹狀目錁E({0} %)
+
+== PushingACLs ==
+正在推送EACL ({0} %)
+
+== PushingFinished ==
+推送已完�E
+
+== IntroducingDataProgress ==
+正在引�E賁E�� ({0} %)
+
+== DataWritten ==
+賁E��已寫入
+
+== OperationAbandoned ==
+作業已放棁E
+== OperationFinished ==
+作業已完�E
+
+== ReplicationError ==
+褁E��期間發生錯誤:{0}
+
+== UnknownStatus ==
+未知皁E��慁E
+== RetryReplicaButton ==
+重試
+
+== SkipReplicaButton ==
+跳遁E
+== SourceReplicationServer ==
+侁E��伺服器
+
+== SourceReplicationRepository ==
+侁E��儲存庫
+
+== SourceReplicationBranch ==
+侁E���E支
+
+== DestinationReplicationServer ==
+目皁E��伺服器
+
+== DestinationReplicationRepository ==
+目皁E��儲存庫
+
+== CreateWorkspaceButton ==
+建立新工作區...
+
+== MenuAddToIgnoreList ==
+新增�E忽略渁E��
+
+== MenuRemoveFromIgnoreList ==
+從忽略渁E��移除
+
+== MenuAddToCloakedList ==
+新增�E遮蔽渁E��
+
+== MenuRemoveFromCloakedList ==
+從�E蔽渁E��移除
+
+== MenuAddToHiddenChangesList ==
+新增�E隱藏變更渁E��
+
+== MenuRemoveFromHiddenChangesList ==
+從隱藏變更渁E��移除
+
+== UsingItemExtension ==
+使用頁E��副檔名
+
+== UsingItemFullPath ==
+使用頁E��完整路征E
+== UsingItemName ==
+使用頁E��名稱
+
+== FilterRulesConfirmationTitle ==
+篩選規則確誁E
+== FilterRulesConfirmationAddMessage ==
+下�E規則封E��增到設定檔。是否要繼纁E
+
+== FilterRulesConfirmationRemoveMessage ==
+下�E規則封E��設定檔中移除。是否要繼纁E
+
+== ApplyRulesToAllWorkspaceCheckButton ==
+封E��則套用至所有工作區
+
+== ShelveWithPendingMergeLinksRequest ==
+擱置暫止皁E��併連絁E
+== ShelveWithPendingMergeLinksRequestMessage ==
+您在此工作區中有暫止皁E��併連結。此擱置作業並未擱置暫止皁E��併連結。您是否仍要擱置?
+
+== UndoChangesAfterShelveRequest ==
+在擱置後復原變更
+
+== UndoChangesAfterShelveRequestMessage ==
+您皁E��更已簽入至暫時的變更雁E(擱置)。這些變更可立即套用至任何�E支。您是否要復原在此工作區中皁E��更?
+
+== ShelveCreatedMessage ==
+您皁E��止皁E��更已擱置到 {0}
+
+== NewCertificateTitle ==
+伺服器 SSL 憑證不在存放區中
+
+== NewCertificateMessageUnityVCS ==
+您要E��線的伺服器傳送的憑證不在存放區中。如果您是第一次連線到該伺服器�E�這是正常皁E��E
+            憑證詳細賁E��:
+            - 發行對象:{0}
+            - 發行老E{1}
+            - 截止日朁E{3}
+            - 憑證雜湁E{5}
+
+            如果您信任此主機，請選擁E[是]�E�以封E��鑰新增�E Unity Version Control 金鑰存放區 (如果是第一次連線到此伺服器�E�則建議選擁E��選頁E、E            如果您想繼續連線，佁E��連線一次而不封E��鑰新增�E存放區�E�請點擊 [否]、E            如果您不信任此主機，請選擁E[取涁E�E�以放棁E��線、E
+== ExistingCertificateChangedTitle ==
+伺服器憑證已變更!
+
+== ExistingCertificateChangedMessageUnityVCS ==
+警呁E此主機�E證�E您在金鑰存放區中擁有皁E��機�E證不相符。這可能表示伺服器身刁E��別已遭洩漏，�E正在對您進行中間人攻擊、E
+            憑證詳細賁E��:
+            - 發行對象:{0}
+            - 發行老E{1}
+            - 截止日朁E{3}
+            - 憑證雜湁E{5}
+
+            如果您預期發生此變更�E�而且信任新憑證，請點擊 [是]�E�以封E��鑰新增�E Unity Version Control 金鑰存放區�E�並在未侁E��任此憑證、E            如果您想繼續連線，佁E��連線一次而不封E��鑰新增�E存放區�E�請點擊 [否]、E            如果您想放棁E��連線，請點擊 [取涁E。這是唯一保證安�E皁E��擁E��E
+== InvalidCertificateHostnameTitle ==
+安�E連線中皁E��機名稱不相符
+
+== InvalidCertificateHostnameMessage ==
+警呁E伺服器憑證中提供的主機名稱不符合伺服器主機名稱。這表示憑證未發行�E此主機名稱�E��E此主機�E現網路設定問題、E
+            - 憑證主機名稱:{0}
+            - 伺服器主機名稱:{1}
+
+            如果您想要繼續連線�E此主機，請點擊 [是]。此憑證驗證封E��續進衁E(不建議)、E            如果您想放棁E��線，請點擊 [否] (建議)、E
+== RepositoryExplorerServerLabel ==
+伺服器:
+
+== UndeleteButtonTooltip ==
+使用此選頁E��E��復刪除皁E��桁E
+== UndeleteViewTitle ==
+已刪除頁E��
+
+== UndeleteMenuItemUndeleteRevision ==
+取消刪除修訁E
+== UndeleteMenuItemUndeleteRevisionToThisPath ==
+取消刪除此路徑的修訁E..
+
+== UndeletingItem ==
+正在取消刪除頁E��...
+
+== UndeletingItemsSingular ==
+正在取消刪除 1 個頁E��...
+
+== UndeletingItemsPlural ==
+正在取消刪除 {0} 個頁E��...
+
+== EnterRestorePathFormTitle ==
+取消刪除頁E��
+
+== EnterRestorePathFormParentDoesNotExistExplanation ==
+此頁E��皁E��層目錁E��存在�E�請輸入新位置
+
+== EnterRestorePathFormIsPathAlreadyUsedExplanation ==
+相同路徑中已經有一個頁E���E�請輸入新位置
+
+== EnterRestorePathFormTextBoxExplanation ==
+輸入要取消刪除皁E�E素邁E��路征E
+== EnterRestorePathFormLabel ==
+路征E
+
+== EnterValidRestorePath ==
+請輸入有效工作區路征E
+== RestorePathShouldNotExist ==
+邁E��路徑不應該存在
+
+== RestorePathParentShouldExist ==
+邁E��路徑的上層目錁E��應該存在
+
+== DeletedItemsOwner ==
+擁有老E
+
+== DeletedItemsSince ==
+開始於:
+
+== MeOwnerOption ==
+戁E
+== EveryoneOwnerOption ==
+所有人
+
+== ItemUndeletedCorrectly ==
+已取消刪除確誁E'{0}'
+
+== ItemCannotBeUndeleted ==
+無法取消刪除頁E�� '{0}' (ID:{1})�E�因為在上層目錁E��訂中找不到此頁E�� (ID:{2})
+
+== CheckinViewTitle ==
+簽入變更
+
+== UserDefinedSyncView ==
+使用老E��義皁E��步檢要E
+
+== AddSyncViewButton ==
+新墁E
+== RenameSyncViewButton ==
+重新命吁E
+== DeleteSyncViewButton ==
+刪除
+
+== SyncViewDetailsTitle ==
+同步檢視詳細賁E��
+
+== AddSrcSyncViewRepoButton ==
+新增侁E��儲存庫
+
+== DeleteSrcSyncViewRepoButton ==
+刪除侁E��儲存庫
+
+== AddDstSyncViewRepoButton ==
+新增目皁E��儲存庫
+
+== DeleteDstSyncViewRepoButton ==
+刪除目皁E��儲存庫
+
+== PushVisibleButton ==
+推送可見性
+
+== PushVisibleButtonTooltip ==
+推送所有可見的傳出刁E��
+
+== PullVisibleButton ==
+提取可見性
+
+== PullVisibleButtonTooltip ==
+提取所有可見的傳入刁E��
+
+== ShowExcludedBranchesCheckButton ==
+顯示排除皁E�E支
+
+== NewSyncView ==
+新同步檢要E
+== NewSyncViewName ==
+同步檢視名稱
+
+== NewSyncViewTitle ==
+建立新皁E��步檢視侁E��送E提取刁E��群絁E
+== NewSyncViewTitleCloud ==
+建立新皁E��步檢視，封EUnity VCS Cloud 推送E提取刁E��群絁E
+== NewSyncViewExplanation ==
+使用同步檢視，您不用再逐一推送E提取刁E���E�而是能輕鬁E��過批次方式侁E��E��刁E��
+
+== NewSyncViewCheckingRepositories ==
+正在檢查儲存庫...
+
+== NewSyncViewNoSourceRepository ==
+沒有 {0} 儲存庫可做為侁E��E
+== NewSyncViewNoDestinationRepository ==
+沒有 {0} 儲存庫可做為目皁E��
+
+== NewSyncViewSourceRepository ==
+侁E��儲存庫
+
+== NewSyncViewDestinationRepository ==
+目皁E��儲存庫
+
+== NewSyncViewEnterSyncViewName ==
+請輸入同步檢視名稱
+
+== NewSyncViewEnterRepositorySpec ==
+請輸入儲存庫規格
+
+== NewSyncViewInvalidRepositorySpec ==
+無效的儲存庫規格:{0}
+
+== NewSyncViewCheckingSourceRepositoryExists ==
+正在檢查侁E��儲存庫是否存在...
+
+== NewSyncViewCheckingDestinationRepositoryExists ==
+正在檢查目皁E��儲存庫是否存在...
+
+== NewSyncViewSourceRepositoryNotExist ==
+侁E��儲存庫 {0} 不存在
+
+== NewSyncViewDestinationRepositoryNotExist ==
+目皁E��儲存庫 {0} 不存在
+
+== NewSyncViewCreateSyncView ==
+建立新同步檢要E(推送E提取)
+
+== SyncStatusLoading ==
+載�E中…
+
+== SyncStatusUpToDate ==
+所有�E支已經是最新狀慁E
+== SyncStatusError ==
+錯誤:{0}
+
+== OutgoingBranchesSingular ==
+傳出刁E�� - 1 個�E支
+
+== OutgoingBranchesPlural ==
+傳出刁E�� - {0} 個�E支
+
+== IncomingBranchesSingular ==
+傳入刁E�� - 1 個�E支
+
+== IncomingBranchesPlural ==
+傳入刁E�� - {0} 個�E支
+
+== ExcludedBranchesSingular ==
+已排除皁E�E支 - 1 個�E支
+
+== ExcludedBranchesPlural ==
+已排除皁E�E支 - {0} 個�E支
+
+== SyncMenuItemSyncAllMenuItem ==
+全部同步處理
+
+== SyncMenuItemPushAllMenuItem ==
+推送所有傳出刁E��
+
+== SyncMenuItemPullAllMenuItem ==
+提取所有傳入刁E��
+
+== SyncMenuItemRefreshReplicationTarget ==
+重新整琁E
+== SyncMenuItemPushBranch ==
+推送�E支
+
+== SyncMenuItemPullBranch ==
+提取刁E��
+
+== SyncMenuItemExcludeBranch ==
+排除刁E��
+
+== SyncMenuItemIncludeBranch ==
+匁E��刁E��
+
+== CantShowBinaryContent ==
+此檔案已偵測為二進位。無法顯示檔案�E容�E�改為顯示檔案中繼賁E��。您可以按一下滑鼠右鍵並使用 [開啟] 查看�E內容。如需詳細賁E��，請查看線上文件、E
+== CantShowBinaryDiff ==
+此檔案已偵測為二進位。未計算任何差異比對，改為顯示檔案中繼賁E��。您可以按一下滑鼠右鍵並使用 [差異比對] 侁E��動外部差異比對檢視器 (忁E��設宁E。如需詳細賁E��，請查看線上文件、E
+== Content ==
+{0} 皁E�E容
+
+== UpdateMergeExplanation ==
+已在儲存庫中偵測到新皁E��更雁E��您可以更新為最新變更雁E從最新變更雁E��併、E
+== ViewNewChangesButton ==
+檢視新變更
+
+== RetrievingBranchHeads ==
+正在擷取�E支前端...
+
+== RetrievingNewChanges ==
+正在擷取新變更...
+
+== RetrievingObjectInfo ==
+正在擷取物件賁E��E..
+
+== WorkspaceRevisionKey ==
+工作區修訁E
+== MergeToDiffWithDst ==
+目皁E��刁E��皁E��訁E
+== EncryptionConfiguration ==
+伺服器加寁E
+== RetypePassword ==
+重新輸入寁E��:
+
+== EncryptionConfigurationExplanation ==
+伺服器 '{0}' 需要賁E��加寁E��E            您皁E��戶端未設為處理 '{0}' 皁E��寁E��E��、E
+== EncryptionConfigurationEnterPassword ==
+輸入寁E���E�以產生加寁E��鑰:
+
+== EncryptionConfigurationRemarks ==
+備註:
+            * 請謹慎使用加寁E��E���E�這是解寁E��服器 '{0}' 上的賁E��皁E��一方法、E            * 如果您要解寁E��E���E�而且輸入錯誤皁E��E���E�賁E��封E��法解寁E��而且您忁E��在伺服器上編輯 cryptedservers.conf�E�才能解決此問題、E            * 請在全公司謹慎使用相同寁E�� (加寁E��鑰)�E�以便舁E'{0}' 一起使用。否剁E��封E��在每個伺服器使用不同皁E��式加寁E��E��、E
+== InvalidEmptyPassword ==
+寁E��不可為空白
+
+== PasswordDoesntMatch ==
+寁E��不相符
+
+== ApplyActionForNextConflictsCheckButtonSingular ==
+對接下侁E�� 1 個衝突套用此動作、E
+== ApplyActionForNextConflictsCheckButtonPlural ==
+對接下侁E�� {0} 個衝突套用此動作、E
+== FsProtectionChanged ==
+檔案系統權限已征E{0} 變更戁E{1}、E
+== CreateXlinkTitle ==
+建竁EXlink
+
+== CreateXlinkExplanation ==
+Xlink 是連結�E不同儲存庫中變更雁E��目錁E��這個目錁E��用侁E��E��個儲存庫載�E工作區、E
+== XlinkTargetServerEntry ==
+目標伺服器�E�選擁E�E輸入一個伺服器
+
+== XlinkTargetServerExplanation ==
+server:port 格式，例如：myserver:8087
+
+== XlinkTargetRepositoryEntry ==
+目標儲存庫
+
+== XlinkTargetChangesetEntry ==
+目標變更雁E
+== XlinkNameEntry ==
+Xlink 名稱 (輸入目錁E��名稱)
+
+== XlinkHint ==
+請記住，簽入此 Xlink 及更新工作區之後，才朁E��始下輁EXlink 連結的內容
+
+== SelectARepository ==
+您需要�E選取儲存庫�E�然後�E從中選取變更雁E
+== MainMainRuleCreated ==
+您正在目標儲存庫上建立一個到主刁E��皁EXlink、E            很可能您想要E��結�E個儲存庫之間皁E��刁E���E�因此�E�封E��立一個擴允E��則、E            如果此版面配置不是您預期皁E��請手動編輯擴允E��則、E
+== XlinkOptions ==
+Xlink 選頁E
+== WritableXlinkCheckButton ==
+可寫入 (否剁E��個部刁E��程式碼樹狀目錁E��E��唯讀)
+
+== RelativeServerCheckButton ==
+使用相關伺服器 - Xlink 朁E�E試從本地伺服器取得儲存庫 (如果儲存庫已經褁E���E�建議使用此選頁E
+
+== BranchExpansionRules ==
+刁E��擴允E��則
+
+== BranchExpansionRulesExplanation ==
+這些規則朁E��義侁E���E目皁E��刁E��如何進行連結。使用可寫入皁EXlink 時，您可以定義 main@src 舁Emain/fix@dst 之間皁E��結、E
+== SelectARepositoryForRule ==
+您需要�E選取儲存庫�E�然後�E建立規則
+
+== AddExpansionRuleTitle ==
+新增擴允E��則
+
+== AddExpansionRuleExplanation ==
+定義如何在 Xlink 連結的儲存庫之間擴允E�E支
+
+== SourceBranch ==
+侁E���E支
+
+== DestinationBranch ==
+目皁E��刁E��
+
+== IsDefinedByUser ==
+由使用老E��義
+
+== Yes ==
+是
+
+== No ==
+否
+
+== AlreadyDefinedRuleForBranch ==
+您已為此侁E���E支定義規則
+
+== XlinkNoChangesetSelected ==
+未選取變更雁E��為 Xlink 皁E��樁E
+== EmptyXlinkName ==
+Xlink 目錁E��稱是空皁E
+== NoRulesDefined ==
+您未針對此 Xlink 定義刁E��擴允E��能�E�您確定要繼纁E
+
+== NoRulesDefinedCaption ==
+無定義皁E��則
+
+== EditXlinkTitle ==
+編輯 Xlink
+
+== EditButton ==
+編輯
+
+== EmptySourceBranch ==
+侁E���E支欁E��不可為空白、E
+== EmptyDestinationBranch ==
+目皁E��刁E��欁E��不可為空白、E
+== LoadingXlinkData ==
+正在下輁EXlink 賁E��...
+
+== CreatingDefaultRule ==
+正在建立預設規則...
+
+== NoContentToCompare ==
+沒有要比輁E��內容、E
+== CreateBranchManualMode ==
+使用老E��冁E
+== CreateBranchTaskMode ==
+從任勁E
+== LoadingIssueTrackerExtension ==
+正在載�E議題追蹤器延伸模絁E..
+
+== MarkingTaskAsOpen ==
+封E'{0}' 任務標記�E在 '{1}' 中開啟
+
+== PendingTasks ==
+擱置皁E��勁E
+== RetrievingTasks ==
+正在擷取擱置皁E��勁E..
+
+== RetrievingUserTasks ==
+正在擷取使用老E'{0}' 皁E��置任勁E..
+
+== DisplayPendingTasksFromAllUsers ==
+顯示所有使用老E��擱置任勁E
+== MarkAsOpenInIssueTracker ==
+標記為在議題追蹤器中開啟
+
+== LinkedTasksViewTitle ==
+已連結任勁E
+== PlasticTaskIdProperty ==
+ID:
+
+== PlasticTaskOwnerProperty ==
+擁有老E
+
+== PlasticTaskStatusProperty ==
+狀慁E
+
+== PlasticTaskTitleProperty ==
+標顁E
+
+== PlasticTaskDescriptionProperty ==
+描述:
+
+== DeleteTaskTooltip ==
+刪除這個議顁E
+== LoadingLinkedTasks ==
+正在載�E要在議題追蹤器中連結的任勁E..
+
+== AddTaskTooltip ==
+新增議顁E
+== SelectTasksToBeLinkedDialogTitle ==
+征E{0} 選取議顁E
+== SelectTasksToBeLinkedExplanation ==
+選擁E��E��結�E新變更雁E��議顁E
+== TaskIdEntryTitle ==
+議顁EID:
+
+== ManualTaskIdEntryExplanation ==
+如果您找不到您皁E��題，請手動輸入以逗號刁E��皁E��顁EID 渁E��
+
+== UnknownTaskIdsInManualEntry ==
+在手動輸入欁E��中找到皁E��顁EID 無效、E
+== OpenTaskInBrowserTooltip ==
+在網頁瀏覽器中開啟任務賁E��頁E��
+
+== DoNotCheckinChangesJustMove ==
+不要簽入變更�E�直接封E�E移至持E��的刁E��、E
+== CreateANewBrachRadioButton ==
+建立新刁E��
+
+== CreateANewBranchToCheckinExplanationLabel ==
+建竁E{0} 皁E��層刁E���E�並簽入您對該刁E��皁E��作區變更、E
+== CreateANewBranchToMoveChangesetExplanationLabel ==
+建立要封E��更雁Ecs:{1} 移至其中皁E{0} 新建下層刁E��、E
+== CreateANewBranchLabel ==
+下層刁E��皁E��稱
+
+== SelectExistingBranchRadioButton ==
+選取現有�E支 (忁E��是空皁E
+
+== SelectExistingBranchExplanationLabel1 ==
+選取�E前所建立的刁E���E�並封E��皁E��作區變更簽入該刁E��、E
+== SelectExistingBranchExplanationLabel2 ==
+所選取�E支皁E�E支基底封E��更成為您皁E��前基庁E
+== SelectExistingBranchToMoveExplanationLabel ==
+選取�E前所建立的刁E���E�並移動在其中所選取的變更雁E��E
+== SelectExistingBranchLabel ==
+選取的刁E��
+
+== MoveChangesNoBranchName ==
+請指定下層刁E��名稱
+
+== MoveChangesSelectABranch ==
+請選取�E支
+
+== MoveChangesBranchMustBeEmpty ==
+選取的刁E��忁E��是空皁E
+== CantUpdateBraseChangesetBranchWithRevisions ==
+無法更新刁E��皁E��底變更雁E��因為宁E��E��是空皁E
+== RetrievingWorskpaceInfo ==
+正在擷取工作區賁E��E
+== MovingChangesToTargetBranch ==
+正在封E��更移至目標�E支...
+
+== UpdatingTargetBranchBase ==
+正在更新目標�E支基庁E..
+
+== OrganizationUserBelongsTo ==
+您皁E��E��是 {0}
+
+== OrganizationNotFoundLine1 ==
+您似乎沒有 {0} 皁E��E��E
+== NameWorkingMode ==
+從電腦中取得使用老E��稱
+
+== NameIdWorkingMode ==
+名稱 + 使用老EID
+
+== ADWorkingMode ==
+Active Directory
+
+== LDAPWorkingMode ==
+LDAP
+
+== UPWorkingMode ==
+內建皁E��用老E��寁E��
+
+== TubeWorkingMode ==
+Tube 工作中模弁E
+== RepositoryWillBeKnownAs ==
+封E��為 {0}
+
+== CantCreateLocalRepository ==
+無法建立本地儲存庫
+
+== CantCreateCloudRepository ==
+無法建立雲端儲存庫
+
+== CantCreateWorkspace ==
+無法建立工作區
+
+== CantCreateSyncView ==
+無法建立同步檢要E
+== CantRetrieveCloudOrganization ==
+無法擷取您皁E��端絁E��E
+== SyncViewNameAlreadyExists ==
+同步檢要E{0} 已經存在
+
+== StartANewProject ==
+啟動新專桁E
+== Distributed ==
+刁E��弁E
+== JoinExistingProject ==
+加入現有的專桁E
+== Centralized ==
+雁E��弁E
+== WelcomeToCloudEdition ==
+歡迎使用 Unity Version Control Cloud Edition!
+
+== WelcomeToUnityVCS ==
+歡迎使用 Unity VCS!
+
+== WelcomeToGluonTeamEdition ==
+歡迎使用 Gluon!
+
+== WelcomeToGluonCloudEdition ==
+歡迎使用 Gluon - Cloud Edition!
+
+== TeamEditionFirstSteps1stCaption ==
+您即封E��用已連線�E Unity VCS 伺服器皁E��地工作區
+
+== TeamEditionFirstSteps2ndCaption ==
+您可以為不同專案建立不同皁E��存庫�E�通常是一個儲存庫搭配一個工作區
+
+== CloudEditionFirstSteps1stCaption ==
+您可以採用雁E��式�E刁E��式的方式工佁E
+== CloudEditionFirstSteps2ndCaption ==
+雁E��式表示沒有本地儲存庫
+
+== CloudEditionFirstStepsChooseOption ==
+請選擁E��個路徑侁E��始使用 Unity VCS Cloud
+
+== TeamEditionFirstStepsChooseOption ==
+請選擁E���E其中任一選頁E��E��始使用 Unity Version Control
+
+== TeamEditionFirstStepsJoinExistingProjectExplanation ==
+直接在 Unity VCS 伺服器上選取現有的儲存庫�E�並建立封E��載於其中皁E�E新工作區
+
+== CloudRepository ==
+Cloud 儲存庫
+
+== LocalRepositoryName ==
+本地儲存庫名稱
+
+== NewRepositoryName ==
+新儲存庫名稱
+
+== WorkspaceName ==
+工作區名稱
+
+== PathOnDisk ==
+磁碟上的路徑。您皁E��案在磁碟中皁E��在位置。如果您在磁碟上已經有專案，您可以選取現有的路征E
+== MakeWorkspaceDynamic ==
+封E��工作區設為動�E
+
+== CreateSyncViewToPushPullCloud ==
+建立要封E��更推送E提取至 Cloud 皁E��步檢要E
+== BrowseButton ==
+瀏覽...
+
+== CheckingLocalRepositoryAvailable ==
+正在檢查雲端儲存庫名稱是否可用...
+
+== CheckingWorkspaceAvailable ==
+正在檢查工作區是否可用...
+
+== CheckingSyncViewNameAvailable ==
+正在檢查同步檢視名稱是否可用...
+
+== CreatingLocalRepository ==
+正在建立儲存庫 {0}@local...
+
+== CreatingSyncView ==
+建立同步檢要E..
+
+== CloudEditionFirstStepsDistributedExplanation ==
+這是 Git 皁E��作方式，�E有本地儲存庫且可推送E提取至 Cloud 儲存庫
+
+== CloudRepositoryDoNotExist ==
+您皁E��端絁E��不存在儲存庫 {0}
+
+== CheckingCloudRepositoryExists ==
+正在檢查雲端儲存庫是否存在...
+
+== CloudEditionFirstStepsCreateWorkspaceExplanation ==
+您專屬皁E��作區已連線�E雲端儲存庫。如果您不確定，那麼這是您皁E��頁E
+== NoRepositoriesFound ==
+找不到儲存庫。請檢查 Unity VCS 伺服器是否正常運作，及其中是否有儲存庫
+
+== SyncFromLocalToCloudViewName ==
+封E{0} 從本地同步至雲端
+
+== SyncToRepository ==
+同步至 {0}
+
+== SyncFromRepository ==
+征E{0} 同步
+
+== LocalServerDetected ==
+偵測到本地伺服器 {0}
+
+== LocalServerDetectedDvcsMode ==
+偵測到本地伺服器
+
+== UseSsl ==
+使用 SSL
+
+== TeamEditionFirstStepsJoinTeamExplanation ==
+若要E��始新專案，您可以在 Unity VCS 伺服器中建立新皁E��存庫
+
+== ConfirmDeleteChangesetCaption ==
+確認變更雁E��除
+
+== DeleteChangesetWarning ==
+您確定要刪除變更雁E
+{0}?
+
+== CantDeleteChangesetCaption ==
+無法刪除變更雁E
+== CantDeleteChangeset ==
+無法刪除目前變更雁E��因為該變更雁E��由其他頁E��叁E��E��E
+請檢查:
+ * 變更雁E��是合併連結的侁E��E * 變更雁E��有下層頁E��
+ * 未標記變更雁E * 沒有從變更雁E��立的擱置雁E
+請注意，您可以藉由征Ecli 戁E[擱置] 檢視執行下�E查詢�E�從指定的變更雁E��找建立的擱置雁E
+
+    find shelve where parent=changesetspec
+
+== DeleteWorkingChangesetCaption ==
+刪除作用中皁E��更雁E
+== DeleteWorkingChangeset ==
+在工作區設定中�E�刪除您要變更皁E��更雁E��是否要繼纁E
+
+== CannotDeleteCsetWithPendingChanges ==
+無法刪除所選變更雁E��因為有暫止皁E��更。請檢閱暫止皁E��更�E�並重試作業、E
+== CannotMoveCsetWithPendingChanges ==
+無法移動所選變更雁E��因為有暫止皁E��更。請檢閱暫止皁E��更�E�並重試作業、E
+== ReportChanged ==
+已變更頁E��
+
+== ReportAdded ==
+已新增頁E��
+
+== ReportDeleted ==
+已刪除頁E��
+
+== ReportMoved ==
+已移動頁E��
+
+== ReportLoaded ==
+已載�E頁E��
+
+== ReportUnloaded ==
+已卸載頁E��
+
+== ShowUpdateReportButton ==
+顯示更新報呁E
+== HideUpdateReportButton ==
+隱藏更新報呁E
+== ReportUpdatedHeader ==
+已更新
+
+== ConfigurationAppliedHeader ==
+設定已套用
+
+== ZoomIn ==
+放大
+
+== ZoomOut ==
+縮封E
+== RemoveFilter ==
+移除篩選
+
+== SelectedBranchesAndRelated ==
+{0} 及相關的刁E��
+
+== SelectedBranchesAndPendingMerges ==
+{0} 及暫止皁E��併
+
+== DownloadingRevisions ==
+正在下載修訁E..
+
+== GoToSourceChangesetMenuItem ==
+前往侁E��變更雁E
+== GoToDestinationChangesetMenuItem ==
+前往目皁E��變更雁E
+== Name ==
+名稱:
+
+== NewName ==
+新名稱:
+
+== NoCsetCreatedWarning ==
+無法建立新皁E��更雁E��因為檔案賁E��並未變更
+
+== AllFileConflictsWereMergedWarning ==
+所有檔案均已合併�E�並可開始簽入
+
+== SomeFileConflictsWereMergedWarning ==
+僁E��部刁E��案已經合併�E�並可開始簽入
+
+== NoFileConflictsWereMergedWarning ==
+未合併任何檔桁E
+== SaveDiffChangesTitle ==
+您是否想要儲存您在目前檔案中所做的變更?
+
+== SaveDiffChangesMessage ==
+如果不儲存，您所做的變更封E��遺失
+
+== DontSaveButton ==
+不儲孁E
+== SelectFileToSeeDifferences ==
+選取要查看�E中差異皁E��桁E
+== SaveThisRevisionAs ==
+封E��修訂另存為...
+
+== SaveRevisionAs ==
+封E��訂另存為...
+
+== SavingRevision ==
+正在封E��訂儲存�E '{0}'...
+
+== DownloadFilesProgress ==
+已下輁E{0} 個檔案，�E {1} 倁E(征E��輁E{2} 個檔案，�E {3} 倁E
+
+== DownloadInfoSingular ==
+封E��輁E1 個檔桁E{0}
+
+== DownloadInfoPlural ==
+封E��輁E{0} 個檔桁E{1}
+
+== NotifyLinuxWatchLimitWarning ==
+已達到所監看頁E��數目上限。您可以執衁E'sudo sysctl fs.inotify.max_user_watches=524288' 增加這個值
+
+== CheckinProgressMultiThreadUploading ==
+多執行緒簽入
+
+== CheckinProgressMultiThreadNumOfBlocks ==
+正在平行上傳 {0} 個區塁E
+== SkipDiffMergeTracking ==
+跳過合併追蹤
+
+== SkipDiffMergeTrackingTooltip ==
+不要依合併侁E��侁E�E絁E��案變更。每個檔案會顯示一次�E�並顯示其「總計」變更
+
+== FetchNoDataCheckButton ==
+不褁E��賁E�� (您忁E��是伺服器管琁E��)
+
+== FetchNoDataNoPermissions ==
+您忁E��是目皁E��伺服器管琁E���E�才能使用 [不褁E��賁E��] 選頁E��E
+== CheckingFetchNoDataNoPermissions ==
+正在檢查權限...
+
+== CheckinProgressUploadingFiles ==
+正在上傳 {0} 個檔桁E
+== CheckinProgressUploadingFileData ==
+正在封E��桁E{0} ({1}) 上傳至儲存庫
+
+== CheckinProgressOf ==
+/
+
+== ToggleDetails ==
+刁E��詳細賁E��
+
+== ShowDetails ==
+顯示詳細賁E��
+
+== ToggleDetailsButtonTooltip ==
+隱藁E顯示詳細賁E��區埁E
+== NoDiffToolDefined ==
+用戶端設定檔案中沒有定義皁E��異比對工具
+
+== FileHistory ==
+檔案歷史記錄
+
+== OpenButton ==
+開啟
+
+== ApplyAttributesButton ==
+套用屬性...
+
+== ApplyAttribute ==
+封E��性套用至所選取物件
+
+== ApplyAttributeExplanation ==
+選取要在 [屬性] 下拉式渁E��中套用皁E��性類型�E�[值] 欁E��可供您從下拉式渁E��中選擁E��有值�E��E是輸入一個新值、E
+== AttributeValueLabel ==
+值:
+
+== LoadingAttributes ==
+正在載�E屬性...
+
+== LoadingAttributeValues ==
+正在載�E屬性值...
+
+== SelectAttribute ==
+選取屬性
+
+== SelectAttributeValue ==
+輸入屬性值
+
+== ApplyingAttribute ==
+正在套用屬性...
+
+== SettingAttributeValue ==
+正在設定新值...
+
+== DeletingAttribute ==
+正在刪除屬性...
+
+== AnnotateDays ==
+天
+
+== AnnotateLocalRevision ==
+本橁E
+== AnnotateAuthorField ==
+作老E
+
+== AnnotateDateField ==
+日朁E
+
+== AnnotateBranchField ==
+刁E��:
+
+== AnnotateChangesetField ==
+變更雁E
+
+== AnnotateChangedDuringMerge ==
+已在合併期間變更:
+
+== CreateAttribute ==
+建立新屬性
+
+== CreateAttributeExplanation ==
+鍵入新屬性皁E��稱。這個名稱封E�� '{0}' 建立、E
+== AttributeNameLabel ==
+屬性名稱:
+
+== AttributeCommentLabel ==
+註解:
+
+== AttributeHelpLabel ==
+使用下�E格弁E'default: value1, "value two", ..., valueN' 新增行，定義此屬性皁E��設值、E
+== CreatingAttribute ==
+正在建立屬性 ...
+
+== AttributeNameAlreadyExists ==
+屬性 {0} 已存在 ({1})
+
+== MergeToPendingFileConflicts ==
+有暫止皁E��案衝突E��忁E���E解決才�E處理合併目標、E
+== CommentsDialogTitle ==
+註解
+
+== CommentsDialogExplanation ==
+輸入合併目標簽入作業皁E��解:
+
+== BranchMergeTo ==
+伺服器端合併  E從�E支 {0} 至刁E�� {1}
+
+== LabelMergeTo ==
+伺服器端合併  E從標籤 {0} 至刁E�� {1}
+
+== ChangesetMergeTo ==
+伺服器端合併  E從變更雁E{0} 至刁E�� {1}
+
+== CheckinMergeTo ==
+簽入合併�E�E
+== MergeBranch ==
+從�E支 {0} 合併
+
+== ChangesetIntervalCherryPick ==
+從變更雁E��隁E(cs:{0} - cs:{1}) 揀選
+
+== BranchCherryPick ==
+從�E支 {0} 揀選
+
+== ChangesetCherryPick ==
+從變更雁Ecs:{0} 揀選
+
+== LabelMerge ==
+從標籤 {0} 合併
+
+== CherrypickSubtractiveMerge ==
+從變更雁Ecs:{0} 削減合併
+
+== IntervalCherrypickSubtractiveMerge ==
+從變更雁E��隔削減合併 (征Ecs:{0} 到 cs:{1})
+
+== ChangesetMerge ==
+從變更雁Ecs:{0} 合併
+
+== SwitchBranchButton ==
+刁E��刁E��...
+
+== PleaseTypeAPath ==
+請輸入路征E
+== Copy ==
+褁E��
+
+== AnnotateOptions ==
+標註選頁E
+== AnnotateDiffBranchMenuItem ==
+差異比對�E支 {0}
+
+== AnnotateDiffChangesetMenuItem ==
+差異比對變更雁E{0}
+
+== AnnotateParentRevisionMenuItem ==
+標註上層修訁E
+== AnnotateParentChangesetMenuItem ==
+進行這些變更之前標註 (cs:{0} 皁E��層)
+
+== AnnotateShowDate ==
+顯示已修改日朁E
+== AnnotateShowChangeset ==
+顯示變更雁E
+== AnnotateShowBranch ==
+顯示刁E��
+
+== AnnotateShowAuthor ==
+顯示作老E
+== AnnotateShowLineAge ==
+顯示行齡
+
+== AnnotateShowRevInMerge ==
+顯示此行是否在合併中變更
+
+== AnnotateDisplayShortBranchNames ==
+顯示短刁E��名稱
+
+== AnnotateDisplayFullBranchNames ==
+顯示完整刁E��名稱
+
+== Shelve ==
+擱置
+
+== AnnotateDialogTitle ==
+標註
+
+== AnnotateCantFindRevisionAtChangeset ==
+找不到變更雁Ecs:{0} 皁E��訁E
+== AnnotateNoPreviousRevision ==
+此頁E��沒有先前版本、E
+== AnnotateCantRunOnBinaryFiles ==
+二進位檔案無法標註。如果檔案實際為純文字，您可以從工作區瀏覽器皁E�E容功�E表變更其修訂類型�E��E強制其使用 filetypes.conf 設定檔、E
+== ChangesetsDynamicViewTitle ==
+變更雁E{0}
+
+== UserProfileServerLabel ==
+伺服器:
+
+== UserProfileServerProfileNotFound ==
+找不到伺服器 '{0}' 皁E��線設定檔，請設定此設定檔、E
+== UserProfileWrongAuthMode ==
+使用老E��定檔只能使用 LDAP 或使用老E寁E��驗證進行設定、E
+== UserProfileCloudServer ==
+The user profile can't be configured for cloud servers.
+
+== LoadingUserProfile ==
+正在載�E使用老E��定檁E..
+
+== NoProfileToShow ==
+沒有可顯示皁E��定義設定檁E
+== SavingUserProfile ==
+正在儲存使用老E��定檁E..
+
+== EnterValidEmailAddress ==
+請輸入有效皁E��子郵件地址、E
+== EnterValidIntValue ==
+請輸入有效皁E��數值、E
+== UserProfileLoadError ==
+無法征E{0} 擷取設定檔。詳細賁E��:{1}
+
+== UserProfileSaveError ==
+無法儲孁E{0} 皁E��定檔。詳細賁E��:{1}
+
+== PendingChangesOptionsDialogTitle ==
+暫止皁E��更 - 選頁E
+== PendingChangesWhatToFindTab ==
+尋找頁E��
+
+== PendingChangesWhatToShowTab ==
+顯示頁E��
+
+== PendingChangesMoveDetectionTab ==
+移動�E測
+
+== PendingChangesWhatToFindDialogTitle ==
+設定如何在工作區中尋找變更
+
+== PendingChangesWhatToFindDialogExplanation ==
+您可以微調 Unity VCS 如何在磁碟上尋找變更�E�以及要跳過哪些�E容
+
+== PendingChangesWhatToShowDialogTitle ==
+設定要E��示皁E��更類型
+
+== PendingChangesWhatToShowDialogExplanation ==
+從�E動重新整琁E��決定您是否要查看私人檔案、忽略渁E��及�E他頁E��
+
+== PendingChangesMoveDetectionDialogTitle ==
+設宁EUnity VCS 如何在您皁E��作區中尋找移動的檔案�E目錁E
+== PendingChangesMoveDetectionDialogExplanation ==
+這樣可以偵測您在磁碟上所移動�E重新命名的檔案�E目錁E
+== PendingChangesFilesystemWatcherEnabled ==
+檔案系統監看器已啟用
+
+== PendingChangesFilesystemWatcherDisabled ==
+檔案系統監看器已停用
+
+== PendingChangesFilesystemWatcherEnabledExplanationUnityVCS ==
+Unity Version Control 朁E��看進行變更皁E��作區�E�加快作業速度。這會免除進行查核目錁E��構的忁E��性�E�不過移動比對仍可能很耗時、E
+== PendingChangesFilesystemWatcherDisabledExplanationUnityVCS ==
+這個情況並不正常�E�並可能朁E��響效�E。Unity Version Control 朁E��用 Windows API 監看進行變更皁E��作區。使用這種方法時�E�不需要查核目錁E��構。如果停用這個設定，作業可能變得更慢。請�E絡支援部門以取得協助�E�除非刻意在 client.conf 中停用這個設定、E[HELP_URL|{0}]]
+
+== PendingChangesShowCheckouts ==
+顯示簽出
+
+== PendingChangesShowCheckoutsExplanation ==
+顯示您已在 Unity VCS 明確簽出皁E��案，以及您使用 Unity VCS GUI 或命令列所移動的檔案；最後，還有進行中皁E��併所涉及皁E��案、E簽出顯示速度趁E���E�因為這些�E容已列�E渁E���E�不需要查核目錁E��構侁E��行尋找、E秘訣:對於大小趁E�� 800k 個檔案的工作區�E�只使用簽出侁E��快作業速度可能是很合琁E��做法。使用檔案鎖定時�E�也需要用到簽出、E
+== PendingChangesFindChanged ==
+在工作區中尋找變更檔桁E
+== PendingChangesFindChangedExplanation ==
+查核工作區目錁E��構侁E��找變更皁E��桁E(時間戳記已變更)、E
+== PendingChangesCheckFileContent ==
+檢查內容以判定檔案確實已變更�E�而非僁E��時間戳記變更
+
+== PendingChangesCheckFileContentExplanation ==
+如果檔案的時間戳記經過修改�E�則搭配�E前戳記計算�E雜湊，�E封E�E設為已變更。這對於儲存檔案佁E��執行任何變更皁E��用程式很有用處。警呁E「暫止皁E��更」速度可能因此輁E�E�E�因為其需要對檔案進行讀取及雜湊處琁E��E
+== PendingChangesAutoRefresh ==
+自動重新整琁E
+== PendingChangesAutoRefreshExplanation ==
+可讁EUnity VCS 視需要E��新整琁E��止皁E��更渁E���E�避免手動重新整琁E��E
+== PendingChangesGroupInChangeLists ==
+刁E��E��變更渁E��」中皁E��更
+
+== PendingChangesGroupInChangeListsExplanation ==
+Unity VCS 可封E��作區中皁E��更刁E��E��使用老E��立的渁E��中。如果您想念之前皁E��本控制功�E�E�這很有用、E
+== PendingChangesShowPrivateFiles ==
+顯示私人檔桁E
+== PendingChangesShowPrivateFilesExplanation ==
+列�E不受原始檔控制皁E��案。這些檔案可能是最近新增的檔案，佁E��時候是工具產生而您要忽略皁E�E容、E新增�E「忽略渁E��」可能是比輁E��當皁E��頁E、E
+== PendingChangesAlwaysSelectPrivateFiles ==
+始終選取私人檔桁E
+== PendingChangesAlwaysSelectPrivateFilesExplanation ==
+這樣一侁E��您封E��會在簽入時忘記新檔案。不過您忁E��有良好皁Eignore.conf�E�避免封E��時檔案新增�E版本控制、E
+== PendingChangesShowIgnoredFiles ==
+顯示忽略檔桁E
+== PendingChangesShowIgnoredFilesExplanation ==
+顯示已於 ignore.conf 新增而予以忽略皁E��案、E
+== PendingChangesShowHiddenFiles ==
+顯示隱藏檔桁E
+== PendingChangesShowHiddenFilesExplanation ==
+顯示已於 hidden_changes.conf 新增而予以隱藏的檔案、E
+== PendingChangesShowDeletedFiles ==
+顯示已刪除皁E��案和目錁E
+== PendingChangesShowDeletedFilesExplanation ==
+顯示由您在不受 Unity VCS 控制惁E��下，從工作區中手動刪除皁E��案、E不使用 GUI 或命令�E�而是直接從磁碟上刪除)、E
+== PendingChangesMoveDetectionExplanation ==
+您可以通知 Unity VCS�E�您已使用「cm mv」移動檔案，�E征EGUI 戁EIDE 整合移動檔案。這個方法並不需要「�E測」。不過�E�如果您直接在磁碟上移動檔案，Unity VCS 可能仍會偵測此作業。這個情況也適用於目錁E��E
+== PendingChangesFindMovedFiles ==
+尋找已移動和已重新命名的檔案和目錁E
+== PendingChangesFindMovedFilesExplanation ==
+查核工作區以尋找可能皁E��動。例如，如果您封Efoo.c 重新命名�E bar.c�E�Unity VCS 封E��尋找已新增的 bar.c、已刪除皁Efoo.c�E�接著�E封E�E試比對這�E老E��如果您有大量私人檔案，作業速度可能朁E���E、E
+== PendingChangesMoveDetectionFineTune ==
+您可以微調「尋找移動」的運作方式！E
+== PendingChangesMatchBinarySameExtension ==
+僁E��二進位檔案有相同副檔名時進行檔案比封E
+== PendingChangesMatchBinarySameExtensionExplanation ==
+不�E試比封E.png 舁E.jpg。佁E��宁E��會尋找 .doc 重新命名為 .docx 皁E��案、E
+== PendingChangesMatchTextSameExtension ==
+僁E��純文字檔案有相同副檔名時進行檔案比封E
+== PendingChangesMatchTextSameExtensionExplanation ==
+不�E試比封E.cs 舁E.c。這個方法可在某些情況下派上用場、E
+== PendingChangesSimilarityPercentage ==
+相似性百刁E��E
+== PendingChangesSimilarityPercentageExplanation ==
+定義兩個檔案在比輁E��忁E��達到皁E��相似性程度」，才能偵測為「已移動」�E「已重新命名」。例如，如果封Efoo.c 移動到 bar.c�E�並於稍後進行修改�E�E 封E��義這�E個檔案忁E��達到多少相似性�E�Unity VCS 才會封E�E視為相同檔案、E這個情況也適用於目錁E��目錁E��構忁E��達到多少相似性�E�相對於目錁E��頁E��數有多少個已移動下層頁E��、E處理二進位檔案時�E�E 表示允許皁E��小差異、E
+== PendingChangesEnableNTFSJournal ==
+啟用使用 NTFS 日誌進行精確追蹤
+
+== PendingChangesEnableNTFSJournalExplanation ==
+使用 NTFS 日誌，在 GUI 已開啟惁E��下�E測已移動的檔案�E目錁E��這種方法趁E��精確�E�而且沒有「可能性」�E「啟發性」、ETFS 知道檔案�E目錁E��移動時間、E
+不過�E�這個做法有個缺點。如果專案重構時是使用像是 Visual Studio 等工具�E�使用這個功能就不安�E。原因在於 VS 不會直接封Efoo.c 移動到 src/bar.c�E�而是建立新皁Esrc/bar.c�E�接著褁E��內容�E�然後刪除 foo.c。因此無法從檔案系統進行追蹤、E
+如果打算使用 Windows 檔案總管或命令列進行大規模重構，這個功能封E��流暢運作、E
+== PendingChangesChangeTrackerServiceNotRunning ==
+Unity VCS 變更追蹤器服務不在執行中
+
+== PendingChangesChangeTrackerServiceNotRunningExplanation ==
+無法�E Unity VCS 變更追蹤器服務通訊。確定�E已安裝及執行中、E
+== PendingChangesINotifyEnabled ==
+inotify 變更監看器已啟用
+
+== PendingChangesINotifyDisabled ==
+inotify 變更監看器已停用
+
+== PendingChangesINotifyEnabledExplanation ==
+Unity VCS 朁E��看進行變更皁E��作區�E�加快作業速度。這會免除進行查核目錁E��構的忁E��性�E�不過移動比對仍可能很耗時。Unity VCS 朁E��用 inotify 功�E�E�而且需要一些調整�E�才能運作正常。檢查:{0}
+
+== PendingChangesINotifyDisabledExplanation ==
+當可以利用 inotify 為主皁E�E測系統功�E時，暫止皁E��更效�E就朁E��幁E��喁E��請查看下�E持E��進行啟用:{0}�E�並重新啟動 GUI
+
+== ProjectSettingsGeneral ==
+General
+
+== ProjectSettingsFileChange ==
+File Change Settings
+
+== ProjectSettingsFileVisibility ==
+File Visibility Settings
+
+== ProjectSettingsMoveAndRename ==
+File Move and Rename Detection
+
+== MergeToMergeNeededExplanation ==
+合併目標作業執行時�E�合併目標作業目皁E��中隨即新建變更雁E��並接著建立一個以上的前端。執行新皁E��併 (或合併目樁E 作業時，請老E�E整合這些前端。受影響皁E�E支:
+
+== MergeToMergeNeededBranch ==
+{0}@{1}@{2} (掛輁E'{3}')
+
+== MergeToNeededQuestion ==
+刁E�� {0}@{1}@{2} (掛輁E'{3}') 具有多個前端�E�因為新變更雁E��在合併目標作業期間建立。您是否要立即整合執行�E他合併目標作業皁E��端?
+
+== DontShowItAgain ==
+亁E���E�不要�E顯示
+
+== LearnMore ==
+深入瞭解
+
+== HelpActionNotFound ==
+很抱歉，�E們忘記加入這個動佁E:(
+
+== RemovedLocallyStatus ==
+在本機移除
+
+== RemovedStatus ==
+已移除
+
+== MovedLocallyStatus ==
+在本機移勁E
+== MovedStatus ==
+已移勁E
+== AddedStatus ==
+已新墁E
+== IgnoredStatus ==
+忽略渁E��
+
+== PrivateStatus ==
+私人
+
+== ReplacedStatus ==
+已取代
+
+== CopiedStatus ==
+已褁E�� (新)
+
+== CheckedOutStatus ==
+已簽出
+
+== ChangedStatus ==
+已變更
+
+== HiddenChangedStatus ==
+隱藏已變更
+
+== UnsupportedImageFormat ==
+不受支援皁E��像格弁E
+== ShowPropertiesButton ==
+顯示特性
+
+== PreviewConfigAlreadyExist ==
+此名稱存在另一個設定，請選擁E�E他名稱
+
+== UserDefinedPreview ==
+使用老E��義皁E��具
+
+== ConfirmDeleteDiffTool ==
+您是否要刪除這個差異比對工具設宁E
+
+== ConfirmDeleteMergeTool ==
+您是否要刪除這個合併工具設宁E
+
+== CloudEditionConfigInsertValidEmail ==
+輸入有效皁E��子郵件地址或使用老E��稱
+
+== CloudEditionConfigInsertValidPassword ==
+輸入有效寁E��
+
+== CloudEditionConfigurationWelcome ==
+歡迎使用 Cloud Edition!
+
+== CloudEditionConfigurationExplanation ==
+請輸入您用於連線�E Unity VCS Cloud 皁E��用老E��稱舁E��E�� (舁Eplasticscm.com 相吁E。這樣一侁E��當褁E��至 Cloud 時，您封E��會再次收到提示、E
+== CloudEditionConfigurationExtraExplanation ==
+這也是您每次簽入時用於識別皁E��用老E��稱�E�因此�E�請謹慎地選擁E��E
+== CloudEditionConfigCheckingCredentials ==
+正在檢查憑譁E..
+
+== CloudEditionConfigEmail ==
+使用老E��稱 (通常是您皁Eplasticscm.com 電子郵件)
+
+== CloudEditionConfigPassword ==
+寁E��
+
+== CloudEditionConfigCheckCredentials ==
+檢查憑譁E
+== SelectFieldsMergeDiffOptions ==
+填入所有合併/差異比對選頁E��E��E
+== SelectFieldsMergeDiffOptionsCaption ==
+填入所有欁E��E
+== EOLMethod ==
+忽略 EOL
+
+== WhitespacesMethod ==
+忽略空格
+
+== EOLWhitespacesMethod ==
+忽略 EOL 和空格
+
+== NoneMethod ==
+辨識�E部
+
+== DiffVariables ==
+叫用外部差異比對工具時，可以使用下�E命令列參數、E您可選擁E��定所持E��檔案中是否匁E��要比輁E��修訂�E容、E
+@sourcefile:內容封E��示於左側面板皁E��案完整路征E@destinationfile:內容封E��示於右側面板皁E��案完整路征E
+@sourcesymbolic:封E��示於控制面板皁E��左側檔案」字串
+@destinationsymbolic:封E��示於控制面板皁E��右側檔案」字串
+
+@sourcehash:征E@leftrev 檔案�E容計算的 MD5 字串
+@destinationhash:征E@rightrev 檔案�E容計算的 MD5 字串
+
+@filetype:MIME 類型�E�用於語法�E目提示
+@comparationmethod:使用皁E��輁E��況E@fileencoding:未偵測到編碼時，要使用皁E��設檔案編碼
+
+== NoDiffType ==
+請指定由此差異比對工具處理皁E��案類型、E
+== NoDiffTool ==
+為此差異比對工具持E��命令列、E
+== DiffToolError ==
+差異比對工具錯誤
+
+== DiffNoExt ==
+沒有為差異比對工具持E��後綴、E
+== NoTxtDiff ==
+沒有為斁E��檔案指定的差異比對工具、E
+== NoBinDiff ==
+沒有為二進位檔案指定的差異比對工具、E
+== NoDiffForExt ==
+沒有為 {0} 持E��的差異比對工具、E
+== DiffToolsError ==
+差異比對工具錯誤
+
+== NoDiscoveredServers ==
+找不到伺服器、E
+== DownloadPreviewSoftware ==
+您需要安裁E[[{0}|{1}]]�E�以透過此提供老E��生預覽
+
+== ExecutableOpenFileDialogFilterWin ==
+可執行檁E(*.exe; *.bat;)|*.exe; *.bat|所有檔桁E(*.*)|*.*
+
+== ExecutableOpenFileDialogFilterNoWin ==
+所有檔桁E(*.*)|*.*
+
+== ValidatePreviewTypeName ==
+請鍵入名稱
+
+== ValidatePreviewAddExtension ==
+請新增�E少一個支援皁E��檔名
+
+== NullRefText ==
+處理要求時發生錯誤、E
+== PathTooLong ==
+路徑太長
+
+== ServerNullRefText ==
+伺服器曾發生未預期皁E��誤。如需詳細賁E��，請檢查伺服器日誌、E
+== MsgInformative ==
+賁E��E
+== MsgWarning ==
+警呁E
+== MsgError ==
+錯誤
+
+== MergeVariables ==
+使用命令列叫用外部合併工具時，可使用下�E叁E��做為引數:
+
+@sourcefile:目皁E��合併檔案的完整路征E@destinationfile:目皁E��合併檔案的路征E@basefile:共同上階合併檔案的路征E@output:合併結果檔案的路征E@sourcesymbolic:侁E��貢獻老E��符號名稱
+@destinationsymbolic:目皁E��貢獻老E��符號名稱
+@basesymbolic:常見上階貢獻老E��符號名稱
+@sourcehash:從侁E��檔案�E容計算的 MD5 字串
+@destinationhash:從目皁E��檔案�E容計算的 MD5 字串
+@basehash:從常用上階檔案�E容計算的 MD5 字串
+@filetype:用於語法�E目提示皁EMIME 類型
+@comparationmethod:使用皁E��輁E��況E@fileencoding:未偵測到編碼時，要使用皁E��設檔案編碼
+@resultencoding:結果檔案編碼 (選叁ENONE 晁E-> 封E��貢獻老E��碼計箁E、E@mergetype:使用皁E��併類型
+@progress:表示目前作業皁E��度字串�E�例如，「正在合併檔桁E3/10、E@extrainfofile:匁E��目前合併相關額外賁E��的檔案路征E
+== NoMergeType ==
+請指定由此合併工具處理皁E��案類型、E
+== NoMergeTool ==
+為此合併工具持E��命令列、E
+== MergeToolError ==
+合併工具錯誤
+
+== MergeNoExt ==
+沒有為合併工具持E��的後綴、E
+== NoTxtMerge ==
+沒有為合併工具持E��的後綴、E
+== NoBinMerge ==
+沒有為二進位檔案指定的合併工具、E
+== NoMergeForExt ==
+沒有為 {0} 持E��的合併工具、E
+== MergeToolsError ==
+合併工具錯誤
+
+== ConfirmDeletePreviewProvider ==
+您確定要刪除選取的預覽工具?
+
+== CreateNewProfileTitle ==
+新增新設定檔以連線�E伺服器
+
+== EditProfileTitle ==
+編輯現有伺服器連線設定檁E
+== ProfileNameInputLabel ==
+請為設定檔指定名稱
+
+== ProfileConnectionTypeLabel ==
+選取連線類型
+
+== ProfileConnOnDemand ==
+隨選
+
+== ProfileConnOnDemandTooltip ==
+只有在連線�E已建立的預存伺服器時，才朁E��用此設定檔、E
+== ProfileConnAuto ==
+自勁E
+== ProfileConnAutoTooltip ==
+預存伺服器封E��示在儲存庫檢視渁E��中。對於一律可連線的伺服器�E�請使用這些選頁E��E
+== ProfileDialogExplanation ==
+連線設定檔可讓您儲存遠端伺服器驗證參數、E
+== ProfileNameEmpty ==
+設定檔名稱不可為空白、E
+== ProfileNameAlreadyExists ==
+設定檔名稱已存在
+
+== DeleteProfileConfirmation ==
+您即封E��除選取的設定檔。是否要繼纁E
+
+== DeleteProfileCaption ==
+刪除設定檁E
+== NotValidProxyServer ==
+持E��的伺服器 {0} 不是有效皁EProxy 伺服器、E
+== ConnectedOk ==
+連接確宁E
+== ConfigurationUserNameInfo ==
+封E��用下�E使用老E��稱:
+
+== ConfigurationCredentialsInfo ==
+設定您皁E�E譁E
+== PlasticConfiguration ==
+Unity DevOps Version Control 設宁E
+== ConfigurationServerInfo ==
+輸入您皁EUnity VCS 伺服器名稱 (戁EIP 位址) 和連接埠。您可以使用 [掁E��網路] 以在您皁E��路上尋找可用皁EUnity VCS 伺服器
+
+== ConfigureProxy ==
+使用 Proxy 伺服器
+
+== SwitchModeConfirmationDialogTitle ==
+刁E��模式確誁E
+== SwitchModeConfirmationDialogExplanation ==
+您目前在 {0} 模式。您確定要�E換�E {1} 模弁E
+
+在這裡深入瞭解 Gluon:{2}
+
+== DeveloperMode ==
+開發老E
+== GluonMode ==
+Gluon
+
+== ReloadButton ==
+重新載�E
+
+== SearchTooltip ==
+搜封E
+== CannotLaunchInProgressMergeFromNotRootMountPoint ==
+無法繼續進行這個合併。進行中合併是在 Xlink 連結的儲存庫中進行。只有當進行中合併是在根目錁E��作區皁E��存庫中進行時�E�才能使用這個選頁E��請以手動方式啟動合併以繼續進行、E
+== OneVersionBehind ==
+使用皁E��本比此版本邁E�E 1 牁E
+== TwoOrMoreVersionsBehind ==
+使用皁E��本比此版本邁E�E {0} 牁E
+== GitSyncAllRefsRejected ==
+所有的傳送參老E(刁E��或標訁E 已遭伺服器拒絕，因此未推送任何頁E��。檢查 Git 伺服器提供老E��設定，亁E��詳細賁E��。推送失敁E{0}
+
+== LoggingIn ==
+正以 '{0}' 身刁E��入...
+
+== SigningUp ==
+正在建立帳戶 '{0}'...
+
+== GettingDatacenters ==
+正在取得賁E��中忁E..
+
+== EnterOrganizationName ==
+請輸入絁E��名稱
+
+== NoDatacenterSelected ==
+請選取賁E��中忁E
+== CreatingOrganization ==
+正在建立絁E��E'{0}'...
+
+== OrganizationNameTooShort ==
+絁E��名稱忁E���E少三個字�E
+
+== SignUp ==
+註冁E
+== SignUpNeeded ==
+找不到�E�請建竁EUnity VCS 帳戶 {0}
+
+== SignUpButton ==
+註冁E
+== SignIn ==
+登入
+
+== SignInToUnityVCS ==
+登入 Unity VCS
+
+== SignInWithGoogle ==
+使用 Google 登入
+
+== SignInWithUnityID ==
+使用 Unity ID 登入
+
+== SignInWithEmail ==
+使用電子郵件登入
+
+== SignInWith ==
+使用 {0} 登入
+
+== SignInWithSSO ==
+使用 SSO 登入
+
+== ConfirmPassword ==
+確認寁E��:
+
+== SignedUpTitle ==
+您已正確註冁Eplasticscm.com!
+
+== LoggedInTitle ==
+您已正確登入 plasticscm.com!
+
+== CreateFirstOrganizationLabel ==
+現在您可以開始建竁ECloud 絁E��E
+== CreateOtherOrganizationLabel ==
+或您偏好建立�E己皁E��E��E
+== YouBelongToOrganization ==
+您屬於此絁E��E {0}
+
+== YouBelongToSeveralOrganizations ==
+您屬於數個絁E��E
+
+== JoinButton ==
+加入
+
+== CreateOrganizationTitle ==
+建立您皁E��端絁E��E
+== OrganizationName ==
+絁E��名稱:
+
+== Datacenter ==
+賁E��中忁E
+
+== DatacenterExplanation ==
+已選取最靠近的位置 :)
+
+== EncryptionCheckButton ==
+加寁E��送到 Unity VCS Cloud 皁E��有賁E��
+
+== EncryptionCheckButtonExplanation ==
+您可以強制所有傳送到 Unity VCS Cloud 皁E��E��忁E��經過加寁E��，才能離開您皁E��腦。這樣一侁E��您就能確定您皁E��E��不會遭到洩漏。如果您選取這個選頁E��所有絁E���E員封E��E���E用相同的祕寁E��鑰�E�才能加寁E解寁E��E��、E{0}
+
+== CreatedOrganizationTitle ==
+絁E��已正確建竁E
+== CreatedOrganizationExplanation ==
+絁E��E{0} 已正確建竁E
+== ContinueButton ==
+繼纁E
+== RetryButton ==
+重試
+
+== CloudEditionOrganization ==
+您屬於絁E��E{0}
+
+== SignUpAgreeToShort ==
+按一丁E[註冊] 後，即表示您同意我們的{0}舁E1}、E
+== SignInAgreeToShort ==
+按一丁E[登入] 後，即表示您同意我們的{0}舁E1}、E
+== TermsOfService ==
+服務條款
+
+== PrivacyPolicy ==
+隱私權原剁E
+== Email ==
+電子郵件:
+
+== BackButton ==
+< 上一步
+
+== LastThingTitle ==
+最後一件亁E
+== LastThingExplanation ==
+Unity VCS 共有�E種、E兩種隨時�E可搭配使用、E
+== PlasticForDevelopersTitle ==
+Unity VCS 開發人員牁E
+== PlasticForDevelopersExplanation ==
+傳統垁EUnity VCS GUI�E�適合用於刁E��、合併舁E��送E提取
+
+== PlasticForArtistsTitle ==
+Gluon - Unity VCS 創作老E��
+
+== PlasticForArtistsExplanation ==
+趁E��昁EGUI�E�適合遊戲開發創作老E�E是偏好在簽入後什麼都不用管皁E��
+
+== LaunchButton ==
+啟動
+
+== ReplyButton ==
+回要E
+== CommentButton ==
+註解
+
+== DiscardUnsavedChangesTitle ==
+捨棁E��更
+
+== DiscardUnsavedChangesQuestion ==
+您確定要捨棁E��儲存的變更?
+
+== DiscardButton ==
+捨棁E
+== DeleteCommentQuestion ==
+您確定要刪除這個頁E��?
+
+== CheckingLockRulesProgress ==
+正在檢查頁E��是否可以鎖宁E..
+
+== ConfigLocksNoPermissions ==
+您沒有 configlocks 權限。請要求系統管琁E��授予您對儲存庫 '{0}' 皁E��configlocks」權限�E��E為這個檔案設定鎖定規則、E
+== AddLockRuleAndCheckoutTitle ==
+新增鎖定規則及簽出
+
+== AddLockRuleAndCheckoutMessage ==
+若要E��定檔案，您忁E���E設定鎖定規則、E0}{0}選擁E��面其中一個選頁E��設定簽出時要�E動鎖定哪些檔案、E
+== AddLockRuleRadioGroup ==
+選擁E��定規則或建立�E己皁E��則
+
+== AddLockRuleExtensionOption ==
+鎖定符吁E{0} 皁E��桁E
+== AddLockRuleNameOption ==
+鎖定名稱 '{0}' 皁E��何檔桁E
+== AddLockRuleDirectoryOption ==
+鎖定目錁E��所有檔桁E0}{1}
+
+== AddLockRuleFullPathOption ==
+僁E��定{0}{1}
+
+== AddLockRuleEditOption ==
+讓�E編輯鎖定規則
+
+== AddLockRuleLearnMore ==
+按一下此處以亁E��如何設定鎖定規則
+
+== AddLockRuleLearnMoreUrl ==
+https://www.plasticscm.com/download/help/locking
+
+== AddLockRuleEmptyRuleMessage ==
+鎖定規則不可為空白、E
+== UnsupportedServerOperation ==
+伺服器不支援此作業。請封E��服器十E���E版本 {0} 或更高版本、E
+== KnownServersListRetrievingCloudOrgsProgress ==
+正在擷叁ECloud 絁E��E..
+
+== EditCommentButton ==
+編輯註解
+
+== DiffChangedWithCommentDirty ==
+您已經編輯註解�E�是否想要儲存這些變更?
+
+== ReviewOfChangesetTitle ==
+檢閱變更雁E{0}
+
+== ReviewOfBranchTitle ==
+檢閱刁E�� {0}
+
+== Title ==
+標顁E
+== ReviewStatus ==
+狀慁E
+== ReworkRequired ==
+需要E��偁E
+== UnderReview ==
+正在檢閱
+
+== Reviewed ==
+已檢閱
+
+== Reviewer ==
+檢閱老E
+== ChangeButton ==
+變更
+
+== ReviewCommentsLabel ==
+第 {0} 行的註解
+
+== NoReviewCommentsToShow ==
+在差異比對的右側�E�按一下圖示�E�檢查所持E��行建立的檢閱註解
+
+== NoReviewCommentsForSelectedFile ==
+沒有所選定檔案的檢閱註解
+
+== NoReviewComments ==
+在差異比對的右側�E�按一下、E」符號，建立所持E��行的新註解
+
+== NoReviewCommentsSupportedXlinkedRepo ==
+目前不支援 Xlink 皁E��閱註解
+
+== NoReviewCommentsSupportedDifferentRepos ==
+目前不支援 Xlink 連結檔案的檢閱註解
+
+== NoReviewCommentsSupportedUnsupportedFileType ==
+目前不支援這個檔案類型皁E��閱註解
+
+== DirtyCodeReviewTitleTitle ==
+儲存程式碼檢閱標顁E
+== DirtyCodeReviewTitleQuestion ==
+您已經編輯標題，是否想要儲存這些變更?
+
+== DirtyReviewCommentTitle ==
+儲存檢閱註解
+
+== DirtyReviewCommentQuestion ==
+您已經編輯檢閱註解�E�是否要儲存這些變更?
+
+== DirtyCommentQuestion ==
+您已經編輯註解�E�是否想要儲存這些變更?
+
+== NullRepSpec ==
+遺失計算差異所需皁E��存庫賁E��、E請向支援部門報告此狀況E��以進行修復、E
+== CommentsLabelSingular ==
+註解
+
+== CommentsLabelPlural ==
+註解
+
+== ChangesLabelSingular ==
+變更
+
+== ChangesLabelPlural ==
+變更
+
+== ChangeColumn ==
+已要求變更
+
+== RevisionWithComments ==
+匁E��註解皁E��訁E
+== LastInBranch ==
+刁E��中皁E��後頁E��
+
+== DiffWithHead ==
+對前端進行差異比封E
+== ThisFileHasNewChangesInTheBranch ==
+這個檔案在刁E��中有新變更
+
+== ThisFileHasNewChangesInTheBranchExplanation ==
+您正在對有輸入註解皁E��訂進行差異比對。佁E��有任何新變更。您可以對原始修訂、�E支中皁E��新修訂�E兩老E��皁E��更進行差異比對、E
+== AskQuestionButton ==
+提問
+
+== AskQuestionButtonToolTip ==
+需要�E回答才能核凁E��
+
+== RequestChangeButton ==
+要求變更
+
+== RequestChangeButtonToolTip ==
+需要作老E�E變更內容才�E核凁E��
+
+== CopyCommentId ==
+封E��解 ID 褁E��至剪貼簿
+
+== ChangeStatusDone ==
+完�E
+
+== ChangeStatusPending ==
+暫止中
+
+== ChangeStatusDiscarded ==
+已捨棁E
+== QuestionsLabelSingular ==
+問顁E
+== QuestionsLabelPlural ==
+問顁E
+== QuestionColumn ==
+問顁E
+== AnswerColumn ==
+回筁E
+== ExploreChangesetsPanelWaitingAnimation ==
+正在載�E變更雁E..
+
+== ChangesetReview ==
+變更雁E��閱
+
+== ReviewEntireBranch ==
+檢閱整個�E支
+
+== ReviewChangesetByChangeset ==
+按�E變更雁E��閱
+
+== UpdateStatusTitle ==
+確認狀態更新
+
+== UpdateStatusPendingChangesSingular ==
+您朁E1 個變更征E��用、E
+== UpdateStatusPendingChangesPlural ==
+您朁E{0} 個變更征E��用、E
+== UpdateStatusPendingQuestionsSingular ==
+您朁E1 個問題征E��答、E
+== UpdateStatusPendingQuestionsPlural ==
+您朁E{0} 個問題征E��答、E
+== UpdateStatusPendingChangeAndQuestion ==
+您朁E1 個變更征E��用�E�並朁E1 個問題征E��答、E
+== UpdateStatusPendingChangesAndQuestion ==
+您朁E{0} 個變更征E��用�E�並朁E1 個問題征E��答、E
+== UpdateStatusPendingChangeAndQuestions ==
+您朁E1 個變更征E��用�E�並朁E{0} 個問題征E��答、E
+== UpdateStatusPendingChangesAndQuestions ==
+您朁E{0} 個變更征E��用�E�並朁E{1} 個問題征E��答、E
+== UpdateStatusQuestion ==
+匁E��暫止註解皁E��式碼檢閱不應標記為已檢閱。仍要繼纁E
+
+== SinceOneWeekAgo ==
+1 週之前
+
+== SinceFifteenDaysAgo ==
+15 天之前
+
+== SinceOneMonthAgo ==
+1 個月之前
+
+== SinceThreeMonthsAgo ==
+3 個月之前
+
+== SinceAGivenDate ==
+持E��日朁E
+== CloseChangeRequestedInReview ==
+關閉檢閱中皁E��求變更
+
+== CollapseReviewCommentsTooltip ==
+摺疊檢閱註解
+
+== ExpandReviewCommentsTooltip ==
+展開檢閱註解
+
+== CollapseCommentsSummaryTooltip ==
+摺疊註解摘要E
+== ExpandCommentsSummaryTooltip ==
+展開註解摘要E
+== ReviewCommentsSummaryTitle ==
+檢閱註解摘要E
+== EmptyChangeList ==
+變更渁E��是空皁E
+== EmptyQuestionList ==
+問題渁E��是空皁E
+== MergeFileChangesInConflictCategory ==
+檔案變更發生衝突E��可能需要手動操佁E
+== ChangesWithDirectoryConflictsCategory ==
+變更之間存在目錁E��構衝突E
+== MergeFileChangesInConflictForIncomingViewCategory ==
+要下載的檔案�E您皁E��更存在衝突E
+== MergeFileChangesInConflictRemark ==
+同時在侁E���E目皁E��貢獻老E��皁E��更
+
+== MergeFileChangesInConflictRemarkForIncomingView ==
+需要合併
+
+== MergeChangesMadeInSourceOfMergeCategory ==
+在合併侁E��中所做的變更。沒有衝突E
+== MergeChangesMadeInSourceOfMergeForIncomingViewCategory ==
+只需要更新皁E��桁E
+== MergeMovesToApplyCategory ==
+要套用皁E��勁E
+== MergeMovesToApplyRemark ==
+已在侁E��上移動�E {0}
+
+== MergeMovesToApplyRemarkForIncomingView ==
+封E��用移動�E您皁E��作區
+
+== MergeDeletesToApplyCategory ==
+要套用皁E��除
+
+== MergeDeletesToApplyRemark ==
+已在侁E��上刪除
+
+== MergeDeletesToApplyRemarkForIncomingView ==
+封E��用刪除至您皁E��作區
+
+== MergeNewItemsToDownloadCategory ==
+要下載的新頁E��
+
+== MergeNewItemsToDownloadRemark ==
+已新增於侁E��E
+== MergeNewItemsToDownloadRemarkForIncomingView ==
+封E��用新增�E您皁E��作區
+
+== MergeFileSystemPermissionsChangesToApplyCategory ==
+要套用皁E��案系統權限變更
+
+== MergeFileSystemPermissionsChangesToApplyRemark ==
+檔案系統權限中皁E��更
+
+== MergeFileSystemPermissionsChangesToApplyRemarkForIncomingView ==
+封E��用檔案系統權限變更至您皁E��作區
+
+== MergeFilesToDownloadCaptionSingular ==
+1 個要下載的檔桁E({0})
+
+== MergeFilesToDownloadCaptionPlural ==
+{0} 個要下載的檔桁E({1})
+
+== MergeFilesToDeleteCaptionSingular ==
+1 個要刪除皁E��桁E({0})
+
+== MergeFilesToDeleteCaptionPlural ==
+{0} 個要刪除皁E��桁E({1})
+
+== MergeToEnterCheckinComment ==
+輸入您皁E��入註解
+
+== MergeToEnterCheckinCommentExplanation ==
+為由合併目標所新建皁E��更雁E��入簽入註解、E
+== IncomingChangesTitle ==
+正在從�E支 {0} 傳入變更
+
+== IncomingChangesCannotBeApplied ==
+正在傳入無法套用皁E��更
+
+== ConfirmRecalculateMergeSingular ==
+您已經解決 1 個目錁E��突。是否要E��新計算合併?
+
+== ConfirmRecalculateMergePlural ==
+您已經解決 {0} 個目錁E��突。是否要E��新計算合併?
+
+== ConfirmRecalculateMergeMessage ==
+如果繼續，您封E��失針對解決皁E��突所選皁E��決方案。您之後可以再次選擁E��些解決方案、E
+== RecalculateButton ==
+重新計箁E
+== MergeProgressStatus ==
+已更新 {0} 個檔案，�E {1} 倁E(征E��輁E{2} 個檔案，�E {3} 倁E征E��用 {4} 個作業�E��E {5} 倁E
+
+== MergeProgressDownloadingFile ==
+正在下載檔桁E{0} ({1})
+
+== MergeProgressDownloadingBlock ==
+正在下輁E{0} 個檔案的區塁E({1})
+
+== IncomingChangesAvailableSingular ==
+1 個新變更雁E��用
+
+== IncomingChangesAvailablePlural ==
+{0} 個新變更雁E��用
+
+== IncomingChangesConflictsSingular ==
+1 個新變更雁E- 衝突E
+== IncomingChangesConflictsPlural ==
+{0} 個新變更雁E- 衝突E
+== IncomingChangesAvailableForGluon ==
+有可用皁E��變更
+
+== IncomingChangesConflictsForGluon ==
+新皁E��突變更
+
+== UpdateButton ==
+更新
+
+== ViewButton ==
+檢要E
+== DeleteRepositoryTitle ==
+確認儲存庫刪除
+
+== UndeleteRepositoryTitle ==
+確認取消刪除儲存庫
+
+== DeleteRepositoryWarningText ==
+您即封E��除儲存庫 '{0}'、E
+== DeleteRepositoriesWarningText ==
+您即封E��除下�E儲存庫:
+
+== DeleteRepositoryConfirmText ==
+若要確認，請鍵入儲存庫皁E��稱
+
+== DeleteRepositoriesConfirmText ==
+若要確認刪除�E�請鍵入 '{0}'
+
+== DeleteRepositoryCannotUndo ==
+這個動作無法復原、E
+== DeleteRepositoryConfirmEntry ==
+刪除
+
+== UndeleteRepositoryConfirmText ==
+您即封E��消刪除下�E儲存庫:{0}.您是否要繼纁E
+
+== IncomingChangesMenuItemMergeKeepingSourceChanges ==
+合併保留傳入變更 (前端/侁E��E
+
+== IncomingChangesMenuItemMergeKeepingWorkspaceChanges ==
+合併保留工作區變更 (您皁E目皁E��)
+
+== IncomingChangesMenuItemDiffIncomingChanges ==
+差異比對傳入變更 (前端/侁E��E
+
+== IncomingChangesMenuItemDiffYoursWithIncoming ==
+差異比對您皁E�E傳入 (前端/侁E��E
+
+== IncomingSymbolicName ==
+傳入變更
+
+== WorkingChangesetMissing ==
+工作中皁E��更雁E��失
+
+== WorkingChangesetDeletedTitle ==
+工作中皁E��更雁E��刪除
+
+== WorkingChangesetDeletedMessage ==
+您正在工作中皁E��更雁E��刪除、E
+您皁E��出及本地變更已不�E有效、E
+您是否要移至 [暫止皁E��更] 復原您皁E��更以恢復有效皁E��宁E
+
+== IncomingChangesUpdateTooltip ==
+在此刁E��中有您可以預覽及下載的新變更
+
+== IncomingChangesResolveTooltip ==
+有�E您目前變更存在衝突的檔桁E
+== IncomingChangesWorkingChangesetMissingTooltip ==
+您正在工作中皁E��更雁E��刪除。按一丁E[更新] 按�E回到有效皁E��宁E
+== UndoAllWorkingChangesetDeletedMessage ==
+復原變更時忁E��更新您皁E��作區�E�因為您所使用皁E��更雁E��經刪除、E
+您是否要繼纁E
+
+== PartialUndoWorkingChangesetDeletedMessage ==
+您忁E��復原所有變更�E�因為您所使用皁E��更雁E��經刪除、E
+您是否要復原所有變更及封E��作區更新成有效設宁E
+
+== OutOfDateIncomingChangesView ==
+這個檢視已不�E有效�E�因為您所使用皁E��更雁E��經刪除、E
+您忁E��更新工作區、E
+== Warning ==
+警呁E
+== IncomingChangesViewTitle ==
+傳入變更
+
+== Reason ==
+原因
+
+== LoadingCodeReviews ==
+正在載�E程式碼檢閱...
+
+== ReviewTitleColumn ==
+標顁E
+== ReviewStatusColumn ==
+狀慁E
+== MergingFile ==
+正在合併 {0} 個檔案，�E {1} 倁E{2}
+
+== CodeReviewMenuItemOpen ==
+開啟
+
+== CodeReviewMenuItemDelete ==
+刪除
+
+== DeletingCodeReview ==
+正在刪除標顁E{0} 皁E��式碼檢閱...
+
+== BranchMenuCreateANewCodeReview ==
+新增此刁E��皁E��式碼檢閱...
+
+== ChangesetMenuCreateANewCodeReview ==
+新增此變更雁E��程式碼檢閱...
+
+== CreatingCodeReview ==
+正在建立標顁E{0} 皁E��式碼檢閱...
+
+== ObtainingCodeReviewInfo ==
+正在載�E標顁E{0} 皁E��式碼檢閱...
+
+== UpgradeServerForNewCodeReviewError ==
+您忁E��封E��服器版本十E���E 8.0.16.3691 或更高版本�E�才能使用新版程式碼檢閱系統!
+
+== UpgradeServerTo110168307ForNewCodeReviewError ==
+您忁E��封E��服器版本十E���E 11.0.16.8321 或更高版本�E�才能使用新版程式碼檢閱系統!
+
+== LoadingMembers ==
+正在載�E成員...
+
+== UserChooserDialogTitle ==
+請從下�E渁E��選取使用老E�E群絁E
+
+== SelectUserGroupDialogTitle ==
+Select user or group
+
+== NoUserSelectedErrorMessage ==
+從渁E��中選取使用老E
+== UserNotFoundErrorMessage ==
+找不到名稱 '{0}' 皁E��用老E�E群絁E
+== UserSizeLimitExceededErrorMessage ==
+驗證伺服器已趁E��單一查詢皁E��E��上限。請使用搜尋篩選以擷取輁E��的頁E�� (按一下重新整琁E��鈕以觸發擷叁E、E
+== CreateRepositoryDialogDetailedExplanation ==
+儲存庫中存放特定目錁E��狀結構的整個歷史記錄�E�包括其檔案�E目錁E��所有修訂、修訂標籤、合併連結和其他中繼賁E��、E
+== MergeToMenuItemMergeKeepingDestinationChanges ==
+合併保留目皁E��變更
+
+== MergeToMenuItemPreserveDestinationChanges ==
+保留目皁E��變更
+
+== MergeToMenuItemMergeKeepingSourceChanges ==
+合併保留侁E��變更
+
+== MergeToMenuItemPreserveSourceChanges ==
+保留侁E��變更
+
+== DetailsColumn ==
+詳細賁E��
+
+== AuthorColumn ==
+作老E
+== PrivacyStatementText ==
+數據控管方�E�Unity Technologies ApS、E數據處琁E��皁E��創建您皁E��戶並提供所需皁E��務、E您可以行使Unity 隱私權政策中所述皁E��問、修正、刪除等數據保護權利、E更多賁E��請參閱 {0}、E
+== PrivacyStatement ==
+Unity 隱私權政筁E
+== GitSyncDialogTitle ==
+封EUnity VCS 舁EGit 同步
+
+== GitSyncDialogExplanation ==
+同步處理儲存庫 '{0}'
+
+== GitSyncDialogDetailedExplanation ==
+這封E��同步 Unity VCS 舁EGit 儲存庫之間皁E��需變更雁E
+== SyncButton ==
+同步
+
+== PlasticRepository ==
+Unity VCS 儲存庫:
+
+== GitRepositoryUrl ==
+Git 儲存庫 URL:
+
+== GitRepositoryCannotBeEmpty ==
+儲存庫 URL 欁E��不可為空白、E
+== LoadingStoredGitUrls ==
+正在為儲存庫 '{0}' 載�E已儲存的 Git URL
+
+== SyncStatusPullRepository ==
+征E{1} 提取 "{0}"
+
+== SyncStatusPushRepository ==
+封E"{0}" 推送�E {1}
+
+== SyncStatusSyncRepository ==
+正在同步處理 "{0}" 舁E{1}
+
+== SyncStatusConflict ==
+警呁EGit 舁EUnity VCS 端皁E��已並行修改皁E�E支、E這些衝突在 Unity VCS 中是以子�E支皁E��式處琁E��而且封E��進行合併、E您忁E���E解決這些�E支中皁E��突E��才能再次同步處理、E
+== SyncPhaseUpgradingMappings ==
+正在十E��映封E
+== SyncPhaseReceivingReferences ==
+接收叁E��E
+== SyncPhaseSyncType ==
+正在壓縮物件
+
+== SyncPhaseCompressing ==
+正在壓縮
+
+== SyncPhaseDownloading ==
+正在下輁E
+== SyncPhaseProcessing ==
+正在處理
+
+== SyncPhaseImporting ==
+正在匯入
+
+== SyncPhaseExporting ==
+正在匯出
+
+== SyncPhasePackaging ==
+正在封裁E
+== SyncPhaseUploading ==
+正在傳送E
+== SyncPhaseCompleted ==
+已完�E
+
+== Users ==
+使用老E
+== Groups ==
+群絁E
+== Both ==
+兩老E
+== SelectedUserOrGroup ==
+已選取的使用老E�E群絁E
+
+== User ==
+使用老E
+== Group ==
+群絁E
+== SpecialUser ==
+特殊使用老E
+== SpecialGroup ==
+特殊群絁E
+== AddButton ==
+新墁E..
+
+== RemoveButton ==
+移除
+
+== AllowAll ==
+全部允許
+
+== DenyAll ==
+全部拒絁E
+== RepositoryServerPermissions ==
+儲存庫伺服器權限
+
+== PermissionsFor ==
+{0} 皁E��限
+
+== ConfigureObjectPermissions ==
+設定物件權限
+
+== PermissionsColumn ==
+權限
+
+== AllowedColumn ==
+已允許
+
+== DeniedColumn ==
+已拒絁E
+== SecurityRepserverEntriesCannotBeEmpty ==
+儲存庫伺服器忁E���E備�E對�E少一個有效使用老E�E群絁E��義皁E��限、E請為其中一個對象設定權限�E�並重試、E
+== PermissionsCantRemoveInheritedSeid ==
+無法移除繼承頁E��
+
+== MsgAllowDeny ==
+遭拒的權限封E��換�E許皁E��限
+
+== ChangeOwner ==
+變更...
+
+== UsersAndGroups ==
+使用老E��群絁E
+== PermissionsMenuItem ==
+權限
+
+== Override ==
+置揁E
+== OverrideHelp ==
+可置換權限以略過繼承。標記為已置換，然後設定新值、E
+== DeleteBranchGroup ==
+刪除刁E��群絁E
+== DeleteSelectedBranchGroup ==
+您即封E��除選取的刁E��群絁E��E
+== ContinueQuestion ==
+您是否要繼纁E
+
+== DoNotShowMessageAgain ==
+Do not show this message again
+
+== PathPermissions ==
+路徑權限
+
+== DeleteSecuredPath ==
+刪除路征E
+== DeleteSelectedSecuredPath ==
+您即封E��除選取的路徑、E
+== AllBranches ==
+所有�E支
+
+== NewBranchGroupTitle ==
+選取�E支
+
+== NewBranchGroupExplanation ==
+選取封E��用新路徑權限皁E�E支
+
+== NewBranchGroupLabel ==
+輸入刁E��
+
+== BranchesRadioButton ==
+刁E��:
+
+== NewBranchGroupIdentificationTag ==
+輸入刁E��群絁E��識別標籤:
+
+== NoBranchSelected ==
+未選取任何�E支
+
+== EditBranchGroupLabel ==
+編輯刁E��群絁E
+== EditBranchGroupExplanation ==
+新增�E支至刁E��群絁E�E從�E中移除刁E��
+
+== PathPermissionFormExplanation ==
+設定安�E路徑權限。請注意，這些權限封E�E對應皁E�E支和上層路徑合併、E
+== RetrievingRepositoryServerInfoProgress ==
+正在擷取儲存庫伺服器賁E��E..
+
+== CalculatingPermissionsInfo ==
+正在計算權限賁E��E..
+
+== RetrievingSecuredPathsProgress ==
+正在擷取安�E路征E..
+
+== RetrievingAllSecuredPathsProgress ==
+正在擷取所有安�E路征E..
+
+== NewSecuredPathTitle ==
+建立新安�E路征E
+== NewSecuredPathExplanation ==
+建立新安�E路徑，您可在其中定義路徑權限
+
+== NewSecuredPathLabel ==
+請輸入路征E
+== DefineBranchesCheckBox ==
+在建立路徑後設定�E支
+
+== PartialWorkspaceStripLabel ==
+此工作區處於局部模式、E[UpdateWorkspace|執行更新]] (取得最新版本) 以刁E��至完整模式。此 GUI 無法在局部模式下頁E��運佁E
+== FullWorkspaceStripLabel ==
+此工作區處於完整模式、E[UpdateWorkspace|執行更新]] (取得最新版本) 以刁E��至局部模式。此 GUI 無法在完整模式下頁E��運佁E
+== RemainingProgressMessage ==
+剩餁E
+== DiffLinkButtonTooltip ==
+褁E��連結以共用差異比封E
+== GluonFilePlasticLinkText ==
+取得連絁E- 褁E��此檔案的連結，讓您輕鬁E�E他人刁E��
+
+== OAuthSignInCheckMessage ==
+正在等征E��作階段...
+
+== RetrievingOrgsProgress ==
+正在擷取絁E��E..
+
+== GettingSSOProviders ==
+正在取得絁E��提供老E..
+
+== CompleteSignInOnBrowser ==
+使用您皁E��覽器完�E登入、E
+== Or ==
+戁E
+== OrganizationNameWatermark ==
+您皁E��E��名稱
+
+== SSOSignInTitle ==
+使用單一登入進行登入
+
+== SignInToOrganization ==
+登入 {0}
+
+== NoProvidersForOrganization ==
+持E��的絁E��不�E許使用 SSO 存取
+
+== DontKnowOrganizationName ==
+我不知道絁E��名稱
+
+== KnowOrganizationName ==
+我知道絁E��名稱
+
+== CompanyEmail ==
+公司電子郵件
+
+== SignInWithSingleSignOn ==
+使用單一登入進行登入
+
+== SentEmailStatementText ==
+我們已傳送一封E��子郵件至 {0}�E�當中匁E��您所屬皁E��E��。請檢查電子郵件�E�然後使用您皁E{1} 登入
+
+== OrganizationNameStatementText ==
+絁E��名稱、E
+== SendingEmail ==
+正在傳送E��子郵件...
+
+== EmailNotSent ==
+無法傳送E��子郵件
+
+== FileMerge ==
+File Merge
+
+== KDiff3 ==
+KDiff3
+
+== SemanticMerge ==
+Semantic Merge
+
+== UnitySmartMerge ==
+Unity Smart Merge
+
+== OpenInDesktopApp ==
+Open in Desktop App
+
+== OpenInGluon ==
+Open in Gluon
+
+== ElementNotFound ==
+找不到允E��
+
+== RevisionNotConnected ==
+無法處琁E��未褁E��相關修訁E
+== ChangedMergeFromCs ==
+已在合併侁E���E目皁E��中變更 (征Ecs:{0})
+
+== NotChanged ==
+未變更
+
+== Added ==
+已新墁E
+== Changed ==
+已變更
+
+== MergeFromCs ==
+ 在合併侁E��中 (征Ecs:{0})
+
+== MovedOutScope ==
+征E{0} 移至 {1}
+
+== Renamed ==
+征E{0} 重新命名為 {1}
+
+== MovedDownPosition ==
+向下移勁E{0} 個位置
+
+== MovedUpPosition ==
+向上移勁E{0} 個位置
+
+== And ==
+ 咁E{0}
+
+== ErrorDialogTitle ==
+Error - {0}
+
+== InstallUnityVersionControl ==
+Install Unity Version Control
+
+== CreateAUnityVersionControlWorkspace ==
+ Create a Unity Version Control workspace for this project
+
+== LoginOrSignUpUnityVersionControl ==
+ Login or sign up for a Unity Version Control account
+
+== PrefixUnityVersionControlMenu ==
+Assets/Unity Version Control
+
+== UnityInitialCheckinComment ==
+Add packages and project settings to Unity Version Control.
+
+== UnityVersionControl ==
+Unity Version Control
+
+== PlasticConfigurationTitleUnityVCS ==
+Configure the connection to the Unity VCS server
